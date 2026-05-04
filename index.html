@@ -4,7 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Mishnah Yomis Tracker</title>
+    <script>
+      if (new URLSearchParams(window.location.search).get("mobile") === "1") {
+        document.documentElement.classList.add("force-mobile");
+      }
+    </script>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="mobile-overrides.css">
   </head>
   <body>
     <main class="app-shell">
