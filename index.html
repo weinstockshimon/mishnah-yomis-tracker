@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mishnah Yomis Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="topbar" aria-labelledby="app-title">
+        <div>
+          <p class="eyebrow">Mishnah Yomis</p>
+          <h1 id="app-title">Daily Study Tracker</h1>
+        </div>
+        <div class="today-pill">
+          <span id="todayWeekday">Today</span>
+          <strong id="todayDate">Loading</strong>
+        </div>
+      </section>
+
+      <section class="summary-grid" aria-label="Study summary">
+        <article class="summary-panel primary">
+          <span>Due now</span>
+          <strong id="dueCount">0</strong>
+          <p id="dueDetail" class="summary-detail">Ready to study</p>
+        </article>
+        <article class="summary-panel">
+          <span>Days done</span>
+          <strong id="completedCount">0</strong>
+          <p id="completedDetail" class="summary-detail">of 0</p>
+        </article>
+        <article class="summary-panel">
+          <span>Days to finish</span>
+          <strong id="remainingCount">0</strong>
+          <p id="remainingDetail" class="summary-detail">Whole calendar</p>
+        </article>
+        <article class="summary-panel">
+          <span>Next part</span>
+          <strong id="nextPartCount">0</strong>
+          <p id="nextPartDetail" class="summary-detail">Loading</p>
+        </article>
+      </section>
+
+      <section class="toolbar" aria-label="Tracker controls">
+        <div class="segmented" role="group" aria-label="Task filter">
+          <button class="segment active" type="button" data-filter="due">Due</button>
+          <button class="segment" type="button" data-filter="upcoming">Upcoming</button>
+          <button class="segment" type="button" data-filter="completed">Done</button>
+          <button class="segment" type="button" data-filter="all">All</button>
+        </div>
+      </section>
+
+      <section class="task-list" id="taskList" aria-live="polite"></section>
+
+      <section class="calendar-view" id="calendarView" aria-live="polite">
+        <div class="calendar-layout-toggle" role="group" aria-label="Calendar layout">
+          <button class="layout-button active" type="button" data-calendar-layout="english">English</button>
+          <button class="layout-button" type="button" data-calendar-layout="hebrew">Hebrew</button>
+        </div>
+        <div class="calendar-header">
+          <button class="icon-button" type="button" id="previousMonth" aria-label="Previous month">&lt;</button>
+          <div class="calendar-title-wrap">
+            <h2 id="calendarTitle">Month Year</h2>
+            <button class="today-button" type="button" id="todayButton">Today</button>
+          </div>
+          <button class="icon-button" type="button" id="nextMonth" aria-label="Next month">&gt;</button>
+        </div>
+        <div class="calendar-weekdays" aria-hidden="true">
+          <span>Sun</span>
+          <span>Mon</span>
+          <span>Tue</span>
+          <span>Wed</span>
+          <span>Thu</span>
+          <span>Fri</span>
+          <span>Shabbos</span>
+        </div>
+        <div class="calendar-grid" id="calendarGrid"></div>
+      </section>
+    </main>
+
+    <template id="taskTemplate">
+      <article class="task-card">
+        <label class="check-wrap">
+          <input type="checkbox">
+          <span class="checkmark" aria-hidden="true"></span>
+        </label>
+        <div class="task-main">
+          <div class="task-meta">
+            <span class="status-label"></span>
+            <span class="date-label"></span>
+            <span class="hebrew-date"></span>
+          </div>
+          <div class="study-line">
+            <strong class="tractate" dir="rtl"></strong>
+            <span class="assignment"></span>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
