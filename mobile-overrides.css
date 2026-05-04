@@ -1,0 +1,520 @@
+.calendar-day {
+  position: relative;
+}
+
+.calendar-day .calendar-status,
+.calendar-day .photo-controls.calendar {
+  display: none;
+}
+
+.calendar-holidays {
+  flex: 1;
+  justify-content: flex-end;
+  margin: 0;
+}
+
+.calendar-day > .holiday-list:not(.calendar-holidays) {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  justify-content: flex-end;
+  max-width: calc(100% - 48px);
+  margin: 0;
+}
+
+@media (max-width: 760px) {
+  .app-shell {
+    width: min(100% - 10px, 1120px);
+    padding-top: 6px;
+    padding-bottom: 18px;
+  }
+
+  .topbar,
+  .toolbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .topbar {
+    gap: 4px;
+    padding: 3px 0 5px;
+  }
+
+  h1 {
+    font-size: 1.12rem;
+    line-height: 1;
+  }
+
+  .eyebrow {
+    margin-bottom: 1px;
+    font-size: 0.55rem;
+  }
+
+  .today-pill {
+    min-width: 0;
+    padding: 5px 7px;
+    box-shadow: none;
+    text-align: left;
+  }
+
+  .today-pill span {
+    font-size: 0.6rem;
+  }
+
+  .today-pill strong {
+    margin-top: 1px;
+    font-size: 0.68rem;
+  }
+
+  .summary-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 3px;
+    margin-bottom: 4px;
+  }
+
+  .summary-panel {
+    min-height: 46px;
+    padding: 5px;
+    box-shadow: none;
+  }
+
+  .summary-panel span {
+    font-size: 0.5rem;
+    line-height: 1.1;
+  }
+
+  .summary-panel strong {
+    margin-top: 2px;
+    font-size: 0.86rem;
+  }
+
+  .summary-detail {
+    margin-top: 2px;
+    font-size: 0.45rem;
+    line-height: 1.1;
+  }
+
+  .toolbar {
+    margin: 5px 0;
+  }
+
+  .segmented {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 4px;
+  }
+
+  .segment {
+    min-width: 0;
+    min-height: 26px;
+    padding: 0 3px;
+    font-size: 0.62rem;
+  }
+
+  .calendar-view {
+    margin-top: 7px;
+    overflow-x: visible;
+    padding-bottom: 8px;
+  }
+
+  .calendar-layout-toggle {
+    min-width: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 4px;
+    margin: 0 0 5px;
+  }
+
+  .layout-button {
+    min-width: 0;
+    min-height: 32px;
+    font-size: 0.76rem;
+  }
+
+  .calendar-header {
+    min-width: 0;
+    grid-template-columns: 32px minmax(0, 1fr) 32px;
+    gap: 5px;
+    margin: 5px 0 6px;
+  }
+
+  .calendar-title-wrap {
+    gap: 6px;
+  }
+
+  .calendar-header h2 {
+    font-size: 0.95rem;
+  }
+
+  .today-button {
+    min-height: 26px;
+    padding: 0 8px;
+    font-size: 0.7rem;
+  }
+
+  .icon-button {
+    width: 32px;
+    min-height: 30px;
+    font-size: 1.15rem;
+  }
+
+  .calendar-weekdays,
+  .calendar-grid {
+    min-width: 0;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    gap: 2px;
+  }
+
+  .calendar-weekdays {
+    margin-bottom: 3px;
+    font-size: 0.54rem;
+  }
+
+  .calendar-weekdays span {
+    padding: 0;
+    text-align: center;
+  }
+
+  .calendar-day {
+    min-height: 58px;
+    padding: 2px;
+    border-radius: 5px;
+  }
+
+  .calendar-day.no-study {
+    min-height: 42px;
+  }
+
+  .calendar-day-header {
+    gap: 2px;
+    margin-bottom: 3px;
+  }
+
+  .day-number {
+    width: 18px;
+    height: 18px;
+    font-size: 0.58rem;
+  }
+
+  .calendar-day > .holiday-list:not(.calendar-holidays) {
+    top: 2px;
+    right: 2px;
+    max-width: calc(100% - 22px);
+  }
+
+  .holiday-list {
+    gap: 1px;
+    margin: 0;
+  }
+
+  .calendar-view.hebrew-layout .holiday-list {
+    margin: 0;
+  }
+
+  .holiday-chip {
+    min-height: 12px;
+    padding: 1px 3px;
+    border-radius: 4px;
+    font-size: 0.43rem;
+    line-height: 1;
+  }
+
+  .calendar-study {
+    grid-template-columns: 16px minmax(0, 1fr);
+    gap: 2px;
+  }
+
+  .calendar-check {
+    width: 16px;
+    height: 16px;
+  }
+
+  .calendar-checkmark {
+    width: 14px;
+    height: 14px;
+    border-width: 1px;
+    border-radius: 4px;
+  }
+
+  .calendar-checkmark::after {
+    width: 4px;
+    height: 8px;
+    margin-top: 1px;
+    border-width: 0 1px 1px 0;
+  }
+
+  .calendar-details {
+    gap: 1px;
+    font-size: 0.38rem;
+  }
+
+  .calendar-details strong {
+    font-size: 0.46rem;
+    line-height: 1;
+  }
+
+  .calendar-hebrew,
+  .calendar-assignment {
+    font-size: 0.36rem;
+    line-height: 1.05;
+  }
+}
+
+@media (max-width: 440px) {
+  .app-shell {
+    width: min(100% - 8px, 1120px);
+  }
+
+  .summary-panel {
+    min-height: 44px;
+    padding: 4px;
+  }
+
+  .summary-panel span {
+    font-size: 0.48rem;
+  }
+
+  .summary-panel strong {
+    font-size: 0.8rem;
+  }
+
+  .summary-detail {
+    font-size: 0.43rem;
+  }
+
+  .calendar-title-wrap {
+    flex-direction: row;
+    gap: 5px;
+  }
+
+  .calendar-header h2 {
+    font-size: 0.86rem;
+  }
+
+  .calendar-day {
+    min-height: 56px;
+  }
+}
+
+.force-mobile .app-shell {
+  width: min(100% - 8px, 390px);
+  padding-top: 6px;
+  padding-bottom: 18px;
+}
+
+.force-mobile .topbar,
+.force-mobile .toolbar {
+  align-items: stretch;
+  flex-direction: column;
+}
+
+.force-mobile .topbar {
+  gap: 4px;
+  padding: 3px 0 5px;
+}
+
+.force-mobile h1 {
+  font-size: 1.12rem;
+}
+
+.force-mobile .eyebrow {
+  margin-bottom: 1px;
+  font-size: 0.55rem;
+}
+
+.force-mobile .today-pill {
+  min-width: 0;
+  padding: 5px 7px;
+  box-shadow: none;
+  text-align: left;
+}
+
+.force-mobile .today-pill span {
+  font-size: 0.6rem;
+}
+
+.force-mobile .today-pill strong {
+  margin-top: 1px;
+  font-size: 0.68rem;
+}
+
+.force-mobile .summary-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 3px;
+  margin-bottom: 4px;
+}
+
+.force-mobile .summary-panel {
+  min-height: 44px;
+  padding: 4px;
+  box-shadow: none;
+}
+
+.force-mobile .summary-panel span {
+  font-size: 0.48rem;
+  line-height: 1.1;
+}
+
+.force-mobile .summary-panel strong {
+  margin-top: 2px;
+  font-size: 0.8rem;
+}
+
+.force-mobile .summary-detail {
+  margin-top: 2px;
+  font-size: 0.43rem;
+  line-height: 1.1;
+}
+
+.force-mobile .toolbar {
+  margin: 5px 0;
+}
+
+.force-mobile .segmented {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 4px;
+}
+
+.force-mobile .segment {
+  min-width: 0;
+  min-height: 26px;
+  padding: 0 3px;
+  font-size: 0.62rem;
+}
+
+.force-mobile .calendar-view {
+  margin-top: 7px;
+  overflow-x: visible;
+}
+
+.force-mobile .calendar-layout-toggle {
+  min-width: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 4px;
+  margin: 0 0 5px;
+}
+
+.force-mobile .layout-button {
+  min-width: 0;
+  min-height: 32px;
+  font-size: 0.76rem;
+}
+
+.force-mobile .calendar-header {
+  min-width: 0;
+  grid-template-columns: 32px minmax(0, 1fr) 32px;
+  gap: 5px;
+  margin: 5px 0 6px;
+}
+
+.force-mobile .calendar-title-wrap {
+  gap: 5px;
+}
+
+.force-mobile .calendar-header h2 {
+  font-size: 0.86rem;
+}
+
+.force-mobile .today-button {
+  min-height: 26px;
+  padding: 0 8px;
+  font-size: 0.7rem;
+}
+
+.force-mobile .icon-button {
+  width: 32px;
+  min-height: 30px;
+  font-size: 1.15rem;
+}
+
+.force-mobile .calendar-weekdays,
+.force-mobile .calendar-grid {
+  min-width: 0;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 2px;
+}
+
+.force-mobile .calendar-weekdays {
+  margin-bottom: 3px;
+  font-size: 0.54rem;
+}
+
+.force-mobile .calendar-weekdays span {
+  padding: 0;
+  text-align: center;
+}
+
+.force-mobile .calendar-day {
+  min-height: 56px;
+  padding: 2px;
+  border-radius: 5px;
+}
+
+.force-mobile .calendar-day-header {
+  gap: 2px;
+  margin-bottom: 3px;
+}
+
+.force-mobile .day-number {
+  width: 18px;
+  height: 18px;
+  font-size: 0.58rem;
+}
+
+.force-mobile .calendar-day > .holiday-list:not(.calendar-holidays) {
+  top: 2px;
+  right: 2px;
+  max-width: calc(100% - 22px);
+}
+
+.force-mobile .holiday-list {
+  gap: 1px;
+  margin: 0;
+}
+
+.force-mobile .calendar-view.hebrew-layout .holiday-list {
+  margin: 0;
+}
+
+.force-mobile .holiday-chip {
+  min-height: 12px;
+  padding: 1px 3px;
+  border-radius: 4px;
+  font-size: 0.43rem;
+  line-height: 1;
+}
+
+.force-mobile .calendar-study {
+  grid-template-columns: 16px minmax(0, 1fr);
+  gap: 2px;
+}
+
+.force-mobile .calendar-check {
+  width: 16px;
+  height: 16px;
+}
+
+.force-mobile .calendar-checkmark {
+  width: 14px;
+  height: 14px;
+  border-width: 1px;
+  border-radius: 4px;
+}
+
+.force-mobile .calendar-details {
+  gap: 1px;
+  font-size: 0.38rem;
+}
+
+.force-mobile .calendar-details strong {
+  font-size: 0.46rem;
+  line-height: 1;
+}
+
+.force-mobile .calendar-hebrew,
+.force-mobile .calendar-assignment {
+  font-size: 0.36rem;
+  line-height: 1.05;
+}
