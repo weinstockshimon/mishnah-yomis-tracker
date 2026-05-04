@@ -31,6 +31,7 @@
   authScreen.append(authCard);
   document.body.insertBefore(authScreen, appShell);
   syncPanel.classList.add("auth-moved");
+  document.body.classList.add("auth-checking");
 
   if (topbar && todayPill && signOutButton) {
     let topActions = topbar.querySelector(".top-actions");
@@ -45,31 +46,40 @@
 
   function showSignedIn() {
     document.body.classList.add("auth-signed-in");
-    document.body.classList.remove("auth-signed-out");
+    document.body.classList.remove("auth-signed-out", "auth-checking");
     if (signOutButton) signOutButton.hidden = false;
   }
 
   function showSignedOut() {
     document.body.classList.add("auth-signed-out");
-    document.body.classList.remove("auth-signed-in");
+    document.body.classList.remove("auth-signed-in", "auth-checking");
     if (signOutButton) signOutButton.hidden = true;
   }
 
-  showSignedOut();
-
   if (!window.supabase?.createClient) {
+    showSignedOut();
     return;
   }
 
-  const client = window.supabase.createClient(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY);
-
-  client.auth.getSession().then(({ data }) => {
-    if (data.session?.user) {
-      showSignedIn();
-      return;
-    }
-    showSignedOut();
+  const client = window.supabase.createClient(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, {
+    auth: {
+      persistSession: true,
+      autoRefreshToken: true,
+      detectSessionInUrl: true,
+      storage: window.localStorage,
+    },
   });
+
+  client.auth
+    .getSession()
+    .then(({ data }) => {
+      if (data.session?.user) {
+        showSignedIn();
+        return;
+      }
+      showSignedOut();
+    })
+    .catch(() => showSignedOut());
 
   client.auth.onAuthStateChange((_event, session) => {
     if (session?.user) {
