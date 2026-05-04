@@ -130,7 +130,7 @@
 
     try {
       const { blob, takenAt } = await createStampedPhoto(file, item);
-      const fileName = photoFileName(item, takenAt);
+      const fileName = cloudPhotoFileName(item, takenAt);
       const photo = await uploadCloudPhoto(item, blob, fileName, takenAt);
       photoRecords = [photo, ...photoRecords.filter((record) => record.filePath !== photo.filePath)];
       setLatestPhotoForDay(photo);
@@ -271,5 +271,10 @@
       });
       input.click();
     });
+  }
+
+  function cloudPhotoFileName(item, takenAt) {
+    const time = takenAt.slice(11, 19).replace(/:/g, "-");
+    return `${item.isoDate}_${item.id}_${time}.jpg`;
   }
 })();
