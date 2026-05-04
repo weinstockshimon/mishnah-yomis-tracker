@@ -89,6 +89,31 @@
   gap: 6px;
 }
 
+.calendar-day.calendar-selected {
+  min-height: 132px;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(15, 118, 110, 0.16);
+  z-index: 2;
+}
+
+.calendar-selected-panel {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid rgba(29, 68, 54, 0.12);
+}
+
+.calendar-selected-panel .photo-controls {
+  display: flex;
+  gap: 4px;
+  margin: 0;
+}
+
+.calendar-selected-panel .photo-button {
+  min-height: 24px;
+  padding: 0 6px;
+  font-size: 0.62rem;
+}
+
 @media (max-width: 760px) {
   .photo-gallery {
     margin: 6px 0 8px;
@@ -116,5 +141,20 @@
     min-height: 22px;
     padding: 0 5px;
     font-size: 0.55rem;
+  }
+
+  .calendar-day.calendar-selected {
+    min-height: 102px;
+  }
+
+  .calendar-selected-panel {
+    margin-top: 4px;
+    padding-top: 4px;
+  }
+
+  .calendar-selected-panel .photo-button {
+    min-height: 18px;
+    padding: 0 4px;
+    font-size: 0.48rem;
   }
 }
