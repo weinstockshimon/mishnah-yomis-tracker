@@ -15,7 +15,6 @@
   const titleBlock = document.querySelector(".topbar > div:first-child");
   const appTitle = document.querySelector("#app-title");
   const signOutButton = document.querySelector("#signOutButton");
-  const taskList = document.querySelector("#taskList");
 
   if (toolbar) {
     toolbar.remove();
@@ -27,12 +26,6 @@
     appTitle.replaceWith(titleRow);
     titleRow.append(appTitle, signOutButton);
   }
-
-  const gallerySection = ensureGallerySection();
-  const gallery = gallerySection.querySelector("#photoGallery");
-  const refreshButton = gallerySection.querySelector("#refreshPhotosButton");
-
-  refreshButton.addEventListener("click", () => refreshPhotos());
 
   if (signOutButton) {
     signOutButton.addEventListener(
@@ -53,12 +46,6 @@
       true,
     );
   }
-
-  const originalRender = render;
-  render = function renderWithGallery() {
-    originalRender();
-    renderGallery();
-  };
 
   renderPhotoControls = function renderCloudPhotoControls(container, item, variant = "list") {
     const meta = photoIndex.get(item.id);
@@ -117,8 +104,6 @@
     currentUser = data.session?.user || null;
     if (currentUser) {
       refreshPhotos();
-    } else {
-      renderGallery();
     }
   });
 
@@ -129,7 +114,6 @@
     } else {
       photoRecords = [];
       photoIndex = new Map();
-      renderGallery();
     }
   });
 
@@ -191,7 +175,6 @@
 
   async function refreshPhotos() {
     if (!currentUser) {
-      renderGallery();
       return;
     }
 
@@ -202,7 +185,6 @@
       .order("taken_at", { ascending: false });
 
     if (result.error) {
-      gallery.innerHTML = `<div class="empty-state">Could not load photos: ${result.error.message}</div>`;
       return;
     }
 
@@ -211,8 +193,7 @@
     for (const photo of photoRecords) {
       setLatestPhotoForDay(photo);
     }
-    renderGallery();
-    originalRender();
+    render();
   }
 
   function normalizePhoto(record) {
@@ -275,105 +256,6 @@
         }
       })
       .catch(() => image.remove());
-  }
-
-  async function downloadCloudPhoto(photo) {
-    const url = await signedPhotoUrl(photo.filePath);
-    const link = document.createElement("a");
-    link.href = url;
-    link.download = photo.fileName || "study-photo.jpg";
-    link.target = "_blank";
-    document.body.append(link);
-    link.click();
-    link.remove();
-  }
-
-  function renderGallery() {
-    if (!gallery) {
-      return;
-    }
-
-    gallery.replaceChildren();
-
-    if (!currentUser) {
-      gallery.innerHTML = '<div class="empty-state">Sign in to see saved photos.</div>';
-      return;
-    }
-
-    if (!photoRecords.length) {
-      gallery.innerHTML = '<div class="empty-state">No cloud photos yet.</div>';
-      return;
-    }
-
-    const fragment = document.createDocumentFragment();
-    for (const photo of photoRecords) {
-      const item = DATA.items.find((entry) => entry.id === photo.studyDayId);
-      const card = document.createElement("article");
-      card.className = "gallery-card";
-
-      const image = document.createElement("img");
-      image.alt = `Study photo for ${photo.englishDate || item?.englishDate || "study day"}`;
-      loadPhotoImage(image, photo);
-
-      const body = document.createElement("div");
-      body.className = "gallery-card-body";
-
-      const title = document.createElement("strong");
-      title.dir = "rtl";
-      title.textContent = `${photo.tractate || item?.tractate || ""} ${photo.assignment || item?.assignment || ""}`.trim();
-
-      const date = document.createElement("span");
-      date.textContent = `${photo.englishDate || item?.englishDate || ""} · ${photo.hebrewDate || item?.hebrewDate || ""}`;
-
-      const actions = document.createElement("div");
-      actions.className = "gallery-actions";
-
-      const downloadButton = document.createElement("button");
-      downloadButton.className = "small-button";
-      downloadButton.type = "button";
-      downloadButton.textContent = "Download";
-      downloadButton.addEventListener("click", () => downloadCloudPhoto(photo));
-
-      const deleteButton = document.createElement("button");
-      deleteButton.className = "small-button danger";
-      deleteButton.type = "button";
-      deleteButton.textContent = "Delete";
-      deleteButton.addEventListener("click", async () => {
-        if (!window.confirm("Delete this photo from Supabase?")) {
-          return;
-        }
-        await deleteCloudPhoto(photo);
-        render();
-      });
-
-      actions.append(downloadButton, deleteButton);
-      body.append(title, date, actions);
-      card.append(image, body);
-      fragment.append(card);
-    }
-
-    gallery.append(fragment);
-  }
-
-  function ensureGallerySection() {
-    const existing = document.querySelector("#photoGallerySection");
-    if (existing) {
-      return existing;
-    }
-
-    const section = document.createElement("section");
-    section.className = "photo-gallery";
-    section.id = "photoGallerySection";
-    section.setAttribute("aria-labelledby", "photoGalleryTitle");
-    section.innerHTML = `
-      <div class="section-heading">
-        <h2 id="photoGalleryTitle">Photo Gallery</h2>
-        <button class="small-button" type="button" id="refreshPhotosButton">Refresh</button>
-      </div>
-      <div class="gallery-grid" id="photoGallery"></div>
-    `;
-    taskList.insertAdjacentElement("afterend", section);
-    return section;
   }
 
   function choosePhotoFile({ capture }) {
