@@ -1,8 +1,25 @@
-body.auth-signed-out .app-shell {
+body.auth-signed-out .app-shell,
+body.auth-checking .app-shell {
   display: none;
 }
 
 body.auth-signed-in .auth-screen {
+  display: none;
+}
+
+body.auth-checking .auth-screen .auth-form {
+  display: none;
+}
+
+body.auth-checking #syncStatus::after {
+  content: "Checking saved login...";
+}
+
+body.auth-checking #syncStatus {
+  font-size: 0;
+}
+
+body.auth-checking #syncUser {
   display: none;
 }
 
