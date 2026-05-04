@@ -15,6 +15,7 @@
   const titleBlock = document.querySelector(".topbar > div:first-child");
   const appTitle = document.querySelector("#app-title");
   const signOutButton = document.querySelector("#signOutButton");
+  let selectedCalendarItemId = null;
 
   if (toolbar) {
     toolbar.remove();
@@ -98,6 +99,47 @@
     }
 
     container.append(wrap);
+  };
+
+  const originalRenderCalendarDay = renderCalendarDay;
+  renderCalendarDay = function renderSelectableCalendarDay(options) {
+    const cell = originalRenderCalendarDay(options);
+    const { item } = options;
+
+    if (!item) {
+      return cell;
+    }
+
+    cell.classList.toggle("calendar-selected", selectedCalendarItemId === item.id);
+    cell.tabIndex = 0;
+    cell.setAttribute("role", "button");
+    cell.setAttribute("aria-label", `Open ${shortDate(item)} photo controls`);
+
+    cell.addEventListener("click", (event) => {
+      if (event.target.closest("input, button, a, label")) {
+        return;
+      }
+      selectedCalendarItemId = selectedCalendarItemId === item.id ? null : item.id;
+      render();
+    });
+
+    cell.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" && event.key !== " ") {
+        return;
+      }
+      event.preventDefault();
+      selectedCalendarItemId = selectedCalendarItemId === item.id ? null : item.id;
+      render();
+    });
+
+    if (selectedCalendarItemId === item.id) {
+      const panel = document.createElement("div");
+      panel.className = "calendar-selected-panel";
+      renderPhotoControls(panel, item, "calendar-selected");
+      cell.append(panel);
+    }
+
+    return cell;
   };
 
   client.auth.getSession().then(({ data }) => {
