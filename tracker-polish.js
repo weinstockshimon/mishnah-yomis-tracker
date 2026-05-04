@@ -53,21 +53,21 @@
     const wrap = document.createElement("div");
     wrap.className = `photo-controls ${variant}`;
 
-    const takeButton = document.createElement("button");
-    takeButton.className = "photo-button";
-    takeButton.type = "button";
-    takeButton.textContent = meta ? "Take New Photo" : "Take Photo";
-    takeButton.addEventListener("click", () => savePhotoForItem(item, { capture: true }));
-    wrap.append(takeButton);
+    if (!meta) {
+      if (variant !== "calendar-selected") {
+        const takeButton = iconButton("Take photo", cameraIcon());
+        takeButton.addEventListener("click", () => savePhotoForItem(item, { capture: true }));
+        wrap.append(takeButton);
+      }
 
-    const uploadButton = document.createElement("button");
-    uploadButton.className = "photo-button";
-    uploadButton.type = "button";
-    uploadButton.textContent = "Upload Photo";
-    uploadButton.addEventListener("click", () => savePhotoForItem(item, { capture: false }));
-    wrap.append(uploadButton);
+      const uploadButton = iconButton("Upload photo", uploadIcon());
+      uploadButton.addEventListener("click", () => savePhotoForItem(item, { capture: false }));
+      wrap.append(uploadButton);
+      container.append(wrap);
+      return;
+    }
 
-    if (meta && variant === "list") {
+    if (meta) {
       const status = document.createElement("span");
       status.className = "photo-status";
       status.textContent = `Photo saved ${new Intl.DateTimeFormat("en-US", {
@@ -78,16 +78,15 @@
       }).format(new Date(meta.takenAt))}`;
       wrap.append(status);
 
-      const image = document.createElement("img");
-      image.className = "photo-thumb";
-      image.alt = `Stamped photo for ${shortDate(item)}`;
-      loadPhotoImage(image, meta);
-      wrap.append(image);
+      if (variant === "list") {
+        const image = document.createElement("img");
+        image.className = "photo-thumb";
+        image.alt = `Stamped photo for ${shortDate(item)}`;
+        loadPhotoImage(image, meta);
+        wrap.append(image);
+      }
 
-      const deleteButton = document.createElement("button");
-      deleteButton.className = "photo-button danger";
-      deleteButton.type = "button";
-      deleteButton.textContent = "Delete Photo";
+      const deleteButton = iconButton("Delete photo", trashIcon(), "danger");
       deleteButton.addEventListener("click", async () => {
         if (!window.confirm("Delete this photo from Supabase?")) {
           return;
@@ -162,6 +161,10 @@
   async function savePhotoForItem(item, { capture }) {
     if (!currentUser) {
       window.alert("Please sign in first so the photo can save to Supabase.");
+      return;
+    }
+    if (photoIndex.has(item.id)) {
+      window.alert("This day already has a photo. Delete the existing photo first if you want to upload a different one.");
       return;
     }
 
@@ -318,5 +321,27 @@
   function cloudPhotoFileName(item, takenAt) {
     const time = takenAt.slice(11, 19).replace(/:/g, "-");
     return `${item.isoDate}_${item.id}_${time}.jpg`;
+  }
+
+  function iconButton(label, icon, extraClass = "") {
+    const button = document.createElement("button");
+    button.className = `photo-button photo-icon-button ${extraClass}`.trim();
+    button.type = "button";
+    button.title = label;
+    button.setAttribute("aria-label", label);
+    button.innerHTML = icon;
+    return button;
+  }
+
+  function cameraIcon() {
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l1.5-2h3L15 5h3a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V8a3 3 0 0 1 3-3h3z"></path><circle cx="12" cy="12.5" r="3.5"></circle></svg>';
+  }
+
+  function uploadIcon() {
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V4"></path><path d="M7 9l5-5 5 5"></path><path d="M5 20h14"></path></svg>';
+  }
+
+  function trashIcon() {
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16"></path><path d="M10 11v6"></path><path d="M14 11v6"></path><path d="M6 7l1 14h10l1-14"></path><path d="M9 7V4h6v3"></path></svg>';
   }
 })();
