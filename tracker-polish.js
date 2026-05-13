@@ -154,8 +154,46 @@
     }
   });
 
+  async function ensureCurrentUser() {
+    if (currentUser) {
+      return currentUser;
+    }
+
+    const { data, error } = await client.auth.getSession();
+    if (error) {
+      throw error;
+    }
+
+    currentUser = data.session?.user || null;
+    return currentUser;
+  }
+
+  function updatePhotoStatus(message) {
+    if (typeof setSyncStatus === "function") {
+      setSyncStatus(message);
+      return;
+    }
+
+    const status = document.querySelector("#syncStatus");
+    if (status) {
+      status.textContent = message;
+    }
+  }
+
+  function withPhotoTimeout(promise, message, timeoutMs = 20000) {
+    let timerId;
+    const timeout = new Promise((_, reject) => {
+      timerId = window.setTimeout(() => reject(new Error(message)), timeoutMs);
+    });
+
+    return Promise.race([promise, timeout]).finally(() => {
+      window.clearTimeout(timerId);
+    });
+  }
+
   async function saveSelectedPhotoForItem(item, file) {
-    if (!currentUser) {
+    const user = await ensureCurrentUser();
+    if (!user) {
       window.alert("Please sign in first so the photo can save to Supabase.");
       return;
     }
@@ -168,14 +206,23 @@
     }
 
     try {
-      const { blob, takenAt } = await createStampedPhoto(file, item);
+      updatePhotoStatus(`Photo selected: ${(file.size / 1024 / 1024).toFixed(1)} MB`);
+      updatePhotoStatus("Stamping photo...");
+      const { blob, takenAt } = await withPhotoTimeout(
+        createStampedPhoto(file, item),
+        "The phone gave the app a photo, but the browser could not prepare it. Try Upload Photo from your photo library instead of Take Photo.",
+      );
       const fileName = cloudPhotoFileName(item, takenAt);
+      updatePhotoStatus("Uploading photo to Supabase...");
       const photo = await uploadCloudPhoto(item, blob, fileName, takenAt);
       photoRecords = [photo, ...photoRecords.filter((record) => record.filePath !== photo.filePath)];
       setLatestPhotoForDay(photo);
+      updatePhotoStatus("Photo saved to Supabase");
       render();
     } catch (error) {
-      window.alert(`The photo did not upload to Supabase.\n\n${error.message || error}`);
+      const message = error.message || String(error);
+      updatePhotoStatus(`Photo upload failed: ${message}`);
+      window.alert(`The photo did not upload to Supabase.\n\n${message}`);
     }
   }
 
@@ -194,6 +241,7 @@
       throw upload.error;
     }
 
+    updatePhotoStatus("Saving photo details...");
     const row = await client
       .from("photos")
       .insert({
