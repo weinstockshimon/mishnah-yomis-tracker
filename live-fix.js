@@ -36,25 +36,23 @@
   }
 
   function installSignOutFix() {
-    const button = document.querySelector("#signOutButton");
-    if (!button) {
+    const oldButton = document.querySelector("#signOutButton");
+    if (!oldButton) {
       return;
     }
 
+    const button = oldButton.cloneNode(true);
     button.disabled = false;
-    button.addEventListener(
-      "click",
-      async (event) => {
-        event.preventDefault();
-        event.stopImmediatePropagation();
-        button.disabled = true;
-        setStatus("Signing out...");
-        await client.auth.signOut({ scope: "global" }).catch(() => {});
-        clearSupabaseStorage();
-        window.location.replace(cleanUrl());
-      },
-      true,
-    );
+    oldButton.replaceWith(button);
+    button.addEventListener("click", async (event) => {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      button.disabled = true;
+      setStatus("Signing out...");
+      await client.auth.signOut({ scope: "global" }).catch(() => {});
+      clearSupabaseStorage();
+      window.location.replace(cleanUrl());
+    });
   }
 
   async function getSignedInUser() {
@@ -94,6 +92,29 @@
       assignment: record.assignment,
       cloud: true,
     };
+  }
+
+  async function signedPhotoUrl(filePath) {
+    const result = await client.storage.from(PHOTO_BUCKET).createSignedUrl(filePath, 600);
+    if (result.error) {
+      throw result.error;
+    }
+    return result.data.signedUrl;
+  }
+
+  function loadCloudPhotoImage(image, photo) {
+    if (!photo?.filePath) {
+      image.remove();
+      return;
+    }
+
+    signedPhotoUrl(photo.filePath)
+      .then((url) => {
+        if (image.isConnected) {
+          image.src = url;
+        }
+      })
+      .catch(() => image.remove());
   }
 
   async function uploadPhoto(item, file) {
@@ -160,6 +181,33 @@
       setStatus(`Photo upload failed: ${message}`);
       window.alert(`The photo did not upload to Supabase.\n\n${message}`);
     }
+  }
+
+  async function deletePhoto(photo) {
+    const user = await getSignedInUser();
+    if (!user || !photo?.rowId) {
+      return;
+    }
+
+    setStatus("Deleting photo...");
+    const removed = await client.storage.from(PHOTO_BUCKET).remove([photo.filePath]);
+    if (removed.error) {
+      throw removed.error;
+    }
+
+    const deleted = await client
+      .from("photos")
+      .delete()
+      .eq("id", photo.rowId)
+      .eq("user_id", user.id);
+
+    if (deleted.error) {
+      throw deleted.error;
+    }
+
+    photoIndex.delete(photo.studyDayId);
+    setStatus("Photo deleted");
+    render();
   }
 
   function iconButton(label, iconSvg, item, capture) {
@@ -236,15 +284,20 @@
       const image = document.createElement("img");
       image.className = "photo-thumb";
       image.alt = `Stamped photo for ${shortDate(item)}`;
-      if (typeof loadPhotoImage === "function") {
-        loadPhotoImage(image, meta);
-      }
+      loadCloudPhotoImage(image, meta);
       wrap.append(image);
     }
 
     const deleteButton = plainIconButton("Delete photo", trashIcon(), "danger");
     deleteButton.addEventListener("click", async () => {
-      window.alert("For now, delete photos from Supabase Storage. I will wire this delete button next.");
+      if (!window.confirm("Delete this photo from Supabase?")) {
+        return;
+      }
+      try {
+        await deletePhoto(meta);
+      } catch (error) {
+        window.alert(error.message || "The photo could not be deleted.");
+      }
     });
     wrap.append(deleteButton);
     container.append(wrap);
