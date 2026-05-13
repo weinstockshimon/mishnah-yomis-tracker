@@ -55,14 +55,10 @@
 
     if (!meta) {
       if (variant !== "calendar-selected") {
-        const takeButton = iconButton("Take photo", cameraIcon());
-        takeButton.addEventListener("click", () => savePhotoForItem(item, { capture: true }));
-        wrap.append(takeButton);
+        wrap.append(photoPickerControl("Take photo", cameraIcon(), item, { capture: true }));
       }
 
-      const uploadButton = iconButton("Upload photo", uploadIcon());
-      uploadButton.addEventListener("click", () => savePhotoForItem(item, { capture: false }));
-      wrap.append(uploadButton);
+      wrap.append(photoPickerControl("Upload photo", uploadIcon(), item, { capture: false }));
       container.append(wrap);
       return;
     }
@@ -158,7 +154,7 @@
     }
   });
 
-  async function savePhotoForItem(item, { capture }) {
+  async function saveSelectedPhotoForItem(item, file) {
     if (!currentUser) {
       window.alert("Please sign in first so the photo can save to Supabase.");
       return;
@@ -167,8 +163,6 @@
       window.alert("This day already has a photo. Delete the existing photo first if you want to upload a different one.");
       return;
     }
-
-    const file = await choosePhotoFile({ capture });
     if (!file) {
       return;
     }
@@ -183,6 +177,11 @@
     } catch (error) {
       window.alert(`The photo did not upload to Supabase.\n\n${error.message || error}`);
     }
+  }
+
+  async function savePhotoForItem(item, { capture }) {
+    const file = await choosePhotoFile({ capture });
+    await saveSelectedPhotoForItem(item, file);
   }
 
   async function uploadCloudPhoto(item, blob, fileName, takenAt) {
@@ -311,9 +310,14 @@
       if (capture) {
         input.capture = "environment";
       }
-      input.addEventListener("change", () => resolve(input.files?.[0] || null), {
+      input.className = "photo-file-input";
+      input.addEventListener("change", () => {
+        resolve(input.files?.[0] || null);
+        input.remove();
+      }, {
         once: true,
       });
+      document.body.append(input);
       input.click();
     });
   }
@@ -331,6 +335,29 @@
     button.setAttribute("aria-label", label);
     button.innerHTML = icon;
     return button;
+  }
+
+  function photoPickerControl(label, icon, item, { capture }) {
+    const control = document.createElement("label");
+    control.className = "photo-button photo-icon-button photo-picker-control";
+    control.title = label;
+    control.setAttribute("aria-label", label);
+    control.innerHTML = icon;
+
+    const input = document.createElement("input");
+    input.className = "photo-file-input";
+    input.type = "file";
+    input.accept = "image/*";
+    if (capture) {
+      input.capture = "environment";
+    }
+    input.addEventListener("change", async () => {
+      const file = input.files?.[0] || null;
+      input.value = "";
+      await saveSelectedPhotoForItem(item, file);
+    });
+    control.append(input);
+    return control;
   }
 
   function cameraIcon() {
