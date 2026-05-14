@@ -23,6 +23,10 @@
     }
   }
 
+  function cleanUrl() {
+    return window.location.origin + window.location.pathname + window.location.search;
+  }
+
   function clearSupabaseStorage() {
     for (const key of Object.keys(window.localStorage)) {
       if (key.startsWith("sb-")) {
@@ -31,8 +35,110 @@
     }
   }
 
-  function cleanUrl() {
-    return window.location.origin + window.location.pathname + window.location.search;
+  function showSignedOut() {
+    document.body.classList.add("auth-signed-out");
+    document.body.classList.remove("auth-signed-in", "auth-checking");
+
+    const authScreen = document.querySelector("#authScreen");
+    const authForm = document.querySelector("#authForm");
+    const authButton = document.querySelector("#authButton");
+    const authEmail = document.querySelector("#authEmail");
+    const signOutButton = document.querySelector("#signOutButton");
+
+    if (authScreen) {
+      authScreen.hidden = false;
+      authScreen.style.display = "";
+    }
+    if (authForm) {
+      authForm.hidden = false;
+      authForm.style.display = "";
+    }
+    if (authButton) {
+      authButton.hidden = false;
+      authButton.disabled = false;
+      authButton.style.display = "";
+      authButton.textContent = "Sign in";
+    }
+    if (authEmail) {
+      authEmail.hidden = false;
+      authEmail.disabled = false;
+      authEmail.style.display = "";
+    }
+    if (signOutButton) {
+      signOutButton.hidden = true;
+    }
+  }
+
+  function showSignedIn(user) {
+    document.body.classList.add("auth-signed-in");
+    document.body.classList.remove("auth-signed-out", "auth-checking");
+
+    const authForm = document.querySelector("#authForm");
+    const signOutButton = document.querySelector("#signOutButton");
+    const syncUser = document.querySelector("#syncUser");
+
+    if (authForm) {
+      authForm.hidden = true;
+    }
+    if (signOutButton) {
+      signOutButton.hidden = false;
+    }
+    if (syncUser) {
+      syncUser.textContent = user?.email || "Signed in";
+    }
+  }
+
+  function installSignInFix() {
+    const oldForm = document.querySelector("#authForm");
+    if (!oldForm) {
+      return;
+    }
+
+    const form = oldForm.cloneNode(true);
+    oldForm.replaceWith(form);
+    const emailInput = form.querySelector("#authEmail");
+    const button = form.querySelector("#authButton");
+    form.hidden = false;
+    form.style.display = "";
+    if (button) {
+      button.hidden = false;
+      button.disabled = false;
+      button.style.display = "";
+      button.textContent = "Sign in";
+    }
+    if (emailInput) {
+      emailInput.hidden = false;
+      emailInput.disabled = false;
+      emailInput.style.display = "";
+    }
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const email = emailInput?.value.trim();
+      if (!email) {
+        return;
+      }
+
+      if (button) {
+        button.disabled = true;
+      }
+      setStatus("Sending sign-in email...");
+      const { error } = await client.auth.signInWithOtp({
+        email,
+        options: { emailRedirectTo: cleanUrl() },
+      });
+      if (button) {
+        button.disabled = false;
+      }
+
+      if (error) {
+        setStatus("Could not send sign-in email");
+        window.alert(error.message);
+        return;
+      }
+
+      setStatus("Check your email for the sign-in link");
+    });
   }
 
   function installSignOutFix() {
@@ -42,8 +148,8 @@
     }
 
     const button = oldButton.cloneNode(true);
-    button.disabled = false;
     oldButton.replaceWith(button);
+    button.disabled = false;
     button.addEventListener("click", async (event) => {
       event.preventDefault();
       event.stopImmediatePropagation();
@@ -125,6 +231,7 @@
     const user = await getSignedInUser();
     if (!user) {
       window.alert("Please sign in first so the photo can save to Supabase.");
+      showSignedOut();
       return;
     }
 
@@ -303,7 +410,17 @@
     container.append(wrap);
   };
 
+  installSignInFix();
   installSignOutFix();
+  getSignedInUser()
+    .then((user) => {
+      if (user) {
+        showSignedIn(user);
+      } else {
+        showSignedOut();
+      }
+    })
+    .catch(showSignedOut);
   if (typeof render === "function") {
     render();
   }
