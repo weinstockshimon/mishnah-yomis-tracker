@@ -49,6 +49,16 @@
     titleRow.append(appTitle, signOutButton);
   }
 
+  const topStatus = document.createElement("div");
+  topStatus.className = "sync-copy top-sync-copy";
+  topStatus.innerHTML = `
+    <span id="topSyncStatus">Loading...</span>
+    <strong id="topSyncUser">Not signed in</strong>
+  `;
+  if (titleBlock) {
+    titleBlock.append(topStatus);
+  }
+
   const authScreen = document.createElement("section");
   authScreen.className = "auth-screen";
   authScreen.id = "authScreen";
@@ -63,7 +73,7 @@
   `;
 
   if (syncCopy) {
-    authCard.append(syncCopy);
+    authCard.append(syncCopy.cloneNode(true));
   }
   if (authForm) {
     authForm.hidden = false;
@@ -80,6 +90,21 @@
     const status = document.querySelector("#syncStatus");
     if (status) {
       status.textContent = message;
+    }
+    const top = document.querySelector("#topSyncStatus");
+    if (top) {
+      top.textContent = message;
+    }
+  }
+
+  function setUserText(message) {
+    const syncUser = document.querySelector("#syncUser");
+    if (syncUser) {
+      syncUser.textContent = message;
+    }
+    const topUser = document.querySelector("#topSyncUser");
+    if (topUser) {
+      topUser.textContent = message;
     }
   }
 
@@ -241,6 +266,10 @@
     return Promise.race([promise, timeout]).finally(() => window.clearTimeout(timerId));
   }
 
+  function withCloudTimeout(promise, message) {
+    return withTimeout(promise, message, 30000);
+  }
+
   function photoFileName(item, takenAt) {
     const time = takenAt.slice(11, 19).replace(/:/g, "-");
     return `${item.isoDate}_${item.id}_${time}.jpg`;
@@ -250,7 +279,9 @@
     if (!file) {
       return;
     }
-    if (!currentUser) {
+    const { data: sessionData } = await client.auth.getSession().catch(() => ({ data: null }));
+    const user = sessionData?.session?.user || currentUser;
+    if (!user) {
       window.alert("Please sign in first so the photo can save to Supabase.");
       showSignedOut();
       return;
@@ -270,30 +301,36 @@
 
       setStatus("Uploading photo to Supabase...");
       const fileName = photoFileName(item, takenAt);
-      const filePath = `${currentUser.id}/${item.isoDate}/${fileName}`;
-      const uploaded = await client.storage
-        .from(PHOTO_BUCKET)
-        .upload(filePath, blob, { contentType: "image/jpeg", upsert: true });
+      const filePath = `${user.id}/${item.isoDate}/${fileName}`;
+      const uploaded = await withCloudTimeout(
+        client.storage
+          .from(PHOTO_BUCKET)
+          .upload(filePath, blob, { contentType: "image/jpeg", upsert: true }),
+        "Supabase Storage did not respond. Please check the study-photos bucket policies.",
+      );
       if (uploaded.error) {
         throw uploaded.error;
       }
 
       setStatus("Saving photo details...");
-      const saved = await client
-        .from("photos")
-        .insert({
-          user_id: currentUser.id,
-          study_day_id: item.id,
-          file_path: filePath,
-          file_name: fileName,
-          taken_at: takenAt,
-          english_date: item.englishDate,
-          hebrew_date: item.hebrewDate,
-          tractate: item.tractate,
-          assignment: item.assignment,
-        })
-        .select("id, study_day_id, file_path, file_name, taken_at, english_date, hebrew_date, tractate, assignment")
-        .single();
+      const saved = await withCloudTimeout(
+        client
+          .from("photos")
+          .insert({
+            user_id: user.id,
+            study_day_id: item.id,
+            file_path: filePath,
+            file_name: fileName,
+            taken_at: takenAt,
+            english_date: item.englishDate,
+            hebrew_date: item.hebrewDate,
+            tractate: item.tractate,
+            assignment: item.assignment,
+          })
+          .select("id, study_day_id, file_path, file_name, taken_at, english_date, hebrew_date, tractate, assignment")
+          .single(),
+        "Supabase did not save the photo details. Please check the photos table policies.",
+      );
       if (saved.error) {
         throw saved.error;
       }
@@ -473,6 +510,7 @@
       signOutButton.hidden = true;
     }
     setStatus("Not signed in");
+    setUserText("Not signed in");
   }
 
   function showSignedIn() {
@@ -483,10 +521,7 @@
       signOutButton.hidden = false;
       signOutButton.disabled = false;
     }
-    const syncUser = document.querySelector("#syncUser");
-    if (syncUser) {
-      syncUser.textContent = currentUser.email || "Signed in";
-    }
+    setUserText(currentUser.email || "Signed in");
     setStatus(cloudReady ? "Cloud sync is on" : "Loading cloud data...");
   }
 
@@ -517,7 +552,6 @@
     signOutButton.addEventListener("click", async () => {
       signOutButton.disabled = true;
       setStatus("Signing out...");
-      await client.auth.signOut({ scope: "global" }).catch(() => {});
       for (const key of Object.keys(localStorage)) {
         if (key.startsWith("sb-")) {
           localStorage.removeItem(key);
@@ -528,6 +562,7 @@
       photoIndex = new Map();
       showSignedOut();
       render();
+      client.auth.signOut({ scope: "global" }).catch(() => {});
     });
   }
 
