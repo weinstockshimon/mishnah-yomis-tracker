@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="mobile-overrides.css">
     <link rel="stylesheet" href="supabase-sync.css">
     <link rel="stylesheet" href="auth-gate.css">
-    <link rel="stylesheet" href="tracker-polish.css?v=20260515b">
+    <link rel="stylesheet" href="tracker-polish.css?v=20260517a">
   </head>
   <body>
     <main class="app-shell">
@@ -28,16 +28,16 @@
         </div>
       </section>
 
-      <section class="sync-panel" aria-label="Cloud sync">
+      <section class="sync-panel" aria-label="Private access">
         <div class="sync-copy">
-          <span id="syncStatus">Saved on this device</span>
-          <strong id="syncUser">Not signed in</strong>
+          <span id="syncStatus">Locked</span>
+          <strong id="syncUser">Private tracker</strong>
         </div>
         <form class="auth-form" id="authForm">
-          <input id="authEmail" type="email" autocomplete="email" placeholder="Email">
-          <button type="submit" id="authButton">Sign in</button>
+          <input id="authEmail" type="password" autocomplete="current-password" placeholder="Passcode">
+          <button type="submit" id="authButton">Unlock</button>
         </form>
-        <button class="sign-out-button" type="button" id="signOutButton" hidden>Sign out</button>
+        <button class="sign-out-button" type="button" id="signOutButton" hidden>Lock</button>
       </section>
 
       <section class="summary-grid" aria-label="Study summary">
@@ -123,6 +123,6 @@
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="data.js"></script>
     <script src="app.js"></script>
-    <script src="cloud-app.js?v=20260515b"></script>
+    <script src="passcode-cloud.js?v=20260517a"></script>
   </body>
 </html>
