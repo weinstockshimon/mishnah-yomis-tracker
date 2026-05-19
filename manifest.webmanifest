@@ -1,0 +1,19 @@
+{
+  "name": "Mishnah Yomis Tracker",
+  "short_name": "Mishnah Yomis",
+  "description": "Daily Mishnah Yomis study tracker with progress and study photos.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#0f766e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
