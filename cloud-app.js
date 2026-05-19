@@ -42,6 +42,34 @@
     };
   }
 
+  const passwordStyle = document.createElement("style");
+  passwordStyle.textContent = `
+    .auth-form.password-login {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 8px;
+    }
+
+    .auth-form.password-login input {
+      width: 100%;
+    }
+  `;
+  document.head.append(passwordStyle);
+
+  const authPassword = document.createElement("input");
+  authPassword.id = "authPassword";
+  authPassword.type = "password";
+  authPassword.autocomplete = "current-password";
+  authPassword.placeholder = "Password";
+  if (authForm && authEmail) {
+    authForm.classList.add("password-login");
+    authEmail.placeholder = "Email";
+    authEmail.after(authPassword);
+  }
+  if (authButton) {
+    authButton.textContent = "Log in";
+  }
+
   if (titleBlock && appTitle && signOutButton && !titleBlock.querySelector(".title-row")) {
     const titleRow = document.createElement("div");
     titleRow.className = "title-row";
@@ -68,8 +96,8 @@
   authCard.className = "auth-card";
   authCard.innerHTML = `
     <p class="eyebrow">Mishnah Yomis</p>
-    <h1 id="authTitle">Sign in to your tracker</h1>
-    <p class="auth-note">Your checkmarks and study photos will sync across your phone and computer.</p>
+    <h1 id="authTitle">Log in to your tracker</h1>
+    <p class="auth-note">Use your email and password. No email link required.</p>
   `;
 
   if (syncCopy) {
@@ -106,13 +134,6 @@
     if (topUser) {
       topUser.textContent = message;
     }
-  }
-
-  function cleanRedirectUrl() {
-    const url = new URL(window.location.href);
-    url.search = "";
-    url.hash = "";
-    return url.toString();
   }
 
   function snapshotCompleted() {
@@ -500,11 +521,15 @@
     if (authButton) {
       authButton.hidden = false;
       authButton.disabled = false;
-      authButton.textContent = "Sign in";
+      authButton.textContent = "Log in";
     }
     if (authEmail) {
       authEmail.hidden = false;
       authEmail.disabled = false;
+    }
+    if (authPassword) {
+      authPassword.hidden = false;
+      authPassword.disabled = false;
     }
     if (signOutButton) {
       signOutButton.hidden = true;
@@ -529,22 +554,25 @@
     authForm.addEventListener("submit", async (event) => {
       event.preventDefault();
       const email = authEmail?.value.trim();
-      if (!email) {
+      const password = authPassword?.value || "";
+      if (!email || !password) {
+        setStatus("Enter your email and password");
         return;
       }
       authButton.disabled = true;
-      setStatus("Sending sign-in email...");
-      const result = await client.auth.signInWithOtp({
+      setStatus("Logging in...");
+      const result = await client.auth.signInWithPassword({
         email,
-        options: { emailRedirectTo: cleanRedirectUrl() },
+        password,
       });
       authButton.disabled = false;
       if (result.error) {
-        setStatus("Could not send sign-in email");
+        setStatus("Login failed");
         window.alert(result.error.message);
         return;
       }
-      setStatus("Check your email for the sign-in link");
+      authPassword.value = "";
+      await handleSession(result.data.session);
     });
   }
 
