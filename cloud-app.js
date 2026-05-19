@@ -400,27 +400,59 @@
     return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16"></path><path d="M10 11v6"></path><path d="M14 11v6"></path><path d="M6 7l1 14h10l1-14"></path><path d="M9 7V4h6v3"></path></svg>';
   }
 
-  function photoPicker(label, icon, item, capture) {
-    const control = document.createElement("label");
-    control.className = "photo-button photo-icon-button photo-picker-control";
-    control.title = label;
-    control.setAttribute("aria-label", label);
-    control.innerHTML = icon;
+  function choosePhotoFile({ capture }) {
+    return new Promise((resolve) => {
+      const input = document.createElement("input");
+      input.type = "file";
+      input.accept = "image/*";
+      input.style.position = "fixed";
+      input.style.left = "-9999px";
+      input.style.top = "0";
+      if (capture) {
+        input.capture = "environment";
+      }
 
-    const input = document.createElement("input");
-    input.className = "photo-file-input";
-    input.type = "file";
-    input.accept = "image/*";
-    if (capture) {
-      input.capture = "environment";
-    }
-    input.addEventListener("change", async () => {
-      const file = input.files?.[0] || null;
-      input.value = "";
+      let settled = false;
+      const cleanup = () => {
+        input.remove();
+        window.removeEventListener("focus", handleFocus);
+      };
+      const finish = (file) => {
+        if (settled) {
+          return;
+        }
+        settled = true;
+        cleanup();
+        resolve(file || null);
+      };
+      const handleFocus = () => {
+        window.setTimeout(() => {
+          if (!settled && !input.files?.length) {
+            finish(null);
+          }
+        }, 900);
+      };
+
+      input.addEventListener("change", () => finish(input.files?.[0] || null), { once: true });
+      input.addEventListener("cancel", () => finish(null), { once: true });
+      window.addEventListener("focus", handleFocus);
+      document.body.append(input);
+      input.click();
+    });
+  }
+
+  function photoPicker(label, icon, item, capture) {
+    const control = plainIconButton(label, icon);
+    control.classList.add("photo-picker-control");
+    control.addEventListener("click", async () => {
+      setStatus(capture ? "Opening camera..." : "Opening photo library...");
+      const file = await choosePhotoFile({ capture });
+      if (!file) {
+        setStatus("No photo selected");
+        return;
+      }
       await uploadPhoto(item, file);
     });
-
-    control.append(input);
     return control;
   }
 
@@ -597,9 +629,9 @@
   async function loadCloudData() {
     try {
       setStatus("Loading cloud progress...");
-      await loadCloudProgress();
+      await withCloudTimeout(loadCloudProgress(), "Cloud progress did not load. Please check the progress table policies.");
       setStatus("Loading cloud photos...");
-      await loadCloudPhotos();
+      await withCloudTimeout(loadCloudPhotos(), "Cloud photos did not load. Please check the photos table policies.");
       cloudReady = true;
       showSignedIn();
       render();
