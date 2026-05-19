@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Mishnah Yomis Tracker</title>
+  <rect width="512" height="512" rx="96" fill="#0f766e"/>
+  <circle cx="256" cy="256" r="188" fill="#fbfaf6"/>
+  <path d="M156 332V180h38l62 84 62-84h38v152h-42v-84l-48 66h-20l-48-66v84h-42z" fill="#17201a"/>
+  <path d="M158 366h196" fill="none" stroke="#0f766e" stroke-width="24" stroke-linecap="round"/>
+</svg>
