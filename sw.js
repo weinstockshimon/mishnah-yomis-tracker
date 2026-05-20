@@ -1,4 +1,4 @@
-const CACHE_NAME = "mishnah-yomis-pwa-v20260519a";
+const CACHE_NAME = "mishnah-yomis-pwa-v20260519b";
 const APP_SHELL = [
   "/",
   "/index.html",
