@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0f766e">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Mishnah Yomis">
     <title>Mishnah Yomis Tracker</title>
     <script>
       if (new URLSearchParams(window.location.search).get("mobile") === "1") {
@@ -14,6 +17,9 @@
     <link rel="stylesheet" href="supabase-sync.css">
     <link rel="stylesheet" href="auth-gate.css">
     <link rel="stylesheet" href="tracker-polish.css?v=20260518c">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="icons/icon.svg">
   </head>
   <body>
     <main class="app-shell">
@@ -124,5 +130,12 @@
     <script src="data.js"></script>
     <script src="app.js"></script>
     <script src="cloud-app.js?v=20260518c"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker.register("/sw.js").catch(() => {});
+        });
+      }
+    </script>
   </body>
 </html>
