@@ -1,4 +1,4 @@
-const CACHE_NAME = "mishnah-yomis-pwa-v20260520b";
+const CACHE_NAME = "mishnah-yomis-pwa-v20260520c";
 const APP_SHELL = [
   "/",
   "/index.html",
@@ -11,8 +11,8 @@ const APP_SHELL = [
   "/app.js",
   "/cloud-app.js?v=20260520b",
   "/manifest.webmanifest",
-  "/icons/icon-192-v2.png",
-  "/icons/icon-512-v2.png"
+  "/icons/icon-192-v3.png",
+  "/icons/icon-512-v3.png"
 ];
 
 self.addEventListener("install", (event) => {
