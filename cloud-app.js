@@ -292,8 +292,7 @@
   }
 
   function photoFileName(item, takenAt) {
-    const time = takenAt.slice(11, 19).replace(/:/g, "-");
-    return `${item.isoDate}_${item.id}_${time}.jpg`;
+    return `${item.isoDate}_${item.id}.jpg`;
   }
 
   async function uploadPhoto(item, file) {
@@ -337,17 +336,17 @@
       const saved = await withCloudTimeout(
         client
           .from("photos")
-          .insert({
-            user_id: user.id,
-            study_day_id: item.id,
-            file_path: filePath,
-            file_name: fileName,
-            taken_at: takenAt,
-            english_date: item.englishDate,
-            hebrew_date: item.hebrewDate,
-            tractate: item.tractate,
-            assignment: item.assignment,
-          })
+          .upsert({
+          user_id: user.id,
+          study_day_id: item.id,
+          file_path: filePath,
+          file_name: fileName,
+          taken_at: takenAt,
+          english_date: item.englishDate,
+          hebrew_date: item.hebrewDate,
+          tractate: item.tractate,
+          assignment: item.assignment,
+          }, { onConflict: "user_id,study_day_id" })
           .select("id, study_day_id, file_path, file_name, taken_at, english_date, hebrew_date, tractate, assignment")
           .single(),
         "Supabase did not save the photo details. Please check the photos table policies.",
