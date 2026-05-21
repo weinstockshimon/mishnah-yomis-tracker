@@ -18,8 +18,8 @@
     <link rel="stylesheet" href="auth-gate.css">
     <link rel="stylesheet" href="tracker-polish.css?v=20260518c">
     <link rel="manifest" href="manifest.webmanifest">
-    <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="icons/icon.svg">
+    <link rel="icon" href="icons/icon-192.png" type="image/png">
+    <link rel="apple-touch-icon" href="icons/icon-512.png">
   </head>
   <body>
     <main class="app-shell">
@@ -67,15 +67,6 @@
           <strong id="nextPartCount">0</strong>
           <p id="nextPartDetail" class="summary-detail">Loading</p>
         </article>
-      </section>
-
-      <section class="toolbar" aria-label="Tracker controls">
-        <div class="segmented" role="group" aria-label="Task filter">
-          <button class="segment active" type="button" data-filter="due">Due</button>
-          <button class="segment" type="button" data-filter="upcoming">Upcoming</button>
-          <button class="segment" type="button" data-filter="completed">Done</button>
-          <button class="segment" type="button" data-filter="all">All</button>
-        </div>
       </section>
 
       <section class="task-list" id="taskList" aria-live="polite"></section>
