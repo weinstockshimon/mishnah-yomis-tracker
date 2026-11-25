@@ -1,7 +1,6 @@
 (() => {
   const SUPABASE_URL = "https://tkzcgnjejuevtfnikmfl.supabase.co";
   const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_gsMVtiDUhfZVw1oCYp1RlA_pwWMErw7";
-  const PHOTO_BUCKET = "study-photos";
 
   if (!window.supabase?.createClient || !window.MISHNAH_YOMIS_DATA) {
     return;
@@ -30,7 +29,6 @@
   let cloudReady = false;
   let applyingCloud = false;
   let previousCompleted = snapshotCompleted();
-  let selectedCalendarItemId = null;
 
   if (toolbar) {
     toolbar.remove();
@@ -224,61 +222,6 @@
     applyingCloud = false;
   }
 
-  function normalizePhoto(record) {
-    return {
-      rowId: record.id,
-      studyDayId: record.study_day_id,
-      filePath: record.file_path,
-      fileName: record.file_name,
-      takenAt: record.taken_at,
-      englishDate: record.english_date,
-      hebrewDate: record.hebrew_date,
-      tractate: record.tractate,
-      assignment: record.assignment,
-      cloud: true,
-    };
-  }
-
-  async function loadCloudPhotos() {
-    const result = await client
-      .from("photos")
-      .select("id, study_day_id, file_path, file_name, taken_at, english_date, hebrew_date, tractate, assignment")
-      .eq("user_id", currentUser.id)
-      .order("taken_at", { ascending: false });
-    if (result.error) {
-      throw result.error;
-    }
-
-    photoIndex = new Map();
-    for (const record of result.data.map(normalizePhoto)) {
-      if (!photoIndex.has(record.studyDayId)) {
-        photoIndex.set(record.studyDayId, record);
-      }
-    }
-  }
-
-  async function signedPhotoUrl(filePath) {
-    const result = await client.storage.from(PHOTO_BUCKET).createSignedUrl(filePath, 600);
-    if (result.error) {
-      throw result.error;
-    }
-    return result.data.signedUrl;
-  }
-
-  function loadCloudPhotoImage(image, photo) {
-    if (!photo?.filePath) {
-      image.remove();
-      return;
-    }
-    signedPhotoUrl(photo.filePath)
-      .then((url) => {
-        if (image.isConnected) {
-          image.src = url;
-        }
-      })
-      .catch(() => image.remove());
-  }
-
   function withTimeout(promise, message, timeoutMs = 25000) {
     let timerId;
     const timeout = new Promise((_, reject) => {
@@ -290,256 +233,6 @@
   function withCloudTimeout(promise, message) {
     return withTimeout(promise, message, 30000);
   }
-
-  function photoFileName(item, takenAt) {
-    return `${item.isoDate}_${item.id}.jpg`;
-  }
-
-  async function uploadPhoto(item, file) {
-    if (!file) {
-      return;
-    }
-    const { data: sessionData } = await client.auth.getSession().catch(() => ({ data: null }));
-    const user = sessionData?.session?.user || currentUser;
-    if (!user) {
-      window.alert("Please sign in first so the photo can save to Supabase.");
-      showSignedOut();
-      return;
-    }
-    if (photoIndex.has(item.id)) {
-      window.alert("This day already has a photo. Delete the existing photo first if you want to upload a different one.");
-      return;
-    }
-
-    try {
-      setStatus(`Photo selected: ${(file.size / 1024 / 1024).toFixed(1)} MB`);
-      setStatus("Stamping photo...");
-      const { blob, takenAt } = await withTimeout(
-        createStampedPhoto(file, item),
-        "The phone gave the app a photo, but the browser could not prepare it. Try Upload Photo from the photo library, or choose a smaller photo.",
-      );
-
-      setStatus("Uploading photo to Supabase...");
-      const fileName = photoFileName(item, takenAt);
-      const filePath = `${user.id}/${item.isoDate}/${fileName}`;
-      const uploaded = await withCloudTimeout(
-        client.storage
-          .from(PHOTO_BUCKET)
-          .upload(filePath, blob, { contentType: "image/jpeg", upsert: true }),
-        "Supabase Storage did not respond. Please check the study-photos bucket policies.",
-      );
-      if (uploaded.error) {
-        throw uploaded.error;
-      }
-
-      setStatus("Saving photo details...");
-      const saved = await withCloudTimeout(
-        client
-          .from("photos")
-          .upsert({
-          user_id: user.id,
-          study_day_id: item.id,
-          file_path: filePath,
-          file_name: fileName,
-          taken_at: takenAt,
-          english_date: item.englishDate,
-          hebrew_date: item.hebrewDate,
-          tractate: item.tractate,
-          assignment: item.assignment,
-          }, { onConflict: "user_id,study_day_id" })
-          .select("id, study_day_id, file_path, file_name, taken_at, english_date, hebrew_date, tractate, assignment")
-          .single(),
-        "Supabase did not save the photo details. Please check the photos table policies.",
-      );
-      if (saved.error) {
-        throw saved.error;
-      }
-
-      photoIndex.set(item.id, normalizePhoto(saved.data));
-      setStatus("Photo saved to Supabase");
-      render();
-    } catch (error) {
-      const message = error.message || String(error);
-      setStatus(`Photo upload failed: ${message}`);
-      window.alert(`The photo did not upload to Supabase.\n\n${message}`);
-    }
-  }
-
-  async function deletePhoto(photo) {
-    if (!currentUser || !photo?.rowId) {
-      return;
-    }
-    setStatus("Deleting photo...");
-    const removed = await client.storage.from(PHOTO_BUCKET).remove([photo.filePath]);
-    if (removed.error) {
-      throw removed.error;
-    }
-    const deleted = await client
-      .from("photos")
-      .delete()
-      .eq("id", photo.rowId)
-      .eq("user_id", currentUser.id);
-    if (deleted.error) {
-      throw deleted.error;
-    }
-    photoIndex.delete(photo.studyDayId);
-    setStatus("Photo deleted");
-    render();
-  }
-
-  function cameraIcon() {
-    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l1.5-2h3L15 5h3a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V8a3 3 0 0 1 3-3h3z"></path><circle cx="12" cy="12.5" r="3.5"></circle></svg>';
-  }
-
-  function uploadIcon() {
-    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V4"></path><path d="M7 9l5-5 5 5"></path><path d="M5 20h14"></path></svg>';
-  }
-
-  function trashIcon() {
-    return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16"></path><path d="M10 11v6"></path><path d="M14 11v6"></path><path d="M6 7l1 14h10l1-14"></path><path d="M9 7V4h6v3"></path></svg>';
-  }
-
-  function choosePhotoFile({ capture }) {
-    return new Promise((resolve) => {
-      const input = document.createElement("input");
-      input.type = "file";
-      input.accept = "image/*";
-      input.style.position = "fixed";
-      input.style.left = "-9999px";
-      input.style.top = "0";
-      if (capture) {
-        input.capture = "environment";
-      }
-
-      let settled = false;
-      const cleanup = () => {
-        input.remove();
-        window.removeEventListener("focus", handleFocus);
-      };
-      const finish = (file) => {
-        if (settled) {
-          return;
-        }
-        settled = true;
-        cleanup();
-        resolve(file || null);
-      };
-      const handleFocus = () => {
-        window.setTimeout(() => {
-          if (!settled && !input.files?.length) {
-            finish(null);
-          }
-        }, 900);
-      };
-
-      input.addEventListener("change", () => finish(input.files?.[0] || null), { once: true });
-      input.addEventListener("cancel", () => finish(null), { once: true });
-      window.addEventListener("focus", handleFocus);
-      document.body.append(input);
-      input.click();
-    });
-  }
-
-  function photoPicker(label, icon, item, capture) {
-    const control = plainIconButton(label, icon);
-    control.classList.add("photo-picker-control");
-    control.addEventListener("click", async () => {
-      setStatus(capture ? "Opening camera..." : "Opening photo library...");
-      const file = await choosePhotoFile({ capture });
-      if (!file) {
-        setStatus("No photo selected");
-        return;
-      }
-      await uploadPhoto(item, file);
-    });
-    return control;
-  }
-
-  function plainIconButton(label, icon, extraClass = "") {
-    const button = document.createElement("button");
-    button.className = `photo-button photo-icon-button ${extraClass}`.trim();
-    button.type = "button";
-    button.title = label;
-    button.setAttribute("aria-label", label);
-    button.innerHTML = icon;
-    return button;
-  }
-
-  renderPhotoControls = function renderCloudPhotoControls(container, item, variant = "list") {
-    const meta = photoIndex.get(item.id);
-    const wrap = document.createElement("div");
-    wrap.className = `photo-controls ${variant}`;
-
-    if (!meta) {
-      if (variant !== "calendar-selected") {
-        wrap.append(photoPicker("Take photo", cameraIcon(), item, true));
-      }
-      wrap.append(photoPicker("Upload photo", uploadIcon(), item, false));
-      container.append(wrap);
-      return;
-    }
-
-    const status = document.createElement("span");
-    status.className = "photo-status";
-    status.textContent = `Photo saved ${new Intl.DateTimeFormat("en-US", {
-      month: "short",
-      day: "numeric",
-      hour: "numeric",
-      minute: "2-digit",
-    }).format(new Date(meta.takenAt))}`;
-    wrap.append(status);
-
-    if (variant === "list") {
-      const image = document.createElement("img");
-      image.className = "photo-thumb";
-      image.alt = `Stamped photo for ${shortDate(item)}`;
-      loadCloudPhotoImage(image, meta);
-      wrap.append(image);
-    }
-
-    const deleteButton = plainIconButton("Delete photo", trashIcon(), "danger");
-    deleteButton.addEventListener("click", async () => {
-      if (!window.confirm("Delete this photo from Supabase?")) {
-        return;
-      }
-      try {
-        await deletePhoto(meta);
-      } catch (error) {
-        window.alert(error.message || "The photo could not be deleted.");
-      }
-    });
-    wrap.append(deleteButton);
-    container.append(wrap);
-  };
-
-  const originalRenderCalendarDay = renderCalendarDay;
-  renderCalendarDay = function renderSelectableCalendarDay(options) {
-    const cell = originalRenderCalendarDay(options);
-    const { item } = options;
-    if (!item) {
-      return cell;
-    }
-
-    cell.classList.toggle("calendar-selected", selectedCalendarItemId === item.id);
-    cell.tabIndex = 0;
-    cell.setAttribute("role", "button");
-    cell.setAttribute("aria-label", `Open ${shortDate(item)} photo controls`);
-    cell.addEventListener("click", (event) => {
-      if (event.target.closest("input, button, a, label")) {
-        return;
-      }
-      selectedCalendarItemId = selectedCalendarItemId === item.id ? null : item.id;
-      render();
-    });
-
-    if (selectedCalendarItemId === item.id) {
-      const panel = document.createElement("div");
-      panel.className = "calendar-selected-panel";
-      renderPhotoControls(panel, item, "calendar-selected");
-      cell.append(panel);
-    }
-    return cell;
-  };
 
   function showSignedOut() {
     document.body.classList.add("auth-signed-out");
@@ -618,7 +311,6 @@
       }
       currentUser = null;
       cloudReady = false;
-      photoIndex = new Map();
       showSignedOut();
       render();
       client.auth.signOut({ scope: "global" }).catch(() => {});
@@ -629,8 +321,6 @@
     try {
       setStatus("Loading cloud progress...");
       await withCloudTimeout(loadCloudProgress(), "Cloud progress did not load. Please check the progress table policies.");
-      setStatus("Loading cloud photos...");
-      await withCloudTimeout(loadCloudPhotos(), "Cloud photos did not load. Please check the photos table policies.");
       cloudReady = true;
       showSignedIn();
       render();

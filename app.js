@@ -1,8 +1,5 @@
 const DATA = window.MISHNAH_YOMIS_DATA;
 const STORAGE_KEY = `mishnah-yomis-progress-v1:${DATA.sourceWorkbook}:${DATA.totalRows}`;
-const PHOTO_DB_NAME = "mishnah-yomis-photos";
-const PHOTO_DB_VERSION = 1;
-const PHOTO_STORE = "photos";
 
 const elements = {
   todayWeekday: document.querySelector("#todayWeekday"),
@@ -38,8 +35,6 @@ const holidayLookup = buildHolidayLookup(DATA.items);
 const tractateSegments = buildTractateSegments(DATA.items);
 let hebrewCursorIndex = findHebrewMonthIndex(calendarFocusIso);
 let state = loadState();
-let photoDb = null;
-let photoIndex = new Map();
 
 function localToday() {
   const params = new URLSearchParams(window.location.search);
@@ -358,239 +353,6 @@ function saveState() {
   );
 }
 
-function openPhotoDb() {
-  if (photoDb) {
-    return Promise.resolve(photoDb);
-  }
-
-  return new Promise((resolve, reject) => {
-    const request = indexedDB.open(PHOTO_DB_NAME, PHOTO_DB_VERSION);
-
-    request.onupgradeneeded = () => {
-      const db = request.result;
-      if (!db.objectStoreNames.contains(PHOTO_STORE)) {
-        db.createObjectStore(PHOTO_STORE, { keyPath: "id" });
-      }
-    };
-
-    request.onsuccess = () => {
-      photoDb = request.result;
-      resolve(photoDb);
-    };
-
-    request.onerror = () => reject(request.error);
-  });
-}
-
-function photoTransaction(mode = "readonly") {
-  return photoDb.transaction(PHOTO_STORE, mode).objectStore(PHOTO_STORE);
-}
-
-async function loadPhotoIndex() {
-  await openPhotoDb();
-
-  return new Promise((resolve, reject) => {
-    const request = photoTransaction().getAll();
-    request.onsuccess = () => {
-      photoIndex = new Map(
-        request.result.map((record) => [
-          record.id,
-          {
-            takenAt: record.takenAt,
-            fileName: record.fileName,
-            size: record.blob?.size || 0,
-          },
-        ]),
-      );
-      resolve(photoIndex);
-    };
-    request.onerror = () => reject(request.error);
-  });
-}
-
-async function getPhotoRecord(id) {
-  await openPhotoDb();
-
-  return new Promise((resolve, reject) => {
-    const request = photoTransaction().get(id);
-    request.onsuccess = () => resolve(request.result || null);
-    request.onerror = () => reject(request.error);
-  });
-}
-
-async function savePhotoRecord(record) {
-  await openPhotoDb();
-
-  return new Promise((resolve, reject) => {
-    const request = photoTransaction("readwrite").put(record);
-    request.onsuccess = () => {
-      photoIndex.set(record.id, {
-        takenAt: record.takenAt,
-        fileName: record.fileName,
-        size: record.blob?.size || 0,
-      });
-      resolve(record);
-    };
-    request.onerror = () => reject(request.error);
-  });
-}
-
-function selectPhotoFile() {
-  return new Promise((resolve) => {
-    const input = document.createElement("input");
-    input.type = "file";
-    input.accept = "image/*";
-    input.capture = "environment";
-    input.addEventListener("change", () => resolve(input.files?.[0] || null), {
-      once: true,
-    });
-    input.click();
-  });
-}
-
-function loadImage(file) {
-  return new Promise((resolve, reject) => {
-    const url = URL.createObjectURL(file);
-    const image = new Image();
-    image.onload = () => {
-      URL.revokeObjectURL(url);
-      resolve(image);
-    };
-    image.onerror = () => {
-      URL.revokeObjectURL(url);
-      reject(new Error("Could not load selected photo."));
-    };
-    image.src = url;
-  });
-}
-
-function stampLines(item, takenAt) {
-  const taken = new Intl.DateTimeFormat("en-US", {
-    dateStyle: "medium",
-    timeStyle: "short",
-  }).format(new Date(takenAt));
-
-  return [
-    `${item.weekday}, ${item.englishDate}`,
-    item.hebrewDate,
-    `${item.tractate} ${item.assignment}`,
-    `Taken ${taken}`,
-  ];
-}
-
-function drawStamp(context, canvas, lines) {
-  const padding = Math.max(18, Math.round(canvas.width * 0.018));
-  const fontSize = Math.max(24, Math.round(canvas.width * 0.026));
-  const lineHeight = Math.round(fontSize * 1.32);
-  const boxHeight = padding * 2 + lineHeight * lines.length;
-  const boxTop = canvas.height - boxHeight;
-
-  context.fillStyle = "rgba(10, 18, 15, 0.72)";
-  context.fillRect(0, boxTop, canvas.width, boxHeight);
-  context.fillStyle = "#ffffff";
-  context.font = `700 ${fontSize}px Segoe UI, Arial, sans-serif`;
-  context.textBaseline = "top";
-  context.textAlign = "left";
-
-  lines.forEach((line, index) => {
-    context.fillText(line, padding, boxTop + padding + index * lineHeight);
-  });
-}
-
-async function createStampedPhoto(file, item) {
-  const image = await loadImage(file);
-  const maxSide = 1600;
-  const scale = Math.min(1, maxSide / Math.max(image.naturalWidth, image.naturalHeight));
-  const canvas = document.createElement("canvas");
-  canvas.width = Math.round(image.naturalWidth * scale);
-  canvas.height = Math.round(image.naturalHeight * scale);
-
-  const context = canvas.getContext("2d");
-  context.drawImage(image, 0, 0, canvas.width, canvas.height);
-  const takenAt = new Date().toISOString();
-  drawStamp(context, canvas, stampLines(item, takenAt));
-
-  const blob = await new Promise((resolve) => {
-    canvas.toBlob(resolve, "image/jpeg", 0.86);
-  });
-
-  if (!blob) {
-    throw new Error("Could not create stamped photo.");
-  }
-
-  return { blob, takenAt };
-}
-
-function photoFileName(item, takenAt) {
-  const time = takenAt.slice(11, 19).replace(/:/g, "-");
-  const study = `${item.tractate}_${item.assignment}`
-    .replace(/[\\/:*?"<>|]/g, "-")
-    .replace(/\s+/g, "_");
-  return `${item.isoDate}_${study}_${time}.jpg`;
-}
-
-async function capturePhoto(item) {
-  const file = await selectPhotoFile();
-  if (!file) {
-    return;
-  }
-
-  try {
-    const { blob, takenAt } = await createStampedPhoto(file, item);
-    await savePhotoRecord({
-      id: item.id,
-      itemId: item.id,
-      takenAt,
-      fileName: photoFileName(item, takenAt),
-      blob,
-    });
-    render();
-  } catch (error) {
-    window.alert(error.message || "The photo could not be saved.");
-  }
-}
-
-function renderPhotoControls(container, item, variant = "list") {
-  const meta = photoIndex.get(item.id);
-  const wrap = document.createElement("div");
-  wrap.className = `photo-controls ${variant}`;
-
-  const button = document.createElement("button");
-  button.className = "photo-button";
-  button.type = "button";
-  button.textContent = meta ? "Replace Photo" : "Add Photo";
-  button.addEventListener("click", () => capturePhoto(item));
-  wrap.append(button);
-
-  if (meta) {
-    const status = document.createElement("span");
-    status.className = "photo-status";
-    status.textContent = `Photo saved ${new Intl.DateTimeFormat("en-US", {
-      month: "short",
-      day: "numeric",
-      hour: "numeric",
-      minute: "2-digit",
-    }).format(new Date(meta.takenAt))}`;
-    wrap.append(status);
-
-    if (variant === "list") {
-      const image = document.createElement("img");
-      image.className = "photo-thumb";
-      image.alt = `Stamped photo for ${shortDate(item)}`;
-      getPhotoRecord(item.id).then((record) => {
-        if (record?.blob && image.isConnected) {
-          const url = URL.createObjectURL(record.blob);
-          image.onload = () => URL.revokeObjectURL(url);
-          image.src = url;
-        }
-      });
-      wrap.append(image);
-    }
-  }
-
-  container.append(wrap);
-}
-
 function todayContext(todayIso) {
   const item = DATA.items.find((entry) => entry.isoDate === todayIso);
   if (item) {
@@ -679,7 +441,6 @@ function renderTask(item, todayIso) {
     render();
   });
 
-  renderPhotoControls(taskMain, item, "list");
 
   return fragment;
 }
@@ -770,7 +531,6 @@ function renderCalendarDay({ date, dayNumber, item, outsideMonth, todayIso }) {
   assignment.className = "calendar-assignment";
   assignment.textContent = item.assignment;
   details.append(hebrewDate, tractate, assignment);
-  renderPhotoControls(details, item, "calendar");
 
   checkbox.addEventListener("change", () => {
     state.completed[item.id] = checkbox.checked;
@@ -964,8 +724,4 @@ elements.todayButton.addEventListener("click", () => {
   render();
 });
 
-loadPhotoIndex()
-  .catch(() => {
-    photoIndex = new Map();
-  })
-  .finally(render);
+render();

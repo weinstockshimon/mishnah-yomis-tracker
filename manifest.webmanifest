@@ -1,7 +1,7 @@
 {
   "name": "Mishnah Yomis Tracker",
   "short_name": "Mishnah Yomis",
-  "description": "Daily Mishnah Yomis study tracker with progress and study photos.",
+  "description": "Daily Mishnah Yomis study tracker with progress and English and Hebrew calendars.",
   "start_url": "/?source=pwa",
   "scope": "/",
   "display": "standalone",

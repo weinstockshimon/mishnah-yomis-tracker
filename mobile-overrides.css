@@ -2,8 +2,7 @@
   position: relative;
 }
 
-.calendar-day .calendar-status,
-.calendar-day .photo-controls.calendar {
+.calendar-day .calendar-status {
   display: none;
 }
 

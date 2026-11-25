@@ -301,43 +301,6 @@ h1 {
   font-weight: 700;
 }
 
-.photo-controls {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 12px;
-}
-
-.photo-button {
-  min-height: 34px;
-  padding: 0 12px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: #ffffff;
-  color: var(--accent-dark);
-  cursor: pointer;
-  font-size: 0.88rem;
-  font-weight: 750;
-}
-
-.photo-button:hover {
-  border-color: var(--accent);
-}
-
-.photo-status {
-  color: var(--muted);
-  font-size: 0.82rem;
-}
-
-.photo-thumb {
-  width: 72px;
-  height: 72px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  object-fit: cover;
-}
-
 .empty-state {
   padding: 28px;
   border: 1px dashed #b7c3bd;
@@ -641,25 +604,6 @@ h1 {
   font-weight: 750;
 }
 
-.photo-controls.calendar {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 4px;
-  margin-top: 6px;
-}
-
-.photo-controls.calendar .photo-button {
-  min-height: 28px;
-  padding: 0 8px;
-  font-size: 0.76rem;
-  justify-self: start;
-}
-
-.photo-controls.calendar .photo-status {
-  font-size: 0.72rem;
-  line-height: 1.2;
-}
-
 @media (max-width: 760px) {
   .app-shell {
     width: min(100% - 18px, 1120px);
@@ -767,25 +711,6 @@ h1 {
     font-size: 1.08rem;
   }
 
-  .photo-controls {
-    margin-top: 9px;
-    gap: 6px;
-  }
-
-  .photo-button {
-    min-height: 32px;
-    font-size: 0.82rem;
-  }
-
-  .photo-status {
-    font-size: 0.76rem;
-  }
-
-  .photo-thumb {
-    width: 58px;
-    height: 58px;
-  }
-
   .calendar-view {
     margin-top: 18px;
     padding-bottom: 12px;
@@ -860,9 +785,8 @@ h1 {
     font-size: 0.98rem;
   }
 
-  .calendar-hebrew,
-  .calendar-assignment,
-  .photo-controls.calendar .photo-status {
+.calendar-hebrew,
+.calendar-assignment {
     font-size: 0.7rem;
   }
 }
