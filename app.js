@@ -1,5 +1,5 @@
 const DATA = window.MISHNAH_YOMIS_DATA;
-const STORAGE_KEY = `mishnah-yomis-progress-v1:${DATA.sourceWorkbook}:${DATA.totalRows}`;
+const STORAGE_KEY = `mishnah-yomis-progress-v1:${DATA.sourceWorkbook}:${DATA.progressStorageRows || DATA.totalRows}`;
 
 const elements = {
   todayWeekday: document.querySelector("#todayWeekday"),
@@ -30,8 +30,12 @@ let calendarLayout = "english";
 const initialCalendarIso = localToday();
 let calendarFocusIso = initialCalendarIso;
 let calendarCursor = monthStart(dateFromIso(calendarFocusIso));
-const hebrewMonths = buildHebrewMonths(DATA.items);
-const holidayLookup = buildHolidayLookup(DATA.items);
+const studyItemsByDate = new Map(DATA.items.map((item) => [item.isoDate, item]));
+const calendarItems = (DATA.calendarDays || DATA.items).map((day) =>
+  studyItemsByDate.get(day.isoDate) || { ...day, id: `calendar:${day.isoDate}`, noStudy: true },
+);
+const hebrewMonths = buildHebrewMonths(calendarItems);
+const holidayLookup = buildHolidayLookup(calendarItems);
 const tractateSegments = buildTractateSegments(DATA.items);
 let hebrewCursorIndex = findHebrewMonthIndex(calendarFocusIso);
 let state = loadState();
@@ -117,7 +121,7 @@ function buildHebrewMonths(items) {
 }
 
 function findHebrewMonthIndex(todayIso) {
-  const itemIndex = DATA.items.findIndex((item) => item.isoDate === todayIso);
+  const itemIndex = calendarItems.findIndex((item) => item.isoDate === todayIso);
   if (itemIndex === -1) {
     return Math.max(0, hebrewMonths.findIndex((month) => month.endIndex >= 0));
   }
@@ -129,7 +133,7 @@ function findHebrewMonthIndex(todayIso) {
 }
 
 function itemForIso(isoDate) {
-  return DATA.items.find((item) => item.isoDate === isoDate);
+  return calendarItems.find((item) => item.isoDate === isoDate);
 }
 
 function splitTractates(tractate) {
@@ -204,11 +208,11 @@ function addHoliday(lookup, item, name) {
     return;
   }
 
-  const names = lookup.get(item.id) || [];
+  const names = lookup.get(item.isoDate) || [];
   if (!names.includes(name)) {
     names.push(name);
   }
-  lookup.set(item.id, names);
+  lookup.set(item.isoDate, names);
 }
 
 function findHebrewItem(items, year, month, day) {
@@ -475,7 +479,7 @@ function renderCalendarDay({ date, dayNumber, item, outsideMonth, todayIso }) {
   dayNumberLabel.textContent = String(dayNumber);
   dayHeader.append(dayNumberLabel);
 
-  if (item) {
+  if (item && !item.noStudy) {
     const statusInfo = statusFor(item, todayIso);
     const label = document.createElement("span");
     label.className = `calendar-status ${statusInfo.className}`.trim();
@@ -492,7 +496,7 @@ function renderCalendarDay({ date, dayNumber, item, outsideMonth, todayIso }) {
 
   cell.classList.toggle("done", state.completed[item.id]);
 
-  const holidays = holidayLookup.get(item.id) || [];
+  const holidays = holidayLookup.get(item.isoDate) || [];
   if (holidays.length) {
     const holidayWrap = document.createElement("div");
     holidayWrap.className = "holiday-list";
@@ -503,6 +507,18 @@ function renderCalendarDay({ date, dayNumber, item, outsideMonth, todayIso }) {
       holidayWrap.append(chip);
     }
     cell.append(holidayWrap);
+  }
+
+  if (item.noStudy) {
+    cell.classList.add("no-study");
+    const hebrewDate = document.createElement("span");
+    hebrewDate.className = "calendar-hebrew";
+    hebrewDate.textContent = item.hebrewDate;
+    const catchUp = document.createElement("span");
+    catchUp.className = "calendar-hebrew";
+    catchUp.textContent = "Catch-up";
+    cell.append(hebrewDate, catchUp);
+    return cell;
   }
 
   const body = document.createElement("div");
@@ -554,7 +570,7 @@ function renderCalendar(todayIso) {
   const month = calendarCursor.getMonth();
   const first = new Date(year, month, 1);
   const start = new Date(year, month, 1 - first.getDay());
-  const itemsByDate = new Map(DATA.items.map((item) => [item.isoDate, item]));
+  const itemsByDate = new Map(calendarItems.map((item) => [item.isoDate, item]));
   const formatter = new Intl.DateTimeFormat("en-US", {
     month: "long",
     year: "numeric",
@@ -588,7 +604,7 @@ function renderHebrewCalendar(todayIso) {
   const cells = [];
 
   for (let offset = leadingDays; offset > 0; offset -= 1) {
-    const outside = DATA.items[month.startIndex - offset];
+    const outside = calendarItems[month.startIndex - offset];
     cells.push({ item: outside, outsideMonth: true });
   }
 
@@ -597,7 +613,7 @@ function renderHebrewCalendar(todayIso) {
   }
 
   while (cells.length < 42) {
-    const next = DATA.items[month.endIndex + (cells.length - leadingDays - month.items.length) + 1];
+    const next = calendarItems[month.endIndex + (cells.length - leadingDays - month.items.length) + 1];
     cells.push({ item: next, outsideMonth: true });
   }
 

@@ -3,7 +3,7 @@ window.MISHNAH_YOMIS_DATA = {
   "sourceSheet": "print",
   "flagColumn": "F",
   "flaggedRows": 500,
-  "totalRows": 1684,
+  "totalRows": 1652,
   "items": [
     {
       "id": "2024-12-19",
@@ -7556,10 +7556,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-09",
       "row": 651,
-      "weekday": "Wednesday",
-      "englishDate": "September 9th 2026",
-      "isoDate": "2026-09-09",
-      "hebrewDate": "27 Elul 5786",
+      "weekday": "Sunday",
+      "englishDate": "October 11th 2026",
+      "isoDate": "2026-10-11",
+      "hebrewDate": "30 Tishrei 5787",
       "tractate": "כתובות",
       "assignment": "13:3-4",
       "sourceFlag": "",
@@ -7568,10 +7568,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-10",
       "row": 652,
-      "weekday": "Thursday",
-      "englishDate": "September 10th 2026",
-      "isoDate": "2026-09-10",
-      "hebrewDate": "28 Elul 5786",
+      "weekday": "Monday",
+      "englishDate": "October 12th 2026",
+      "isoDate": "2026-10-12",
+      "hebrewDate": "1 Cheshvan 5787",
       "tractate": "כתובות",
       "assignment": "13:5-7",
       "sourceFlag": "",
@@ -7580,10 +7580,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-11",
       "row": 653,
-      "weekday": "Friday",
-      "englishDate": "September 11th 2026",
-      "isoDate": "2026-09-11",
-      "hebrewDate": "29 Elul 5786",
+      "weekday": "Tuesday",
+      "englishDate": "October 13th 2026",
+      "isoDate": "2026-10-13",
+      "hebrewDate": "2 Cheshvan 5787",
       "tractate": "כתובות",
       "assignment": "13:8-9",
       "sourceFlag": "",
@@ -7592,10 +7592,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-12",
       "row": 654,
-      "weekday": "Saturday",
-      "englishDate": "September 12th 2026",
-      "isoDate": "2026-09-12",
-      "hebrewDate": "1 Tishrei 5787",
+      "weekday": "Wednesday",
+      "englishDate": "October 14th 2026",
+      "isoDate": "2026-10-14",
+      "hebrewDate": "3 Cheshvan 5787",
       "tractate": "כתובות-נדרים",
       "assignment": "13:10 - 1:1",
       "sourceFlag": "",
@@ -7604,10 +7604,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-13",
       "row": 655,
-      "weekday": "Sunday",
-      "englishDate": "September 13th 2026",
-      "isoDate": "2026-09-13",
-      "hebrewDate": "2 Tishrei 5787",
+      "weekday": "Thursday",
+      "englishDate": "October 15th 2026",
+      "isoDate": "2026-10-15",
+      "hebrewDate": "4 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -7616,10 +7616,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-14",
       "row": 656,
-      "weekday": "Monday",
-      "englishDate": "September 14th 2026",
-      "isoDate": "2026-09-14",
-      "hebrewDate": "3 Tishrei 5787",
+      "weekday": "Friday",
+      "englishDate": "October 16th 2026",
+      "isoDate": "2026-10-16",
+      "hebrewDate": "5 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "1:4-2:2",
       "sourceFlag": "",
@@ -7628,10 +7628,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-15",
       "row": 657,
-      "weekday": "Tuesday",
-      "englishDate": "September 15th 2026",
-      "isoDate": "2026-09-15",
-      "hebrewDate": "4 Tishrei 5787",
+      "weekday": "Saturday",
+      "englishDate": "October 17th 2026",
+      "isoDate": "2026-10-17",
+      "hebrewDate": "6 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "2:3-4",
       "sourceFlag": "",
@@ -7640,10 +7640,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-16",
       "row": 658,
-      "weekday": "Wednesday",
-      "englishDate": "September 16th 2026",
-      "isoDate": "2026-09-16",
-      "hebrewDate": "5 Tishrei 5787",
+      "weekday": "Sunday",
+      "englishDate": "October 18th 2026",
+      "isoDate": "2026-10-18",
+      "hebrewDate": "7 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "2:5-3:2",
       "sourceFlag": "",
@@ -7652,10 +7652,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-17",
       "row": 659,
-      "weekday": "Thursday",
-      "englishDate": "September 17th 2026",
-      "isoDate": "2026-09-17",
-      "hebrewDate": "6 Tishrei 5787",
+      "weekday": "Monday",
+      "englishDate": "October 19th 2026",
+      "isoDate": "2026-10-19",
+      "hebrewDate": "8 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "3:3-4",
       "sourceFlag": "",
@@ -7664,10 +7664,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-18",
       "row": 660,
-      "weekday": "Friday",
-      "englishDate": "September 18th 2026",
-      "isoDate": "2026-09-18",
-      "hebrewDate": "7 Tishrei 5787",
+      "weekday": "Tuesday",
+      "englishDate": "October 20th 2026",
+      "isoDate": "2026-10-20",
+      "hebrewDate": "9 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "3:5-7",
       "sourceFlag": "",
@@ -7676,10 +7676,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-19",
       "row": 661,
-      "weekday": "Saturday",
-      "englishDate": "September 19th 2026",
-      "isoDate": "2026-09-19",
-      "hebrewDate": "8 Tishrei 5787",
+      "weekday": "Wednesday",
+      "englishDate": "October 21st 2026",
+      "isoDate": "2026-10-21",
+      "hebrewDate": "10 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "3:8-9",
       "sourceFlag": "",
@@ -7688,10 +7688,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-20",
       "row": 662,
-      "weekday": "Sunday",
-      "englishDate": "September 20th 2026",
-      "isoDate": "2026-09-20",
-      "hebrewDate": "9 Tishrei 5787",
+      "weekday": "Thursday",
+      "englishDate": "October 22nd 2026",
+      "isoDate": "2026-10-22",
+      "hebrewDate": "11 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "3:10-4:1",
       "sourceFlag": "",
@@ -7700,10 +7700,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-21",
       "row": 663,
-      "weekday": "Monday",
-      "englishDate": "September 21st 2026",
-      "isoDate": "2026-09-21",
-      "hebrewDate": "10 Tishrei 5787",
+      "weekday": "Friday",
+      "englishDate": "October 23rd 2026",
+      "isoDate": "2026-10-23",
+      "hebrewDate": "12 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "4:2-3",
       "sourceFlag": "",
@@ -7712,10 +7712,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-22",
       "row": 664,
-      "weekday": "Tuesday",
-      "englishDate": "September 22nd 2026",
-      "isoDate": "2026-09-22",
-      "hebrewDate": "11 Tishrei 5787",
+      "weekday": "Saturday",
+      "englishDate": "October 24th 2026",
+      "isoDate": "2026-10-24",
+      "hebrewDate": "13 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "4:4-6",
       "sourceFlag": "",
@@ -7724,10 +7724,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-23",
       "row": 665,
-      "weekday": "Wednesday",
-      "englishDate": "September 23rd 2026",
-      "isoDate": "2026-09-23",
-      "hebrewDate": "12 Tishrei 5787",
+      "weekday": "Sunday",
+      "englishDate": "October 25th 2026",
+      "isoDate": "2026-10-25",
+      "hebrewDate": "14 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "4:7-8",
       "sourceFlag": "",
@@ -7736,10 +7736,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-24",
       "row": 666,
-      "weekday": "Thursday",
-      "englishDate": "September 24th 2026",
-      "isoDate": "2026-09-24",
-      "hebrewDate": "13 Tishrei 5787",
+      "weekday": "Monday",
+      "englishDate": "October 26th 2026",
+      "isoDate": "2026-10-26",
+      "hebrewDate": "15 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "5:1-3",
       "sourceFlag": "",
@@ -7748,10 +7748,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-25",
       "row": 667,
-      "weekday": "Friday",
-      "englishDate": "September 25th 2026",
-      "isoDate": "2026-09-25",
-      "hebrewDate": "14 Tishrei 5787",
+      "weekday": "Tuesday",
+      "englishDate": "October 27th 2026",
+      "isoDate": "2026-10-27",
+      "hebrewDate": "16 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "5:4-5",
       "sourceFlag": "",
@@ -7760,10 +7760,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-26",
       "row": 668,
-      "weekday": "Saturday",
-      "englishDate": "September 26th 2026",
-      "isoDate": "2026-09-26",
-      "hebrewDate": "15 Tishrei 5787",
+      "weekday": "Wednesday",
+      "englishDate": "October 28th 2026",
+      "isoDate": "2026-10-28",
+      "hebrewDate": "17 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "5:6-6:2",
       "sourceFlag": "",
@@ -7772,10 +7772,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-27",
       "row": 669,
-      "weekday": "Sunday",
-      "englishDate": "September 27th 2026",
-      "isoDate": "2026-09-27",
-      "hebrewDate": "16 Tishrei 5787",
+      "weekday": "Thursday",
+      "englishDate": "October 29th 2026",
+      "isoDate": "2026-10-29",
+      "hebrewDate": "18 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "6:3-4",
       "sourceFlag": "",
@@ -7784,10 +7784,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-28",
       "row": 670,
-      "weekday": "Monday",
-      "englishDate": "September 28th 2026",
-      "isoDate": "2026-09-28",
-      "hebrewDate": "17 Tishrei 5787",
+      "weekday": "Friday",
+      "englishDate": "October 30th 2026",
+      "isoDate": "2026-10-30",
+      "hebrewDate": "19 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "6:5-7",
       "sourceFlag": "",
@@ -7796,10 +7796,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-29",
       "row": 671,
-      "weekday": "Tuesday",
-      "englishDate": "September 29th 2026",
-      "isoDate": "2026-09-29",
-      "hebrewDate": "18 Tishrei 5787",
+      "weekday": "Saturday",
+      "englishDate": "October 31st 2026",
+      "isoDate": "2026-10-31",
+      "hebrewDate": "20 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "6:8-9",
       "sourceFlag": "",
@@ -7808,10 +7808,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-09-30",
       "row": 672,
-      "weekday": "Wednesday",
-      "englishDate": "September 30th 2026",
-      "isoDate": "2026-09-30",
-      "hebrewDate": "19 Tishrei 5787",
+      "weekday": "Sunday",
+      "englishDate": "November 1st 2026",
+      "isoDate": "2026-11-01",
+      "hebrewDate": "21 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "6:10-7:2",
       "sourceFlag": "",
@@ -7820,10 +7820,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-01",
       "row": 673,
-      "weekday": "Thursday",
-      "englishDate": "October 1st 2026",
-      "isoDate": "2026-10-01",
-      "hebrewDate": "20 Tishrei 5787",
+      "weekday": "Monday",
+      "englishDate": "November 2nd 2026",
+      "isoDate": "2026-11-02",
+      "hebrewDate": "22 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "7:3-4",
       "sourceFlag": "",
@@ -7832,10 +7832,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-02",
       "row": 674,
-      "weekday": "Friday",
-      "englishDate": "October 2nd 2026",
-      "isoDate": "2026-10-02",
-      "hebrewDate": "21 Tishrei 5787",
+      "weekday": "Tuesday",
+      "englishDate": "November 3rd 2026",
+      "isoDate": "2026-11-03",
+      "hebrewDate": "23 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "7:5-7",
       "sourceFlag": "",
@@ -7844,10 +7844,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-03",
       "row": 675,
-      "weekday": "Saturday",
-      "englishDate": "October 3rd 2026",
-      "isoDate": "2026-10-03",
-      "hebrewDate": "22 Tishrei 5787",
+      "weekday": "Wednesday",
+      "englishDate": "November 4th 2026",
+      "isoDate": "2026-11-04",
+      "hebrewDate": "24 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "7:8-9",
       "sourceFlag": "",
@@ -7856,10 +7856,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-04",
       "row": 676,
-      "weekday": "Sunday",
-      "englishDate": "October 4th 2026",
-      "isoDate": "2026-10-04",
-      "hebrewDate": "23 Tishrei 5787",
+      "weekday": "Thursday",
+      "englishDate": "November 5th 2026",
+      "isoDate": "2026-11-05",
+      "hebrewDate": "25 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "8:1-3",
       "sourceFlag": "",
@@ -7868,10 +7868,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-05",
       "row": 677,
-      "weekday": "Monday",
-      "englishDate": "October 5th 2026",
-      "isoDate": "2026-10-05",
-      "hebrewDate": "24 Tishrei 5787",
+      "weekday": "Friday",
+      "englishDate": "November 6th 2026",
+      "isoDate": "2026-11-06",
+      "hebrewDate": "26 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "8:4-5",
       "sourceFlag": "",
@@ -7880,10 +7880,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-06",
       "row": 678,
-      "weekday": "Tuesday",
-      "englishDate": "October 6th 2026",
-      "isoDate": "2026-10-06",
-      "hebrewDate": "25 Tishrei 5787",
+      "weekday": "Saturday",
+      "englishDate": "November 7th 2026",
+      "isoDate": "2026-11-07",
+      "hebrewDate": "27 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "8:6-7",
       "sourceFlag": "",
@@ -7892,10 +7892,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-07",
       "row": 679,
-      "weekday": "Wednesday",
-      "englishDate": "October 7th 2026",
-      "isoDate": "2026-10-07",
-      "hebrewDate": "26 Tishrei 5787",
+      "weekday": "Sunday",
+      "englishDate": "November 8th 2026",
+      "isoDate": "2026-11-08",
+      "hebrewDate": "28 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "9:1-3",
       "sourceFlag": "",
@@ -7904,10 +7904,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-08",
       "row": 680,
-      "weekday": "Thursday",
-      "englishDate": "October 8th 2026",
-      "isoDate": "2026-10-08",
-      "hebrewDate": "27 Tishrei 5787",
+      "weekday": "Monday",
+      "englishDate": "November 9th 2026",
+      "isoDate": "2026-11-09",
+      "hebrewDate": "29 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "9:4-5",
       "sourceFlag": "",
@@ -7916,10 +7916,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-09",
       "row": 681,
-      "weekday": "Friday",
-      "englishDate": "October 9th 2026",
-      "isoDate": "2026-10-09",
-      "hebrewDate": "28 Tishrei 5787",
+      "weekday": "Tuesday",
+      "englishDate": "November 10th 2026",
+      "isoDate": "2026-11-10",
+      "hebrewDate": "30 Cheshvan 5787",
       "tractate": "נדרים",
       "assignment": "9:6-8",
       "sourceFlag": "",
@@ -7928,10 +7928,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-10",
       "row": 682,
-      "weekday": "Saturday",
-      "englishDate": "October 10th 2026",
-      "isoDate": "2026-10-10",
-      "hebrewDate": "29 Tishrei 5787",
+      "weekday": "Wednesday",
+      "englishDate": "November 11th 2026",
+      "isoDate": "2026-11-11",
+      "hebrewDate": "1 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "9:9-10",
       "sourceFlag": "",
@@ -7940,10 +7940,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-11",
       "row": 683,
-      "weekday": "Sunday",
-      "englishDate": "October 11th 2026",
-      "isoDate": "2026-10-11",
-      "hebrewDate": "30 Tishrei 5787",
+      "weekday": "Thursday",
+      "englishDate": "November 12th 2026",
+      "isoDate": "2026-11-12",
+      "hebrewDate": "2 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "10:1-3",
       "sourceFlag": "",
@@ -7952,10 +7952,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-12",
       "row": 684,
-      "weekday": "Monday",
-      "englishDate": "October 12th 2026",
-      "isoDate": "2026-10-12",
-      "hebrewDate": "1 Cheshvan 5787",
+      "weekday": "Friday",
+      "englishDate": "November 13th 2026",
+      "isoDate": "2026-11-13",
+      "hebrewDate": "3 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "10:4-5",
       "sourceFlag": "",
@@ -7964,10 +7964,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-13",
       "row": 685,
-      "weekday": "Tuesday",
-      "englishDate": "October 13th 2026",
-      "isoDate": "2026-10-13",
-      "hebrewDate": "2 Cheshvan 5787",
+      "weekday": "Saturday",
+      "englishDate": "November 14th 2026",
+      "isoDate": "2026-11-14",
+      "hebrewDate": "4 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "10:6-8",
       "sourceFlag": "",
@@ -7976,10 +7976,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-14",
       "row": 686,
-      "weekday": "Wednesday",
-      "englishDate": "October 14th 2026",
-      "isoDate": "2026-10-14",
-      "hebrewDate": "3 Cheshvan 5787",
+      "weekday": "Sunday",
+      "englishDate": "November 15th 2026",
+      "isoDate": "2026-11-15",
+      "hebrewDate": "5 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "11:1-2",
       "sourceFlag": "",
@@ -7988,10 +7988,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-15",
       "row": 687,
-      "weekday": "Thursday",
-      "englishDate": "October 15th 2026",
-      "isoDate": "2026-10-15",
-      "hebrewDate": "4 Cheshvan 5787",
+      "weekday": "Monday",
+      "englishDate": "November 16th 2026",
+      "isoDate": "2026-11-16",
+      "hebrewDate": "6 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "11:3-5",
       "sourceFlag": "",
@@ -8000,10 +8000,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-16",
       "row": 688,
-      "weekday": "Friday",
-      "englishDate": "October 16th 2026",
-      "isoDate": "2026-10-16",
-      "hebrewDate": "5 Cheshvan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "November 17th 2026",
+      "isoDate": "2026-11-17",
+      "hebrewDate": "7 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "11:6-7",
       "sourceFlag": "",
@@ -8012,10 +8012,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-17",
       "row": 689,
-      "weekday": "Saturday",
-      "englishDate": "October 17th 2026",
-      "isoDate": "2026-10-17",
-      "hebrewDate": "6 Cheshvan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "November 18th 2026",
+      "isoDate": "2026-11-18",
+      "hebrewDate": "8 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "11:8-10",
       "sourceFlag": "",
@@ -8024,10 +8024,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-18",
       "row": 690,
-      "weekday": "Sunday",
-      "englishDate": "October 18th 2026",
-      "isoDate": "2026-10-18",
-      "hebrewDate": "7 Cheshvan 5787",
+      "weekday": "Thursday",
+      "englishDate": "November 19th 2026",
+      "isoDate": "2026-11-19",
+      "hebrewDate": "9 Kislev 5787",
       "tractate": "נדרים",
       "assignment": "11:11-12",
       "sourceFlag": "",
@@ -8036,10 +8036,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-19",
       "row": 691,
-      "weekday": "Monday",
-      "englishDate": "October 19th 2026",
-      "isoDate": "2026-10-19",
-      "hebrewDate": "8 Cheshvan 5787",
+      "weekday": "Friday",
+      "englishDate": "November 20th 2026",
+      "isoDate": "2026-11-20",
+      "hebrewDate": "10 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "1:1-3",
       "sourceFlag": "",
@@ -8048,10 +8048,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-20",
       "row": 692,
-      "weekday": "Tuesday",
-      "englishDate": "October 20th 2026",
-      "isoDate": "2026-10-20",
-      "hebrewDate": "9 Cheshvan 5787",
+      "weekday": "Saturday",
+      "englishDate": "November 21st 2026",
+      "isoDate": "2026-11-21",
+      "hebrewDate": "11 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "1:4-5",
       "sourceFlag": "",
@@ -8060,10 +8060,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-21",
       "row": 693,
-      "weekday": "Wednesday",
-      "englishDate": "October 21st 2026",
-      "isoDate": "2026-10-21",
-      "hebrewDate": "10 Cheshvan 5787",
+      "weekday": "Sunday",
+      "englishDate": "November 22nd 2026",
+      "isoDate": "2026-11-22",
+      "hebrewDate": "12 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "1:6-2:1",
       "sourceFlag": "",
@@ -8072,10 +8072,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-22",
       "row": 694,
-      "weekday": "Thursday",
-      "englishDate": "October 22nd 2026",
-      "isoDate": "2026-10-22",
-      "hebrewDate": "11 Cheshvan 5787",
+      "weekday": "Monday",
+      "englishDate": "November 23rd 2026",
+      "isoDate": "2026-11-23",
+      "hebrewDate": "13 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "2:2-3",
       "sourceFlag": "",
@@ -8084,10 +8084,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-23",
       "row": 695,
-      "weekday": "Friday",
-      "englishDate": "October 23rd 2026",
-      "isoDate": "2026-10-23",
-      "hebrewDate": "12 Cheshvan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "November 24th 2026",
+      "isoDate": "2026-11-24",
+      "hebrewDate": "14 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "2:4-6",
       "sourceFlag": "",
@@ -8096,10 +8096,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-24",
       "row": 696,
-      "weekday": "Saturday",
-      "englishDate": "October 24th 2026",
-      "isoDate": "2026-10-24",
-      "hebrewDate": "13 Cheshvan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "November 25th 2026",
+      "isoDate": "2026-11-25",
+      "hebrewDate": "15 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "2:7-8",
       "sourceFlag": "",
@@ -8108,10 +8108,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-25",
       "row": 697,
-      "weekday": "Sunday",
-      "englishDate": "October 25th 2026",
-      "isoDate": "2026-10-25",
-      "hebrewDate": "14 Cheshvan 5787",
+      "weekday": "Thursday",
+      "englishDate": "November 26th 2026",
+      "isoDate": "2026-11-26",
+      "hebrewDate": "16 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "2:9-3:1",
       "sourceFlag": "",
@@ -8120,10 +8120,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-26",
       "row": 698,
-      "weekday": "Monday",
-      "englishDate": "October 26th 2026",
-      "isoDate": "2026-10-26",
-      "hebrewDate": "15 Cheshvan 5787",
+      "weekday": "Friday",
+      "englishDate": "November 27th 2026",
+      "isoDate": "2026-11-27",
+      "hebrewDate": "17 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "3:2-3",
       "sourceFlag": "",
@@ -8132,10 +8132,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-27",
       "row": 699,
-      "weekday": "Tuesday",
-      "englishDate": "October 27th 2026",
-      "isoDate": "2026-10-27",
-      "hebrewDate": "16 Cheshvan 5787",
+      "weekday": "Saturday",
+      "englishDate": "November 28th 2026",
+      "isoDate": "2026-11-28",
+      "hebrewDate": "18 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "3:4-6",
       "sourceFlag": "",
@@ -8144,10 +8144,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-28",
       "row": 700,
-      "weekday": "Wednesday",
-      "englishDate": "October 28th 2026",
-      "isoDate": "2026-10-28",
-      "hebrewDate": "17 Cheshvan 5787",
+      "weekday": "Sunday",
+      "englishDate": "November 29th 2026",
+      "isoDate": "2026-11-29",
+      "hebrewDate": "19 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "3:7-4:1",
       "sourceFlag": "",
@@ -8156,10 +8156,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-29",
       "row": 701,
-      "weekday": "Thursday",
-      "englishDate": "October 29th 2026",
-      "isoDate": "2026-10-29",
-      "hebrewDate": "18 Cheshvan 5787",
+      "weekday": "Monday",
+      "englishDate": "November 30th 2026",
+      "isoDate": "2026-11-30",
+      "hebrewDate": "20 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "4:2-4",
       "sourceFlag": "",
@@ -8168,10 +8168,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-30",
       "row": 702,
-      "weekday": "Friday",
-      "englishDate": "October 30th 2026",
-      "isoDate": "2026-10-30",
-      "hebrewDate": "19 Cheshvan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "December 1st 2026",
+      "isoDate": "2026-12-01",
+      "hebrewDate": "21 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "4:5-6",
       "sourceFlag": "",
@@ -8180,10 +8180,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-10-31",
       "row": 703,
-      "weekday": "Saturday",
-      "englishDate": "October 31st 2026",
-      "isoDate": "2026-10-31",
-      "hebrewDate": "20 Cheshvan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "December 2nd 2026",
+      "isoDate": "2026-12-02",
+      "hebrewDate": "22 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "4:7-5:2",
       "sourceFlag": "",
@@ -8192,10 +8192,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-01",
       "row": 704,
-      "weekday": "Sunday",
-      "englishDate": "November 1st 2026",
-      "isoDate": "2026-11-01",
-      "hebrewDate": "21 Cheshvan 5787",
+      "weekday": "Thursday",
+      "englishDate": "December 3rd 2026",
+      "isoDate": "2026-12-03",
+      "hebrewDate": "23 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "5:3-4",
       "sourceFlag": "",
@@ -8204,10 +8204,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-02",
       "row": 705,
-      "weekday": "Monday",
-      "englishDate": "November 2nd 2026",
-      "isoDate": "2026-11-02",
-      "hebrewDate": "22 Cheshvan 5787",
+      "weekday": "Friday",
+      "englishDate": "December 4th 2026",
+      "isoDate": "2026-12-04",
+      "hebrewDate": "24 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "5:5-7",
       "sourceFlag": "",
@@ -8216,10 +8216,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-03",
       "row": 706,
-      "weekday": "Tuesday",
-      "englishDate": "November 3rd 2026",
-      "isoDate": "2026-11-03",
-      "hebrewDate": "23 Cheshvan 5787",
+      "weekday": "Saturday",
+      "englishDate": "December 5th 2026",
+      "isoDate": "2026-12-05",
+      "hebrewDate": "25 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "6:1-2",
       "sourceFlag": "",
@@ -8228,10 +8228,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-04",
       "row": 707,
-      "weekday": "Wednesday",
-      "englishDate": "November 4th 2026",
-      "isoDate": "2026-11-04",
-      "hebrewDate": "24 Cheshvan 5787",
+      "weekday": "Sunday",
+      "englishDate": "December 6th 2026",
+      "isoDate": "2026-12-06",
+      "hebrewDate": "26 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "6:3-5",
       "sourceFlag": "",
@@ -8240,10 +8240,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-05",
       "row": 708,
-      "weekday": "Thursday",
-      "englishDate": "November 5th 2026",
-      "isoDate": "2026-11-05",
-      "hebrewDate": "25 Cheshvan 5787",
+      "weekday": "Monday",
+      "englishDate": "December 7th 2026",
+      "isoDate": "2026-12-07",
+      "hebrewDate": "27 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "6:6-7",
       "sourceFlag": "",
@@ -8252,10 +8252,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-06",
       "row": 709,
-      "weekday": "Friday",
-      "englishDate": "November 6th 2026",
-      "isoDate": "2026-11-06",
-      "hebrewDate": "26 Cheshvan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "December 8th 2026",
+      "isoDate": "2026-12-08",
+      "hebrewDate": "28 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "6:8-10",
       "sourceFlag": "",
@@ -8264,10 +8264,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-07",
       "row": 710,
-      "weekday": "Saturday",
-      "englishDate": "November 7th 2026",
-      "isoDate": "2026-11-07",
-      "hebrewDate": "27 Cheshvan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "December 9th 2026",
+      "isoDate": "2026-12-09",
+      "hebrewDate": "29 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "6:11-7:1",
       "sourceFlag": "",
@@ -8276,10 +8276,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-08",
       "row": 711,
-      "weekday": "Sunday",
-      "englishDate": "November 8th 2026",
-      "isoDate": "2026-11-08",
-      "hebrewDate": "28 Cheshvan 5787",
+      "weekday": "Thursday",
+      "englishDate": "December 10th 2026",
+      "isoDate": "2026-12-10",
+      "hebrewDate": "30 Kislev 5787",
       "tractate": "נזיר",
       "assignment": "7:2-4",
       "sourceFlag": "",
@@ -8288,10 +8288,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-09",
       "row": 712,
-      "weekday": "Monday",
-      "englishDate": "November 9th 2026",
-      "isoDate": "2026-11-09",
-      "hebrewDate": "29 Cheshvan 5787",
+      "weekday": "Friday",
+      "englishDate": "December 11th 2026",
+      "isoDate": "2026-12-11",
+      "hebrewDate": "1 Teves 5787",
       "tractate": "נזיר",
       "assignment": "8:1-2",
       "sourceFlag": "",
@@ -8300,10 +8300,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-10",
       "row": 713,
-      "weekday": "Tuesday",
-      "englishDate": "November 10th 2026",
-      "isoDate": "2026-11-10",
-      "hebrewDate": "30 Cheshvan 5787",
+      "weekday": "Saturday",
+      "englishDate": "December 12th 2026",
+      "isoDate": "2026-12-12",
+      "hebrewDate": "2 Teves 5787",
       "tractate": "נזיר",
       "assignment": "9:1-3",
       "sourceFlag": "",
@@ -8312,10 +8312,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-11",
       "row": 714,
-      "weekday": "Wednesday",
-      "englishDate": "November 11th 2026",
-      "isoDate": "2026-11-11",
-      "hebrewDate": "1 Kislev 5787",
+      "weekday": "Sunday",
+      "englishDate": "December 13th 2026",
+      "isoDate": "2026-12-13",
+      "hebrewDate": "3 Teves 5787",
       "tractate": "נזיר",
       "assignment": "9:4-5",
       "sourceFlag": "",
@@ -8324,10 +8324,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-12",
       "row": 715,
-      "weekday": "Thursday",
-      "englishDate": "November 12th 2026",
-      "isoDate": "2026-11-12",
-      "hebrewDate": "2 Kislev 5787",
+      "weekday": "Monday",
+      "englishDate": "December 14th 2026",
+      "isoDate": "2026-12-14",
+      "hebrewDate": "4 Teves 5787",
       "tractate": "סוטה",
       "assignment": "1:1-3",
       "sourceFlag": "",
@@ -8336,10 +8336,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-13",
       "row": 716,
-      "weekday": "Friday",
-      "englishDate": "November 13th 2026",
-      "isoDate": "2026-11-13",
-      "hebrewDate": "3 Kislev 5787",
+      "weekday": "Tuesday",
+      "englishDate": "December 15th 2026",
+      "isoDate": "2026-12-15",
+      "hebrewDate": "5 Teves 5787",
       "tractate": "סוטה",
       "assignment": "1:4-5",
       "sourceFlag": "",
@@ -8348,10 +8348,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-14",
       "row": 717,
-      "weekday": "Saturday",
-      "englishDate": "November 14th 2026",
-      "isoDate": "2026-11-14",
-      "hebrewDate": "4 Kislev 5787",
+      "weekday": "Wednesday",
+      "englishDate": "December 16th 2026",
+      "isoDate": "2026-12-16",
+      "hebrewDate": "6 Teves 5787",
       "tractate": "סוטה",
       "assignment": "1:6-8",
       "sourceFlag": "",
@@ -8360,10 +8360,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-15",
       "row": 718,
-      "weekday": "Sunday",
-      "englishDate": "November 15th 2026",
-      "isoDate": "2026-11-15",
-      "hebrewDate": "5 Kislev 5787",
+      "weekday": "Thursday",
+      "englishDate": "December 17th 2026",
+      "isoDate": "2026-12-17",
+      "hebrewDate": "7 Teves 5787",
       "tractate": "סוטה",
       "assignment": "1:9-2:1",
       "sourceFlag": "",
@@ -8372,10 +8372,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-16",
       "row": 719,
-      "weekday": "Monday",
-      "englishDate": "November 16th 2026",
-      "isoDate": "2026-11-16",
-      "hebrewDate": "6 Kislev 5787",
+      "weekday": "Friday",
+      "englishDate": "December 18th 2026",
+      "isoDate": "2026-12-18",
+      "hebrewDate": "8 Teves 5787",
       "tractate": "סוטה",
       "assignment": "2:2-4",
       "sourceFlag": "",
@@ -8384,10 +8384,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-17",
       "row": 720,
-      "weekday": "Tuesday",
-      "englishDate": "November 17th 2026",
-      "isoDate": "2026-11-17",
-      "hebrewDate": "7 Kislev 5787",
+      "weekday": "Saturday",
+      "englishDate": "December 19th 2026",
+      "isoDate": "2026-12-19",
+      "hebrewDate": "9 Teves 5787",
       "tractate": "סוטה",
       "assignment": "2:5-6",
       "sourceFlag": "",
@@ -8396,10 +8396,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-18",
       "row": 721,
-      "weekday": "Wednesday",
-      "englishDate": "November 18th 2026",
-      "isoDate": "2026-11-18",
-      "hebrewDate": "8 Kislev 5787",
+      "weekday": "Sunday",
+      "englishDate": "December 20th 2026",
+      "isoDate": "2026-12-20",
+      "hebrewDate": "10 Teves 5787",
       "tractate": "סוטה",
       "assignment": "3:1-3",
       "sourceFlag": "",
@@ -8408,10 +8408,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-19",
       "row": 722,
-      "weekday": "Thursday",
-      "englishDate": "November 19th 2026",
-      "isoDate": "2026-11-19",
-      "hebrewDate": "9 Kislev 5787",
+      "weekday": "Monday",
+      "englishDate": "December 21st 2026",
+      "isoDate": "2026-12-21",
+      "hebrewDate": "11 Teves 5787",
       "tractate": "סוטה",
       "assignment": "3:4-5",
       "sourceFlag": "",
@@ -8420,10 +8420,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-20",
       "row": 723,
-      "weekday": "Friday",
-      "englishDate": "November 20th 2026",
-      "isoDate": "2026-11-20",
-      "hebrewDate": "10 Kislev 5787",
+      "weekday": "Tuesday",
+      "englishDate": "December 22nd 2026",
+      "isoDate": "2026-12-22",
+      "hebrewDate": "12 Teves 5787",
       "tractate": "סוטה",
       "assignment": "3:6-8",
       "sourceFlag": "",
@@ -8432,10 +8432,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-21",
       "row": 724,
-      "weekday": "Saturday",
-      "englishDate": "November 21st 2026",
-      "isoDate": "2026-11-21",
-      "hebrewDate": "11 Kislev 5787",
+      "weekday": "Wednesday",
+      "englishDate": "December 23rd 2026",
+      "isoDate": "2026-12-23",
+      "hebrewDate": "13 Teves 5787",
       "tractate": "סוטה",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -8444,10 +8444,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-22",
       "row": 725,
-      "weekday": "Sunday",
-      "englishDate": "November 22nd 2026",
-      "isoDate": "2026-11-22",
-      "hebrewDate": "12 Kislev 5787",
+      "weekday": "Thursday",
+      "englishDate": "December 24th 2026",
+      "isoDate": "2026-12-24",
+      "hebrewDate": "14 Teves 5787",
       "tractate": "סוטה",
       "assignment": "4:3-4",
       "sourceFlag": "",
@@ -8456,10 +8456,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-23",
       "row": 726,
-      "weekday": "Monday",
-      "englishDate": "November 23rd 2026",
-      "isoDate": "2026-11-23",
-      "hebrewDate": "13 Kislev 5787",
+      "weekday": "Friday",
+      "englishDate": "December 25th 2026",
+      "isoDate": "2026-12-25",
+      "hebrewDate": "15 Teves 5787",
       "tractate": "סוטה",
       "assignment": "4:5-5:2",
       "sourceFlag": "",
@@ -8468,10 +8468,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-24",
       "row": 727,
-      "weekday": "Tuesday",
-      "englishDate": "November 24th 2026",
-      "isoDate": "2026-11-24",
-      "hebrewDate": "14 Kislev 5787",
+      "weekday": "Saturday",
+      "englishDate": "December 26th 2026",
+      "isoDate": "2026-12-26",
+      "hebrewDate": "16 Teves 5787",
       "tractate": "סוטה",
       "assignment": "5:3-4",
       "sourceFlag": "",
@@ -8480,10 +8480,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-25",
       "row": 728,
-      "weekday": "Wednesday",
-      "englishDate": "November 25th 2026",
-      "isoDate": "2026-11-25",
-      "hebrewDate": "15 Kislev 5787",
+      "weekday": "Sunday",
+      "englishDate": "December 27th 2026",
+      "isoDate": "2026-12-27",
+      "hebrewDate": "17 Teves 5787",
       "tractate": "סוטה",
       "assignment": "5:5-6:2",
       "sourceFlag": "",
@@ -8492,10 +8492,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-26",
       "row": 729,
-      "weekday": "Thursday",
-      "englishDate": "November 26th 2026",
-      "isoDate": "2026-11-26",
-      "hebrewDate": "16 Kislev 5787",
+      "weekday": "Monday",
+      "englishDate": "December 28th 2026",
+      "isoDate": "2026-12-28",
+      "hebrewDate": "18 Teves 5787",
       "tractate": "סוטה",
       "assignment": "6:3-4",
       "sourceFlag": "",
@@ -8504,10 +8504,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-27",
       "row": 730,
-      "weekday": "Friday",
-      "englishDate": "November 27th 2026",
-      "isoDate": "2026-11-27",
-      "hebrewDate": "17 Kislev 5787",
+      "weekday": "Tuesday",
+      "englishDate": "December 29th 2026",
+      "isoDate": "2026-12-29",
+      "hebrewDate": "19 Teves 5787",
       "tractate": "סוטה",
       "assignment": "7:1-3",
       "sourceFlag": "",
@@ -8516,10 +8516,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-28",
       "row": 731,
-      "weekday": "Saturday",
-      "englishDate": "November 28th 2026",
-      "isoDate": "2026-11-28",
-      "hebrewDate": "18 Kislev 5787",
+      "weekday": "Wednesday",
+      "englishDate": "December 30th 2026",
+      "isoDate": "2026-12-30",
+      "hebrewDate": "20 Teves 5787",
       "tractate": "סוטה",
       "assignment": "7:4-5",
       "sourceFlag": "",
@@ -8528,10 +8528,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-29",
       "row": 732,
-      "weekday": "Sunday",
-      "englishDate": "November 29th 2026",
-      "isoDate": "2026-11-29",
-      "hebrewDate": "19 Kislev 5787",
+      "weekday": "Thursday",
+      "englishDate": "December 31st 2026",
+      "isoDate": "2026-12-31",
+      "hebrewDate": "21 Teves 5787",
       "tractate": "סוטה",
       "assignment": "7:6-8",
       "sourceFlag": "",
@@ -8540,10 +8540,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-11-30",
       "row": 733,
-      "weekday": "Monday",
-      "englishDate": "November 30th 2026",
-      "isoDate": "2026-11-30",
-      "hebrewDate": "20 Kislev 5787",
+      "weekday": "Friday",
+      "englishDate": "January 1st 2027",
+      "isoDate": "2027-01-01",
+      "hebrewDate": "22 Teves 5787",
       "tractate": "סוטה",
       "assignment": "8:1-2",
       "sourceFlag": "",
@@ -8552,10 +8552,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-01",
       "row": 734,
-      "weekday": "Tuesday",
-      "englishDate": "December 1st 2026",
-      "isoDate": "2026-12-01",
-      "hebrewDate": "21 Kislev 5787",
+      "weekday": "Saturday",
+      "englishDate": "January 2nd 2027",
+      "isoDate": "2027-01-02",
+      "hebrewDate": "23 Teves 5787",
       "tractate": "סוטה",
       "assignment": "8:3-5",
       "sourceFlag": "",
@@ -8564,10 +8564,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-02",
       "row": 735,
-      "weekday": "Wednesday",
-      "englishDate": "December 2nd 2026",
-      "isoDate": "2026-12-02",
-      "hebrewDate": "22 Kislev 5787",
+      "weekday": "Sunday",
+      "englishDate": "January 3rd 2027",
+      "isoDate": "2027-01-03",
+      "hebrewDate": "24 Teves 5787",
       "tractate": "סוטה",
       "assignment": "8:6-7",
       "sourceFlag": "",
@@ -8576,10 +8576,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-03",
       "row": 736,
-      "weekday": "Thursday",
-      "englishDate": "December 3rd 2026",
-      "isoDate": "2026-12-03",
-      "hebrewDate": "23 Kislev 5787",
+      "weekday": "Monday",
+      "englishDate": "January 4th 2027",
+      "isoDate": "2027-01-04",
+      "hebrewDate": "25 Teves 5787",
       "tractate": "סוטה",
       "assignment": "9:1-3",
       "sourceFlag": "",
@@ -8588,10 +8588,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-04",
       "row": 737,
-      "weekday": "Friday",
-      "englishDate": "December 4th 2026",
-      "isoDate": "2026-12-04",
-      "hebrewDate": "24 Kislev 5787",
+      "weekday": "Tuesday",
+      "englishDate": "January 5th 2027",
+      "isoDate": "2027-01-05",
+      "hebrewDate": "26 Teves 5787",
       "tractate": "סוטה",
       "assignment": "9:4-5",
       "sourceFlag": "",
@@ -8600,10 +8600,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-05",
       "row": 738,
-      "weekday": "Saturday",
-      "englishDate": "December 5th 2026",
-      "isoDate": "2026-12-05",
-      "hebrewDate": "25 Kislev 5787",
+      "weekday": "Wednesday",
+      "englishDate": "January 6th 2027",
+      "isoDate": "2027-01-06",
+      "hebrewDate": "27 Teves 5787",
       "tractate": "סוטה",
       "assignment": "9:6-8",
       "sourceFlag": "",
@@ -8612,10 +8612,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-06",
       "row": 739,
-      "weekday": "Sunday",
-      "englishDate": "December 6th 2026",
-      "isoDate": "2026-12-06",
-      "hebrewDate": "26 Kislev 5787",
+      "weekday": "Thursday",
+      "englishDate": "January 7th 2027",
+      "isoDate": "2027-01-07",
+      "hebrewDate": "28 Teves 5787",
       "tractate": "סוטה",
       "assignment": "9:9-10",
       "sourceFlag": "",
@@ -8624,10 +8624,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-07",
       "row": 740,
-      "weekday": "Monday",
-      "englishDate": "December 7th 2026",
-      "isoDate": "2026-12-07",
-      "hebrewDate": "27 Kislev 5787",
+      "weekday": "Friday",
+      "englishDate": "January 8th 2027",
+      "isoDate": "2027-01-08",
+      "hebrewDate": "29 Teves 5787",
       "tractate": "סוטה",
       "assignment": "9:11-13",
       "sourceFlag": "",
@@ -8636,10 +8636,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-08",
       "row": 741,
-      "weekday": "Tuesday",
-      "englishDate": "December 8th 2026",
-      "isoDate": "2026-12-08",
-      "hebrewDate": "28 Kislev 5787",
+      "weekday": "Saturday",
+      "englishDate": "January 9th 2027",
+      "isoDate": "2027-01-09",
+      "hebrewDate": "1 Shevat 5787",
       "tractate": "סוטה",
       "assignment": "9:14-15",
       "sourceFlag": "",
@@ -8648,10 +8648,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-09",
       "row": 742,
-      "weekday": "Wednesday",
-      "englishDate": "December 9th 2026",
-      "isoDate": "2026-12-09",
-      "hebrewDate": "29 Kislev 5787",
+      "weekday": "Sunday",
+      "englishDate": "January 10th 2027",
+      "isoDate": "2027-01-10",
+      "hebrewDate": "2 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "1:1-3",
       "sourceFlag": "",
@@ -8660,10 +8660,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-10",
       "row": 743,
-      "weekday": "Thursday",
-      "englishDate": "December 10th 2026",
-      "isoDate": "2026-12-10",
-      "hebrewDate": "30 Kislev 5787",
+      "weekday": "Monday",
+      "englishDate": "January 11th 2027",
+      "isoDate": "2027-01-11",
+      "hebrewDate": "3 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "1:4-5",
       "sourceFlag": "",
@@ -8672,10 +8672,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-11",
       "row": 744,
-      "weekday": "Friday",
-      "englishDate": "December 11th 2026",
-      "isoDate": "2026-12-11",
-      "hebrewDate": "1 Teves 5787",
+      "weekday": "Tuesday",
+      "englishDate": "January 12th 2027",
+      "isoDate": "2027-01-12",
+      "hebrewDate": "4 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "1:6-2:2",
       "sourceFlag": "",
@@ -8684,10 +8684,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-12",
       "row": 745,
-      "weekday": "Saturday",
-      "englishDate": "December 12th 2026",
-      "isoDate": "2026-12-12",
-      "hebrewDate": "2 Teves 5787",
+      "weekday": "Wednesday",
+      "englishDate": "January 13th 2027",
+      "isoDate": "2027-01-13",
+      "hebrewDate": "5 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "2:3-4",
       "sourceFlag": "",
@@ -8696,10 +8696,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-13",
       "row": 746,
-      "weekday": "Sunday",
-      "englishDate": "December 13th 2026",
-      "isoDate": "2026-12-13",
-      "hebrewDate": "3 Teves 5787",
+      "weekday": "Thursday",
+      "englishDate": "January 14th 2027",
+      "isoDate": "2027-01-14",
+      "hebrewDate": "6 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "2:5-7",
       "sourceFlag": "",
@@ -8708,10 +8708,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-14",
       "row": 747,
-      "weekday": "Monday",
-      "englishDate": "December 14th 2026",
-      "isoDate": "2026-12-14",
-      "hebrewDate": "4 Teves 5787",
+      "weekday": "Friday",
+      "englishDate": "January 15th 2027",
+      "isoDate": "2027-01-15",
+      "hebrewDate": "7 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "3:1-2",
       "sourceFlag": "",
@@ -8720,10 +8720,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-15",
       "row": 748,
-      "weekday": "Tuesday",
-      "englishDate": "December 15th 2026",
-      "isoDate": "2026-12-15",
-      "hebrewDate": "5 Teves 5787",
+      "weekday": "Saturday",
+      "englishDate": "January 16th 2027",
+      "isoDate": "2027-01-16",
+      "hebrewDate": "8 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "3:3-5",
       "sourceFlag": "",
@@ -8732,10 +8732,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-16",
       "row": 749,
-      "weekday": "Wednesday",
-      "englishDate": "December 16th 2026",
-      "isoDate": "2026-12-16",
-      "hebrewDate": "6 Teves 5787",
+      "weekday": "Sunday",
+      "englishDate": "January 17th 2027",
+      "isoDate": "2027-01-17",
+      "hebrewDate": "9 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "3:6-7",
       "sourceFlag": "",
@@ -8744,10 +8744,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-17",
       "row": 750,
-      "weekday": "Thursday",
-      "englishDate": "December 17th 2026",
-      "isoDate": "2026-12-17",
-      "hebrewDate": "7 Teves 5787",
+      "weekday": "Monday",
+      "englishDate": "January 18th 2027",
+      "isoDate": "2027-01-18",
+      "hebrewDate": "10 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "3:8-4:2",
       "sourceFlag": "",
@@ -8756,10 +8756,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-18",
       "row": 751,
-      "weekday": "Friday",
-      "englishDate": "December 18th 2026",
-      "isoDate": "2026-12-18",
-      "hebrewDate": "8 Teves 5787",
+      "weekday": "Tuesday",
+      "englishDate": "January 19th 2027",
+      "isoDate": "2027-01-19",
+      "hebrewDate": "11 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "4:3-4",
       "sourceFlag": "",
@@ -8768,10 +8768,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-19",
       "row": 752,
-      "weekday": "Saturday",
-      "englishDate": "December 19th 2026",
-      "isoDate": "2026-12-19",
-      "hebrewDate": "9 Teves 5787",
+      "weekday": "Wednesday",
+      "englishDate": "January 20th 2027",
+      "isoDate": "2027-01-20",
+      "hebrewDate": "12 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "4:5-7",
       "sourceFlag": "",
@@ -8780,10 +8780,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-20",
       "row": 753,
-      "weekday": "Sunday",
-      "englishDate": "December 20th 2026",
-      "isoDate": "2026-12-20",
-      "hebrewDate": "10 Teves 5787",
+      "weekday": "Thursday",
+      "englishDate": "January 21st 2027",
+      "isoDate": "2027-01-21",
+      "hebrewDate": "13 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "4:8-9",
       "sourceFlag": "",
@@ -8792,10 +8792,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-21",
       "row": 754,
-      "weekday": "Monday",
-      "englishDate": "December 21st 2026",
-      "isoDate": "2026-12-21",
-      "hebrewDate": "11 Teves 5787",
+      "weekday": "Friday",
+      "englishDate": "January 22nd 2027",
+      "isoDate": "2027-01-22",
+      "hebrewDate": "14 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "5:1-3",
       "sourceFlag": "",
@@ -8804,10 +8804,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-22",
       "row": 755,
-      "weekday": "Tuesday",
-      "englishDate": "December 22nd 2026",
-      "isoDate": "2026-12-22",
-      "hebrewDate": "12 Teves 5787",
+      "weekday": "Saturday",
+      "englishDate": "January 23rd 2027",
+      "isoDate": "2027-01-23",
+      "hebrewDate": "15 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "5:4-5",
       "sourceFlag": "",
@@ -8816,10 +8816,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-23",
       "row": 756,
-      "weekday": "Wednesday",
-      "englishDate": "December 23rd 2026",
-      "isoDate": "2026-12-23",
-      "hebrewDate": "13 Teves 5787",
+      "weekday": "Sunday",
+      "englishDate": "January 24th 2027",
+      "isoDate": "2027-01-24",
+      "hebrewDate": "16 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "5:6-8",
       "sourceFlag": "",
@@ -8828,10 +8828,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-24",
       "row": 757,
-      "weekday": "Thursday",
-      "englishDate": "December 24th 2026",
-      "isoDate": "2026-12-24",
-      "hebrewDate": "14 Teves 5787",
+      "weekday": "Monday",
+      "englishDate": "January 25th 2027",
+      "isoDate": "2027-01-25",
+      "hebrewDate": "17 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "5:9-6:1",
       "sourceFlag": "",
@@ -8840,10 +8840,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-25",
       "row": 758,
-      "weekday": "Friday",
-      "englishDate": "December 25th 2026",
-      "isoDate": "2026-12-25",
-      "hebrewDate": "15 Teves 5787",
+      "weekday": "Tuesday",
+      "englishDate": "January 26th 2027",
+      "isoDate": "2027-01-26",
+      "hebrewDate": "18 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "6:2-4",
       "sourceFlag": "",
@@ -8852,10 +8852,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-26",
       "row": 759,
-      "weekday": "Saturday",
-      "englishDate": "December 26th 2026",
-      "isoDate": "2026-12-26",
-      "hebrewDate": "16 Teves 5787",
+      "weekday": "Wednesday",
+      "englishDate": "January 27th 2027",
+      "isoDate": "2027-01-27",
+      "hebrewDate": "19 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "6:5-6",
       "sourceFlag": "",
@@ -8864,10 +8864,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-27",
       "row": 760,
-      "weekday": "Sunday",
-      "englishDate": "December 27th 2026",
-      "isoDate": "2026-12-27",
-      "hebrewDate": "17 Teves 5787",
+      "weekday": "Thursday",
+      "englishDate": "January 28th 2027",
+      "isoDate": "2027-01-28",
+      "hebrewDate": "20 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "6:7-7:2",
       "sourceFlag": "",
@@ -8876,10 +8876,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-28",
       "row": 761,
-      "weekday": "Monday",
-      "englishDate": "December 28th 2026",
-      "isoDate": "2026-12-28",
-      "hebrewDate": "18 Teves 5787",
+      "weekday": "Friday",
+      "englishDate": "January 29th 2027",
+      "isoDate": "2027-01-29",
+      "hebrewDate": "21 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "7:3-4",
       "sourceFlag": "",
@@ -8888,10 +8888,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-29",
       "row": 762,
-      "weekday": "Tuesday",
-      "englishDate": "December 29th 2026",
-      "isoDate": "2026-12-29",
-      "hebrewDate": "19 Teves 5787",
+      "weekday": "Saturday",
+      "englishDate": "January 30th 2027",
+      "isoDate": "2027-01-30",
+      "hebrewDate": "22 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "7:5-7",
       "sourceFlag": "",
@@ -8900,10 +8900,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-30",
       "row": 763,
-      "weekday": "Wednesday",
-      "englishDate": "December 30th 2026",
-      "isoDate": "2026-12-30",
-      "hebrewDate": "20 Teves 5787",
+      "weekday": "Sunday",
+      "englishDate": "January 31st 2027",
+      "isoDate": "2027-01-31",
+      "hebrewDate": "23 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "7:8-9",
       "sourceFlag": "",
@@ -8912,10 +8912,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2026-12-31",
       "row": 764,
-      "weekday": "Thursday",
-      "englishDate": "December 31st 2026",
-      "isoDate": "2026-12-31",
-      "hebrewDate": "21 Teves 5787",
+      "weekday": "Monday",
+      "englishDate": "February 1st 2027",
+      "isoDate": "2027-02-01",
+      "hebrewDate": "24 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "8:1-3",
       "sourceFlag": "",
@@ -8924,10 +8924,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-01",
       "row": 765,
-      "weekday": "Friday",
-      "englishDate": "January 1st 2027",
-      "isoDate": "2027-01-01",
-      "hebrewDate": "22 Teves 5787",
+      "weekday": "Tuesday",
+      "englishDate": "February 2nd 2027",
+      "isoDate": "2027-02-02",
+      "hebrewDate": "25 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "8:4-5",
       "sourceFlag": "",
@@ -8936,10 +8936,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-02",
       "row": 766,
-      "weekday": "Saturday",
-      "englishDate": "January 2nd 2027",
-      "isoDate": "2027-01-02",
-      "hebrewDate": "23 Teves 5787",
+      "weekday": "Wednesday",
+      "englishDate": "February 3rd 2027",
+      "isoDate": "2027-02-03",
+      "hebrewDate": "26 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "8:6-8",
       "sourceFlag": "",
@@ -8948,10 +8948,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-03",
       "row": 767,
-      "weekday": "Sunday",
-      "englishDate": "January 3rd 2027",
-      "isoDate": "2027-01-03",
-      "hebrewDate": "24 Teves 5787",
+      "weekday": "Thursday",
+      "englishDate": "February 4th 2027",
+      "isoDate": "2027-02-04",
+      "hebrewDate": "27 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "8:9-10",
       "sourceFlag": "",
@@ -8960,10 +8960,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-04",
       "row": 768,
-      "weekday": "Monday",
-      "englishDate": "January 4th 2027",
-      "isoDate": "2027-01-04",
-      "hebrewDate": "25 Teves 5787",
+      "weekday": "Friday",
+      "englishDate": "February 5th 2027",
+      "isoDate": "2027-02-05",
+      "hebrewDate": "28 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "9:1-3",
       "sourceFlag": "",
@@ -8972,10 +8972,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-05",
       "row": 769,
-      "weekday": "Tuesday",
-      "englishDate": "January 5th 2027",
-      "isoDate": "2027-01-05",
-      "hebrewDate": "26 Teves 5787",
+      "weekday": "Saturday",
+      "englishDate": "February 6th 2027",
+      "isoDate": "2027-02-06",
+      "hebrewDate": "29 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "9:4-5",
       "sourceFlag": "",
@@ -8984,10 +8984,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-06",
       "row": 770,
-      "weekday": "Wednesday",
-      "englishDate": "January 6th 2027",
-      "isoDate": "2027-01-06",
-      "hebrewDate": "27 Teves 5787",
+      "weekday": "Sunday",
+      "englishDate": "February 7th 2027",
+      "isoDate": "2027-02-07",
+      "hebrewDate": "30 Shevat 5787",
       "tractate": "גיטין",
       "assignment": "9:6-8",
       "sourceFlag": "",
@@ -8996,10 +8996,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-07",
       "row": 771,
-      "weekday": "Thursday",
-      "englishDate": "January 7th 2027",
-      "isoDate": "2027-01-07",
-      "hebrewDate": "28 Teves 5787",
+      "weekday": "Monday",
+      "englishDate": "February 8th 2027",
+      "isoDate": "2027-02-08",
+      "hebrewDate": "1 Adar I 5787",
       "tractate": "גיטין",
       "assignment": "9:9-10",
       "sourceFlag": "",
@@ -9008,10 +9008,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-08",
       "row": 772,
-      "weekday": "Friday",
-      "englishDate": "January 8th 2027",
-      "isoDate": "2027-01-08",
-      "hebrewDate": "29 Teves 5787",
+      "weekday": "Tuesday",
+      "englishDate": "February 9th 2027",
+      "isoDate": "2027-02-09",
+      "hebrewDate": "2 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -9020,10 +9020,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-09",
       "row": 773,
-      "weekday": "Saturday",
-      "englishDate": "January 9th 2027",
-      "isoDate": "2027-01-09",
-      "hebrewDate": "1 Shevat 5787",
+      "weekday": "Wednesday",
+      "englishDate": "February 10th 2027",
+      "isoDate": "2027-02-10",
+      "hebrewDate": "3 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "1:3-5",
       "sourceFlag": "",
@@ -9032,10 +9032,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-10",
       "row": 774,
-      "weekday": "Sunday",
-      "englishDate": "January 10th 2027",
-      "isoDate": "2027-01-10",
-      "hebrewDate": "2 Shevat 5787",
+      "weekday": "Thursday",
+      "englishDate": "February 11th 2027",
+      "isoDate": "2027-02-11",
+      "hebrewDate": "4 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "1:6-7",
       "sourceFlag": "",
@@ -9044,10 +9044,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-11",
       "row": 775,
-      "weekday": "Monday",
-      "englishDate": "January 11th 2027",
-      "isoDate": "2027-01-11",
-      "hebrewDate": "3 Shevat 5787",
+      "weekday": "Friday",
+      "englishDate": "February 12th 2027",
+      "isoDate": "2027-02-12",
+      "hebrewDate": "5 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "1:8-10",
       "sourceFlag": "",
@@ -9056,10 +9056,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-12",
       "row": 776,
-      "weekday": "Tuesday",
-      "englishDate": "January 12th 2027",
-      "isoDate": "2027-01-12",
-      "hebrewDate": "4 Shevat 5787",
+      "weekday": "Saturday",
+      "englishDate": "February 13th 2027",
+      "isoDate": "2027-02-13",
+      "hebrewDate": "6 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "2:1-2",
       "sourceFlag": "",
@@ -9068,10 +9068,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-13",
       "row": 777,
-      "weekday": "Wednesday",
-      "englishDate": "January 13th 2027",
-      "isoDate": "2027-01-13",
-      "hebrewDate": "5 Shevat 5787",
+      "weekday": "Sunday",
+      "englishDate": "February 14th 2027",
+      "isoDate": "2027-02-14",
+      "hebrewDate": "7 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "2:3-5",
       "sourceFlag": "",
@@ -9080,10 +9080,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-14",
       "row": 778,
-      "weekday": "Thursday",
-      "englishDate": "January 14th 2027",
-      "isoDate": "2027-01-14",
-      "hebrewDate": "6 Shevat 5787",
+      "weekday": "Monday",
+      "englishDate": "February 15th 2027",
+      "isoDate": "2027-02-15",
+      "hebrewDate": "8 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "2:6-7",
       "sourceFlag": "",
@@ -9092,10 +9092,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-15",
       "row": 779,
-      "weekday": "Friday",
-      "englishDate": "January 15th 2027",
-      "isoDate": "2027-01-15",
-      "hebrewDate": "7 Shevat 5787",
+      "weekday": "Tuesday",
+      "englishDate": "February 16th 2027",
+      "isoDate": "2027-02-16",
+      "hebrewDate": "9 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "2:8-10",
       "sourceFlag": "",
@@ -9104,10 +9104,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-16",
       "row": 780,
-      "weekday": "Saturday",
-      "englishDate": "January 16th 2027",
-      "isoDate": "2027-01-16",
-      "hebrewDate": "8 Shevat 5787",
+      "weekday": "Wednesday",
+      "englishDate": "February 17th 2027",
+      "isoDate": "2027-02-17",
+      "hebrewDate": "10 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "3:1-2",
       "sourceFlag": "",
@@ -9116,10 +9116,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-17",
       "row": 781,
-      "weekday": "Sunday",
-      "englishDate": "January 17th 2027",
-      "isoDate": "2027-01-17",
-      "hebrewDate": "9 Shevat 5787",
+      "weekday": "Thursday",
+      "englishDate": "February 18th 2027",
+      "isoDate": "2027-02-18",
+      "hebrewDate": "11 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "3:3-5",
       "sourceFlag": "",
@@ -9128,10 +9128,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-18",
       "row": 782,
-      "weekday": "Monday",
-      "englishDate": "January 18th 2027",
-      "isoDate": "2027-01-18",
-      "hebrewDate": "10 Shevat 5787",
+      "weekday": "Friday",
+      "englishDate": "February 19th 2027",
+      "isoDate": "2027-02-19",
+      "hebrewDate": "12 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "3:6-7",
       "sourceFlag": "",
@@ -9140,10 +9140,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-19",
       "row": 783,
-      "weekday": "Tuesday",
-      "englishDate": "January 19th 2027",
-      "isoDate": "2027-01-19",
-      "hebrewDate": "11 Shevat 5787",
+      "weekday": "Saturday",
+      "englishDate": "February 20th 2027",
+      "isoDate": "2027-02-20",
+      "hebrewDate": "13 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "3:8-10",
       "sourceFlag": "",
@@ -9152,10 +9152,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-20",
       "row": 784,
-      "weekday": "Wednesday",
-      "englishDate": "January 20th 2027",
-      "isoDate": "2027-01-20",
-      "hebrewDate": "12 Shevat 5787",
+      "weekday": "Sunday",
+      "englishDate": "February 21st 2027",
+      "isoDate": "2027-02-21",
+      "hebrewDate": "14 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "3:11-12",
       "sourceFlag": "",
@@ -9164,10 +9164,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-21",
       "row": 785,
-      "weekday": "Thursday",
-      "englishDate": "January 21st 2027",
-      "isoDate": "2027-01-21",
-      "hebrewDate": "13 Shevat 5787",
+      "weekday": "Monday",
+      "englishDate": "February 22nd 2027",
+      "isoDate": "2027-02-22",
+      "hebrewDate": "15 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "3:13-4:2",
       "sourceFlag": "",
@@ -9176,10 +9176,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-22",
       "row": 786,
-      "weekday": "Friday",
-      "englishDate": "January 22nd 2027",
-      "isoDate": "2027-01-22",
-      "hebrewDate": "14 Shevat 5787",
+      "weekday": "Tuesday",
+      "englishDate": "February 23rd 2027",
+      "isoDate": "2027-02-23",
+      "hebrewDate": "16 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "4:3-4",
       "sourceFlag": "",
@@ -9188,10 +9188,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-23",
       "row": 787,
-      "weekday": "Saturday",
-      "englishDate": "January 23rd 2027",
-      "isoDate": "2027-01-23",
-      "hebrewDate": "15 Shevat 5787",
+      "weekday": "Wednesday",
+      "englishDate": "February 24th 2027",
+      "isoDate": "2027-02-24",
+      "hebrewDate": "17 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "4:5-7",
       "sourceFlag": "",
@@ -9200,10 +9200,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-24",
       "row": 788,
-      "weekday": "Sunday",
-      "englishDate": "January 24th 2027",
-      "isoDate": "2027-01-24",
-      "hebrewDate": "16 Shevat 5787",
+      "weekday": "Thursday",
+      "englishDate": "February 25th 2027",
+      "isoDate": "2027-02-25",
+      "hebrewDate": "18 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "4:8-9",
       "sourceFlag": "",
@@ -9212,10 +9212,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-25",
       "row": 789,
-      "weekday": "Monday",
-      "englishDate": "January 25th 2027",
-      "isoDate": "2027-01-25",
-      "hebrewDate": "17 Shevat 5787",
+      "weekday": "Friday",
+      "englishDate": "February 26th 2027",
+      "isoDate": "2027-02-26",
+      "hebrewDate": "19 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "4:10-12",
       "sourceFlag": "",
@@ -9224,10 +9224,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-26",
       "row": 790,
-      "weekday": "Tuesday",
-      "englishDate": "January 26th 2027",
-      "isoDate": "2027-01-26",
-      "hebrewDate": "18 Shevat 5787",
+      "weekday": "Saturday",
+      "englishDate": "February 27th 2027",
+      "isoDate": "2027-02-27",
+      "hebrewDate": "20 Adar I 5787",
       "tractate": "קידושין",
       "assignment": "4:13-14",
       "sourceFlag": "",
@@ -9236,10 +9236,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-27",
       "row": 791,
-      "weekday": "Wednesday",
-      "englishDate": "January 27th 2027",
-      "isoDate": "2027-01-27",
-      "hebrewDate": "19 Shevat 5787",
+      "weekday": "Sunday",
+      "englishDate": "February 28th 2027",
+      "isoDate": "2027-02-28",
+      "hebrewDate": "21 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "1:1-3",
       "sourceFlag": "",
@@ -9248,10 +9248,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-28",
       "row": 792,
-      "weekday": "Thursday",
-      "englishDate": "January 28th 2027",
-      "isoDate": "2027-01-28",
-      "hebrewDate": "20 Shevat 5787",
+      "weekday": "Monday",
+      "englishDate": "March 1st 2027",
+      "isoDate": "2027-03-01",
+      "hebrewDate": "22 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "1:4-2:1",
       "sourceFlag": "",
@@ -9260,10 +9260,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-29",
       "row": 793,
-      "weekday": "Friday",
-      "englishDate": "January 29th 2027",
-      "isoDate": "2027-01-29",
-      "hebrewDate": "21 Shevat 5787",
+      "weekday": "Tuesday",
+      "englishDate": "March 2nd 2027",
+      "isoDate": "2027-03-02",
+      "hebrewDate": "23 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "2:2-4",
       "sourceFlag": "",
@@ -9272,10 +9272,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-30",
       "row": 794,
-      "weekday": "Saturday",
-      "englishDate": "January 30th 2027",
-      "isoDate": "2027-01-30",
-      "hebrewDate": "22 Shevat 5787",
+      "weekday": "Wednesday",
+      "englishDate": "March 3rd 2027",
+      "isoDate": "2027-03-03",
+      "hebrewDate": "24 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "2:5-6",
       "sourceFlag": "",
@@ -9284,10 +9284,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-01-31",
       "row": 795,
-      "weekday": "Sunday",
-      "englishDate": "January 31st 2027",
-      "isoDate": "2027-01-31",
-      "hebrewDate": "23 Shevat 5787",
+      "weekday": "Thursday",
+      "englishDate": "March 4th 2027",
+      "isoDate": "2027-03-04",
+      "hebrewDate": "25 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "3:1-3",
       "sourceFlag": "",
@@ -9296,10 +9296,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-01",
       "row": 796,
-      "weekday": "Monday",
-      "englishDate": "February 1st 2027",
-      "isoDate": "2027-02-01",
-      "hebrewDate": "24 Shevat 5787",
+      "weekday": "Friday",
+      "englishDate": "March 5th 2027",
+      "isoDate": "2027-03-05",
+      "hebrewDate": "26 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "3:4-5",
       "sourceFlag": "",
@@ -9308,10 +9308,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-02",
       "row": 797,
-      "weekday": "Tuesday",
-      "englishDate": "February 2nd 2027",
-      "isoDate": "2027-02-02",
-      "hebrewDate": "25 Shevat 5787",
+      "weekday": "Saturday",
+      "englishDate": "March 6th 2027",
+      "isoDate": "2027-03-06",
+      "hebrewDate": "27 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "3:6-8",
       "sourceFlag": "",
@@ -9320,10 +9320,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-03",
       "row": 798,
-      "weekday": "Wednesday",
-      "englishDate": "February 3rd 2027",
-      "isoDate": "2027-02-03",
-      "hebrewDate": "26 Shevat 5787",
+      "weekday": "Sunday",
+      "englishDate": "March 7th 2027",
+      "isoDate": "2027-03-07",
+      "hebrewDate": "28 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "3:9-10",
       "sourceFlag": "",
@@ -9332,10 +9332,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-04",
       "row": 799,
-      "weekday": "Thursday",
-      "englishDate": "February 4th 2027",
-      "isoDate": "2027-02-04",
-      "hebrewDate": "27 Shevat 5787",
+      "weekday": "Monday",
+      "englishDate": "March 8th 2027",
+      "isoDate": "2027-03-08",
+      "hebrewDate": "29 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "3:11-4:2",
       "sourceFlag": "",
@@ -9344,10 +9344,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-05",
       "row": 800,
-      "weekday": "Friday",
-      "englishDate": "February 5th 2027",
-      "isoDate": "2027-02-05",
-      "hebrewDate": "28 Shevat 5787",
+      "weekday": "Tuesday",
+      "englishDate": "March 9th 2027",
+      "isoDate": "2027-03-09",
+      "hebrewDate": "30 Adar I 5787",
       "tractate": "בבא קמא",
       "assignment": "4:3-4",
       "sourceFlag": "",
@@ -9356,10 +9356,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-06",
       "row": 801,
-      "weekday": "Saturday",
-      "englishDate": "February 6th 2027",
-      "isoDate": "2027-02-06",
-      "hebrewDate": "29 Shevat 5787",
+      "weekday": "Wednesday",
+      "englishDate": "March 10th 2027",
+      "isoDate": "2027-03-10",
+      "hebrewDate": "1 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "4:5-7",
       "sourceFlag": "",
@@ -9368,10 +9368,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-07",
       "row": 802,
-      "weekday": "Sunday",
-      "englishDate": "February 7th 2027",
-      "isoDate": "2027-02-07",
-      "hebrewDate": "30 Shevat 5787",
+      "weekday": "Thursday",
+      "englishDate": "March 11th 2027",
+      "isoDate": "2027-03-11",
+      "hebrewDate": "2 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "4:8-9",
       "sourceFlag": "",
@@ -9380,10 +9380,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-08",
       "row": 803,
-      "weekday": "Monday",
-      "englishDate": "February 8th 2027",
-      "isoDate": "2027-02-08",
-      "hebrewDate": "1 Adar I 5787",
+      "weekday": "Friday",
+      "englishDate": "March 12th 2027",
+      "isoDate": "2027-03-12",
+      "hebrewDate": "3 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "5:1-3",
       "sourceFlag": "",
@@ -9392,10 +9392,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-09",
       "row": 804,
-      "weekday": "Tuesday",
-      "englishDate": "February 9th 2027",
-      "isoDate": "2027-02-09",
-      "hebrewDate": "2 Adar I 5787",
+      "weekday": "Saturday",
+      "englishDate": "March 13th 2027",
+      "isoDate": "2027-03-13",
+      "hebrewDate": "4 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "5:4-5",
       "sourceFlag": "",
@@ -9404,10 +9404,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-10",
       "row": 805,
-      "weekday": "Wednesday",
-      "englishDate": "February 10th 2027",
-      "isoDate": "2027-02-10",
-      "hebrewDate": "3 Adar I 5787",
+      "weekday": "Sunday",
+      "englishDate": "March 14th 2027",
+      "isoDate": "2027-03-14",
+      "hebrewDate": "5 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "5:6-6:1",
       "sourceFlag": "",
@@ -9416,10 +9416,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-11",
       "row": 806,
-      "weekday": "Thursday",
-      "englishDate": "February 11th 2027",
-      "isoDate": "2027-02-11",
-      "hebrewDate": "4 Adar I 5787",
+      "weekday": "Monday",
+      "englishDate": "March 15th 2027",
+      "isoDate": "2027-03-15",
+      "hebrewDate": "6 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "6:2-3",
       "sourceFlag": "",
@@ -9428,10 +9428,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-12",
       "row": 807,
-      "weekday": "Friday",
-      "englishDate": "February 12th 2027",
-      "isoDate": "2027-02-12",
-      "hebrewDate": "5 Adar I 5787",
+      "weekday": "Tuesday",
+      "englishDate": "March 16th 2027",
+      "isoDate": "2027-03-16",
+      "hebrewDate": "7 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "6:4-6",
       "sourceFlag": "",
@@ -9440,10 +9440,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-13",
       "row": 808,
-      "weekday": "Saturday",
-      "englishDate": "February 13th 2027",
-      "isoDate": "2027-02-13",
-      "hebrewDate": "6 Adar I 5787",
+      "weekday": "Wednesday",
+      "englishDate": "March 17th 2027",
+      "isoDate": "2027-03-17",
+      "hebrewDate": "8 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "7:1-2",
       "sourceFlag": "",
@@ -9452,10 +9452,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-14",
       "row": 809,
-      "weekday": "Sunday",
-      "englishDate": "February 14th 2027",
-      "isoDate": "2027-02-14",
-      "hebrewDate": "7 Adar I 5787",
+      "weekday": "Thursday",
+      "englishDate": "March 18th 2027",
+      "isoDate": "2027-03-18",
+      "hebrewDate": "9 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "7:3-5",
       "sourceFlag": "",
@@ -9464,10 +9464,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-15",
       "row": 810,
-      "weekday": "Monday",
-      "englishDate": "February 15th 2027",
-      "isoDate": "2027-02-15",
-      "hebrewDate": "8 Adar I 5787",
+      "weekday": "Friday",
+      "englishDate": "March 19th 2027",
+      "isoDate": "2027-03-19",
+      "hebrewDate": "10 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "7:6-7",
       "sourceFlag": "",
@@ -9476,10 +9476,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-16",
       "row": 811,
-      "weekday": "Tuesday",
-      "englishDate": "February 16th 2027",
-      "isoDate": "2027-02-16",
-      "hebrewDate": "9 Adar I 5787",
+      "weekday": "Saturday",
+      "englishDate": "March 20th 2027",
+      "isoDate": "2027-03-20",
+      "hebrewDate": "11 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "8:1-3",
       "sourceFlag": "",
@@ -9488,10 +9488,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-17",
       "row": 812,
-      "weekday": "Wednesday",
-      "englishDate": "February 17th 2027",
-      "isoDate": "2027-02-17",
-      "hebrewDate": "10 Adar I 5787",
+      "weekday": "Sunday",
+      "englishDate": "March 21st 2027",
+      "isoDate": "2027-03-21",
+      "hebrewDate": "12 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "8:4-5",
       "sourceFlag": "",
@@ -9500,10 +9500,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-18",
       "row": 813,
-      "weekday": "Thursday",
-      "englishDate": "February 18th 2027",
-      "isoDate": "2027-02-18",
-      "hebrewDate": "11 Adar I 5787",
+      "weekday": "Monday",
+      "englishDate": "March 22nd 2027",
+      "isoDate": "2027-03-22",
+      "hebrewDate": "13 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "8:6-9:1",
       "sourceFlag": "",
@@ -9512,10 +9512,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-19",
       "row": 814,
-      "weekday": "Friday",
-      "englishDate": "February 19th 2027",
-      "isoDate": "2027-02-19",
-      "hebrewDate": "12 Adar I 5787",
+      "weekday": "Tuesday",
+      "englishDate": "March 23rd 2027",
+      "isoDate": "2027-03-23",
+      "hebrewDate": "14 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "9:2-3",
       "sourceFlag": "",
@@ -9524,10 +9524,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-20",
       "row": 815,
-      "weekday": "Saturday",
-      "englishDate": "February 20th 2027",
-      "isoDate": "2027-02-20",
-      "hebrewDate": "13 Adar I 5787",
+      "weekday": "Wednesday",
+      "englishDate": "March 24th 2027",
+      "isoDate": "2027-03-24",
+      "hebrewDate": "15 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "9:4-6",
       "sourceFlag": "",
@@ -9536,10 +9536,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-21",
       "row": 816,
-      "weekday": "Sunday",
-      "englishDate": "February 21st 2027",
-      "isoDate": "2027-02-21",
-      "hebrewDate": "14 Adar I 5787",
+      "weekday": "Thursday",
+      "englishDate": "March 25th 2027",
+      "isoDate": "2027-03-25",
+      "hebrewDate": "16 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "9:7-8",
       "sourceFlag": "",
@@ -9548,10 +9548,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-22",
       "row": 817,
-      "weekday": "Monday",
-      "englishDate": "February 22nd 2027",
-      "isoDate": "2027-02-22",
-      "hebrewDate": "15 Adar I 5787",
+      "weekday": "Friday",
+      "englishDate": "March 26th 2027",
+      "isoDate": "2027-03-26",
+      "hebrewDate": "17 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "9:9-11",
       "sourceFlag": "",
@@ -9560,10 +9560,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-23",
       "row": 818,
-      "weekday": "Tuesday",
-      "englishDate": "February 23rd 2027",
-      "isoDate": "2027-02-23",
-      "hebrewDate": "16 Adar I 5787",
+      "weekday": "Saturday",
+      "englishDate": "March 27th 2027",
+      "isoDate": "2027-03-27",
+      "hebrewDate": "18 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "9:12-10:1",
       "sourceFlag": "",
@@ -9572,10 +9572,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-24",
       "row": 819,
-      "weekday": "Wednesday",
-      "englishDate": "February 24th 2027",
-      "isoDate": "2027-02-24",
-      "hebrewDate": "17 Adar I 5787",
+      "weekday": "Sunday",
+      "englishDate": "March 28th 2027",
+      "isoDate": "2027-03-28",
+      "hebrewDate": "19 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "10:2-3",
       "sourceFlag": "",
@@ -9584,10 +9584,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-25",
       "row": 820,
-      "weekday": "Thursday",
-      "englishDate": "February 25th 2027",
-      "isoDate": "2027-02-25",
-      "hebrewDate": "18 Adar I 5787",
+      "weekday": "Monday",
+      "englishDate": "March 29th 2027",
+      "isoDate": "2027-03-29",
+      "hebrewDate": "20 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "10:4-6",
       "sourceFlag": "",
@@ -9596,10 +9596,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-26",
       "row": 821,
-      "weekday": "Friday",
-      "englishDate": "February 26th 2027",
-      "isoDate": "2027-02-26",
-      "hebrewDate": "19 Adar I 5787",
+      "weekday": "Tuesday",
+      "englishDate": "March 30th 2027",
+      "isoDate": "2027-03-30",
+      "hebrewDate": "21 Adar II 5787",
       "tractate": "בבא קמא",
       "assignment": "10:7-8",
       "sourceFlag": "",
@@ -9608,10 +9608,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-27",
       "row": 822,
-      "weekday": "Saturday",
-      "englishDate": "February 27th 2027",
-      "isoDate": "2027-02-27",
-      "hebrewDate": "20 Adar I 5787",
+      "weekday": "Wednesday",
+      "englishDate": "March 31st 2027",
+      "isoDate": "2027-03-31",
+      "hebrewDate": "22 Adar II 5787",
       "tractate": "בבא קמא-בבא מציעא",
       "assignment": "10:9 -1:1",
       "sourceFlag": "",
@@ -9620,10 +9620,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-02-28",
       "row": 823,
-      "weekday": "Sunday",
-      "englishDate": "February 28th 2027",
-      "isoDate": "2027-02-28",
-      "hebrewDate": "21 Adar I 5787",
+      "weekday": "Thursday",
+      "englishDate": "April 1st 2027",
+      "isoDate": "2027-04-01",
+      "hebrewDate": "23 Adar II 5787",
       "tractate": "בבא מציעא",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -9632,10 +9632,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-01",
       "row": 824,
-      "weekday": "Monday",
-      "englishDate": "March 1st 2027",
-      "isoDate": "2027-03-01",
-      "hebrewDate": "22 Adar I 5787",
+      "weekday": "Friday",
+      "englishDate": "April 2nd 2027",
+      "isoDate": "2027-04-02",
+      "hebrewDate": "24 Adar II 5787",
       "tractate": "בבא מציעא",
       "assignment": "1:4-6",
       "sourceFlag": "",
@@ -9644,10 +9644,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-02",
       "row": 825,
-      "weekday": "Tuesday",
-      "englishDate": "March 2nd 2027",
-      "isoDate": "2027-03-02",
-      "hebrewDate": "23 Adar I 5787",
+      "weekday": "Saturday",
+      "englishDate": "April 3rd 2027",
+      "isoDate": "2027-04-03",
+      "hebrewDate": "25 Adar II 5787",
       "tractate": "בבא מציעא",
       "assignment": "1:7-8",
       "sourceFlag": "",
@@ -9656,10 +9656,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-03",
       "row": 826,
-      "weekday": "Wednesday",
-      "englishDate": "March 3rd 2027",
-      "isoDate": "2027-03-03",
-      "hebrewDate": "24 Adar I 5787",
+      "weekday": "Sunday",
+      "englishDate": "April 4th 2027",
+      "isoDate": "2027-04-04",
+      "hebrewDate": "26 Adar II 5787",
       "tractate": "בבא מציעא",
       "assignment": "2:1-3",
       "sourceFlag": "",
@@ -9668,10 +9668,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-04",
       "row": 827,
-      "weekday": "Thursday",
-      "englishDate": "March 4th 2027",
-      "isoDate": "2027-03-04",
-      "hebrewDate": "25 Adar I 5787",
+      "weekday": "Monday",
+      "englishDate": "April 5th 2027",
+      "isoDate": "2027-04-05",
+      "hebrewDate": "27 Adar II 5787",
       "tractate": "בבא מציעא",
       "assignment": "2:4-5",
       "sourceFlag": "",
@@ -9680,10 +9680,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-05",
       "row": 828,
-      "weekday": "Friday",
-      "englishDate": "March 5th 2027",
-      "isoDate": "2027-03-05",
-      "hebrewDate": "26 Adar I 5787",
+      "weekday": "Tuesday",
+      "englishDate": "April 6th 2027",
+      "isoDate": "2027-04-06",
+      "hebrewDate": "28 Adar II 5787",
       "tractate": "בבא מציעא",
       "assignment": "2:6-8",
       "sourceFlag": "",
@@ -9692,10 +9692,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-06",
       "row": 829,
-      "weekday": "Saturday",
-      "englishDate": "March 6th 2027",
-      "isoDate": "2027-03-06",
-      "hebrewDate": "27 Adar I 5787",
+      "weekday": "Wednesday",
+      "englishDate": "April 7th 2027",
+      "isoDate": "2027-04-07",
+      "hebrewDate": "29 Adar II 5787",
       "tractate": "בבא מציעא",
       "assignment": "2:9-10",
       "sourceFlag": "",
@@ -9704,10 +9704,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-07",
       "row": 830,
-      "weekday": "Sunday",
-      "englishDate": "March 7th 2027",
-      "isoDate": "2027-03-07",
-      "hebrewDate": "28 Adar I 5787",
+      "weekday": "Thursday",
+      "englishDate": "April 8th 2027",
+      "isoDate": "2027-04-08",
+      "hebrewDate": "1 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "2:11-3:2",
       "sourceFlag": "",
@@ -9716,10 +9716,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-08",
       "row": 831,
-      "weekday": "Monday",
-      "englishDate": "March 8th 2027",
-      "isoDate": "2027-03-08",
-      "hebrewDate": "29 Adar I 5787",
+      "weekday": "Friday",
+      "englishDate": "April 9th 2027",
+      "isoDate": "2027-04-09",
+      "hebrewDate": "2 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "3:3-4",
       "sourceFlag": "",
@@ -9728,10 +9728,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-09",
       "row": 832,
-      "weekday": "Tuesday",
-      "englishDate": "March 9th 2027",
-      "isoDate": "2027-03-09",
-      "hebrewDate": "30 Adar I 5787",
+      "weekday": "Saturday",
+      "englishDate": "April 10th 2027",
+      "isoDate": "2027-04-10",
+      "hebrewDate": "3 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "3:5-7",
       "sourceFlag": "",
@@ -9740,10 +9740,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-10",
       "row": 833,
-      "weekday": "Wednesday",
-      "englishDate": "March 10th 2027",
-      "isoDate": "2027-03-10",
-      "hebrewDate": "1 Adar II 5787",
+      "weekday": "Sunday",
+      "englishDate": "April 11th 2027",
+      "isoDate": "2027-04-11",
+      "hebrewDate": "4 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "3:8-9",
       "sourceFlag": "",
@@ -9752,10 +9752,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-11",
       "row": 834,
-      "weekday": "Thursday",
-      "englishDate": "March 11th 2027",
-      "isoDate": "2027-03-11",
-      "hebrewDate": "2 Adar II 5787",
+      "weekday": "Monday",
+      "englishDate": "April 12th 2027",
+      "isoDate": "2027-04-12",
+      "hebrewDate": "5 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "3:10-12",
       "sourceFlag": "",
@@ -9764,10 +9764,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-12",
       "row": 835,
-      "weekday": "Friday",
-      "englishDate": "March 12th 2027",
-      "isoDate": "2027-03-12",
-      "hebrewDate": "3 Adar II 5787",
+      "weekday": "Tuesday",
+      "englishDate": "April 13th 2027",
+      "isoDate": "2027-04-13",
+      "hebrewDate": "6 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -9776,10 +9776,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-13",
       "row": 836,
-      "weekday": "Saturday",
-      "englishDate": "March 13th 2027",
-      "isoDate": "2027-03-13",
-      "hebrewDate": "4 Adar II 5787",
+      "weekday": "Wednesday",
+      "englishDate": "April 14th 2027",
+      "isoDate": "2027-04-14",
+      "hebrewDate": "7 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "4:3-5",
       "sourceFlag": "",
@@ -9788,10 +9788,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-14",
       "row": 837,
-      "weekday": "Sunday",
-      "englishDate": "March 14th 2027",
-      "isoDate": "2027-03-14",
-      "hebrewDate": "5 Adar II 5787",
+      "weekday": "Thursday",
+      "englishDate": "April 15th 2027",
+      "isoDate": "2027-04-15",
+      "hebrewDate": "8 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "4:6-7",
       "sourceFlag": "",
@@ -9800,10 +9800,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-15",
       "row": 838,
-      "weekday": "Monday",
-      "englishDate": "March 15th 2027",
-      "isoDate": "2027-03-15",
-      "hebrewDate": "6 Adar II 5787",
+      "weekday": "Friday",
+      "englishDate": "April 16th 2027",
+      "isoDate": "2027-04-16",
+      "hebrewDate": "9 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "4:8-10",
       "sourceFlag": "",
@@ -9812,10 +9812,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-16",
       "row": 839,
-      "weekday": "Tuesday",
-      "englishDate": "March 16th 2027",
-      "isoDate": "2027-03-16",
-      "hebrewDate": "7 Adar II 5787",
+      "weekday": "Saturday",
+      "englishDate": "April 17th 2027",
+      "isoDate": "2027-04-17",
+      "hebrewDate": "10 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "4:11-12",
       "sourceFlag": "",
@@ -9824,10 +9824,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-17",
       "row": 840,
-      "weekday": "Wednesday",
-      "englishDate": "March 17th 2027",
-      "isoDate": "2027-03-17",
-      "hebrewDate": "8 Adar II 5787",
+      "weekday": "Sunday",
+      "englishDate": "April 18th 2027",
+      "isoDate": "2027-04-18",
+      "hebrewDate": "11 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "5:1-3",
       "sourceFlag": "",
@@ -9836,10 +9836,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-18",
       "row": 841,
-      "weekday": "Thursday",
-      "englishDate": "March 18th 2027",
-      "isoDate": "2027-03-18",
-      "hebrewDate": "9 Adar II 5787",
+      "weekday": "Monday",
+      "englishDate": "April 19th 2027",
+      "isoDate": "2027-04-19",
+      "hebrewDate": "12 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "5:4-5",
       "sourceFlag": "",
@@ -9848,10 +9848,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-19",
       "row": 842,
-      "weekday": "Friday",
-      "englishDate": "March 19th 2027",
-      "isoDate": "2027-03-19",
-      "hebrewDate": "10 Adar II 5787",
+      "weekday": "Tuesday",
+      "englishDate": "April 20th 2027",
+      "isoDate": "2027-04-20",
+      "hebrewDate": "13 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "5:6-8",
       "sourceFlag": "",
@@ -9860,10 +9860,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-20",
       "row": 843,
-      "weekday": "Saturday",
-      "englishDate": "March 20th 2027",
-      "isoDate": "2027-03-20",
-      "hebrewDate": "11 Adar II 5787",
+      "weekday": "Wednesday",
+      "englishDate": "April 21st 2027",
+      "isoDate": "2027-04-21",
+      "hebrewDate": "14 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "5:9-10",
       "sourceFlag": "",
@@ -9872,10 +9872,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-21",
       "row": 844,
-      "weekday": "Sunday",
-      "englishDate": "March 21st 2027",
-      "isoDate": "2027-03-21",
-      "hebrewDate": "12 Adar II 5787",
+      "weekday": "Thursday",
+      "englishDate": "April 22nd 2027",
+      "isoDate": "2027-04-22",
+      "hebrewDate": "15 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "5:11-6:2",
       "sourceFlag": "",
@@ -9884,10 +9884,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-22",
       "row": 845,
-      "weekday": "Monday",
-      "englishDate": "March 22nd 2027",
-      "isoDate": "2027-03-22",
-      "hebrewDate": "13 Adar II 5787",
+      "weekday": "Friday",
+      "englishDate": "April 23rd 2027",
+      "isoDate": "2027-04-23",
+      "hebrewDate": "16 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "6:3-4",
       "sourceFlag": "",
@@ -9896,10 +9896,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-23",
       "row": 846,
-      "weekday": "Tuesday",
-      "englishDate": "March 23rd 2027",
-      "isoDate": "2027-03-23",
-      "hebrewDate": "14 Adar II 5787",
+      "weekday": "Saturday",
+      "englishDate": "April 24th 2027",
+      "isoDate": "2027-04-24",
+      "hebrewDate": "17 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "6:5-7",
       "sourceFlag": "",
@@ -9908,10 +9908,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-24",
       "row": 847,
-      "weekday": "Wednesday",
-      "englishDate": "March 24th 2027",
-      "isoDate": "2027-03-24",
-      "hebrewDate": "15 Adar II 5787",
+      "weekday": "Sunday",
+      "englishDate": "April 25th 2027",
+      "isoDate": "2027-04-25",
+      "hebrewDate": "18 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "6:8-7:1",
       "sourceFlag": "",
@@ -9920,10 +9920,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-25",
       "row": 848,
-      "weekday": "Thursday",
-      "englishDate": "March 25th 2027",
-      "isoDate": "2027-03-25",
-      "hebrewDate": "16 Adar II 5787",
+      "weekday": "Monday",
+      "englishDate": "April 26th 2027",
+      "isoDate": "2027-04-26",
+      "hebrewDate": "19 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "7:2-4",
       "sourceFlag": "",
@@ -9932,10 +9932,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-26",
       "row": 849,
-      "weekday": "Friday",
-      "englishDate": "March 26th 2027",
-      "isoDate": "2027-03-26",
-      "hebrewDate": "17 Adar II 5787",
+      "weekday": "Tuesday",
+      "englishDate": "April 27th 2027",
+      "isoDate": "2027-04-27",
+      "hebrewDate": "20 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "7:5-6",
       "sourceFlag": "",
@@ -9944,10 +9944,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-27",
       "row": 850,
-      "weekday": "Saturday",
-      "englishDate": "March 27th 2027",
-      "isoDate": "2027-03-27",
-      "hebrewDate": "18 Adar II 5787",
+      "weekday": "Wednesday",
+      "englishDate": "April 28th 2027",
+      "isoDate": "2027-04-28",
+      "hebrewDate": "21 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "7:7-9",
       "sourceFlag": "",
@@ -9956,10 +9956,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-28",
       "row": 851,
-      "weekday": "Sunday",
-      "englishDate": "March 28th 2027",
-      "isoDate": "2027-03-28",
-      "hebrewDate": "19 Adar II 5787",
+      "weekday": "Thursday",
+      "englishDate": "April 29th 2027",
+      "isoDate": "2027-04-29",
+      "hebrewDate": "22 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "7:10-11",
       "sourceFlag": "",
@@ -9968,10 +9968,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-29",
       "row": 852,
-      "weekday": "Monday",
-      "englishDate": "March 29th 2027",
-      "isoDate": "2027-03-29",
-      "hebrewDate": "20 Adar II 5787",
+      "weekday": "Friday",
+      "englishDate": "April 30th 2027",
+      "isoDate": "2027-04-30",
+      "hebrewDate": "23 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "8:1-3",
       "sourceFlag": "",
@@ -9980,10 +9980,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-30",
       "row": 853,
-      "weekday": "Tuesday",
-      "englishDate": "March 30th 2027",
-      "isoDate": "2027-03-30",
-      "hebrewDate": "21 Adar II 5787",
+      "weekday": "Saturday",
+      "englishDate": "May 1st 2027",
+      "isoDate": "2027-05-01",
+      "hebrewDate": "24 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "8:4-5",
       "sourceFlag": "",
@@ -9992,10 +9992,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-03-31",
       "row": 854,
-      "weekday": "Wednesday",
-      "englishDate": "March 31st 2027",
-      "isoDate": "2027-03-31",
-      "hebrewDate": "22 Adar II 5787",
+      "weekday": "Sunday",
+      "englishDate": "May 2nd 2027",
+      "isoDate": "2027-05-02",
+      "hebrewDate": "25 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "8:6-8",
       "sourceFlag": "",
@@ -10004,10 +10004,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-01",
       "row": 855,
-      "weekday": "Thursday",
-      "englishDate": "April 1st 2027",
-      "isoDate": "2027-04-01",
-      "hebrewDate": "23 Adar II 5787",
+      "weekday": "Monday",
+      "englishDate": "May 3rd 2027",
+      "isoDate": "2027-05-03",
+      "hebrewDate": "26 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "8:9-9:1",
       "sourceFlag": "",
@@ -10016,10 +10016,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-02",
       "row": 856,
-      "weekday": "Friday",
-      "englishDate": "April 2nd 2027",
-      "isoDate": "2027-04-02",
-      "hebrewDate": "24 Adar II 5787",
+      "weekday": "Tuesday",
+      "englishDate": "May 4th 2027",
+      "isoDate": "2027-05-04",
+      "hebrewDate": "27 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "9:2-4",
       "sourceFlag": "",
@@ -10028,10 +10028,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-03",
       "row": 857,
-      "weekday": "Saturday",
-      "englishDate": "April 3rd 2027",
-      "isoDate": "2027-04-03",
-      "hebrewDate": "25 Adar II 5787",
+      "weekday": "Wednesday",
+      "englishDate": "May 5th 2027",
+      "isoDate": "2027-05-05",
+      "hebrewDate": "28 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "9:5-6",
       "sourceFlag": "",
@@ -10040,10 +10040,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-04",
       "row": 858,
-      "weekday": "Sunday",
-      "englishDate": "April 4th 2027",
-      "isoDate": "2027-04-04",
-      "hebrewDate": "26 Adar II 5787",
+      "weekday": "Thursday",
+      "englishDate": "May 6th 2027",
+      "isoDate": "2027-05-06",
+      "hebrewDate": "29 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "9:7-9",
       "sourceFlag": "",
@@ -10052,10 +10052,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-05",
       "row": 859,
-      "weekday": "Monday",
-      "englishDate": "April 5th 2027",
-      "isoDate": "2027-04-05",
-      "hebrewDate": "27 Adar II 5787",
+      "weekday": "Friday",
+      "englishDate": "May 7th 2027",
+      "isoDate": "2027-05-07",
+      "hebrewDate": "30 Nisan 5787",
       "tractate": "בבא מציעא",
       "assignment": "9:10-11",
       "sourceFlag": "",
@@ -10064,10 +10064,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-06",
       "row": 860,
-      "weekday": "Tuesday",
-      "englishDate": "April 6th 2027",
-      "isoDate": "2027-04-06",
-      "hebrewDate": "28 Adar II 5787",
+      "weekday": "Saturday",
+      "englishDate": "May 8th 2027",
+      "isoDate": "2027-05-08",
+      "hebrewDate": "1 Iyar 5787",
       "tractate": "בבא מציעא",
       "assignment": "9:12-10:1",
       "sourceFlag": "",
@@ -10076,10 +10076,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-07",
       "row": 861,
-      "weekday": "Wednesday",
-      "englishDate": "April 7th 2027",
-      "isoDate": "2027-04-07",
-      "hebrewDate": "29 Adar II 5787",
+      "weekday": "Sunday",
+      "englishDate": "May 9th 2027",
+      "isoDate": "2027-05-09",
+      "hebrewDate": "2 Iyar 5787",
       "tractate": "בבא מציעא",
       "assignment": "10:2-3",
       "sourceFlag": "",
@@ -10088,10 +10088,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-08",
       "row": 862,
-      "weekday": "Thursday",
-      "englishDate": "April 8th 2027",
-      "isoDate": "2027-04-08",
-      "hebrewDate": "1 Nisan 5787",
+      "weekday": "Monday",
+      "englishDate": "May 10th 2027",
+      "isoDate": "2027-05-10",
+      "hebrewDate": "3 Iyar 5787",
       "tractate": "בבא מציעא",
       "assignment": "10:4-6",
       "sourceFlag": "",
@@ -10100,10 +10100,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-09",
       "row": 863,
-      "weekday": "Friday",
-      "englishDate": "April 9th 2027",
-      "isoDate": "2027-04-09",
-      "hebrewDate": "2 Nisan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "May 11th 2027",
+      "isoDate": "2027-05-11",
+      "hebrewDate": "4 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -10112,10 +10112,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-10",
       "row": 864,
-      "weekday": "Saturday",
-      "englishDate": "April 10th 2027",
-      "isoDate": "2027-04-10",
-      "hebrewDate": "3 Nisan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "May 12th 2027",
+      "isoDate": "2027-05-12",
+      "hebrewDate": "5 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "1:3-4",
       "sourceFlag": "",
@@ -10124,10 +10124,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-11",
       "row": 865,
-      "weekday": "Sunday",
-      "englishDate": "April 11th 2027",
-      "isoDate": "2027-04-11",
-      "hebrewDate": "4 Nisan 5787",
+      "weekday": "Thursday",
+      "englishDate": "May 13th 2027",
+      "isoDate": "2027-05-13",
+      "hebrewDate": "6 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "1:5-2:1",
       "sourceFlag": "",
@@ -10136,10 +10136,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-12",
       "row": 866,
-      "weekday": "Monday",
-      "englishDate": "April 12th 2027",
-      "isoDate": "2027-04-12",
-      "hebrewDate": "5 Nisan 5787",
+      "weekday": "Friday",
+      "englishDate": "May 14th 2027",
+      "isoDate": "2027-05-14",
+      "hebrewDate": "7 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "2:2-3",
       "sourceFlag": "",
@@ -10148,10 +10148,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-13",
       "row": 867,
-      "weekday": "Tuesday",
-      "englishDate": "April 13th 2027",
-      "isoDate": "2027-04-13",
-      "hebrewDate": "6 Nisan 5787",
+      "weekday": "Saturday",
+      "englishDate": "May 15th 2027",
+      "isoDate": "2027-05-15",
+      "hebrewDate": "8 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "2:4-6",
       "sourceFlag": "",
@@ -10160,10 +10160,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-14",
       "row": 868,
-      "weekday": "Wednesday",
-      "englishDate": "April 14th 2027",
-      "isoDate": "2027-04-14",
-      "hebrewDate": "7 Nisan 5787",
+      "weekday": "Sunday",
+      "englishDate": "May 16th 2027",
+      "isoDate": "2027-05-16",
+      "hebrewDate": "9 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "2:7-8",
       "sourceFlag": "",
@@ -10172,10 +10172,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-15",
       "row": 869,
-      "weekday": "Thursday",
-      "englishDate": "April 15th 2027",
-      "isoDate": "2027-04-15",
-      "hebrewDate": "8 Nisan 5787",
+      "weekday": "Monday",
+      "englishDate": "May 17th 2027",
+      "isoDate": "2027-05-17",
+      "hebrewDate": "10 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "2:9-11",
       "sourceFlag": "",
@@ -10184,10 +10184,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-16",
       "row": 870,
-      "weekday": "Friday",
-      "englishDate": "April 16th 2027",
-      "isoDate": "2027-04-16",
-      "hebrewDate": "9 Nisan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "May 18th 2027",
+      "isoDate": "2027-05-18",
+      "hebrewDate": "11 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "2:12-13",
       "sourceFlag": "",
@@ -10196,10 +10196,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-17",
       "row": 871,
-      "weekday": "Saturday",
-      "englishDate": "April 17th 2027",
-      "isoDate": "2027-04-17",
-      "hebrewDate": "10 Nisan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "May 19th 2027",
+      "isoDate": "2027-05-19",
+      "hebrewDate": "12 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "2:14-3:2",
       "sourceFlag": "",
@@ -10208,10 +10208,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-18",
       "row": 872,
-      "weekday": "Sunday",
-      "englishDate": "April 18th 2027",
-      "isoDate": "2027-04-18",
-      "hebrewDate": "11 Nisan 5787",
+      "weekday": "Thursday",
+      "englishDate": "May 20th 2027",
+      "isoDate": "2027-05-20",
+      "hebrewDate": "13 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "3:3-4",
       "sourceFlag": "",
@@ -10220,10 +10220,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-19",
       "row": 873,
-      "weekday": "Monday",
-      "englishDate": "April 19th 2027",
-      "isoDate": "2027-04-19",
-      "hebrewDate": "12 Nisan 5787",
+      "weekday": "Friday",
+      "englishDate": "May 21st 2027",
+      "isoDate": "2027-05-21",
+      "hebrewDate": "14 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "3:5-7",
       "sourceFlag": "",
@@ -10232,10 +10232,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-20",
       "row": 874,
-      "weekday": "Tuesday",
-      "englishDate": "April 20th 2027",
-      "isoDate": "2027-04-20",
-      "hebrewDate": "13 Nisan 5787",
+      "weekday": "Saturday",
+      "englishDate": "May 22nd 2027",
+      "isoDate": "2027-05-22",
+      "hebrewDate": "15 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "3:8-4:1",
       "sourceFlag": "",
@@ -10244,10 +10244,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-21",
       "row": 875,
-      "weekday": "Wednesday",
-      "englishDate": "April 21st 2027",
-      "isoDate": "2027-04-21",
-      "hebrewDate": "14 Nisan 5787",
+      "weekday": "Sunday",
+      "englishDate": "May 23rd 2027",
+      "isoDate": "2027-05-23",
+      "hebrewDate": "16 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "4:2-4",
       "sourceFlag": "",
@@ -10256,10 +10256,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-22",
       "row": 876,
-      "weekday": "Thursday",
-      "englishDate": "April 22nd 2027",
-      "isoDate": "2027-04-22",
-      "hebrewDate": "15 Nisan 5787",
+      "weekday": "Monday",
+      "englishDate": "May 24th 2027",
+      "isoDate": "2027-05-24",
+      "hebrewDate": "17 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "4:5-6",
       "sourceFlag": "",
@@ -10268,10 +10268,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-23",
       "row": 877,
-      "weekday": "Friday",
-      "englishDate": "April 23rd 2027",
-      "isoDate": "2027-04-23",
-      "hebrewDate": "16 Nisan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "May 25th 2027",
+      "isoDate": "2027-05-25",
+      "hebrewDate": "18 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "4:7-9",
       "sourceFlag": "",
@@ -10280,10 +10280,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-24",
       "row": 878,
-      "weekday": "Saturday",
-      "englishDate": "April 24th 2027",
-      "isoDate": "2027-04-24",
-      "hebrewDate": "17 Nisan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "May 26th 2027",
+      "isoDate": "2027-05-26",
+      "hebrewDate": "19 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "5:1-2",
       "sourceFlag": "",
@@ -10292,10 +10292,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-25",
       "row": 879,
-      "weekday": "Sunday",
-      "englishDate": "April 25th 2027",
-      "isoDate": "2027-04-25",
-      "hebrewDate": "18 Nisan 5787",
+      "weekday": "Thursday",
+      "englishDate": "May 27th 2027",
+      "isoDate": "2027-05-27",
+      "hebrewDate": "20 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "5:3-5",
       "sourceFlag": "",
@@ -10304,10 +10304,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-26",
       "row": 880,
-      "weekday": "Monday",
-      "englishDate": "April 26th 2027",
-      "isoDate": "2027-04-26",
-      "hebrewDate": "19 Nisan 5787",
+      "weekday": "Friday",
+      "englishDate": "May 28th 2027",
+      "isoDate": "2027-05-28",
+      "hebrewDate": "21 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "5:6-7",
       "sourceFlag": "",
@@ -10316,10 +10316,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-27",
       "row": 881,
-      "weekday": "Tuesday",
-      "englishDate": "April 27th 2027",
-      "isoDate": "2027-04-27",
-      "hebrewDate": "20 Nisan 5787",
+      "weekday": "Saturday",
+      "englishDate": "May 29th 2027",
+      "isoDate": "2027-05-29",
+      "hebrewDate": "22 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "5:8-10",
       "sourceFlag": "",
@@ -10328,10 +10328,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-28",
       "row": 882,
-      "weekday": "Wednesday",
-      "englishDate": "April 28th 2027",
-      "isoDate": "2027-04-28",
-      "hebrewDate": "21 Nisan 5787",
+      "weekday": "Sunday",
+      "englishDate": "May 30th 2027",
+      "isoDate": "2027-05-30",
+      "hebrewDate": "23 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "5:11-6:1",
       "sourceFlag": "",
@@ -10340,10 +10340,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-29",
       "row": 883,
-      "weekday": "Thursday",
-      "englishDate": "April 29th 2027",
-      "isoDate": "2027-04-29",
-      "hebrewDate": "22 Nisan 5787",
+      "weekday": "Monday",
+      "englishDate": "May 31st 2027",
+      "isoDate": "2027-05-31",
+      "hebrewDate": "24 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "6:2-4",
       "sourceFlag": "",
@@ -10352,10 +10352,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-04-30",
       "row": 884,
-      "weekday": "Friday",
-      "englishDate": "April 30th 2027",
-      "isoDate": "2027-04-30",
-      "hebrewDate": "23 Nisan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "June 1st 2027",
+      "isoDate": "2027-06-01",
+      "hebrewDate": "25 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "6:5-6",
       "sourceFlag": "",
@@ -10364,10 +10364,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-01",
       "row": 885,
-      "weekday": "Saturday",
-      "englishDate": "May 1st 2027",
-      "isoDate": "2027-05-01",
-      "hebrewDate": "24 Nisan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "June 2nd 2027",
+      "isoDate": "2027-06-02",
+      "hebrewDate": "26 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "6:7-7:1",
       "sourceFlag": "",
@@ -10376,10 +10376,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-02",
       "row": 886,
-      "weekday": "Sunday",
-      "englishDate": "May 2nd 2027",
-      "isoDate": "2027-05-02",
-      "hebrewDate": "25 Nisan 5787",
+      "weekday": "Thursday",
+      "englishDate": "June 3rd 2027",
+      "isoDate": "2027-06-03",
+      "hebrewDate": "27 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "7:2-3",
       "sourceFlag": "",
@@ -10388,10 +10388,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-03",
       "row": 887,
-      "weekday": "Monday",
-      "englishDate": "May 3rd 2027",
-      "isoDate": "2027-05-03",
-      "hebrewDate": "26 Nisan 5787",
+      "weekday": "Friday",
+      "englishDate": "June 4th 2027",
+      "isoDate": "2027-06-04",
+      "hebrewDate": "28 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "7:4-8:2",
       "sourceFlag": "",
@@ -10400,10 +10400,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-04",
       "row": 888,
-      "weekday": "Tuesday",
-      "englishDate": "May 4th 2027",
-      "isoDate": "2027-05-04",
-      "hebrewDate": "27 Nisan 5787",
+      "weekday": "Saturday",
+      "englishDate": "June 5th 2027",
+      "isoDate": "2027-06-05",
+      "hebrewDate": "29 Iyar 5787",
       "tractate": "בבא בתרא",
       "assignment": "8:3-4",
       "sourceFlag": "",
@@ -10412,10 +10412,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-05",
       "row": 889,
-      "weekday": "Wednesday",
-      "englishDate": "May 5th 2027",
-      "isoDate": "2027-05-05",
-      "hebrewDate": "28 Nisan 5787",
+      "weekday": "Sunday",
+      "englishDate": "June 6th 2027",
+      "isoDate": "2027-06-06",
+      "hebrewDate": "1 Sivan 5787",
       "tractate": "בבא בתרא",
       "assignment": "8:5-7",
       "sourceFlag": "",
@@ -10424,10 +10424,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-06",
       "row": 890,
-      "weekday": "Thursday",
-      "englishDate": "May 6th 2027",
-      "isoDate": "2027-05-06",
-      "hebrewDate": "29 Nisan 5787",
+      "weekday": "Monday",
+      "englishDate": "June 7th 2027",
+      "isoDate": "2027-06-07",
+      "hebrewDate": "2 Sivan 5787",
       "tractate": "בבא בתרא",
       "assignment": "8:8-9:1",
       "sourceFlag": "",
@@ -10436,10 +10436,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-07",
       "row": 891,
-      "weekday": "Friday",
-      "englishDate": "May 7th 2027",
-      "isoDate": "2027-05-07",
-      "hebrewDate": "30 Nisan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "June 8th 2027",
+      "isoDate": "2027-06-08",
+      "hebrewDate": "3 Sivan 5787",
       "tractate": "בבא בתרא",
       "assignment": "9:2-4",
       "sourceFlag": "",
@@ -10448,10 +10448,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-08",
       "row": 892,
-      "weekday": "Saturday",
-      "englishDate": "May 8th 2027",
-      "isoDate": "2027-05-08",
-      "hebrewDate": "1 Iyar 5787",
+      "weekday": "Wednesday",
+      "englishDate": "June 9th 2027",
+      "isoDate": "2027-06-09",
+      "hebrewDate": "4 Sivan 5787",
       "tractate": "בבא בתרא",
       "assignment": "9:5-6",
       "sourceFlag": "",
@@ -10460,10 +10460,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-09",
       "row": 893,
-      "weekday": "Sunday",
-      "englishDate": "May 9th 2027",
-      "isoDate": "2027-05-09",
-      "hebrewDate": "2 Iyar 5787",
+      "weekday": "Thursday",
+      "englishDate": "June 10th 2027",
+      "isoDate": "2027-06-10",
+      "hebrewDate": "5 Sivan 5787",
       "tractate": "בבא בתרא",
       "assignment": "9:7-9",
       "sourceFlag": "",
@@ -10472,10 +10472,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-10",
       "row": 894,
-      "weekday": "Monday",
-      "englishDate": "May 10th 2027",
-      "isoDate": "2027-05-10",
-      "hebrewDate": "3 Iyar 5787",
+      "weekday": "Friday",
+      "englishDate": "June 11th 2027",
+      "isoDate": "2027-06-11",
+      "hebrewDate": "6 Sivan 5787",
       "tractate": "בבא בתרא",
       "assignment": "9:10-10:1",
       "sourceFlag": "",
@@ -10484,10 +10484,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-11",
       "row": 895,
-      "weekday": "Tuesday",
-      "englishDate": "May 11th 2027",
-      "isoDate": "2027-05-11",
-      "hebrewDate": "4 Iyar 5787",
+      "weekday": "Saturday",
+      "englishDate": "June 12th 2027",
+      "isoDate": "2027-06-12",
+      "hebrewDate": "7 Sivan 5787",
       "tractate": "בבא בתרא",
       "assignment": "10:2-4",
       "sourceFlag": "",
@@ -10496,10 +10496,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-12",
       "row": 896,
-      "weekday": "Wednesday",
-      "englishDate": "May 12th 2027",
-      "isoDate": "2027-05-12",
-      "hebrewDate": "5 Iyar 5787",
+      "weekday": "Sunday",
+      "englishDate": "June 13th 2027",
+      "isoDate": "2027-06-13",
+      "hebrewDate": "8 Sivan 5787",
       "tractate": "בבא בתרא",
       "assignment": "10:5-6",
       "sourceFlag": "",
@@ -10508,10 +10508,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-13",
       "row": 897,
-      "weekday": "Thursday",
-      "englishDate": "May 13th 2027",
-      "isoDate": "2027-05-13",
-      "hebrewDate": "6 Iyar 5787",
+      "weekday": "Monday",
+      "englishDate": "June 14th 2027",
+      "isoDate": "2027-06-14",
+      "hebrewDate": "9 Sivan 5787",
       "tractate": "בבא בתרא-סנהדרין",
       "assignment": "10:7 - 1:1",
       "sourceFlag": "",
@@ -10520,10 +10520,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-14",
       "row": 898,
-      "weekday": "Friday",
-      "englishDate": "May 14th 2027",
-      "isoDate": "2027-05-14",
-      "hebrewDate": "7 Iyar 5787",
+      "weekday": "Tuesday",
+      "englishDate": "June 15th 2027",
+      "isoDate": "2027-06-15",
+      "hebrewDate": "10 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -10532,10 +10532,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-15",
       "row": 899,
-      "weekday": "Saturday",
-      "englishDate": "May 15th 2027",
-      "isoDate": "2027-05-15",
-      "hebrewDate": "8 Iyar 5787",
+      "weekday": "Wednesday",
+      "englishDate": "June 16th 2027",
+      "isoDate": "2027-06-16",
+      "hebrewDate": "11 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "1:4-6",
       "sourceFlag": "",
@@ -10544,10 +10544,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-16",
       "row": 900,
-      "weekday": "Sunday",
-      "englishDate": "May 16th 2027",
-      "isoDate": "2027-05-16",
-      "hebrewDate": "9 Iyar 5787",
+      "weekday": "Thursday",
+      "englishDate": "June 17th 2027",
+      "isoDate": "2027-06-17",
+      "hebrewDate": "12 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "2:1-2",
       "sourceFlag": "",
@@ -10556,10 +10556,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-17",
       "row": 901,
-      "weekday": "Monday",
-      "englishDate": "May 17th 2027",
-      "isoDate": "2027-05-17",
-      "hebrewDate": "10 Iyar 5787",
+      "weekday": "Friday",
+      "englishDate": "June 18th 2027",
+      "isoDate": "2027-06-18",
+      "hebrewDate": "13 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "2:3-5",
       "sourceFlag": "",
@@ -10568,10 +10568,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-18",
       "row": 902,
-      "weekday": "Tuesday",
-      "englishDate": "May 18th 2027",
-      "isoDate": "2027-05-18",
-      "hebrewDate": "11 Iyar 5787",
+      "weekday": "Saturday",
+      "englishDate": "June 19th 2027",
+      "isoDate": "2027-06-19",
+      "hebrewDate": "14 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "3:1-2",
       "sourceFlag": "",
@@ -10580,10 +10580,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-19",
       "row": 903,
-      "weekday": "Wednesday",
-      "englishDate": "May 19th 2027",
-      "isoDate": "2027-05-19",
-      "hebrewDate": "12 Iyar 5787",
+      "weekday": "Sunday",
+      "englishDate": "June 20th 2027",
+      "isoDate": "2027-06-20",
+      "hebrewDate": "15 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "3:3-5",
       "sourceFlag": "",
@@ -10592,10 +10592,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-20",
       "row": 904,
-      "weekday": "Thursday",
-      "englishDate": "May 20th 2027",
-      "isoDate": "2027-05-20",
-      "hebrewDate": "13 Iyar 5787",
+      "weekday": "Monday",
+      "englishDate": "June 21st 2027",
+      "isoDate": "2027-06-21",
+      "hebrewDate": "16 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "3:6-7",
       "sourceFlag": "",
@@ -10604,10 +10604,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-21",
       "row": 905,
-      "weekday": "Friday",
-      "englishDate": "May 21st 2027",
-      "isoDate": "2027-05-21",
-      "hebrewDate": "14 Iyar 5787",
+      "weekday": "Tuesday",
+      "englishDate": "June 22nd 2027",
+      "isoDate": "2027-06-22",
+      "hebrewDate": "17 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "3:8-4:2",
       "sourceFlag": "",
@@ -10616,10 +10616,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-22",
       "row": 906,
-      "weekday": "Saturday",
-      "englishDate": "May 22nd 2027",
-      "isoDate": "2027-05-22",
-      "hebrewDate": "15 Iyar 5787",
+      "weekday": "Wednesday",
+      "englishDate": "June 23rd 2027",
+      "isoDate": "2027-06-23",
+      "hebrewDate": "18 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "4:3-4",
       "sourceFlag": "",
@@ -10628,10 +10628,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-23",
       "row": 907,
-      "weekday": "Sunday",
-      "englishDate": "May 23rd 2027",
-      "isoDate": "2027-05-23",
-      "hebrewDate": "16 Iyar 5787",
+      "weekday": "Thursday",
+      "englishDate": "June 24th 2027",
+      "isoDate": "2027-06-24",
+      "hebrewDate": "19 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "4:5-5:2",
       "sourceFlag": "",
@@ -10640,10 +10640,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-24",
       "row": 908,
-      "weekday": "Monday",
-      "englishDate": "May 24th 2027",
-      "isoDate": "2027-05-24",
-      "hebrewDate": "17 Iyar 5787",
+      "weekday": "Friday",
+      "englishDate": "June 25th 2027",
+      "isoDate": "2027-06-25",
+      "hebrewDate": "20 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "5:3-4",
       "sourceFlag": "",
@@ -10652,10 +10652,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-25",
       "row": 909,
-      "weekday": "Tuesday",
-      "englishDate": "May 25th 2027",
-      "isoDate": "2027-05-25",
-      "hebrewDate": "18 Iyar 5787",
+      "weekday": "Saturday",
+      "englishDate": "June 26th 2027",
+      "isoDate": "2027-06-26",
+      "hebrewDate": "21 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "5:5-6:2",
       "sourceFlag": "",
@@ -10664,10 +10664,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-26",
       "row": 910,
-      "weekday": "Wednesday",
-      "englishDate": "May 26th 2027",
-      "isoDate": "2027-05-26",
-      "hebrewDate": "19 Iyar 5787",
+      "weekday": "Sunday",
+      "englishDate": "June 27th 2027",
+      "isoDate": "2027-06-27",
+      "hebrewDate": "22 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "6:3-4",
       "sourceFlag": "",
@@ -10676,10 +10676,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-27",
       "row": 911,
-      "weekday": "Thursday",
-      "englishDate": "May 27th 2027",
-      "isoDate": "2027-05-27",
-      "hebrewDate": "20 Iyar 5787",
+      "weekday": "Monday",
+      "englishDate": "June 28th 2027",
+      "isoDate": "2027-06-28",
+      "hebrewDate": "23 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "6:5-6",
       "sourceFlag": "",
@@ -10688,10 +10688,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-28",
       "row": 912,
-      "weekday": "Friday",
-      "englishDate": "May 28th 2027",
-      "isoDate": "2027-05-28",
-      "hebrewDate": "21 Iyar 5787",
+      "weekday": "Tuesday",
+      "englishDate": "June 29th 2027",
+      "isoDate": "2027-06-29",
+      "hebrewDate": "24 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "7:1-3",
       "sourceFlag": "",
@@ -10700,10 +10700,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-29",
       "row": 913,
-      "weekday": "Saturday",
-      "englishDate": "May 29th 2027",
-      "isoDate": "2027-05-29",
-      "hebrewDate": "22 Iyar 5787",
+      "weekday": "Wednesday",
+      "englishDate": "June 30th 2027",
+      "isoDate": "2027-06-30",
+      "hebrewDate": "25 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "7:4-5",
       "sourceFlag": "",
@@ -10712,10 +10712,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-30",
       "row": 914,
-      "weekday": "Sunday",
-      "englishDate": "May 30th 2027",
-      "isoDate": "2027-05-30",
-      "hebrewDate": "23 Iyar 5787",
+      "weekday": "Thursday",
+      "englishDate": "July 1st 2027",
+      "isoDate": "2027-07-01",
+      "hebrewDate": "26 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "7:6-8",
       "sourceFlag": "",
@@ -10724,10 +10724,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-05-31",
       "row": 915,
-      "weekday": "Monday",
-      "englishDate": "May 31st 2027",
-      "isoDate": "2027-05-31",
-      "hebrewDate": "24 Iyar 5787",
+      "weekday": "Friday",
+      "englishDate": "July 2nd 2027",
+      "isoDate": "2027-07-02",
+      "hebrewDate": "27 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "7:9-10",
       "sourceFlag": "",
@@ -10736,10 +10736,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-01",
       "row": 916,
-      "weekday": "Tuesday",
-      "englishDate": "June 1st 2027",
-      "isoDate": "2027-06-01",
-      "hebrewDate": "25 Iyar 5787",
+      "weekday": "Saturday",
+      "englishDate": "July 3rd 2027",
+      "isoDate": "2027-07-03",
+      "hebrewDate": "28 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "7:11-8:2",
       "sourceFlag": "",
@@ -10748,10 +10748,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-02",
       "row": 917,
-      "weekday": "Wednesday",
-      "englishDate": "June 2nd 2027",
-      "isoDate": "2027-06-02",
-      "hebrewDate": "26 Iyar 5787",
+      "weekday": "Sunday",
+      "englishDate": "July 4th 2027",
+      "isoDate": "2027-07-04",
+      "hebrewDate": "29 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "8:3-4",
       "sourceFlag": "",
@@ -10760,10 +10760,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-03",
       "row": 918,
-      "weekday": "Thursday",
-      "englishDate": "June 3rd 2027",
-      "isoDate": "2027-06-03",
-      "hebrewDate": "27 Iyar 5787",
+      "weekday": "Monday",
+      "englishDate": "July 5th 2027",
+      "isoDate": "2027-07-05",
+      "hebrewDate": "30 Sivan 5787",
       "tractate": "סנהדרין",
       "assignment": "8:5-7",
       "sourceFlag": "",
@@ -10772,10 +10772,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-04",
       "row": 919,
-      "weekday": "Friday",
-      "englishDate": "June 4th 2027",
-      "isoDate": "2027-06-04",
-      "hebrewDate": "28 Iyar 5787",
+      "weekday": "Tuesday",
+      "englishDate": "July 6th 2027",
+      "isoDate": "2027-07-06",
+      "hebrewDate": "1 Tamuz 5787",
       "tractate": "סנהדרין",
       "assignment": "9:1-2",
       "sourceFlag": "",
@@ -10784,10 +10784,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-05",
       "row": 920,
-      "weekday": "Saturday",
-      "englishDate": "June 5th 2027",
-      "isoDate": "2027-06-05",
-      "hebrewDate": "29 Iyar 5787",
+      "weekday": "Wednesday",
+      "englishDate": "July 7th 2027",
+      "isoDate": "2027-07-07",
+      "hebrewDate": "2 Tamuz 5787",
       "tractate": "סנהדרין",
       "assignment": "9:3-5",
       "sourceFlag": "",
@@ -10796,10 +10796,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-06",
       "row": 921,
-      "weekday": "Sunday",
-      "englishDate": "June 6th 2027",
-      "isoDate": "2027-06-06",
-      "hebrewDate": "1 Sivan 5787",
+      "weekday": "Thursday",
+      "englishDate": "July 8th 2027",
+      "isoDate": "2027-07-08",
+      "hebrewDate": "3 Tamuz 5787",
       "tractate": "סנהדרין",
       "assignment": "9:6-10:1",
       "sourceFlag": "",
@@ -10808,10 +10808,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-07",
       "row": 922,
-      "weekday": "Monday",
-      "englishDate": "June 7th 2027",
-      "isoDate": "2027-06-07",
-      "hebrewDate": "2 Sivan 5787",
+      "weekday": "Friday",
+      "englishDate": "July 9th 2027",
+      "isoDate": "2027-07-09",
+      "hebrewDate": "4 Tamuz 5787",
       "tractate": "סנהדרין",
       "assignment": "10:2-4",
       "sourceFlag": "",
@@ -10820,10 +10820,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-08",
       "row": 923,
-      "weekday": "Tuesday",
-      "englishDate": "June 8th 2027",
-      "isoDate": "2027-06-08",
-      "hebrewDate": "3 Sivan 5787",
+      "weekday": "Saturday",
+      "englishDate": "July 10th 2027",
+      "isoDate": "2027-07-10",
+      "hebrewDate": "5 Tamuz 5787",
       "tractate": "סנהדרין",
       "assignment": "10:5-6",
       "sourceFlag": "",
@@ -10832,10 +10832,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-09",
       "row": 924,
-      "weekday": "Wednesday",
-      "englishDate": "June 9th 2027",
-      "isoDate": "2027-06-09",
-      "hebrewDate": "4 Sivan 5787",
+      "weekday": "Sunday",
+      "englishDate": "July 11th 2027",
+      "isoDate": "2027-07-11",
+      "hebrewDate": "6 Tamuz 5787",
       "tractate": "סנהדרין",
       "assignment": "11:1-3",
       "sourceFlag": "",
@@ -10844,10 +10844,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-10",
       "row": 925,
-      "weekday": "Thursday",
-      "englishDate": "June 10th 2027",
-      "isoDate": "2027-06-10",
-      "hebrewDate": "5 Sivan 5787",
+      "weekday": "Monday",
+      "englishDate": "July 12th 2027",
+      "isoDate": "2027-07-12",
+      "hebrewDate": "7 Tamuz 5787",
       "tractate": "סנהדרין",
       "assignment": "11:4-5",
       "sourceFlag": "",
@@ -10856,10 +10856,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-11",
       "row": 926,
-      "weekday": "Friday",
-      "englishDate": "June 11th 2027",
-      "isoDate": "2027-06-11",
-      "hebrewDate": "6 Sivan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "July 13th 2027",
+      "isoDate": "2027-07-13",
+      "hebrewDate": "8 Tamuz 5787",
       "tractate": "סנהדרין-מכות",
       "assignment": "11:6 -1:2",
       "sourceFlag": "",
@@ -10868,10 +10868,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-12",
       "row": 927,
-      "weekday": "Saturday",
-      "englishDate": "June 12th 2027",
-      "isoDate": "2027-06-12",
-      "hebrewDate": "7 Sivan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "July 14th 2027",
+      "isoDate": "2027-07-14",
+      "hebrewDate": "9 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "1:3-4",
       "sourceFlag": "",
@@ -10880,10 +10880,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-13",
       "row": 928,
-      "weekday": "Sunday",
-      "englishDate": "June 13th 2027",
-      "isoDate": "2027-06-13",
-      "hebrewDate": "8 Sivan 5787",
+      "weekday": "Thursday",
+      "englishDate": "July 15th 2027",
+      "isoDate": "2027-07-15",
+      "hebrewDate": "10 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "1:5-7",
       "sourceFlag": "",
@@ -10892,10 +10892,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-14",
       "row": 929,
-      "weekday": "Monday",
-      "englishDate": "June 14th 2027",
-      "isoDate": "2027-06-14",
-      "hebrewDate": "9 Sivan 5787",
+      "weekday": "Friday",
+      "englishDate": "July 16th 2027",
+      "isoDate": "2027-07-16",
+      "hebrewDate": "11 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "1:8-9",
       "sourceFlag": "",
@@ -10904,10 +10904,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-15",
       "row": 930,
-      "weekday": "Tuesday",
-      "englishDate": "June 15th 2027",
-      "isoDate": "2027-06-15",
-      "hebrewDate": "10 Sivan 5787",
+      "weekday": "Saturday",
+      "englishDate": "July 17th 2027",
+      "isoDate": "2027-07-17",
+      "hebrewDate": "12 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "1:10-2:2",
       "sourceFlag": "",
@@ -10916,10 +10916,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-16",
       "row": 931,
-      "weekday": "Wednesday",
-      "englishDate": "June 16th 2027",
-      "isoDate": "2027-06-16",
-      "hebrewDate": "11 Sivan 5787",
+      "weekday": "Sunday",
+      "englishDate": "July 18th 2027",
+      "isoDate": "2027-07-18",
+      "hebrewDate": "13 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "2:3-4",
       "sourceFlag": "",
@@ -10928,10 +10928,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-17",
       "row": 932,
-      "weekday": "Thursday",
-      "englishDate": "June 17th 2027",
-      "isoDate": "2027-06-17",
-      "hebrewDate": "12 Sivan 5787",
+      "weekday": "Monday",
+      "englishDate": "July 19th 2027",
+      "isoDate": "2027-07-19",
+      "hebrewDate": "14 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "2:5-7",
       "sourceFlag": "",
@@ -10940,10 +10940,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-18",
       "row": 933,
-      "weekday": "Friday",
-      "englishDate": "June 18th 2027",
-      "isoDate": "2027-06-18",
-      "hebrewDate": "13 Sivan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "July 20th 2027",
+      "isoDate": "2027-07-20",
+      "hebrewDate": "15 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "2:8-3:1",
       "sourceFlag": "",
@@ -10952,10 +10952,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-19",
       "row": 934,
-      "weekday": "Saturday",
-      "englishDate": "June 19th 2027",
-      "isoDate": "2027-06-19",
-      "hebrewDate": "14 Sivan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "July 21st 2027",
+      "isoDate": "2027-07-21",
+      "hebrewDate": "16 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "3:2-4",
       "sourceFlag": "",
@@ -10964,10 +10964,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-20",
       "row": 935,
-      "weekday": "Sunday",
-      "englishDate": "June 20th 2027",
-      "isoDate": "2027-06-20",
-      "hebrewDate": "15 Sivan 5787",
+      "weekday": "Thursday",
+      "englishDate": "July 22nd 2027",
+      "isoDate": "2027-07-22",
+      "hebrewDate": "17 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "3:5-6",
       "sourceFlag": "",
@@ -10976,10 +10976,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-21",
       "row": 936,
-      "weekday": "Monday",
-      "englishDate": "June 21st 2027",
-      "isoDate": "2027-06-21",
-      "hebrewDate": "16 Sivan 5787",
+      "weekday": "Friday",
+      "englishDate": "July 23rd 2027",
+      "isoDate": "2027-07-23",
+      "hebrewDate": "18 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "3:7-9",
       "sourceFlag": "",
@@ -10988,10 +10988,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-22",
       "row": 937,
-      "weekday": "Tuesday",
-      "englishDate": "June 22nd 2027",
-      "isoDate": "2027-06-22",
-      "hebrewDate": "17 Sivan 5787",
+      "weekday": "Saturday",
+      "englishDate": "July 24th 2027",
+      "isoDate": "2027-07-24",
+      "hebrewDate": "19 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "3:10-11",
       "sourceFlag": "",
@@ -11000,10 +11000,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-23",
       "row": 938,
-      "weekday": "Wednesday",
-      "englishDate": "June 23rd 2027",
-      "isoDate": "2027-06-23",
-      "hebrewDate": "18 Sivan 5787",
+      "weekday": "Sunday",
+      "englishDate": "July 25th 2027",
+      "isoDate": "2027-07-25",
+      "hebrewDate": "20 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "3:12-14",
       "sourceFlag": "",
@@ -11012,10 +11012,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-24",
       "row": 939,
-      "weekday": "Thursday",
-      "englishDate": "June 24th 2027",
-      "isoDate": "2027-06-24",
-      "hebrewDate": "19 Sivan 5787",
+      "weekday": "Monday",
+      "englishDate": "July 26th 2027",
+      "isoDate": "2027-07-26",
+      "hebrewDate": "21 Tamuz 5787",
       "tractate": "מכות",
       "assignment": "3:15-16",
       "sourceFlag": "",
@@ -11024,10 +11024,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-25",
       "row": 940,
-      "weekday": "Friday",
-      "englishDate": "June 25th 2027",
-      "isoDate": "2027-06-25",
-      "hebrewDate": "20 Sivan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "July 27th 2027",
+      "isoDate": "2027-07-27",
+      "hebrewDate": "22 Tamuz 5787",
       "tractate": "שבועות",
       "assignment": "1:1-3",
       "sourceFlag": "",
@@ -11036,10 +11036,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-26",
       "row": 941,
-      "weekday": "Saturday",
-      "englishDate": "June 26th 2027",
-      "isoDate": "2027-06-26",
-      "hebrewDate": "21 Sivan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "July 28th 2027",
+      "isoDate": "2027-07-28",
+      "hebrewDate": "23 Tamuz 5787",
       "tractate": "שבועות",
       "assignment": "1:4-5",
       "sourceFlag": "",
@@ -11048,10 +11048,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-27",
       "row": 942,
-      "weekday": "Sunday",
-      "englishDate": "June 27th 2027",
-      "isoDate": "2027-06-27",
-      "hebrewDate": "22 Sivan 5787",
+      "weekday": "Thursday",
+      "englishDate": "July 29th 2027",
+      "isoDate": "2027-07-29",
+      "hebrewDate": "24 Tamuz 5787",
       "tractate": "שבועות",
       "assignment": "1:6-2:1",
       "sourceFlag": "",
@@ -11060,10 +11060,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-28",
       "row": 943,
-      "weekday": "Monday",
-      "englishDate": "June 28th 2027",
-      "isoDate": "2027-06-28",
-      "hebrewDate": "23 Sivan 5787",
+      "weekday": "Friday",
+      "englishDate": "July 30th 2027",
+      "isoDate": "2027-07-30",
+      "hebrewDate": "25 Tamuz 5787",
       "tractate": "שבועות",
       "assignment": "2:2-3",
       "sourceFlag": "",
@@ -11072,10 +11072,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-29",
       "row": 944,
-      "weekday": "Tuesday",
-      "englishDate": "June 29th 2027",
-      "isoDate": "2027-06-29",
-      "hebrewDate": "24 Sivan 5787",
+      "weekday": "Saturday",
+      "englishDate": "July 31st 2027",
+      "isoDate": "2027-07-31",
+      "hebrewDate": "26 Tamuz 5787",
       "tractate": "שבועות",
       "assignment": "2:4-3:1",
       "sourceFlag": "",
@@ -11084,10 +11084,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-06-30",
       "row": 945,
-      "weekday": "Wednesday",
-      "englishDate": "June 30th 2027",
-      "isoDate": "2027-06-30",
-      "hebrewDate": "25 Sivan 5787",
+      "weekday": "Sunday",
+      "englishDate": "August 1st 2027",
+      "isoDate": "2027-08-01",
+      "hebrewDate": "27 Tamuz 5787",
       "tractate": "שבועות",
       "assignment": "3:2-3",
       "sourceFlag": "",
@@ -11096,10 +11096,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-01",
       "row": 946,
-      "weekday": "Thursday",
-      "englishDate": "July 1st 2027",
-      "isoDate": "2027-07-01",
-      "hebrewDate": "26 Sivan 5787",
+      "weekday": "Monday",
+      "englishDate": "August 2nd 2027",
+      "isoDate": "2027-08-02",
+      "hebrewDate": "28 Tamuz 5787",
       "tractate": "שבועות",
       "assignment": "3:4-6",
       "sourceFlag": "",
@@ -11108,10 +11108,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-02",
       "row": 947,
-      "weekday": "Friday",
-      "englishDate": "July 2nd 2027",
-      "isoDate": "2027-07-02",
-      "hebrewDate": "27 Sivan 5787",
+      "weekday": "Tuesday",
+      "englishDate": "August 3rd 2027",
+      "isoDate": "2027-08-03",
+      "hebrewDate": "29 Tamuz 5787",
       "tractate": "שבועות",
       "assignment": "3:7-8",
       "sourceFlag": "",
@@ -11120,10 +11120,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-03",
       "row": 948,
-      "weekday": "Saturday",
-      "englishDate": "July 3rd 2027",
-      "isoDate": "2027-07-03",
-      "hebrewDate": "28 Sivan 5787",
+      "weekday": "Wednesday",
+      "englishDate": "August 4th 2027",
+      "isoDate": "2027-08-04",
+      "hebrewDate": "1 Av 5787",
       "tractate": "שבועות",
       "assignment": "3:9-11",
       "sourceFlag": "",
@@ -11132,10 +11132,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-04",
       "row": 949,
-      "weekday": "Sunday",
-      "englishDate": "July 4th 2027",
-      "isoDate": "2027-07-04",
-      "hebrewDate": "29 Sivan 5787",
+      "weekday": "Thursday",
+      "englishDate": "August 5th 2027",
+      "isoDate": "2027-08-05",
+      "hebrewDate": "2 Av 5787",
       "tractate": "שבועות",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -11144,10 +11144,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-05",
       "row": 950,
-      "weekday": "Monday",
-      "englishDate": "July 5th 2027",
-      "isoDate": "2027-07-05",
-      "hebrewDate": "30 Sivan 5787",
+      "weekday": "Friday",
+      "englishDate": "August 6th 2027",
+      "isoDate": "2027-08-06",
+      "hebrewDate": "3 Av 5787",
       "tractate": "שבועות",
       "assignment": "4:3-5",
       "sourceFlag": "",
@@ -11156,10 +11156,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-06",
       "row": 951,
-      "weekday": "Tuesday",
-      "englishDate": "July 6th 2027",
-      "isoDate": "2027-07-06",
-      "hebrewDate": "1 Tamuz 5787",
+      "weekday": "Saturday",
+      "englishDate": "August 7th 2027",
+      "isoDate": "2027-08-07",
+      "hebrewDate": "4 Av 5787",
       "tractate": "שבועות",
       "assignment": "4:6-7",
       "sourceFlag": "",
@@ -11168,10 +11168,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-07",
       "row": 952,
-      "weekday": "Wednesday",
-      "englishDate": "July 7th 2027",
-      "isoDate": "2027-07-07",
-      "hebrewDate": "2 Tamuz 5787",
+      "weekday": "Sunday",
+      "englishDate": "August 8th 2027",
+      "isoDate": "2027-08-08",
+      "hebrewDate": "5 Av 5787",
       "tractate": "שבועות",
       "assignment": "4:8-10",
       "sourceFlag": "",
@@ -11180,10 +11180,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-08",
       "row": 953,
-      "weekday": "Thursday",
-      "englishDate": "July 8th 2027",
-      "isoDate": "2027-07-08",
-      "hebrewDate": "3 Tamuz 5787",
+      "weekday": "Monday",
+      "englishDate": "August 9th 2027",
+      "isoDate": "2027-08-09",
+      "hebrewDate": "6 Av 5787",
       "tractate": "שבועות",
       "assignment": "4:11-12",
       "sourceFlag": "",
@@ -11192,10 +11192,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-09",
       "row": 954,
-      "weekday": "Friday",
-      "englishDate": "July 9th 2027",
-      "isoDate": "2027-07-09",
-      "hebrewDate": "4 Tamuz 5787",
+      "weekday": "Tuesday",
+      "englishDate": "August 10th 2027",
+      "isoDate": "2027-08-10",
+      "hebrewDate": "7 Av 5787",
       "tractate": "שבועות",
       "assignment": "4:13-5:2",
       "sourceFlag": "",
@@ -11204,10 +11204,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-10",
       "row": 955,
-      "weekday": "Saturday",
-      "englishDate": "July 10th 2027",
-      "isoDate": "2027-07-10",
-      "hebrewDate": "5 Tamuz 5787",
+      "weekday": "Wednesday",
+      "englishDate": "August 11th 2027",
+      "isoDate": "2027-08-11",
+      "hebrewDate": "8 Av 5787",
       "tractate": "שבועות",
       "assignment": "5:3-4",
       "sourceFlag": "",
@@ -11216,10 +11216,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-11",
       "row": 956,
-      "weekday": "Sunday",
-      "englishDate": "July 11th 2027",
-      "isoDate": "2027-07-11",
-      "hebrewDate": "6 Tamuz 5787",
+      "weekday": "Thursday",
+      "englishDate": "August 12th 2027",
+      "isoDate": "2027-08-12",
+      "hebrewDate": "9 Av 5787",
       "tractate": "שבועות",
       "assignment": "5:5-6:2",
       "sourceFlag": "",
@@ -11228,10 +11228,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-12",
       "row": 957,
-      "weekday": "Monday",
-      "englishDate": "July 12th 2027",
-      "isoDate": "2027-07-12",
-      "hebrewDate": "7 Tamuz 5787",
+      "weekday": "Friday",
+      "englishDate": "August 13th 2027",
+      "isoDate": "2027-08-13",
+      "hebrewDate": "10 Av 5787",
       "tractate": "שבועות",
       "assignment": "6:3-4",
       "sourceFlag": "",
@@ -11240,10 +11240,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-13",
       "row": 958,
-      "weekday": "Tuesday",
-      "englishDate": "July 13th 2027",
-      "isoDate": "2027-07-13",
-      "hebrewDate": "8 Tamuz 5787",
+      "weekday": "Saturday",
+      "englishDate": "August 14th 2027",
+      "isoDate": "2027-08-14",
+      "hebrewDate": "11 Av 5787",
       "tractate": "שבועות",
       "assignment": "6:5-6",
       "sourceFlag": "",
@@ -11252,10 +11252,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-14",
       "row": 959,
-      "weekday": "Wednesday",
-      "englishDate": "July 14th 2027",
-      "isoDate": "2027-07-14",
-      "hebrewDate": "9 Tamuz 5787",
+      "weekday": "Sunday",
+      "englishDate": "August 15th 2027",
+      "isoDate": "2027-08-15",
+      "hebrewDate": "12 Av 5787",
       "tractate": "שבועות",
       "assignment": "6:7-7:2",
       "sourceFlag": "",
@@ -11264,10 +11264,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-15",
       "row": 960,
-      "weekday": "Thursday",
-      "englishDate": "July 15th 2027",
-      "isoDate": "2027-07-15",
-      "hebrewDate": "10 Tamuz 5787",
+      "weekday": "Monday",
+      "englishDate": "August 16th 2027",
+      "isoDate": "2027-08-16",
+      "hebrewDate": "13 Av 5787",
       "tractate": "שבועות",
       "assignment": "7:3-4",
       "sourceFlag": "",
@@ -11276,10 +11276,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-16",
       "row": 961,
-      "weekday": "Friday",
-      "englishDate": "July 16th 2027",
-      "isoDate": "2027-07-16",
-      "hebrewDate": "11 Tamuz 5787",
+      "weekday": "Tuesday",
+      "englishDate": "August 17th 2027",
+      "isoDate": "2027-08-17",
+      "hebrewDate": "14 Av 5787",
       "tractate": "שבועות",
       "assignment": "7:5-7",
       "sourceFlag": "",
@@ -11288,10 +11288,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-17",
       "row": 962,
-      "weekday": "Saturday",
-      "englishDate": "July 17th 2027",
-      "isoDate": "2027-07-17",
-      "hebrewDate": "12 Tamuz 5787",
+      "weekday": "Wednesday",
+      "englishDate": "August 18th 2027",
+      "isoDate": "2027-08-18",
+      "hebrewDate": "15 Av 5787",
       "tractate": "שבועות",
       "assignment": "7:8-8:1",
       "sourceFlag": "",
@@ -11300,10 +11300,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-18",
       "row": 963,
-      "weekday": "Sunday",
-      "englishDate": "July 18th 2027",
-      "isoDate": "2027-07-18",
-      "hebrewDate": "13 Tamuz 5787",
+      "weekday": "Thursday",
+      "englishDate": "August 19th 2027",
+      "isoDate": "2027-08-19",
+      "hebrewDate": "16 Av 5787",
       "tractate": "שבועות",
       "assignment": "8:2-4",
       "sourceFlag": "",
@@ -11312,10 +11312,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-19",
       "row": 964,
-      "weekday": "Monday",
-      "englishDate": "July 19th 2027",
-      "isoDate": "2027-07-19",
-      "hebrewDate": "14 Tamuz 5787",
+      "weekday": "Friday",
+      "englishDate": "August 20th 2027",
+      "isoDate": "2027-08-20",
+      "hebrewDate": "17 Av 5787",
       "tractate": "שבועות",
       "assignment": "8:5-6",
       "sourceFlag": "",
@@ -11324,10 +11324,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-20",
       "row": 965,
-      "weekday": "Tuesday",
-      "englishDate": "July 20th 2027",
-      "isoDate": "2027-07-20",
-      "hebrewDate": "15 Tamuz 5787",
+      "weekday": "Saturday",
+      "englishDate": "August 21st 2027",
+      "isoDate": "2027-08-21",
+      "hebrewDate": "18 Av 5787",
       "tractate": "עדויות",
       "assignment": "1:1-3",
       "sourceFlag": "",
@@ -11336,10 +11336,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-21",
       "row": 966,
-      "weekday": "Wednesday",
-      "englishDate": "July 21st 2027",
-      "isoDate": "2027-07-21",
-      "hebrewDate": "16 Tamuz 5787",
+      "weekday": "Sunday",
+      "englishDate": "August 22nd 2027",
+      "isoDate": "2027-08-22",
+      "hebrewDate": "19 Av 5787",
       "tractate": "עדויות",
       "assignment": "1:4-5",
       "sourceFlag": "",
@@ -11348,10 +11348,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-22",
       "row": 967,
-      "weekday": "Thursday",
-      "englishDate": "July 22nd 2027",
-      "isoDate": "2027-07-22",
-      "hebrewDate": "17 Tamuz 5787",
+      "weekday": "Monday",
+      "englishDate": "August 23rd 2027",
+      "isoDate": "2027-08-23",
+      "hebrewDate": "20 Av 5787",
       "tractate": "עדויות",
       "assignment": "1:6-8",
       "sourceFlag": "",
@@ -11360,10 +11360,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-23",
       "row": 968,
-      "weekday": "Friday",
-      "englishDate": "July 23rd 2027",
-      "isoDate": "2027-07-23",
-      "hebrewDate": "18 Tamuz 5787",
+      "weekday": "Tuesday",
+      "englishDate": "August 24th 2027",
+      "isoDate": "2027-08-24",
+      "hebrewDate": "21 Av 5787",
       "tractate": "עדויות",
       "assignment": "1:9-10",
       "sourceFlag": "",
@@ -11372,10 +11372,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-24",
       "row": 969,
-      "weekday": "Saturday",
-      "englishDate": "July 24th 2027",
-      "isoDate": "2027-07-24",
-      "hebrewDate": "19 Tamuz 5787",
+      "weekday": "Wednesday",
+      "englishDate": "August 25th 2027",
+      "isoDate": "2027-08-25",
+      "hebrewDate": "22 Av 5787",
       "tractate": "עדויות",
       "assignment": "1:11-13",
       "sourceFlag": "",
@@ -11384,10 +11384,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-25",
       "row": 970,
-      "weekday": "Sunday",
-      "englishDate": "July 25th 2027",
-      "isoDate": "2027-07-25",
-      "hebrewDate": "20 Tamuz 5787",
+      "weekday": "Thursday",
+      "englishDate": "August 26th 2027",
+      "isoDate": "2027-08-26",
+      "hebrewDate": "23 Av 5787",
       "tractate": "עדויות",
       "assignment": "1:14-2:1",
       "sourceFlag": "",
@@ -11396,10 +11396,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-26",
       "row": 971,
-      "weekday": "Monday",
-      "englishDate": "July 26th 2027",
-      "isoDate": "2027-07-26",
-      "hebrewDate": "21 Tamuz 5787",
+      "weekday": "Friday",
+      "englishDate": "August 27th 2027",
+      "isoDate": "2027-08-27",
+      "hebrewDate": "24 Av 5787",
       "tractate": "עדויות",
       "assignment": "2:2-4",
       "sourceFlag": "",
@@ -11408,10 +11408,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-27",
       "row": 972,
-      "weekday": "Tuesday",
-      "englishDate": "July 27th 2027",
-      "isoDate": "2027-07-27",
-      "hebrewDate": "22 Tamuz 5787",
+      "weekday": "Saturday",
+      "englishDate": "August 28th 2027",
+      "isoDate": "2027-08-28",
+      "hebrewDate": "25 Av 5787",
       "tractate": "עדויות",
       "assignment": "2:5-6",
       "sourceFlag": "",
@@ -11420,10 +11420,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-28",
       "row": 973,
-      "weekday": "Wednesday",
-      "englishDate": "July 28th 2027",
-      "isoDate": "2027-07-28",
-      "hebrewDate": "23 Tamuz 5787",
+      "weekday": "Sunday",
+      "englishDate": "August 29th 2027",
+      "isoDate": "2027-08-29",
+      "hebrewDate": "26 Av 5787",
       "tractate": "עדויות",
       "assignment": "2:7-9",
       "sourceFlag": "",
@@ -11432,10 +11432,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-29",
       "row": 974,
-      "weekday": "Thursday",
-      "englishDate": "July 29th 2027",
-      "isoDate": "2027-07-29",
-      "hebrewDate": "24 Tamuz 5787",
+      "weekday": "Monday",
+      "englishDate": "August 30th 2027",
+      "isoDate": "2027-08-30",
+      "hebrewDate": "27 Av 5787",
       "tractate": "עדויות",
       "assignment": "2:10-3:1",
       "sourceFlag": "",
@@ -11444,10 +11444,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-30",
       "row": 975,
-      "weekday": "Friday",
-      "englishDate": "July 30th 2027",
-      "isoDate": "2027-07-30",
-      "hebrewDate": "25 Tamuz 5787",
+      "weekday": "Tuesday",
+      "englishDate": "August 31st 2027",
+      "isoDate": "2027-08-31",
+      "hebrewDate": "28 Av 5787",
       "tractate": "עדויות",
       "assignment": "3:2-4",
       "sourceFlag": "",
@@ -11456,10 +11456,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-07-31",
       "row": 976,
-      "weekday": "Saturday",
-      "englishDate": "July 31st 2027",
-      "isoDate": "2027-07-31",
-      "hebrewDate": "26 Tamuz 5787",
+      "weekday": "Wednesday",
+      "englishDate": "September 1st 2027",
+      "isoDate": "2027-09-01",
+      "hebrewDate": "29 Av 5787",
       "tractate": "עדויות",
       "assignment": "3:5-6",
       "sourceFlag": "",
@@ -11468,10 +11468,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-01",
       "row": 977,
-      "weekday": "Sunday",
-      "englishDate": "August 1st 2027",
-      "isoDate": "2027-08-01",
-      "hebrewDate": "27 Tamuz 5787",
+      "weekday": "Thursday",
+      "englishDate": "September 2nd 2027",
+      "isoDate": "2027-09-02",
+      "hebrewDate": "30 Av 5787",
       "tractate": "עדויות",
       "assignment": "3:7-9",
       "sourceFlag": "",
@@ -11480,10 +11480,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-02",
       "row": 978,
-      "weekday": "Monday",
-      "englishDate": "August 2nd 2027",
-      "isoDate": "2027-08-02",
-      "hebrewDate": "28 Tamuz 5787",
+      "weekday": "Friday",
+      "englishDate": "September 3rd 2027",
+      "isoDate": "2027-09-03",
+      "hebrewDate": "1 Elul 5787",
       "tractate": "עדויות",
       "assignment": "3:10-11",
       "sourceFlag": "",
@@ -11492,10 +11492,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-03",
       "row": 979,
-      "weekday": "Tuesday",
-      "englishDate": "August 3rd 2027",
-      "isoDate": "2027-08-03",
-      "hebrewDate": "29 Tamuz 5787",
+      "weekday": "Saturday",
+      "englishDate": "September 4th 2027",
+      "isoDate": "2027-09-04",
+      "hebrewDate": "2 Elul 5787",
       "tractate": "עדויות",
       "assignment": "3:12-4:2",
       "sourceFlag": "",
@@ -11504,10 +11504,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-04",
       "row": 980,
-      "weekday": "Wednesday",
-      "englishDate": "August 4th 2027",
-      "isoDate": "2027-08-04",
-      "hebrewDate": "1 Av 5787",
+      "weekday": "Sunday",
+      "englishDate": "September 5th 2027",
+      "isoDate": "2027-09-05",
+      "hebrewDate": "3 Elul 5787",
       "tractate": "עדויות",
       "assignment": "4:3-4",
       "sourceFlag": "",
@@ -11516,10 +11516,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-05",
       "row": 981,
-      "weekday": "Thursday",
-      "englishDate": "August 5th 2027",
-      "isoDate": "2027-08-05",
-      "hebrewDate": "2 Av 5787",
+      "weekday": "Monday",
+      "englishDate": "September 6th 2027",
+      "isoDate": "2027-09-06",
+      "hebrewDate": "4 Elul 5787",
       "tractate": "עדויות",
       "assignment": "4:5-7",
       "sourceFlag": "",
@@ -11528,10 +11528,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-06",
       "row": 982,
-      "weekday": "Friday",
-      "englishDate": "August 6th 2027",
-      "isoDate": "2027-08-06",
-      "hebrewDate": "3 Av 5787",
+      "weekday": "Tuesday",
+      "englishDate": "September 7th 2027",
+      "isoDate": "2027-09-07",
+      "hebrewDate": "5 Elul 5787",
       "tractate": "עדויות",
       "assignment": "4:8-9",
       "sourceFlag": "",
@@ -11540,10 +11540,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-07",
       "row": 983,
-      "weekday": "Saturday",
-      "englishDate": "August 7th 2027",
-      "isoDate": "2027-08-07",
-      "hebrewDate": "4 Av 5787",
+      "weekday": "Wednesday",
+      "englishDate": "September 8th 2027",
+      "isoDate": "2027-09-08",
+      "hebrewDate": "6 Elul 5787",
       "tractate": "עדויות",
       "assignment": "4:10-12",
       "sourceFlag": "",
@@ -11552,10 +11552,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-08",
       "row": 984,
-      "weekday": "Sunday",
-      "englishDate": "August 8th 2027",
-      "isoDate": "2027-08-08",
-      "hebrewDate": "5 Av 5787",
+      "weekday": "Thursday",
+      "englishDate": "September 9th 2027",
+      "isoDate": "2027-09-09",
+      "hebrewDate": "7 Elul 5787",
       "tractate": "עדויות",
       "assignment": "5:1-2",
       "sourceFlag": "",
@@ -11564,10 +11564,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-09",
       "row": 985,
-      "weekday": "Monday",
-      "englishDate": "August 9th 2027",
-      "isoDate": "2027-08-09",
-      "hebrewDate": "6 Av 5787",
+      "weekday": "Friday",
+      "englishDate": "September 10th 2027",
+      "isoDate": "2027-09-10",
+      "hebrewDate": "8 Elul 5787",
       "tractate": "עדויות",
       "assignment": "5:3-5",
       "sourceFlag": "",
@@ -11576,10 +11576,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-10",
       "row": 986,
-      "weekday": "Tuesday",
-      "englishDate": "August 10th 2027",
-      "isoDate": "2027-08-10",
-      "hebrewDate": "7 Av 5787",
+      "weekday": "Saturday",
+      "englishDate": "September 11th 2027",
+      "isoDate": "2027-09-11",
+      "hebrewDate": "9 Elul 5787",
       "tractate": "עדויות",
       "assignment": "5:6-7",
       "sourceFlag": "",
@@ -11588,10 +11588,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-11",
       "row": 987,
-      "weekday": "Wednesday",
-      "englishDate": "August 11th 2027",
-      "isoDate": "2027-08-11",
-      "hebrewDate": "8 Av 5787",
+      "weekday": "Sunday",
+      "englishDate": "September 12th 2027",
+      "isoDate": "2027-09-12",
+      "hebrewDate": "10 Elul 5787",
       "tractate": "עדויות",
       "assignment": "6:1-3",
       "sourceFlag": "",
@@ -11600,10 +11600,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-12",
       "row": 988,
-      "weekday": "Thursday",
-      "englishDate": "August 12th 2027",
-      "isoDate": "2027-08-12",
-      "hebrewDate": "9 Av 5787",
+      "weekday": "Monday",
+      "englishDate": "September 13th 2027",
+      "isoDate": "2027-09-13",
+      "hebrewDate": "11 Elul 5787",
       "tractate": "עדויות",
       "assignment": "7:1-2",
       "sourceFlag": "",
@@ -11612,10 +11612,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-13",
       "row": 989,
-      "weekday": "Friday",
-      "englishDate": "August 13th 2027",
-      "isoDate": "2027-08-13",
-      "hebrewDate": "10 Av 5787",
+      "weekday": "Tuesday",
+      "englishDate": "September 14th 2027",
+      "isoDate": "2027-09-14",
+      "hebrewDate": "12 Elul 5787",
       "tractate": "עדויות",
       "assignment": "7:3-5",
       "sourceFlag": "",
@@ -11624,10 +11624,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-14",
       "row": 990,
-      "weekday": "Saturday",
-      "englishDate": "August 14th 2027",
-      "isoDate": "2027-08-14",
-      "hebrewDate": "11 Av 5787",
+      "weekday": "Wednesday",
+      "englishDate": "September 15th 2027",
+      "isoDate": "2027-09-15",
+      "hebrewDate": "13 Elul 5787",
       "tractate": "עדויות",
       "assignment": "7:6-7",
       "sourceFlag": "",
@@ -11636,10 +11636,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-15",
       "row": 991,
-      "weekday": "Sunday",
-      "englishDate": "August 15th 2027",
-      "isoDate": "2027-08-15",
-      "hebrewDate": "12 Av 5787",
+      "weekday": "Thursday",
+      "englishDate": "September 16th 2027",
+      "isoDate": "2027-09-16",
+      "hebrewDate": "14 Elul 5787",
       "tractate": "עדויות",
       "assignment": "7:8-8:1",
       "sourceFlag": "",
@@ -11648,10 +11648,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-16",
       "row": 992,
-      "weekday": "Monday",
-      "englishDate": "August 16th 2027",
-      "isoDate": "2027-08-16",
-      "hebrewDate": "13 Av 5787",
+      "weekday": "Friday",
+      "englishDate": "September 17th 2027",
+      "isoDate": "2027-09-17",
+      "hebrewDate": "15 Elul 5787",
       "tractate": "עדויות",
       "assignment": "8:2-3",
       "sourceFlag": "",
@@ -11660,10 +11660,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-17",
       "row": 993,
-      "weekday": "Tuesday",
-      "englishDate": "August 17th 2027",
-      "isoDate": "2027-08-17",
-      "hebrewDate": "14 Av 5787",
+      "weekday": "Saturday",
+      "englishDate": "September 18th 2027",
+      "isoDate": "2027-09-18",
+      "hebrewDate": "16 Elul 5787",
       "tractate": "עדויות",
       "assignment": "8:4-6",
       "sourceFlag": "",
@@ -11672,10 +11672,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-18",
       "row": 994,
-      "weekday": "Wednesday",
-      "englishDate": "August 18th 2027",
-      "isoDate": "2027-08-18",
-      "hebrewDate": "15 Av 5787",
+      "weekday": "Sunday",
+      "englishDate": "September 19th 2027",
+      "isoDate": "2027-09-19",
+      "hebrewDate": "17 Elul 5787",
       "tractate": "עדויות-עבודה זרה",
       "assignment": "8:7 - 1:1",
       "sourceFlag": "",
@@ -11684,10 +11684,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-19",
       "row": 995,
-      "weekday": "Thursday",
-      "englishDate": "August 19th 2027",
-      "isoDate": "2027-08-19",
-      "hebrewDate": "16 Av 5787",
+      "weekday": "Monday",
+      "englishDate": "September 20th 2027",
+      "isoDate": "2027-09-20",
+      "hebrewDate": "18 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "1:2-4",
       "sourceFlag": "",
@@ -11696,10 +11696,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-20",
       "row": 996,
-      "weekday": "Friday",
-      "englishDate": "August 20th 2027",
-      "isoDate": "2027-08-20",
-      "hebrewDate": "17 Av 5787",
+      "weekday": "Tuesday",
+      "englishDate": "September 21st 2027",
+      "isoDate": "2027-09-21",
+      "hebrewDate": "19 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "1:5-6",
       "sourceFlag": "",
@@ -11708,10 +11708,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-21",
       "row": 997,
-      "weekday": "Saturday",
-      "englishDate": "August 21st 2027",
-      "isoDate": "2027-08-21",
-      "hebrewDate": "18 Av 5787",
+      "weekday": "Wednesday",
+      "englishDate": "September 22nd 2027",
+      "isoDate": "2027-09-22",
+      "hebrewDate": "20 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "1:7-9",
       "sourceFlag": "",
@@ -11720,10 +11720,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-22",
       "row": 998,
-      "weekday": "Sunday",
-      "englishDate": "August 22nd 2027",
-      "isoDate": "2027-08-22",
-      "hebrewDate": "19 Av 5787",
+      "weekday": "Thursday",
+      "englishDate": "September 23rd 2027",
+      "isoDate": "2027-09-23",
+      "hebrewDate": "21 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "2:1-2",
       "sourceFlag": "",
@@ -11732,10 +11732,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-23",
       "row": 999,
-      "weekday": "Monday",
-      "englishDate": "August 23rd 2027",
-      "isoDate": "2027-08-23",
-      "hebrewDate": "20 Av 5787",
+      "weekday": "Friday",
+      "englishDate": "September 24th 2027",
+      "isoDate": "2027-09-24",
+      "hebrewDate": "22 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "2:3-5",
       "sourceFlag": "",
@@ -11744,10 +11744,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-24",
       "row": 1000,
-      "weekday": "Tuesday",
-      "englishDate": "August 24th 2027",
-      "isoDate": "2027-08-24",
-      "hebrewDate": "21 Av 5787",
+      "weekday": "Saturday",
+      "englishDate": "September 25th 2027",
+      "isoDate": "2027-09-25",
+      "hebrewDate": "23 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "2:6-7",
       "sourceFlag": "",
@@ -11756,10 +11756,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-25",
       "row": 1001,
-      "weekday": "Wednesday",
-      "englishDate": "August 25th 2027",
-      "isoDate": "2027-08-25",
-      "hebrewDate": "22 Av 5787",
+      "weekday": "Sunday",
+      "englishDate": "September 26th 2027",
+      "isoDate": "2027-09-26",
+      "hebrewDate": "24 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "3:1-3",
       "sourceFlag": "",
@@ -11768,10 +11768,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-26",
       "row": 1002,
-      "weekday": "Thursday",
-      "englishDate": "August 26th 2027",
-      "isoDate": "2027-08-26",
-      "hebrewDate": "23 Av 5787",
+      "weekday": "Monday",
+      "englishDate": "September 27th 2027",
+      "isoDate": "2027-09-27",
+      "hebrewDate": "25 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "3:4-5",
       "sourceFlag": "",
@@ -11780,10 +11780,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-27",
       "row": 1003,
-      "weekday": "Friday",
-      "englishDate": "August 27th 2027",
-      "isoDate": "2027-08-27",
-      "hebrewDate": "24 Av 5787",
+      "weekday": "Tuesday",
+      "englishDate": "September 28th 2027",
+      "isoDate": "2027-09-28",
+      "hebrewDate": "26 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "3:6-8",
       "sourceFlag": "",
@@ -11792,10 +11792,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-28",
       "row": 1004,
-      "weekday": "Saturday",
-      "englishDate": "August 28th 2027",
-      "isoDate": "2027-08-28",
-      "hebrewDate": "25 Av 5787",
+      "weekday": "Wednesday",
+      "englishDate": "September 29th 2027",
+      "isoDate": "2027-09-29",
+      "hebrewDate": "27 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "3:9-10",
       "sourceFlag": "",
@@ -11804,10 +11804,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-29",
       "row": 1005,
-      "weekday": "Sunday",
-      "englishDate": "August 29th 2027",
-      "isoDate": "2027-08-29",
-      "hebrewDate": "26 Av 5787",
+      "weekday": "Thursday",
+      "englishDate": "September 30th 2027",
+      "isoDate": "2027-09-30",
+      "hebrewDate": "28 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -11816,10 +11816,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-30",
       "row": 1006,
-      "weekday": "Monday",
-      "englishDate": "August 30th 2027",
-      "isoDate": "2027-08-30",
-      "hebrewDate": "27 Av 5787",
+      "weekday": "Friday",
+      "englishDate": "October 1st 2027",
+      "isoDate": "2027-10-01",
+      "hebrewDate": "29 Elul 5787",
       "tractate": "עבודה זרה",
       "assignment": "4:3-5",
       "sourceFlag": "",
@@ -11828,10 +11828,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-08-31",
       "row": 1007,
-      "weekday": "Tuesday",
-      "englishDate": "August 31st 2027",
-      "isoDate": "2027-08-31",
-      "hebrewDate": "28 Av 5787",
+      "weekday": "Saturday",
+      "englishDate": "October 2nd 2027",
+      "isoDate": "2027-10-02",
+      "hebrewDate": "1 Tishrei 5788",
       "tractate": "עבודה זרה",
       "assignment": "4:6-7",
       "sourceFlag": "",
@@ -11840,10 +11840,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-01",
       "row": 1008,
-      "weekday": "Wednesday",
-      "englishDate": "September 1st 2027",
-      "isoDate": "2027-09-01",
-      "hebrewDate": "29 Av 5787",
+      "weekday": "Sunday",
+      "englishDate": "October 3rd 2027",
+      "isoDate": "2027-10-03",
+      "hebrewDate": "2 Tishrei 5788",
       "tractate": "עבודה זרה",
       "assignment": "4:8-10",
       "sourceFlag": "",
@@ -11852,10 +11852,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-02",
       "row": 1009,
-      "weekday": "Thursday",
-      "englishDate": "September 2nd 2027",
-      "isoDate": "2027-09-02",
-      "hebrewDate": "30 Av 5787",
+      "weekday": "Monday",
+      "englishDate": "October 4th 2027",
+      "isoDate": "2027-10-04",
+      "hebrewDate": "3 Tishrei 5788",
       "tractate": "עבודה זרה",
       "assignment": "4:11-12",
       "sourceFlag": "",
@@ -11864,10 +11864,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-03",
       "row": 1010,
-      "weekday": "Friday",
-      "englishDate": "September 3rd 2027",
-      "isoDate": "2027-09-03",
-      "hebrewDate": "1 Elul 5787",
+      "weekday": "Tuesday",
+      "englishDate": "October 5th 2027",
+      "isoDate": "2027-10-05",
+      "hebrewDate": "4 Tishrei 5788",
       "tractate": "עבודה זרה",
       "assignment": "5:1-3",
       "sourceFlag": "",
@@ -11876,10 +11876,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-04",
       "row": 1011,
-      "weekday": "Saturday",
-      "englishDate": "September 4th 2027",
-      "isoDate": "2027-09-04",
-      "hebrewDate": "2 Elul 5787",
+      "weekday": "Wednesday",
+      "englishDate": "October 6th 2027",
+      "isoDate": "2027-10-06",
+      "hebrewDate": "5 Tishrei 5788",
       "tractate": "עבודה זרה",
       "assignment": "5:4-5",
       "sourceFlag": "",
@@ -11888,10 +11888,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-05",
       "row": 1012,
-      "weekday": "Sunday",
-      "englishDate": "September 5th 2027",
-      "isoDate": "2027-09-05",
-      "hebrewDate": "3 Elul 5787",
+      "weekday": "Thursday",
+      "englishDate": "October 7th 2027",
+      "isoDate": "2027-10-07",
+      "hebrewDate": "6 Tishrei 5788",
       "tractate": "עבודה זרה",
       "assignment": "5:6-8",
       "sourceFlag": "",
@@ -11900,10 +11900,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-06",
       "row": 1013,
-      "weekday": "Monday",
-      "englishDate": "September 6th 2027",
-      "isoDate": "2027-09-06",
-      "hebrewDate": "4 Elul 5787",
+      "weekday": "Friday",
+      "englishDate": "October 8th 2027",
+      "isoDate": "2027-10-08",
+      "hebrewDate": "7 Tishrei 5788",
       "tractate": "עבודה זרה",
       "assignment": "5:9-10",
       "sourceFlag": "",
@@ -11912,10 +11912,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-07",
       "row": 1014,
-      "weekday": "Tuesday",
-      "englishDate": "September 7th 2027",
-      "isoDate": "2027-09-07",
-      "hebrewDate": "5 Elul 5787",
+      "weekday": "Saturday",
+      "englishDate": "October 9th 2027",
+      "isoDate": "2027-10-09",
+      "hebrewDate": "8 Tishrei 5788",
       "tractate": "עבודה זרה-אבות",
       "assignment": "5:11 -1:1",
       "sourceFlag": "",
@@ -11924,10 +11924,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-08",
       "row": 1015,
-      "weekday": "Wednesday",
-      "englishDate": "September 8th 2027",
-      "isoDate": "2027-09-08",
-      "hebrewDate": "6 Elul 5787",
+      "weekday": "Sunday",
+      "englishDate": "October 10th 2027",
+      "isoDate": "2027-10-10",
+      "hebrewDate": "9 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -11936,10 +11936,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-09",
       "row": 1016,
-      "weekday": "Thursday",
-      "englishDate": "September 9th 2027",
-      "isoDate": "2027-09-09",
-      "hebrewDate": "7 Elul 5787",
+      "weekday": "Monday",
+      "englishDate": "October 11th 2027",
+      "isoDate": "2027-10-11",
+      "hebrewDate": "10 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "1:4-6",
       "sourceFlag": "",
@@ -11948,10 +11948,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-10",
       "row": 1017,
-      "weekday": "Friday",
-      "englishDate": "September 10th 2027",
-      "isoDate": "2027-09-10",
-      "hebrewDate": "8 Elul 5787",
+      "weekday": "Tuesday",
+      "englishDate": "October 12th 2027",
+      "isoDate": "2027-10-12",
+      "hebrewDate": "11 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "1:7-8",
       "sourceFlag": "",
@@ -11960,10 +11960,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-11",
       "row": 1018,
-      "weekday": "Saturday",
-      "englishDate": "September 11th 2027",
-      "isoDate": "2027-09-11",
-      "hebrewDate": "9 Elul 5787",
+      "weekday": "Wednesday",
+      "englishDate": "October 13th 2027",
+      "isoDate": "2027-10-13",
+      "hebrewDate": "12 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "1:9-11",
       "sourceFlag": "",
@@ -11972,10 +11972,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-12",
       "row": 1019,
-      "weekday": "Sunday",
-      "englishDate": "September 12th 2027",
-      "isoDate": "2027-09-12",
-      "hebrewDate": "10 Elul 5787",
+      "weekday": "Thursday",
+      "englishDate": "October 14th 2027",
+      "isoDate": "2027-10-14",
+      "hebrewDate": "13 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "1:12-13",
       "sourceFlag": "",
@@ -11984,10 +11984,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-13",
       "row": 1020,
-      "weekday": "Monday",
-      "englishDate": "September 13th 2027",
-      "isoDate": "2027-09-13",
-      "hebrewDate": "11 Elul 5787",
+      "weekday": "Friday",
+      "englishDate": "October 15th 2027",
+      "isoDate": "2027-10-15",
+      "hebrewDate": "14 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "1:14-16",
       "sourceFlag": "",
@@ -11996,10 +11996,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-14",
       "row": 1021,
-      "weekday": "Tuesday",
-      "englishDate": "September 14th 2027",
-      "isoDate": "2027-09-14",
-      "hebrewDate": "12 Elul 5787",
+      "weekday": "Saturday",
+      "englishDate": "October 16th 2027",
+      "isoDate": "2027-10-16",
+      "hebrewDate": "15 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "1:17-18",
       "sourceFlag": "",
@@ -12008,10 +12008,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-15",
       "row": 1022,
-      "weekday": "Wednesday",
-      "englishDate": "September 15th 2027",
-      "isoDate": "2027-09-15",
-      "hebrewDate": "13 Elul 5787",
+      "weekday": "Sunday",
+      "englishDate": "October 17th 2027",
+      "isoDate": "2027-10-17",
+      "hebrewDate": "16 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "2:1-3",
       "sourceFlag": "",
@@ -12020,10 +12020,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-16",
       "row": 1023,
-      "weekday": "Thursday",
-      "englishDate": "September 16th 2027",
-      "isoDate": "2027-09-16",
-      "hebrewDate": "14 Elul 5787",
+      "weekday": "Monday",
+      "englishDate": "October 18th 2027",
+      "isoDate": "2027-10-18",
+      "hebrewDate": "17 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "2:4-5",
       "sourceFlag": "",
@@ -12032,10 +12032,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-17",
       "row": 1024,
-      "weekday": "Friday",
-      "englishDate": "September 17th 2027",
-      "isoDate": "2027-09-17",
-      "hebrewDate": "15 Elul 5787",
+      "weekday": "Tuesday",
+      "englishDate": "October 19th 2027",
+      "isoDate": "2027-10-19",
+      "hebrewDate": "18 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "2:6-8",
       "sourceFlag": "",
@@ -12044,10 +12044,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-18",
       "row": 1025,
-      "weekday": "Saturday",
-      "englishDate": "September 18th 2027",
-      "isoDate": "2027-09-18",
-      "hebrewDate": "16 Elul 5787",
+      "weekday": "Wednesday",
+      "englishDate": "October 20th 2027",
+      "isoDate": "2027-10-20",
+      "hebrewDate": "19 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "2:9-10",
       "sourceFlag": "",
@@ -12056,10 +12056,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-19",
       "row": 1026,
-      "weekday": "Sunday",
-      "englishDate": "September 19th 2027",
-      "isoDate": "2027-09-19",
-      "hebrewDate": "17 Elul 5787",
+      "weekday": "Thursday",
+      "englishDate": "October 21st 2027",
+      "isoDate": "2027-10-21",
+      "hebrewDate": "20 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "2:11-13",
       "sourceFlag": "",
@@ -12068,10 +12068,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-20",
       "row": 1027,
-      "weekday": "Monday",
-      "englishDate": "September 20th 2027",
-      "isoDate": "2027-09-20",
-      "hebrewDate": "18 Elul 5787",
+      "weekday": "Friday",
+      "englishDate": "October 22nd 2027",
+      "isoDate": "2027-10-22",
+      "hebrewDate": "21 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "2:14-15",
       "sourceFlag": "",
@@ -12080,10 +12080,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-21",
       "row": 1028,
-      "weekday": "Tuesday",
-      "englishDate": "September 21st 2027",
-      "isoDate": "2027-09-21",
-      "hebrewDate": "19 Elul 5787",
+      "weekday": "Saturday",
+      "englishDate": "October 23rd 2027",
+      "isoDate": "2027-10-23",
+      "hebrewDate": "22 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "2:16-3:2",
       "sourceFlag": "",
@@ -12092,10 +12092,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-22",
       "row": 1029,
-      "weekday": "Wednesday",
-      "englishDate": "September 22nd 2027",
-      "isoDate": "2027-09-22",
-      "hebrewDate": "20 Elul 5787",
+      "weekday": "Sunday",
+      "englishDate": "October 24th 2027",
+      "isoDate": "2027-10-24",
+      "hebrewDate": "23 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "3:3-4",
       "sourceFlag": "",
@@ -12104,10 +12104,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-23",
       "row": 1030,
-      "weekday": "Thursday",
-      "englishDate": "September 23rd 2027",
-      "isoDate": "2027-09-23",
-      "hebrewDate": "21 Elul 5787",
+      "weekday": "Monday",
+      "englishDate": "October 25th 2027",
+      "isoDate": "2027-10-25",
+      "hebrewDate": "24 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "3:5-7",
       "sourceFlag": "",
@@ -12116,10 +12116,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-24",
       "row": 1031,
-      "weekday": "Friday",
-      "englishDate": "September 24th 2027",
-      "isoDate": "2027-09-24",
-      "hebrewDate": "22 Elul 5787",
+      "weekday": "Tuesday",
+      "englishDate": "October 26th 2027",
+      "isoDate": "2027-10-26",
+      "hebrewDate": "25 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "3:8-9",
       "sourceFlag": "",
@@ -12128,10 +12128,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-25",
       "row": 1032,
-      "weekday": "Saturday",
-      "englishDate": "September 25th 2027",
-      "isoDate": "2027-09-25",
-      "hebrewDate": "23 Elul 5787",
+      "weekday": "Wednesday",
+      "englishDate": "October 27th 2027",
+      "isoDate": "2027-10-27",
+      "hebrewDate": "26 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "3:10-12",
       "sourceFlag": "",
@@ -12140,10 +12140,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-26",
       "row": 1033,
-      "weekday": "Sunday",
-      "englishDate": "September 26th 2027",
-      "isoDate": "2027-09-26",
-      "hebrewDate": "24 Elul 5787",
+      "weekday": "Thursday",
+      "englishDate": "October 28th 2027",
+      "isoDate": "2027-10-28",
+      "hebrewDate": "27 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "3:13-14",
       "sourceFlag": "",
@@ -12152,10 +12152,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-27",
       "row": 1034,
-      "weekday": "Monday",
-      "englishDate": "September 27th 2027",
-      "isoDate": "2027-09-27",
-      "hebrewDate": "25 Elul 5787",
+      "weekday": "Friday",
+      "englishDate": "October 29th 2027",
+      "isoDate": "2027-10-29",
+      "hebrewDate": "28 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "3:15-17",
       "sourceFlag": "",
@@ -12164,10 +12164,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-28",
       "row": 1035,
-      "weekday": "Tuesday",
-      "englishDate": "September 28th 2027",
-      "isoDate": "2027-09-28",
-      "hebrewDate": "26 Elul 5787",
+      "weekday": "Saturday",
+      "englishDate": "October 30th 2027",
+      "isoDate": "2027-10-30",
+      "hebrewDate": "29 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "3:18-4:1",
       "sourceFlag": "",
@@ -12176,10 +12176,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-29",
       "row": 1036,
-      "weekday": "Wednesday",
-      "englishDate": "September 29th 2027",
-      "isoDate": "2027-09-29",
-      "hebrewDate": "27 Elul 5787",
+      "weekday": "Sunday",
+      "englishDate": "October 31st 2027",
+      "isoDate": "2027-10-31",
+      "hebrewDate": "30 Tishrei 5788",
       "tractate": "אבות",
       "assignment": "4:2-4",
       "sourceFlag": "",
@@ -12188,10 +12188,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-09-30",
       "row": 1037,
-      "weekday": "Thursday",
-      "englishDate": "September 30th 2027",
-      "isoDate": "2027-09-30",
-      "hebrewDate": "28 Elul 5787",
+      "weekday": "Monday",
+      "englishDate": "November 1st 2027",
+      "isoDate": "2027-11-01",
+      "hebrewDate": "1 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "4:5-6",
       "sourceFlag": "",
@@ -12200,10 +12200,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-01",
       "row": 1038,
-      "weekday": "Friday",
-      "englishDate": "October 1st 2027",
-      "isoDate": "2027-10-01",
-      "hebrewDate": "29 Elul 5787",
+      "weekday": "Tuesday",
+      "englishDate": "November 2nd 2027",
+      "isoDate": "2027-11-02",
+      "hebrewDate": "2 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "4:7-9",
       "sourceFlag": "",
@@ -12212,10 +12212,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-02",
       "row": 1039,
-      "weekday": "Saturday",
-      "englishDate": "October 2nd 2027",
-      "isoDate": "2027-10-02",
-      "hebrewDate": "1 Tishrei 5788",
+      "weekday": "Wednesday",
+      "englishDate": "November 3rd 2027",
+      "isoDate": "2027-11-03",
+      "hebrewDate": "3 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "4:10-11",
       "sourceFlag": "",
@@ -12224,10 +12224,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-03",
       "row": 1040,
-      "weekday": "Sunday",
-      "englishDate": "October 3rd 2027",
-      "isoDate": "2027-10-03",
-      "hebrewDate": "2 Tishrei 5788",
+      "weekday": "Thursday",
+      "englishDate": "November 4th 2027",
+      "isoDate": "2027-11-04",
+      "hebrewDate": "4 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "4:12-14",
       "sourceFlag": "",
@@ -12236,10 +12236,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-04",
       "row": 1041,
-      "weekday": "Monday",
-      "englishDate": "October 4th 2027",
-      "isoDate": "2027-10-04",
-      "hebrewDate": "3 Tishrei 5788",
+      "weekday": "Friday",
+      "englishDate": "November 5th 2027",
+      "isoDate": "2027-11-05",
+      "hebrewDate": "5 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "4:15-16",
       "sourceFlag": "",
@@ -12248,10 +12248,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-05",
       "row": 1042,
-      "weekday": "Tuesday",
-      "englishDate": "October 5th 2027",
-      "isoDate": "2027-10-05",
-      "hebrewDate": "4 Tishrei 5788",
+      "weekday": "Saturday",
+      "englishDate": "November 6th 2027",
+      "isoDate": "2027-11-06",
+      "hebrewDate": "6 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "4:17-19",
       "sourceFlag": "",
@@ -12260,10 +12260,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-06",
       "row": 1043,
-      "weekday": "Wednesday",
-      "englishDate": "October 6th 2027",
-      "isoDate": "2027-10-06",
-      "hebrewDate": "5 Tishrei 5788",
+      "weekday": "Sunday",
+      "englishDate": "November 7th 2027",
+      "isoDate": "2027-11-07",
+      "hebrewDate": "7 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "4:20-21",
       "sourceFlag": "",
@@ -12272,10 +12272,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-07",
       "row": 1044,
-      "weekday": "Thursday",
-      "englishDate": "October 7th 2027",
-      "isoDate": "2027-10-07",
-      "hebrewDate": "6 Tishrei 5788",
+      "weekday": "Monday",
+      "englishDate": "November 8th 2027",
+      "isoDate": "2027-11-08",
+      "hebrewDate": "8 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "4:22-5:2",
       "sourceFlag": "",
@@ -12284,10 +12284,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-08",
       "row": 1045,
-      "weekday": "Friday",
-      "englishDate": "October 8th 2027",
-      "isoDate": "2027-10-08",
-      "hebrewDate": "7 Tishrei 5788",
+      "weekday": "Tuesday",
+      "englishDate": "November 9th 2027",
+      "isoDate": "2027-11-09",
+      "hebrewDate": "9 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:3-4",
       "sourceFlag": "",
@@ -12296,10 +12296,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-09",
       "row": 1046,
-      "weekday": "Saturday",
-      "englishDate": "October 9th 2027",
-      "isoDate": "2027-10-09",
-      "hebrewDate": "8 Tishrei 5788",
+      "weekday": "Wednesday",
+      "englishDate": "November 10th 2027",
+      "isoDate": "2027-11-10",
+      "hebrewDate": "10 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:5-7",
       "sourceFlag": "",
@@ -12308,10 +12308,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-10",
       "row": 1047,
-      "weekday": "Sunday",
-      "englishDate": "October 10th 2027",
-      "isoDate": "2027-10-10",
-      "hebrewDate": "9 Tishrei 5788",
+      "weekday": "Thursday",
+      "englishDate": "November 11th 2027",
+      "isoDate": "2027-11-11",
+      "hebrewDate": "11 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:8-9",
       "sourceFlag": "",
@@ -12320,10 +12320,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-11",
       "row": 1048,
-      "weekday": "Monday",
-      "englishDate": "October 11th 2027",
-      "isoDate": "2027-10-11",
-      "hebrewDate": "10 Tishrei 5788",
+      "weekday": "Friday",
+      "englishDate": "November 12th 2027",
+      "isoDate": "2027-11-12",
+      "hebrewDate": "12 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:10-12",
       "sourceFlag": "",
@@ -12332,10 +12332,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-12",
       "row": 1049,
-      "weekday": "Tuesday",
-      "englishDate": "October 12th 2027",
-      "isoDate": "2027-10-12",
-      "hebrewDate": "11 Tishrei 5788",
+      "weekday": "Saturday",
+      "englishDate": "November 13th 2027",
+      "isoDate": "2027-11-13",
+      "hebrewDate": "13 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:13-14",
       "sourceFlag": "",
@@ -12344,10 +12344,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-13",
       "row": 1050,
-      "weekday": "Wednesday",
-      "englishDate": "October 13th 2027",
-      "isoDate": "2027-10-13",
-      "hebrewDate": "12 Tishrei 5788",
+      "weekday": "Sunday",
+      "englishDate": "November 14th 2027",
+      "isoDate": "2027-11-14",
+      "hebrewDate": "14 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:15-17",
       "sourceFlag": "",
@@ -12356,10 +12356,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-14",
       "row": 1051,
-      "weekday": "Thursday",
-      "englishDate": "October 14th 2027",
-      "isoDate": "2027-10-14",
-      "hebrewDate": "13 Tishrei 5788",
+      "weekday": "Monday",
+      "englishDate": "November 15th 2027",
+      "isoDate": "2027-11-15",
+      "hebrewDate": "15 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:18-19",
       "sourceFlag": "",
@@ -12368,10 +12368,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-15",
       "row": 1052,
-      "weekday": "Friday",
-      "englishDate": "October 15th 2027",
-      "isoDate": "2027-10-15",
-      "hebrewDate": "14 Tishrei 5788",
+      "weekday": "Tuesday",
+      "englishDate": "November 16th 2027",
+      "isoDate": "2027-11-16",
+      "hebrewDate": "16 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:20-21",
       "sourceFlag": "",
@@ -12380,10 +12380,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-16",
       "row": 1053,
-      "weekday": "Saturday",
-      "englishDate": "October 16th 2027",
-      "isoDate": "2027-10-16",
-      "hebrewDate": "15 Tishrei 5788",
+      "weekday": "Wednesday",
+      "englishDate": "November 17th 2027",
+      "isoDate": "2027-11-17",
+      "hebrewDate": "17 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "5:22-6:1",
       "sourceFlag": "",
@@ -12392,10 +12392,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-17",
       "row": 1054,
-      "weekday": "Sunday",
-      "englishDate": "October 17th 2027",
-      "isoDate": "2027-10-17",
-      "hebrewDate": "16 Tishrei 5788",
+      "weekday": "Thursday",
+      "englishDate": "November 18th 2027",
+      "isoDate": "2027-11-18",
+      "hebrewDate": "18 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "6:2-3",
       "sourceFlag": "",
@@ -12404,10 +12404,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-18",
       "row": 1055,
-      "weekday": "Monday",
-      "englishDate": "October 18th 2027",
-      "isoDate": "2027-10-18",
-      "hebrewDate": "17 Tishrei 5788",
+      "weekday": "Friday",
+      "englishDate": "November 19th 2027",
+      "isoDate": "2027-11-19",
+      "hebrewDate": "19 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "6:4-6",
       "sourceFlag": "",
@@ -12416,10 +12416,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-19",
       "row": 1056,
-      "weekday": "Tuesday",
-      "englishDate": "October 19th 2027",
-      "isoDate": "2027-10-19",
-      "hebrewDate": "18 Tishrei 5788",
+      "weekday": "Saturday",
+      "englishDate": "November 20th 2027",
+      "isoDate": "2027-11-20",
+      "hebrewDate": "20 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "6:7-8",
       "sourceFlag": "",
@@ -12428,10 +12428,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-20",
       "row": 1057,
-      "weekday": "Wednesday",
-      "englishDate": "October 20th 2027",
-      "isoDate": "2027-10-20",
-      "hebrewDate": "19 Tishrei 5788",
+      "weekday": "Sunday",
+      "englishDate": "November 21st 2027",
+      "isoDate": "2027-11-21",
+      "hebrewDate": "21 Cheshvan 5788",
       "tractate": "אבות",
       "assignment": "6:9-11",
       "sourceFlag": "",
@@ -12440,10 +12440,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-21",
       "row": 1058,
-      "weekday": "Thursday",
-      "englishDate": "October 21st 2027",
-      "isoDate": "2027-10-21",
-      "hebrewDate": "20 Tishrei 5788",
+      "weekday": "Monday",
+      "englishDate": "November 22nd 2027",
+      "isoDate": "2027-11-22",
+      "hebrewDate": "22 Cheshvan 5788",
       "tractate": "הוריות",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -12452,10 +12452,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-22",
       "row": 1059,
-      "weekday": "Friday",
-      "englishDate": "October 22nd 2027",
-      "isoDate": "2027-10-22",
-      "hebrewDate": "21 Tishrei 5788",
+      "weekday": "Tuesday",
+      "englishDate": "November 23rd 2027",
+      "isoDate": "2027-11-23",
+      "hebrewDate": "23 Cheshvan 5788",
       "tractate": "הוריות",
       "assignment": "1:3-5",
       "sourceFlag": "",
@@ -12464,10 +12464,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-23",
       "row": 1060,
-      "weekday": "Saturday",
-      "englishDate": "October 23rd 2027",
-      "isoDate": "2027-10-23",
-      "hebrewDate": "22 Tishrei 5788",
+      "weekday": "Wednesday",
+      "englishDate": "November 24th 2027",
+      "isoDate": "2027-11-24",
+      "hebrewDate": "24 Cheshvan 5788",
       "tractate": "הוריות",
       "assignment": "2:1-2",
       "sourceFlag": "",
@@ -12476,10 +12476,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-24",
       "row": 1061,
-      "weekday": "Sunday",
-      "englishDate": "October 24th 2027",
-      "isoDate": "2027-10-24",
-      "hebrewDate": "23 Tishrei 5788",
+      "weekday": "Thursday",
+      "englishDate": "November 25th 2027",
+      "isoDate": "2027-11-25",
+      "hebrewDate": "25 Cheshvan 5788",
       "tractate": "הוריות",
       "assignment": "2:3-5",
       "sourceFlag": "",
@@ -12488,10 +12488,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-25",
       "row": 1062,
-      "weekday": "Monday",
-      "englishDate": "October 25th 2027",
-      "isoDate": "2027-10-25",
-      "hebrewDate": "24 Tishrei 5788",
+      "weekday": "Friday",
+      "englishDate": "November 26th 2027",
+      "isoDate": "2027-11-26",
+      "hebrewDate": "26 Cheshvan 5788",
       "tractate": "הוריות",
       "assignment": "2:6-7",
       "sourceFlag": "",
@@ -12500,10 +12500,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-26",
       "row": 1063,
-      "weekday": "Tuesday",
-      "englishDate": "October 26th 2027",
-      "isoDate": "2027-10-26",
-      "hebrewDate": "25 Tishrei 5788",
+      "weekday": "Saturday",
+      "englishDate": "November 27th 2027",
+      "isoDate": "2027-11-27",
+      "hebrewDate": "27 Cheshvan 5788",
       "tractate": "הוריות",
       "assignment": "3:1-3",
       "sourceFlag": "",
@@ -12512,10 +12512,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-27",
       "row": 1064,
-      "weekday": "Wednesday",
-      "englishDate": "October 27th 2027",
-      "isoDate": "2027-10-27",
-      "hebrewDate": "26 Tishrei 5788",
+      "weekday": "Sunday",
+      "englishDate": "November 28th 2027",
+      "isoDate": "2027-11-28",
+      "hebrewDate": "28 Cheshvan 5788",
       "tractate": "הוריות",
       "assignment": "3:4-5",
       "sourceFlag": "",
@@ -12524,10 +12524,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-28",
       "row": 1065,
-      "weekday": "Thursday",
-      "englishDate": "October 28th 2027",
-      "isoDate": "2027-10-28",
-      "hebrewDate": "27 Tishrei 5788",
+      "weekday": "Monday",
+      "englishDate": "November 29th 2027",
+      "isoDate": "2027-11-29",
+      "hebrewDate": "29 Cheshvan 5788",
       "tractate": "הוריות",
       "assignment": "3:6-8",
       "sourceFlag": "",
@@ -12536,10 +12536,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-29",
       "row": 1066,
-      "weekday": "Friday",
-      "englishDate": "October 29th 2027",
-      "isoDate": "2027-10-29",
-      "hebrewDate": "28 Tishrei 5788",
+      "weekday": "Tuesday",
+      "englishDate": "November 30th 2027",
+      "isoDate": "2027-11-30",
+      "hebrewDate": "30 Cheshvan 5788",
       "tractate": "זבחים",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -12548,10 +12548,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-30",
       "row": 1067,
-      "weekday": "Saturday",
-      "englishDate": "October 30th 2027",
-      "isoDate": "2027-10-30",
-      "hebrewDate": "29 Tishrei 5788",
+      "weekday": "Wednesday",
+      "englishDate": "December 1st 2027",
+      "isoDate": "2027-12-01",
+      "hebrewDate": "1 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "1:3-2:1",
       "sourceFlag": "",
@@ -12560,10 +12560,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-10-31",
       "row": 1068,
-      "weekday": "Sunday",
-      "englishDate": "October 31st 2027",
-      "isoDate": "2027-10-31",
-      "hebrewDate": "30 Tishrei 5788",
+      "weekday": "Thursday",
+      "englishDate": "December 2nd 2027",
+      "isoDate": "2027-12-02",
+      "hebrewDate": "2 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "2:2-3",
       "sourceFlag": "",
@@ -12572,10 +12572,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-01",
       "row": 1069,
-      "weekday": "Monday",
-      "englishDate": "November 1st 2027",
-      "isoDate": "2027-11-01",
-      "hebrewDate": "1 Cheshvan 5788",
+      "weekday": "Friday",
+      "englishDate": "December 3rd 2027",
+      "isoDate": "2027-12-03",
+      "hebrewDate": "3 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "2:4-3:1",
       "sourceFlag": "",
@@ -12584,10 +12584,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-02",
       "row": 1070,
-      "weekday": "Tuesday",
-      "englishDate": "November 2nd 2027",
-      "isoDate": "2027-11-02",
-      "hebrewDate": "2 Cheshvan 5788",
+      "weekday": "Saturday",
+      "englishDate": "December 4th 2027",
+      "isoDate": "2027-12-04",
+      "hebrewDate": "4 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "3:2-3",
       "sourceFlag": "",
@@ -12596,10 +12596,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-03",
       "row": 1071,
-      "weekday": "Wednesday",
-      "englishDate": "November 3rd 2027",
-      "isoDate": "2027-11-03",
-      "hebrewDate": "3 Cheshvan 5788",
+      "weekday": "Sunday",
+      "englishDate": "December 5th 2027",
+      "isoDate": "2027-12-05",
+      "hebrewDate": "5 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "3:4-6",
       "sourceFlag": "",
@@ -12608,10 +12608,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-04",
       "row": 1072,
-      "weekday": "Thursday",
-      "englishDate": "November 4th 2027",
-      "isoDate": "2027-11-04",
-      "hebrewDate": "4 Cheshvan 5788",
+      "weekday": "Monday",
+      "englishDate": "December 6th 2027",
+      "isoDate": "2027-12-06",
+      "hebrewDate": "6 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -12620,10 +12620,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-05",
       "row": 1073,
-      "weekday": "Friday",
-      "englishDate": "November 5th 2027",
-      "isoDate": "2027-11-05",
-      "hebrewDate": "5 Cheshvan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "December 7th 2027",
+      "isoDate": "2027-12-07",
+      "hebrewDate": "7 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "4:3-5",
       "sourceFlag": "",
@@ -12632,10 +12632,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-06",
       "row": 1074,
-      "weekday": "Saturday",
-      "englishDate": "November 6th 2027",
-      "isoDate": "2027-11-06",
-      "hebrewDate": "6 Cheshvan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "December 8th 2027",
+      "isoDate": "2027-12-08",
+      "hebrewDate": "8 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "4:6-5:1",
       "sourceFlag": "",
@@ -12644,10 +12644,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-07",
       "row": 1075,
-      "weekday": "Sunday",
-      "englishDate": "November 7th 2027",
-      "isoDate": "2027-11-07",
-      "hebrewDate": "7 Cheshvan 5788",
+      "weekday": "Thursday",
+      "englishDate": "December 9th 2027",
+      "isoDate": "2027-12-09",
+      "hebrewDate": "9 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "5:2-4",
       "sourceFlag": "",
@@ -12656,10 +12656,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-08",
       "row": 1076,
-      "weekday": "Monday",
-      "englishDate": "November 8th 2027",
-      "isoDate": "2027-11-08",
-      "hebrewDate": "8 Cheshvan 5788",
+      "weekday": "Friday",
+      "englishDate": "December 10th 2027",
+      "isoDate": "2027-12-10",
+      "hebrewDate": "10 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "5:5-6",
       "sourceFlag": "",
@@ -12668,10 +12668,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-09",
       "row": 1077,
-      "weekday": "Tuesday",
-      "englishDate": "November 9th 2027",
-      "isoDate": "2027-11-09",
-      "hebrewDate": "9 Cheshvan 5788",
+      "weekday": "Saturday",
+      "englishDate": "December 11th 2027",
+      "isoDate": "2027-12-11",
+      "hebrewDate": "11 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "5:7-6:1",
       "sourceFlag": "",
@@ -12680,10 +12680,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-10",
       "row": 1078,
-      "weekday": "Wednesday",
-      "englishDate": "November 10th 2027",
-      "isoDate": "2027-11-10",
-      "hebrewDate": "10 Cheshvan 5788",
+      "weekday": "Sunday",
+      "englishDate": "December 12th 2027",
+      "isoDate": "2027-12-12",
+      "hebrewDate": "12 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "6:2-3",
       "sourceFlag": "",
@@ -12692,10 +12692,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-11",
       "row": 1079,
-      "weekday": "Thursday",
-      "englishDate": "November 11th 2027",
-      "isoDate": "2027-11-11",
-      "hebrewDate": "11 Cheshvan 5788",
+      "weekday": "Monday",
+      "englishDate": "December 13th 2027",
+      "isoDate": "2027-12-13",
+      "hebrewDate": "13 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "6:4-6",
       "sourceFlag": "",
@@ -12704,10 +12704,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-12",
       "row": 1080,
-      "weekday": "Friday",
-      "englishDate": "November 12th 2027",
-      "isoDate": "2027-11-12",
-      "hebrewDate": "12 Cheshvan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "December 14th 2027",
+      "isoDate": "2027-12-14",
+      "hebrewDate": "14 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "6:7-7:1",
       "sourceFlag": "",
@@ -12716,10 +12716,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-13",
       "row": 1081,
-      "weekday": "Saturday",
-      "englishDate": "November 13th 2027",
-      "isoDate": "2027-11-13",
-      "hebrewDate": "13 Cheshvan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "December 15th 2027",
+      "isoDate": "2027-12-15",
+      "hebrewDate": "15 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "7:2-4",
       "sourceFlag": "",
@@ -12728,10 +12728,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-14",
       "row": 1082,
-      "weekday": "Sunday",
-      "englishDate": "November 14th 2027",
-      "isoDate": "2027-11-14",
-      "hebrewDate": "14 Cheshvan 5788",
+      "weekday": "Thursday",
+      "englishDate": "December 16th 2027",
+      "isoDate": "2027-12-16",
+      "hebrewDate": "16 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "7:5-6",
       "sourceFlag": "",
@@ -12740,10 +12740,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-15",
       "row": 1083,
-      "weekday": "Monday",
-      "englishDate": "November 15th 2027",
-      "isoDate": "2027-11-15",
-      "hebrewDate": "15 Cheshvan 5788",
+      "weekday": "Friday",
+      "englishDate": "December 17th 2027",
+      "isoDate": "2027-12-17",
+      "hebrewDate": "17 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "8:1-3",
       "sourceFlag": "",
@@ -12752,10 +12752,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-16",
       "row": 1084,
-      "weekday": "Tuesday",
-      "englishDate": "November 16th 2027",
-      "isoDate": "2027-11-16",
-      "hebrewDate": "16 Cheshvan 5788",
+      "weekday": "Saturday",
+      "englishDate": "December 18th 2027",
+      "isoDate": "2027-12-18",
+      "hebrewDate": "18 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "8:4-5",
       "sourceFlag": "",
@@ -12764,10 +12764,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-17",
       "row": 1085,
-      "weekday": "Wednesday",
-      "englishDate": "November 17th 2027",
-      "isoDate": "2027-11-17",
-      "hebrewDate": "17 Cheshvan 5788",
+      "weekday": "Sunday",
+      "englishDate": "December 19th 2027",
+      "isoDate": "2027-12-19",
+      "hebrewDate": "19 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "8:6-8",
       "sourceFlag": "",
@@ -12776,10 +12776,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-18",
       "row": 1086,
-      "weekday": "Thursday",
-      "englishDate": "November 18th 2027",
-      "isoDate": "2027-11-18",
-      "hebrewDate": "18 Cheshvan 5788",
+      "weekday": "Monday",
+      "englishDate": "December 20th 2027",
+      "isoDate": "2027-12-20",
+      "hebrewDate": "20 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "8:9-10",
       "sourceFlag": "",
@@ -12788,10 +12788,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-19",
       "row": 1087,
-      "weekday": "Friday",
-      "englishDate": "November 19th 2027",
-      "isoDate": "2027-11-19",
-      "hebrewDate": "19 Cheshvan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "December 21st 2027",
+      "isoDate": "2027-12-21",
+      "hebrewDate": "21 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "8:11-9:1",
       "sourceFlag": "",
@@ -12800,10 +12800,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-20",
       "row": 1088,
-      "weekday": "Saturday",
-      "englishDate": "November 20th 2027",
-      "isoDate": "2027-11-20",
-      "hebrewDate": "20 Cheshvan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "December 22nd 2027",
+      "isoDate": "2027-12-22",
+      "hebrewDate": "22 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "9:2-3",
       "sourceFlag": "",
@@ -12812,10 +12812,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-21",
       "row": 1089,
-      "weekday": "Sunday",
-      "englishDate": "November 21st 2027",
-      "isoDate": "2027-11-21",
-      "hebrewDate": "21 Cheshvan 5788",
+      "weekday": "Thursday",
+      "englishDate": "December 23rd 2027",
+      "isoDate": "2027-12-23",
+      "hebrewDate": "23 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "9:4-6",
       "sourceFlag": "",
@@ -12824,10 +12824,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-22",
       "row": 1090,
-      "weekday": "Monday",
-      "englishDate": "November 22nd 2027",
-      "isoDate": "2027-11-22",
-      "hebrewDate": "22 Cheshvan 5788",
+      "weekday": "Friday",
+      "englishDate": "December 24th 2027",
+      "isoDate": "2027-12-24",
+      "hebrewDate": "24 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "9:7-10:1",
       "sourceFlag": "",
@@ -12836,10 +12836,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-23",
       "row": 1091,
-      "weekday": "Tuesday",
-      "englishDate": "November 23rd 2027",
-      "isoDate": "2027-11-23",
-      "hebrewDate": "23 Cheshvan 5788",
+      "weekday": "Saturday",
+      "englishDate": "December 25th 2027",
+      "isoDate": "2027-12-25",
+      "hebrewDate": "25 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "10:2-4",
       "sourceFlag": "",
@@ -12848,10 +12848,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-24",
       "row": 1092,
-      "weekday": "Wednesday",
-      "englishDate": "November 24th 2027",
-      "isoDate": "2027-11-24",
-      "hebrewDate": "24 Cheshvan 5788",
+      "weekday": "Sunday",
+      "englishDate": "December 26th 2027",
+      "isoDate": "2027-12-26",
+      "hebrewDate": "26 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "10:5-6",
       "sourceFlag": "",
@@ -12860,10 +12860,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-25",
       "row": 1093,
-      "weekday": "Thursday",
-      "englishDate": "November 25th 2027",
-      "isoDate": "2027-11-25",
-      "hebrewDate": "25 Cheshvan 5788",
+      "weekday": "Monday",
+      "englishDate": "December 27th 2027",
+      "isoDate": "2027-12-27",
+      "hebrewDate": "27 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "10:7-11:1",
       "sourceFlag": "",
@@ -12872,10 +12872,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-26",
       "row": 1094,
-      "weekday": "Friday",
-      "englishDate": "November 26th 2027",
-      "isoDate": "2027-11-26",
-      "hebrewDate": "26 Cheshvan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "December 28th 2027",
+      "isoDate": "2027-12-28",
+      "hebrewDate": "28 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "11:2-3",
       "sourceFlag": "",
@@ -12884,10 +12884,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-27",
       "row": 1095,
-      "weekday": "Saturday",
-      "englishDate": "November 27th 2027",
-      "isoDate": "2027-11-27",
-      "hebrewDate": "27 Cheshvan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "December 29th 2027",
+      "isoDate": "2027-12-29",
+      "hebrewDate": "29 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "11:4-6",
       "sourceFlag": "",
@@ -12896,10 +12896,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-28",
       "row": 1096,
-      "weekday": "Sunday",
-      "englishDate": "November 28th 2027",
-      "isoDate": "2027-11-28",
-      "hebrewDate": "28 Cheshvan 5788",
+      "weekday": "Thursday",
+      "englishDate": "December 30th 2027",
+      "isoDate": "2027-12-30",
+      "hebrewDate": "30 Kislev 5788",
       "tractate": "זבחים",
       "assignment": "11:7-8",
       "sourceFlag": "",
@@ -12908,10 +12908,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-29",
       "row": 1097,
-      "weekday": "Monday",
-      "englishDate": "November 29th 2027",
-      "isoDate": "2027-11-29",
-      "hebrewDate": "29 Cheshvan 5788",
+      "weekday": "Friday",
+      "englishDate": "December 31st 2027",
+      "isoDate": "2027-12-31",
+      "hebrewDate": "1 Teves 5788",
       "tractate": "זבחים",
       "assignment": "12:1-3",
       "sourceFlag": "",
@@ -12920,10 +12920,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-11-30",
       "row": 1098,
-      "weekday": "Tuesday",
-      "englishDate": "November 30th 2027",
-      "isoDate": "2027-11-30",
-      "hebrewDate": "30 Cheshvan 5788",
+      "weekday": "Saturday",
+      "englishDate": "January 1st 2028",
+      "isoDate": "2028-01-01",
+      "hebrewDate": "2 Teves 5788",
       "tractate": "זבחים",
       "assignment": "12:4-5",
       "sourceFlag": "",
@@ -12932,10 +12932,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-01",
       "row": 1099,
-      "weekday": "Wednesday",
-      "englishDate": "December 1st 2027",
-      "isoDate": "2027-12-01",
-      "hebrewDate": "1 Kislev 5788",
+      "weekday": "Sunday",
+      "englishDate": "January 2nd 2028",
+      "isoDate": "2028-01-02",
+      "hebrewDate": "3 Teves 5788",
       "tractate": "זבחים",
       "assignment": "12:6-13:1",
       "sourceFlag": "",
@@ -12944,10 +12944,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-02",
       "row": 1100,
-      "weekday": "Thursday",
-      "englishDate": "December 2nd 2027",
-      "isoDate": "2027-12-02",
-      "hebrewDate": "2 Kislev 5788",
+      "weekday": "Monday",
+      "englishDate": "January 3rd 2028",
+      "isoDate": "2028-01-03",
+      "hebrewDate": "4 Teves 5788",
       "tractate": "זבחים",
       "assignment": "13:2-4",
       "sourceFlag": "",
@@ -12956,10 +12956,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-03",
       "row": 1101,
-      "weekday": "Friday",
-      "englishDate": "December 3rd 2027",
-      "isoDate": "2027-12-03",
-      "hebrewDate": "3 Kislev 5788",
+      "weekday": "Tuesday",
+      "englishDate": "January 4th 2028",
+      "isoDate": "2028-01-04",
+      "hebrewDate": "5 Teves 5788",
       "tractate": "זבחים",
       "assignment": "13:5-6",
       "sourceFlag": "",
@@ -12968,10 +12968,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-04",
       "row": 1102,
-      "weekday": "Saturday",
-      "englishDate": "December 4th 2027",
-      "isoDate": "2027-12-04",
-      "hebrewDate": "4 Kislev 5788",
+      "weekday": "Wednesday",
+      "englishDate": "January 5th 2028",
+      "isoDate": "2028-01-05",
+      "hebrewDate": "6 Teves 5788",
       "tractate": "זבחים",
       "assignment": "13:7-14:1",
       "sourceFlag": "",
@@ -12980,10 +12980,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-05",
       "row": 1103,
-      "weekday": "Sunday",
-      "englishDate": "December 5th 2027",
-      "isoDate": "2027-12-05",
-      "hebrewDate": "5 Kislev 5788",
+      "weekday": "Thursday",
+      "englishDate": "January 6th 2028",
+      "isoDate": "2028-01-06",
+      "hebrewDate": "7 Teves 5788",
       "tractate": "זבחים",
       "assignment": "14:2-3",
       "sourceFlag": "",
@@ -12992,10 +12992,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-06",
       "row": 1104,
-      "weekday": "Monday",
-      "englishDate": "December 6th 2027",
-      "isoDate": "2027-12-06",
-      "hebrewDate": "6 Kislev 5788",
+      "weekday": "Friday",
+      "englishDate": "January 7th 2028",
+      "isoDate": "2028-01-07",
+      "hebrewDate": "8 Teves 5788",
       "tractate": "זבחים",
       "assignment": "14:4-6",
       "sourceFlag": "",
@@ -13004,10 +13004,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-07",
       "row": 1105,
-      "weekday": "Tuesday",
-      "englishDate": "December 7th 2027",
-      "isoDate": "2027-12-07",
-      "hebrewDate": "7 Kislev 5788",
+      "weekday": "Saturday",
+      "englishDate": "January 8th 2028",
+      "isoDate": "2028-01-08",
+      "hebrewDate": "9 Teves 5788",
       "tractate": "זבחים",
       "assignment": "14:7-8",
       "sourceFlag": "",
@@ -13016,10 +13016,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-08",
       "row": 1106,
-      "weekday": "Wednesday",
-      "englishDate": "December 8th 2027",
-      "isoDate": "2027-12-08",
-      "hebrewDate": "8 Kislev 5788",
+      "weekday": "Sunday",
+      "englishDate": "January 9th 2028",
+      "isoDate": "2028-01-09",
+      "hebrewDate": "10 Teves 5788",
       "tractate": "זבחים-מנחות",
       "assignment": "14:9 -1:1",
       "sourceFlag": "",
@@ -13028,10 +13028,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-09",
       "row": 1107,
-      "weekday": "Thursday",
-      "englishDate": "December 9th 2027",
-      "isoDate": "2027-12-09",
-      "hebrewDate": "9 Kislev 5788",
+      "weekday": "Monday",
+      "englishDate": "January 10th 2028",
+      "isoDate": "2028-01-10",
+      "hebrewDate": "11 Teves 5788",
       "tractate": "מנחות",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -13040,10 +13040,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-10",
       "row": 1108,
-      "weekday": "Friday",
-      "englishDate": "December 10th 2027",
-      "isoDate": "2027-12-10",
-      "hebrewDate": "10 Kislev 5788",
+      "weekday": "Tuesday",
+      "englishDate": "January 11th 2028",
+      "isoDate": "2028-01-11",
+      "hebrewDate": "12 Teves 5788",
       "tractate": "מנחות",
       "assignment": "1:4-2:2",
       "sourceFlag": "",
@@ -13052,10 +13052,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-11",
       "row": 1109,
-      "weekday": "Saturday",
-      "englishDate": "December 11th 2027",
-      "isoDate": "2027-12-11",
-      "hebrewDate": "11 Kislev 5788",
+      "weekday": "Wednesday",
+      "englishDate": "January 12th 2028",
+      "isoDate": "2028-01-12",
+      "hebrewDate": "13 Teves 5788",
       "tractate": "מנחות",
       "assignment": "2:3-4",
       "sourceFlag": "",
@@ -13064,10 +13064,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-12",
       "row": 1110,
-      "weekday": "Sunday",
-      "englishDate": "December 12th 2027",
-      "isoDate": "2027-12-12",
-      "hebrewDate": "12 Kislev 5788",
+      "weekday": "Thursday",
+      "englishDate": "January 13th 2028",
+      "isoDate": "2028-01-13",
+      "hebrewDate": "14 Teves 5788",
       "tractate": "מנחות",
       "assignment": "2:5-3:2",
       "sourceFlag": "",
@@ -13076,10 +13076,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-13",
       "row": 1111,
-      "weekday": "Monday",
-      "englishDate": "December 13th 2027",
-      "isoDate": "2027-12-13",
-      "hebrewDate": "13 Kislev 5788",
+      "weekday": "Friday",
+      "englishDate": "January 14th 2028",
+      "isoDate": "2028-01-14",
+      "hebrewDate": "15 Teves 5788",
       "tractate": "מנחות",
       "assignment": "3:3-4",
       "sourceFlag": "",
@@ -13088,10 +13088,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-14",
       "row": 1112,
-      "weekday": "Tuesday",
-      "englishDate": "December 14th 2027",
-      "isoDate": "2027-12-14",
-      "hebrewDate": "14 Kislev 5788",
+      "weekday": "Saturday",
+      "englishDate": "January 15th 2028",
+      "isoDate": "2028-01-15",
+      "hebrewDate": "16 Teves 5788",
       "tractate": "מנחות",
       "assignment": "3:5-7",
       "sourceFlag": "",
@@ -13100,10 +13100,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-15",
       "row": 1113,
-      "weekday": "Wednesday",
-      "englishDate": "December 15th 2027",
-      "isoDate": "2027-12-15",
-      "hebrewDate": "15 Kislev 5788",
+      "weekday": "Sunday",
+      "englishDate": "January 16th 2028",
+      "isoDate": "2028-01-16",
+      "hebrewDate": "17 Teves 5788",
       "tractate": "מנחות",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -13112,10 +13112,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-16",
       "row": 1114,
-      "weekday": "Thursday",
-      "englishDate": "December 16th 2027",
-      "isoDate": "2027-12-16",
-      "hebrewDate": "16 Kislev 5788",
+      "weekday": "Monday",
+      "englishDate": "January 17th 2028",
+      "isoDate": "2028-01-17",
+      "hebrewDate": "18 Teves 5788",
       "tractate": "מנחות",
       "assignment": "4:3-5",
       "sourceFlag": "",
@@ -13124,10 +13124,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-17",
       "row": 1115,
-      "weekday": "Friday",
-      "englishDate": "December 17th 2027",
-      "isoDate": "2027-12-17",
-      "hebrewDate": "17 Kislev 5788",
+      "weekday": "Tuesday",
+      "englishDate": "January 18th 2028",
+      "isoDate": "2028-01-18",
+      "hebrewDate": "19 Teves 5788",
       "tractate": "מנחות",
       "assignment": "5:1-2",
       "sourceFlag": "",
@@ -13136,10 +13136,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-18",
       "row": 1116,
-      "weekday": "Saturday",
-      "englishDate": "December 18th 2027",
-      "isoDate": "2027-12-18",
-      "hebrewDate": "18 Kislev 5788",
+      "weekday": "Wednesday",
+      "englishDate": "January 19th 2028",
+      "isoDate": "2028-01-19",
+      "hebrewDate": "20 Teves 5788",
       "tractate": "מנחות",
       "assignment": "5:3-5",
       "sourceFlag": "",
@@ -13148,10 +13148,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-19",
       "row": 1117,
-      "weekday": "Sunday",
-      "englishDate": "December 19th 2027",
-      "isoDate": "2027-12-19",
-      "hebrewDate": "19 Kislev 5788",
+      "weekday": "Thursday",
+      "englishDate": "January 20th 2028",
+      "isoDate": "2028-01-20",
+      "hebrewDate": "21 Teves 5788",
       "tractate": "מנחות",
       "assignment": "5:6-7",
       "sourceFlag": "",
@@ -13160,10 +13160,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-20",
       "row": 1118,
-      "weekday": "Monday",
-      "englishDate": "December 20th 2027",
-      "isoDate": "2027-12-20",
-      "hebrewDate": "20 Kislev 5788",
+      "weekday": "Friday",
+      "englishDate": "January 21st 2028",
+      "isoDate": "2028-01-21",
+      "hebrewDate": "22 Teves 5788",
       "tractate": "מנחות",
       "assignment": "5:8-6:1",
       "sourceFlag": "",
@@ -13172,10 +13172,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-21",
       "row": 1119,
-      "weekday": "Tuesday",
-      "englishDate": "December 21st 2027",
-      "isoDate": "2027-12-21",
-      "hebrewDate": "21 Kislev 5788",
+      "weekday": "Saturday",
+      "englishDate": "January 22nd 2028",
+      "isoDate": "2028-01-22",
+      "hebrewDate": "23 Teves 5788",
       "tractate": "מנחות",
       "assignment": "6:2-3",
       "sourceFlag": "",
@@ -13184,10 +13184,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-22",
       "row": 1120,
-      "weekday": "Wednesday",
-      "englishDate": "December 22nd 2027",
-      "isoDate": "2027-12-22",
-      "hebrewDate": "22 Kislev 5788",
+      "weekday": "Sunday",
+      "englishDate": "January 23rd 2028",
+      "isoDate": "2028-01-23",
+      "hebrewDate": "24 Teves 5788",
       "tractate": "מנחות",
       "assignment": "6:4-6",
       "sourceFlag": "",
@@ -13196,10 +13196,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-23",
       "row": 1121,
-      "weekday": "Thursday",
-      "englishDate": "December 23rd 2027",
-      "isoDate": "2027-12-23",
-      "hebrewDate": "23 Kislev 5788",
+      "weekday": "Monday",
+      "englishDate": "January 24th 2028",
+      "isoDate": "2028-01-24",
+      "hebrewDate": "25 Teves 5788",
       "tractate": "מנחות",
       "assignment": "6:7-7:1",
       "sourceFlag": "",
@@ -13208,10 +13208,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-24",
       "row": 1122,
-      "weekday": "Friday",
-      "englishDate": "December 24th 2027",
-      "isoDate": "2027-12-24",
-      "hebrewDate": "24 Kislev 5788",
+      "weekday": "Tuesday",
+      "englishDate": "January 25th 2028",
+      "isoDate": "2028-01-25",
+      "hebrewDate": "26 Teves 5788",
       "tractate": "מנחות",
       "assignment": "7:2-4",
       "sourceFlag": "",
@@ -13220,10 +13220,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-25",
       "row": 1123,
-      "weekday": "Saturday",
-      "englishDate": "December 25th 2027",
-      "isoDate": "2027-12-25",
-      "hebrewDate": "25 Kislev 5788",
+      "weekday": "Wednesday",
+      "englishDate": "January 26th 2028",
+      "isoDate": "2028-01-26",
+      "hebrewDate": "27 Teves 5788",
       "tractate": "מנחות",
       "assignment": "7:5-6",
       "sourceFlag": "",
@@ -13232,10 +13232,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-26",
       "row": 1124,
-      "weekday": "Sunday",
-      "englishDate": "December 26th 2027",
-      "isoDate": "2027-12-26",
-      "hebrewDate": "26 Kislev 5788",
+      "weekday": "Thursday",
+      "englishDate": "January 27th 2028",
+      "isoDate": "2028-01-27",
+      "hebrewDate": "28 Teves 5788",
       "tractate": "מנחות",
       "assignment": "8:1-3",
       "sourceFlag": "",
@@ -13244,10 +13244,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-27",
       "row": 1125,
-      "weekday": "Monday",
-      "englishDate": "December 27th 2027",
-      "isoDate": "2027-12-27",
-      "hebrewDate": "27 Kislev 5788",
+      "weekday": "Friday",
+      "englishDate": "January 28th 2028",
+      "isoDate": "2028-01-28",
+      "hebrewDate": "29 Teves 5788",
       "tractate": "מנחות",
       "assignment": "8:4-5",
       "sourceFlag": "",
@@ -13256,10 +13256,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-28",
       "row": 1126,
-      "weekday": "Tuesday",
-      "englishDate": "December 28th 2027",
-      "isoDate": "2027-12-28",
-      "hebrewDate": "28 Kislev 5788",
+      "weekday": "Saturday",
+      "englishDate": "January 29th 2028",
+      "isoDate": "2028-01-29",
+      "hebrewDate": "1 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "8:6-9:1",
       "sourceFlag": "",
@@ -13268,10 +13268,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-29",
       "row": 1127,
-      "weekday": "Wednesday",
-      "englishDate": "December 29th 2027",
-      "isoDate": "2027-12-29",
-      "hebrewDate": "29 Kislev 5788",
+      "weekday": "Sunday",
+      "englishDate": "January 30th 2028",
+      "isoDate": "2028-01-30",
+      "hebrewDate": "2 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "9:2-3",
       "sourceFlag": "",
@@ -13280,10 +13280,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-30",
       "row": 1128,
-      "weekday": "Thursday",
-      "englishDate": "December 30th 2027",
-      "isoDate": "2027-12-30",
-      "hebrewDate": "30 Kislev 5788",
+      "weekday": "Monday",
+      "englishDate": "January 31st 2028",
+      "isoDate": "2028-01-31",
+      "hebrewDate": "3 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "9:4-6",
       "sourceFlag": "",
@@ -13292,10 +13292,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2027-12-31",
       "row": 1129,
-      "weekday": "Friday",
-      "englishDate": "December 31st 2027",
-      "isoDate": "2027-12-31",
-      "hebrewDate": "1 Teves 5788",
+      "weekday": "Tuesday",
+      "englishDate": "February 1st 2028",
+      "isoDate": "2028-02-01",
+      "hebrewDate": "4 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "9:7-8",
       "sourceFlag": "",
@@ -13304,10 +13304,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-01",
       "row": 1130,
-      "weekday": "Saturday",
-      "englishDate": "January 1st 2028",
-      "isoDate": "2028-01-01",
-      "hebrewDate": "2 Teves 5788",
+      "weekday": "Wednesday",
+      "englishDate": "February 2nd 2028",
+      "isoDate": "2028-02-02",
+      "hebrewDate": "5 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "9:9-10:2",
       "sourceFlag": "",
@@ -13316,10 +13316,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-02",
       "row": 1131,
-      "weekday": "Sunday",
-      "englishDate": "January 2nd 2028",
-      "isoDate": "2028-01-02",
-      "hebrewDate": "3 Teves 5788",
+      "weekday": "Thursday",
+      "englishDate": "February 3rd 2028",
+      "isoDate": "2028-02-03",
+      "hebrewDate": "6 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "10:3-4",
       "sourceFlag": "",
@@ -13328,10 +13328,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-03",
       "row": 1132,
-      "weekday": "Monday",
-      "englishDate": "January 3rd 2028",
-      "isoDate": "2028-01-03",
-      "hebrewDate": "4 Teves 5788",
+      "weekday": "Friday",
+      "englishDate": "February 4th 2028",
+      "isoDate": "2028-02-04",
+      "hebrewDate": "7 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "10:5-7",
       "sourceFlag": "",
@@ -13340,10 +13340,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-04",
       "row": 1133,
-      "weekday": "Tuesday",
-      "englishDate": "January 4th 2028",
-      "isoDate": "2028-01-04",
-      "hebrewDate": "5 Teves 5788",
+      "weekday": "Saturday",
+      "englishDate": "February 5th 2028",
+      "isoDate": "2028-02-05",
+      "hebrewDate": "8 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "10:8-9",
       "sourceFlag": "",
@@ -13352,10 +13352,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-05",
       "row": 1134,
-      "weekday": "Wednesday",
-      "englishDate": "January 5th 2028",
-      "isoDate": "2028-01-05",
-      "hebrewDate": "6 Teves 5788",
+      "weekday": "Sunday",
+      "englishDate": "February 6th 2028",
+      "isoDate": "2028-02-06",
+      "hebrewDate": "9 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "11:1-3",
       "sourceFlag": "",
@@ -13364,10 +13364,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-06",
       "row": 1135,
-      "weekday": "Thursday",
-      "englishDate": "January 6th 2028",
-      "isoDate": "2028-01-06",
-      "hebrewDate": "7 Teves 5788",
+      "weekday": "Monday",
+      "englishDate": "February 7th 2028",
+      "isoDate": "2028-02-07",
+      "hebrewDate": "10 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "11:4-5",
       "sourceFlag": "",
@@ -13376,10 +13376,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-07",
       "row": 1136,
-      "weekday": "Friday",
-      "englishDate": "January 7th 2028",
-      "isoDate": "2028-01-07",
-      "hebrewDate": "8 Teves 5788",
+      "weekday": "Tuesday",
+      "englishDate": "February 8th 2028",
+      "isoDate": "2028-02-08",
+      "hebrewDate": "11 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "11:6-8",
       "sourceFlag": "",
@@ -13388,10 +13388,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-08",
       "row": 1137,
-      "weekday": "Saturday",
-      "englishDate": "January 8th 2028",
-      "isoDate": "2028-01-08",
-      "hebrewDate": "9 Teves 5788",
+      "weekday": "Wednesday",
+      "englishDate": "February 9th 2028",
+      "isoDate": "2028-02-09",
+      "hebrewDate": "12 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "11:9-12:1",
       "sourceFlag": "",
@@ -13400,10 +13400,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-09",
       "row": 1138,
-      "weekday": "Sunday",
-      "englishDate": "January 9th 2028",
-      "isoDate": "2028-01-09",
-      "hebrewDate": "10 Teves 5788",
+      "weekday": "Thursday",
+      "englishDate": "February 10th 2028",
+      "isoDate": "2028-02-10",
+      "hebrewDate": "13 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "12:2-4",
       "sourceFlag": "",
@@ -13412,10 +13412,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-10",
       "row": 1139,
-      "weekday": "Monday",
-      "englishDate": "January 10th 2028",
-      "isoDate": "2028-01-10",
-      "hebrewDate": "11 Teves 5788",
+      "weekday": "Friday",
+      "englishDate": "February 11th 2028",
+      "isoDate": "2028-02-11",
+      "hebrewDate": "14 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "12:5-13:1",
       "sourceFlag": "",
@@ -13424,10 +13424,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-11",
       "row": 1140,
-      "weekday": "Tuesday",
-      "englishDate": "January 11th 2028",
-      "isoDate": "2028-01-11",
-      "hebrewDate": "12 Teves 5788",
+      "weekday": "Saturday",
+      "englishDate": "February 12th 2028",
+      "isoDate": "2028-02-12",
+      "hebrewDate": "15 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "13:2-4",
       "sourceFlag": "",
@@ -13436,10 +13436,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-12",
       "row": 1141,
-      "weekday": "Wednesday",
-      "englishDate": "January 12th 2028",
-      "isoDate": "2028-01-12",
-      "hebrewDate": "13 Teves 5788",
+      "weekday": "Sunday",
+      "englishDate": "February 13th 2028",
+      "isoDate": "2028-02-13",
+      "hebrewDate": "16 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "13:5-6",
       "sourceFlag": "",
@@ -13448,10 +13448,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-13",
       "row": 1142,
-      "weekday": "Thursday",
-      "englishDate": "January 13th 2028",
-      "isoDate": "2028-01-13",
-      "hebrewDate": "14 Teves 5788",
+      "weekday": "Monday",
+      "englishDate": "February 14th 2028",
+      "isoDate": "2028-02-14",
+      "hebrewDate": "17 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "13:7-9",
       "sourceFlag": "",
@@ -13460,10 +13460,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-14",
       "row": 1143,
-      "weekday": "Friday",
-      "englishDate": "January 14th 2028",
-      "isoDate": "2028-01-14",
-      "hebrewDate": "15 Teves 5788",
+      "weekday": "Tuesday",
+      "englishDate": "February 15th 2028",
+      "isoDate": "2028-02-15",
+      "hebrewDate": "18 Shevat 5788",
       "tractate": "מנחות",
       "assignment": "13:10-11",
       "sourceFlag": "",
@@ -13472,10 +13472,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-15",
       "row": 1144,
-      "weekday": "Saturday",
-      "englishDate": "January 15th 2028",
-      "isoDate": "2028-01-15",
-      "hebrewDate": "16 Teves 5788",
+      "weekday": "Wednesday",
+      "englishDate": "February 16th 2028",
+      "isoDate": "2028-02-16",
+      "hebrewDate": "19 Shevat 5788",
       "tractate": "חולין",
       "assignment": "1:1-3",
       "sourceFlag": "",
@@ -13484,10 +13484,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-16",
       "row": 1145,
-      "weekday": "Sunday",
-      "englishDate": "January 16th 2028",
-      "isoDate": "2028-01-16",
-      "hebrewDate": "17 Teves 5788",
+      "weekday": "Thursday",
+      "englishDate": "February 17th 2028",
+      "isoDate": "2028-02-17",
+      "hebrewDate": "20 Shevat 5788",
       "tractate": "חולין",
       "assignment": "1:4-5",
       "sourceFlag": "",
@@ -13496,10 +13496,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-17",
       "row": 1146,
-      "weekday": "Monday",
-      "englishDate": "January 17th 2028",
-      "isoDate": "2028-01-17",
-      "hebrewDate": "18 Teves 5788",
+      "weekday": "Friday",
+      "englishDate": "February 18th 2028",
+      "isoDate": "2028-02-18",
+      "hebrewDate": "21 Shevat 5788",
       "tractate": "חולין",
       "assignment": "1:6-7",
       "sourceFlag": "",
@@ -13508,10 +13508,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-18",
       "row": 1147,
-      "weekday": "Tuesday",
-      "englishDate": "January 18th 2028",
-      "isoDate": "2028-01-18",
-      "hebrewDate": "19 Teves 5788",
+      "weekday": "Saturday",
+      "englishDate": "February 19th 2028",
+      "isoDate": "2028-02-19",
+      "hebrewDate": "22 Shevat 5788",
       "tractate": "חולין",
       "assignment": "2:1-3",
       "sourceFlag": "",
@@ -13520,10 +13520,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-19",
       "row": 1148,
-      "weekday": "Wednesday",
-      "englishDate": "January 19th 2028",
-      "isoDate": "2028-01-19",
-      "hebrewDate": "20 Teves 5788",
+      "weekday": "Sunday",
+      "englishDate": "February 20th 2028",
+      "isoDate": "2028-02-20",
+      "hebrewDate": "23 Shevat 5788",
       "tractate": "חולין",
       "assignment": "2:4-5",
       "sourceFlag": "",
@@ -13532,10 +13532,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-20",
       "row": 1149,
-      "weekday": "Thursday",
-      "englishDate": "January 20th 2028",
-      "isoDate": "2028-01-20",
-      "hebrewDate": "21 Teves 5788",
+      "weekday": "Monday",
+      "englishDate": "February 21st 2028",
+      "isoDate": "2028-02-21",
+      "hebrewDate": "24 Shevat 5788",
       "tractate": "חולין",
       "assignment": "2:6-8",
       "sourceFlag": "",
@@ -13544,10 +13544,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-21",
       "row": 1150,
-      "weekday": "Friday",
-      "englishDate": "January 21st 2028",
-      "isoDate": "2028-01-21",
-      "hebrewDate": "22 Teves 5788",
+      "weekday": "Tuesday",
+      "englishDate": "February 22nd 2028",
+      "isoDate": "2028-02-22",
+      "hebrewDate": "25 Shevat 5788",
       "tractate": "חולין",
       "assignment": "2:9-10",
       "sourceFlag": "",
@@ -13556,10 +13556,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-22",
       "row": 1151,
-      "weekday": "Saturday",
-      "englishDate": "January 22nd 2028",
-      "isoDate": "2028-01-22",
-      "hebrewDate": "23 Teves 5788",
+      "weekday": "Wednesday",
+      "englishDate": "February 23rd 2028",
+      "isoDate": "2028-02-23",
+      "hebrewDate": "26 Shevat 5788",
       "tractate": "חולין",
       "assignment": "3:1-3",
       "sourceFlag": "",
@@ -13568,10 +13568,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-23",
       "row": 1152,
-      "weekday": "Sunday",
-      "englishDate": "January 23rd 2028",
-      "isoDate": "2028-01-23",
-      "hebrewDate": "24 Teves 5788",
+      "weekday": "Thursday",
+      "englishDate": "February 24th 2028",
+      "isoDate": "2028-02-24",
+      "hebrewDate": "27 Shevat 5788",
       "tractate": "חולין",
       "assignment": "3:4-5",
       "sourceFlag": "",
@@ -13580,10 +13580,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-24",
       "row": 1153,
-      "weekday": "Monday",
-      "englishDate": "January 24th 2028",
-      "isoDate": "2028-01-24",
-      "hebrewDate": "25 Teves 5788",
+      "weekday": "Friday",
+      "englishDate": "February 25th 2028",
+      "isoDate": "2028-02-25",
+      "hebrewDate": "28 Shevat 5788",
       "tractate": "חולין",
       "assignment": "3:6-4:1",
       "sourceFlag": "",
@@ -13592,10 +13592,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-25",
       "row": 1154,
-      "weekday": "Tuesday",
-      "englishDate": "January 25th 2028",
-      "isoDate": "2028-01-25",
-      "hebrewDate": "26 Teves 5788",
+      "weekday": "Saturday",
+      "englishDate": "February 26th 2028",
+      "isoDate": "2028-02-26",
+      "hebrewDate": "29 Shevat 5788",
       "tractate": "חולין",
       "assignment": "4:2-3",
       "sourceFlag": "",
@@ -13604,10 +13604,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-26",
       "row": 1155,
-      "weekday": "Wednesday",
-      "englishDate": "January 26th 2028",
-      "isoDate": "2028-01-26",
-      "hebrewDate": "27 Teves 5788",
+      "weekday": "Sunday",
+      "englishDate": "February 27th 2028",
+      "isoDate": "2028-02-27",
+      "hebrewDate": "30 Shevat 5788",
       "tractate": "חולין",
       "assignment": "4:4-6",
       "sourceFlag": "",
@@ -13616,10 +13616,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-27",
       "row": 1156,
-      "weekday": "Thursday",
-      "englishDate": "January 27th 2028",
-      "isoDate": "2028-01-27",
-      "hebrewDate": "28 Teves 5788",
+      "weekday": "Monday",
+      "englishDate": "February 28th 2028",
+      "isoDate": "2028-02-28",
+      "hebrewDate": "1 Adar 5788",
       "tractate": "חולין",
       "assignment": "4:7-5:1",
       "sourceFlag": "",
@@ -13628,10 +13628,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-28",
       "row": 1157,
-      "weekday": "Friday",
-      "englishDate": "January 28th 2028",
-      "isoDate": "2028-01-28",
-      "hebrewDate": "29 Teves 5788",
+      "weekday": "Tuesday",
+      "englishDate": "February 29th 2028",
+      "isoDate": "2028-02-29",
+      "hebrewDate": "2 Adar 5788",
       "tractate": "חולין",
       "assignment": "5:2-4",
       "sourceFlag": "",
@@ -13640,10 +13640,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-29",
       "row": 1158,
-      "weekday": "Saturday",
-      "englishDate": "January 29th 2028",
-      "isoDate": "2028-01-29",
-      "hebrewDate": "1 Shevat 5788",
+      "weekday": "Wednesday",
+      "englishDate": "March 1st 2028",
+      "isoDate": "2028-03-01",
+      "hebrewDate": "3 Adar 5788",
       "tractate": "חולין",
       "assignment": "5:5-6:1",
       "sourceFlag": "",
@@ -13652,10 +13652,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-30",
       "row": 1159,
-      "weekday": "Sunday",
-      "englishDate": "January 30th 2028",
-      "isoDate": "2028-01-30",
-      "hebrewDate": "2 Shevat 5788",
+      "weekday": "Thursday",
+      "englishDate": "March 2nd 2028",
+      "isoDate": "2028-03-02",
+      "hebrewDate": "4 Adar 5788",
       "tractate": "חולין",
       "assignment": "6:2-4",
       "sourceFlag": "",
@@ -13664,10 +13664,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-01-31",
       "row": 1160,
-      "weekday": "Monday",
-      "englishDate": "January 31st 2028",
-      "isoDate": "2028-01-31",
-      "hebrewDate": "3 Shevat 5788",
+      "weekday": "Friday",
+      "englishDate": "March 3rd 2028",
+      "isoDate": "2028-03-03",
+      "hebrewDate": "5 Adar 5788",
       "tractate": "חולין",
       "assignment": "6:5-6",
       "sourceFlag": "",
@@ -13676,10 +13676,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-01",
       "row": 1161,
-      "weekday": "Tuesday",
-      "englishDate": "February 1st 2028",
-      "isoDate": "2028-02-01",
-      "hebrewDate": "4 Shevat 5788",
+      "weekday": "Saturday",
+      "englishDate": "March 4th 2028",
+      "isoDate": "2028-03-04",
+      "hebrewDate": "6 Adar 5788",
       "tractate": "חולין",
       "assignment": "6:7-7:2",
       "sourceFlag": "",
@@ -13688,10 +13688,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-02",
       "row": 1162,
-      "weekday": "Wednesday",
-      "englishDate": "February 2nd 2028",
-      "isoDate": "2028-02-02",
-      "hebrewDate": "5 Shevat 5788",
+      "weekday": "Sunday",
+      "englishDate": "March 5th 2028",
+      "isoDate": "2028-03-05",
+      "hebrewDate": "7 Adar 5788",
       "tractate": "חולין",
       "assignment": "7:3-4",
       "sourceFlag": "",
@@ -13700,10 +13700,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-03",
       "row": 1163,
-      "weekday": "Thursday",
-      "englishDate": "February 3rd 2028",
-      "isoDate": "2028-02-03",
-      "hebrewDate": "6 Shevat 5788",
+      "weekday": "Monday",
+      "englishDate": "March 6th 2028",
+      "isoDate": "2028-03-06",
+      "hebrewDate": "8 Adar 5788",
       "tractate": "חולין",
       "assignment": "7:5-8:1",
       "sourceFlag": "",
@@ -13712,10 +13712,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-04",
       "row": 1164,
-      "weekday": "Friday",
-      "englishDate": "February 4th 2028",
-      "isoDate": "2028-02-04",
-      "hebrewDate": "7 Shevat 5788",
+      "weekday": "Tuesday",
+      "englishDate": "March 7th 2028",
+      "isoDate": "2028-03-07",
+      "hebrewDate": "9 Adar 5788",
       "tractate": "חולין",
       "assignment": "8:2-3",
       "sourceFlag": "",
@@ -13724,10 +13724,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-05",
       "row": 1165,
-      "weekday": "Saturday",
-      "englishDate": "February 5th 2028",
-      "isoDate": "2028-02-05",
-      "hebrewDate": "8 Shevat 5788",
+      "weekday": "Wednesday",
+      "englishDate": "March 8th 2028",
+      "isoDate": "2028-03-08",
+      "hebrewDate": "10 Adar 5788",
       "tractate": "חולין",
       "assignment": "8:4-6",
       "sourceFlag": "",
@@ -13736,10 +13736,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-06",
       "row": 1166,
-      "weekday": "Sunday",
-      "englishDate": "February 6th 2028",
-      "isoDate": "2028-02-06",
-      "hebrewDate": "9 Shevat 5788",
+      "weekday": "Thursday",
+      "englishDate": "March 9th 2028",
+      "isoDate": "2028-03-09",
+      "hebrewDate": "11 Adar 5788",
       "tractate": "חולין",
       "assignment": "9:1-2",
       "sourceFlag": "",
@@ -13748,10 +13748,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-07",
       "row": 1167,
-      "weekday": "Monday",
-      "englishDate": "February 7th 2028",
-      "isoDate": "2028-02-07",
-      "hebrewDate": "10 Shevat 5788",
+      "weekday": "Friday",
+      "englishDate": "March 10th 2028",
+      "isoDate": "2028-03-10",
+      "hebrewDate": "12 Adar 5788",
       "tractate": "חולין",
       "assignment": "9:3-5",
       "sourceFlag": "",
@@ -13760,10 +13760,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-08",
       "row": 1168,
-      "weekday": "Tuesday",
-      "englishDate": "February 8th 2028",
-      "isoDate": "2028-02-08",
-      "hebrewDate": "11 Shevat 5788",
+      "weekday": "Saturday",
+      "englishDate": "March 11th 2028",
+      "isoDate": "2028-03-11",
+      "hebrewDate": "13 Adar 5788",
       "tractate": "חולין",
       "assignment": "9:6-7",
       "sourceFlag": "",
@@ -13772,10 +13772,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-09",
       "row": 1169,
-      "weekday": "Wednesday",
-      "englishDate": "February 9th 2028",
-      "isoDate": "2028-02-09",
-      "hebrewDate": "12 Shevat 5788",
+      "weekday": "Sunday",
+      "englishDate": "March 12th 2028",
+      "isoDate": "2028-03-12",
+      "hebrewDate": "14 Adar 5788",
       "tractate": "חולין",
       "assignment": "9:8-10:2",
       "sourceFlag": "",
@@ -13784,10 +13784,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-10",
       "row": 1170,
-      "weekday": "Thursday",
-      "englishDate": "February 10th 2028",
-      "isoDate": "2028-02-10",
-      "hebrewDate": "13 Shevat 5788",
+      "weekday": "Monday",
+      "englishDate": "March 13th 2028",
+      "isoDate": "2028-03-13",
+      "hebrewDate": "15 Adar 5788",
       "tractate": "חולין",
       "assignment": "10:3-4",
       "sourceFlag": "",
@@ -13796,10 +13796,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-11",
       "row": 1171,
-      "weekday": "Friday",
-      "englishDate": "February 11th 2028",
-      "isoDate": "2028-02-11",
-      "hebrewDate": "14 Shevat 5788",
+      "weekday": "Tuesday",
+      "englishDate": "March 14th 2028",
+      "isoDate": "2028-03-14",
+      "hebrewDate": "16 Adar 5788",
       "tractate": "חולין",
       "assignment": "11:1-12:1",
       "sourceFlag": "",
@@ -13808,10 +13808,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-12",
       "row": 1172,
-      "weekday": "Saturday",
-      "englishDate": "February 12th 2028",
-      "isoDate": "2028-02-12",
-      "hebrewDate": "15 Shevat 5788",
+      "weekday": "Wednesday",
+      "englishDate": "March 15th 2028",
+      "isoDate": "2028-03-15",
+      "hebrewDate": "17 Adar 5788",
       "tractate": "חולין",
       "assignment": "12:2-3",
       "sourceFlag": "",
@@ -13820,10 +13820,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-13",
       "row": 1173,
-      "weekday": "Sunday",
-      "englishDate": "February 13th 2028",
-      "isoDate": "2028-02-13",
-      "hebrewDate": "16 Shevat 5788",
+      "weekday": "Thursday",
+      "englishDate": "March 16th 2028",
+      "isoDate": "2028-03-16",
+      "hebrewDate": "18 Adar 5788",
       "tractate": "חולין-בכורות",
       "assignment": "12:4 -1:1",
       "sourceFlag": "",
@@ -13832,10 +13832,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-14",
       "row": 1174,
-      "weekday": "Monday",
-      "englishDate": "February 14th 2028",
-      "isoDate": "2028-02-14",
-      "hebrewDate": "17 Shevat 5788",
+      "weekday": "Friday",
+      "englishDate": "March 17th 2028",
+      "isoDate": "2028-03-17",
+      "hebrewDate": "19 Adar 5788",
       "tractate": "בכורות",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -13844,10 +13844,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-15",
       "row": 1175,
-      "weekday": "Tuesday",
-      "englishDate": "February 15th 2028",
-      "isoDate": "2028-02-15",
-      "hebrewDate": "18 Shevat 5788",
+      "weekday": "Saturday",
+      "englishDate": "March 18th 2028",
+      "isoDate": "2028-03-18",
+      "hebrewDate": "20 Adar 5788",
       "tractate": "בכורות",
       "assignment": "1:4-6",
       "sourceFlag": "",
@@ -13856,10 +13856,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-16",
       "row": 1176,
-      "weekday": "Wednesday",
-      "englishDate": "February 16th 2028",
-      "isoDate": "2028-02-16",
-      "hebrewDate": "19 Shevat 5788",
+      "weekday": "Sunday",
+      "englishDate": "March 19th 2028",
+      "isoDate": "2028-03-19",
+      "hebrewDate": "21 Adar 5788",
       "tractate": "בכורות",
       "assignment": "1:7-2:1",
       "sourceFlag": "",
@@ -13868,10 +13868,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-17",
       "row": 1177,
-      "weekday": "Thursday",
-      "englishDate": "February 17th 2028",
-      "isoDate": "2028-02-17",
-      "hebrewDate": "20 Shevat 5788",
+      "weekday": "Monday",
+      "englishDate": "March 20th 2028",
+      "isoDate": "2028-03-20",
+      "hebrewDate": "22 Adar 5788",
       "tractate": "בכורות",
       "assignment": "2:2-4",
       "sourceFlag": "",
@@ -13880,10 +13880,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-18",
       "row": 1178,
-      "weekday": "Friday",
-      "englishDate": "February 18th 2028",
-      "isoDate": "2028-02-18",
-      "hebrewDate": "21 Shevat 5788",
+      "weekday": "Tuesday",
+      "englishDate": "March 21st 2028",
+      "isoDate": "2028-03-21",
+      "hebrewDate": "23 Adar 5788",
       "tractate": "בכורות",
       "assignment": "2:5-6",
       "sourceFlag": "",
@@ -13892,10 +13892,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-19",
       "row": 1179,
-      "weekday": "Saturday",
-      "englishDate": "February 19th 2028",
-      "isoDate": "2028-02-19",
-      "hebrewDate": "22 Shevat 5788",
+      "weekday": "Wednesday",
+      "englishDate": "March 22nd 2028",
+      "isoDate": "2028-03-22",
+      "hebrewDate": "24 Adar 5788",
       "tractate": "בכורות",
       "assignment": "2:7-9",
       "sourceFlag": "",
@@ -13904,10 +13904,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-20",
       "row": 1180,
-      "weekday": "Sunday",
-      "englishDate": "February 20th 2028",
-      "isoDate": "2028-02-20",
-      "hebrewDate": "23 Shevat 5788",
+      "weekday": "Thursday",
+      "englishDate": "March 23rd 2028",
+      "isoDate": "2028-03-23",
+      "hebrewDate": "25 Adar 5788",
       "tractate": "בכורות",
       "assignment": "3:1-2",
       "sourceFlag": "",
@@ -13916,10 +13916,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-21",
       "row": 1181,
-      "weekday": "Monday",
-      "englishDate": "February 21st 2028",
-      "isoDate": "2028-02-21",
-      "hebrewDate": "24 Shevat 5788",
+      "weekday": "Friday",
+      "englishDate": "March 24th 2028",
+      "isoDate": "2028-03-24",
+      "hebrewDate": "26 Adar 5788",
       "tractate": "בכורות",
       "assignment": "3:3-4:1",
       "sourceFlag": "",
@@ -13928,10 +13928,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-22",
       "row": 1182,
-      "weekday": "Tuesday",
-      "englishDate": "February 22nd 2028",
-      "isoDate": "2028-02-22",
-      "hebrewDate": "25 Shevat 5788",
+      "weekday": "Saturday",
+      "englishDate": "March 25th 2028",
+      "isoDate": "2028-03-25",
+      "hebrewDate": "27 Adar 5788",
       "tractate": "בכורות",
       "assignment": "4:2-3",
       "sourceFlag": "",
@@ -13940,10 +13940,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-23",
       "row": 1183,
-      "weekday": "Wednesday",
-      "englishDate": "February 23rd 2028",
-      "isoDate": "2028-02-23",
-      "hebrewDate": "26 Shevat 5788",
+      "weekday": "Sunday",
+      "englishDate": "March 26th 2028",
+      "isoDate": "2028-03-26",
+      "hebrewDate": "28 Adar 5788",
       "tractate": "בכורות",
       "assignment": "4:4-6",
       "sourceFlag": "",
@@ -13952,10 +13952,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-24",
       "row": 1184,
-      "weekday": "Thursday",
-      "englishDate": "February 24th 2028",
-      "isoDate": "2028-02-24",
-      "hebrewDate": "27 Shevat 5788",
+      "weekday": "Monday",
+      "englishDate": "March 27th 2028",
+      "isoDate": "2028-03-27",
+      "hebrewDate": "29 Adar 5788",
       "tractate": "בכורות",
       "assignment": "4:7-8",
       "sourceFlag": "",
@@ -13964,10 +13964,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-25",
       "row": 1185,
-      "weekday": "Friday",
-      "englishDate": "February 25th 2028",
-      "isoDate": "2028-02-25",
-      "hebrewDate": "28 Shevat 5788",
+      "weekday": "Tuesday",
+      "englishDate": "March 28th 2028",
+      "isoDate": "2028-03-28",
+      "hebrewDate": "1 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "4:9-5:1",
       "sourceFlag": "",
@@ -13976,10 +13976,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-26",
       "row": 1186,
-      "weekday": "Saturday",
-      "englishDate": "February 26th 2028",
-      "isoDate": "2028-02-26",
-      "hebrewDate": "29 Shevat 5788",
+      "weekday": "Wednesday",
+      "englishDate": "March 29th 2028",
+      "isoDate": "2028-03-29",
+      "hebrewDate": "2 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "5:2-3",
       "sourceFlag": "",
@@ -13988,10 +13988,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-27",
       "row": 1187,
-      "weekday": "Sunday",
-      "englishDate": "February 27th 2028",
-      "isoDate": "2028-02-27",
-      "hebrewDate": "30 Shevat 5788",
+      "weekday": "Thursday",
+      "englishDate": "March 30th 2028",
+      "isoDate": "2028-03-30",
+      "hebrewDate": "3 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "5:4-6",
       "sourceFlag": "",
@@ -14000,10 +14000,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-28",
       "row": 1188,
-      "weekday": "Monday",
-      "englishDate": "February 28th 2028",
-      "isoDate": "2028-02-28",
-      "hebrewDate": "1 Adar 5788",
+      "weekday": "Friday",
+      "englishDate": "March 31st 2028",
+      "isoDate": "2028-03-31",
+      "hebrewDate": "4 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "6:1-2",
       "sourceFlag": "",
@@ -14012,10 +14012,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-02-29",
       "row": 1189,
-      "weekday": "Tuesday",
-      "englishDate": "February 29th 2028",
-      "isoDate": "2028-02-29",
-      "hebrewDate": "2 Adar 5788",
+      "weekday": "Saturday",
+      "englishDate": "April 1st 2028",
+      "isoDate": "2028-04-01",
+      "hebrewDate": "5 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "6:3-5",
       "sourceFlag": "",
@@ -14024,10 +14024,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-01",
       "row": 1190,
-      "weekday": "Wednesday",
-      "englishDate": "March 1st 2028",
-      "isoDate": "2028-03-01",
-      "hebrewDate": "3 Adar 5788",
+      "weekday": "Sunday",
+      "englishDate": "April 2nd 2028",
+      "isoDate": "2028-04-02",
+      "hebrewDate": "6 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "6:6-7",
       "sourceFlag": "",
@@ -14036,10 +14036,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-02",
       "row": 1191,
-      "weekday": "Thursday",
-      "englishDate": "March 2nd 2028",
-      "isoDate": "2028-03-02",
-      "hebrewDate": "4 Adar 5788",
+      "weekday": "Monday",
+      "englishDate": "April 3rd 2028",
+      "isoDate": "2028-04-03",
+      "hebrewDate": "7 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "6:8-10",
       "sourceFlag": "",
@@ -14048,10 +14048,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-03",
       "row": 1192,
-      "weekday": "Friday",
-      "englishDate": "March 3rd 2028",
-      "isoDate": "2028-03-03",
-      "hebrewDate": "5 Adar 5788",
+      "weekday": "Tuesday",
+      "englishDate": "April 4th 2028",
+      "isoDate": "2028-04-04",
+      "hebrewDate": "8 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "6:11-12",
       "sourceFlag": "",
@@ -14060,10 +14060,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-04",
       "row": 1193,
-      "weekday": "Saturday",
-      "englishDate": "March 4th 2028",
-      "isoDate": "2028-03-04",
-      "hebrewDate": "6 Adar 5788",
+      "weekday": "Wednesday",
+      "englishDate": "April 5th 2028",
+      "isoDate": "2028-04-05",
+      "hebrewDate": "9 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "7:1-2",
       "sourceFlag": "",
@@ -14072,10 +14072,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-05",
       "row": 1194,
-      "weekday": "Sunday",
-      "englishDate": "March 5th 2028",
-      "isoDate": "2028-03-05",
-      "hebrewDate": "7 Adar 5788",
+      "weekday": "Thursday",
+      "englishDate": "April 6th 2028",
+      "isoDate": "2028-04-06",
+      "hebrewDate": "10 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "7:3-5",
       "sourceFlag": "",
@@ -14084,10 +14084,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-06",
       "row": 1195,
-      "weekday": "Monday",
-      "englishDate": "March 6th 2028",
-      "isoDate": "2028-03-06",
-      "hebrewDate": "8 Adar 5788",
+      "weekday": "Friday",
+      "englishDate": "April 7th 2028",
+      "isoDate": "2028-04-07",
+      "hebrewDate": "11 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "7:6-7",
       "sourceFlag": "",
@@ -14096,10 +14096,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-07",
       "row": 1196,
-      "weekday": "Tuesday",
-      "englishDate": "March 7th 2028",
-      "isoDate": "2028-03-07",
-      "hebrewDate": "9 Adar 5788",
+      "weekday": "Saturday",
+      "englishDate": "April 8th 2028",
+      "isoDate": "2028-04-08",
+      "hebrewDate": "12 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "8:1-3",
       "sourceFlag": "",
@@ -14108,10 +14108,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-08",
       "row": 1197,
-      "weekday": "Wednesday",
-      "englishDate": "March 8th 2028",
-      "isoDate": "2028-03-08",
-      "hebrewDate": "10 Adar 5788",
+      "weekday": "Sunday",
+      "englishDate": "April 9th 2028",
+      "isoDate": "2028-04-09",
+      "hebrewDate": "13 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "8:4-5",
       "sourceFlag": "",
@@ -14120,10 +14120,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-09",
       "row": 1198,
-      "weekday": "Thursday",
-      "englishDate": "March 9th 2028",
-      "isoDate": "2028-03-09",
-      "hebrewDate": "11 Adar 5788",
+      "weekday": "Monday",
+      "englishDate": "April 10th 2028",
+      "isoDate": "2028-04-10",
+      "hebrewDate": "14 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "8:6-8",
       "sourceFlag": "",
@@ -14132,10 +14132,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-10",
       "row": 1199,
-      "weekday": "Friday",
-      "englishDate": "March 10th 2028",
-      "isoDate": "2028-03-10",
-      "hebrewDate": "12 Adar 5788",
+      "weekday": "Tuesday",
+      "englishDate": "April 11th 2028",
+      "isoDate": "2028-04-11",
+      "hebrewDate": "15 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "8:9-10",
       "sourceFlag": "",
@@ -14144,10 +14144,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-11",
       "row": 1200,
-      "weekday": "Saturday",
-      "englishDate": "March 11th 2028",
-      "isoDate": "2028-03-11",
-      "hebrewDate": "13 Adar 5788",
+      "weekday": "Wednesday",
+      "englishDate": "April 12th 2028",
+      "isoDate": "2028-04-12",
+      "hebrewDate": "16 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "9:1-3",
       "sourceFlag": "",
@@ -14156,10 +14156,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-12",
       "row": 1201,
-      "weekday": "Sunday",
-      "englishDate": "March 12th 2028",
-      "isoDate": "2028-03-12",
-      "hebrewDate": "14 Adar 5788",
+      "weekday": "Thursday",
+      "englishDate": "April 13th 2028",
+      "isoDate": "2028-04-13",
+      "hebrewDate": "17 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "9:4-5",
       "sourceFlag": "",
@@ -14168,10 +14168,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-13",
       "row": 1202,
-      "weekday": "Monday",
-      "englishDate": "March 13th 2028",
-      "isoDate": "2028-03-13",
-      "hebrewDate": "15 Adar 5788",
+      "weekday": "Friday",
+      "englishDate": "April 14th 2028",
+      "isoDate": "2028-04-14",
+      "hebrewDate": "18 Nisan 5788",
       "tractate": "בכורות",
       "assignment": "9:6-8",
       "sourceFlag": "",
@@ -14180,10 +14180,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-14",
       "row": 1203,
-      "weekday": "Tuesday",
-      "englishDate": "March 14th 2028",
-      "isoDate": "2028-03-14",
-      "hebrewDate": "16 Adar 5788",
+      "weekday": "Saturday",
+      "englishDate": "April 15th 2028",
+      "isoDate": "2028-04-15",
+      "hebrewDate": "19 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -14192,10 +14192,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-15",
       "row": 1204,
-      "weekday": "Wednesday",
-      "englishDate": "March 15th 2028",
-      "isoDate": "2028-03-15",
-      "hebrewDate": "17 Adar 5788",
+      "weekday": "Sunday",
+      "englishDate": "April 16th 2028",
+      "isoDate": "2028-04-16",
+      "hebrewDate": "20 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "1:3-2:1",
       "sourceFlag": "",
@@ -14204,10 +14204,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-16",
       "row": 1205,
-      "weekday": "Thursday",
-      "englishDate": "March 16th 2028",
-      "isoDate": "2028-03-16",
-      "hebrewDate": "18 Adar 5788",
+      "weekday": "Monday",
+      "englishDate": "April 17th 2028",
+      "isoDate": "2028-04-17",
+      "hebrewDate": "21 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "2:2-3",
       "sourceFlag": "",
@@ -14216,10 +14216,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-17",
       "row": 1206,
-      "weekday": "Friday",
-      "englishDate": "March 17th 2028",
-      "isoDate": "2028-03-17",
-      "hebrewDate": "19 Adar 5788",
+      "weekday": "Tuesday",
+      "englishDate": "April 18th 2028",
+      "isoDate": "2028-04-18",
+      "hebrewDate": "22 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "2:4-6",
       "sourceFlag": "",
@@ -14228,10 +14228,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-18",
       "row": 1207,
-      "weekday": "Saturday",
-      "englishDate": "March 18th 2028",
-      "isoDate": "2028-03-18",
-      "hebrewDate": "20 Adar 5788",
+      "weekday": "Wednesday",
+      "englishDate": "April 19th 2028",
+      "isoDate": "2028-04-19",
+      "hebrewDate": "23 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "3:1-2",
       "sourceFlag": "",
@@ -14240,10 +14240,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-19",
       "row": 1208,
-      "weekday": "Sunday",
-      "englishDate": "March 19th 2028",
-      "isoDate": "2028-03-19",
-      "hebrewDate": "21 Adar 5788",
+      "weekday": "Thursday",
+      "englishDate": "April 20th 2028",
+      "isoDate": "2028-04-20",
+      "hebrewDate": "24 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "3:3-5",
       "sourceFlag": "",
@@ -14252,10 +14252,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-20",
       "row": 1209,
-      "weekday": "Monday",
-      "englishDate": "March 20th 2028",
-      "isoDate": "2028-03-20",
-      "hebrewDate": "22 Adar 5788",
+      "weekday": "Friday",
+      "englishDate": "April 21st 2028",
+      "isoDate": "2028-04-21",
+      "hebrewDate": "25 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -14264,10 +14264,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-21",
       "row": 1210,
-      "weekday": "Tuesday",
-      "englishDate": "March 21st 2028",
-      "isoDate": "2028-03-21",
-      "hebrewDate": "23 Adar 5788",
+      "weekday": "Saturday",
+      "englishDate": "April 22nd 2028",
+      "isoDate": "2028-04-22",
+      "hebrewDate": "26 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "4:3-5:1",
       "sourceFlag": "",
@@ -14276,10 +14276,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-22",
       "row": 1211,
-      "weekday": "Wednesday",
-      "englishDate": "March 22nd 2028",
-      "isoDate": "2028-03-22",
-      "hebrewDate": "24 Adar 5788",
+      "weekday": "Sunday",
+      "englishDate": "April 23rd 2028",
+      "isoDate": "2028-04-23",
+      "hebrewDate": "27 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "5:2-3",
       "sourceFlag": "",
@@ -14288,10 +14288,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-23",
       "row": 1212,
-      "weekday": "Thursday",
-      "englishDate": "March 23rd 2028",
-      "isoDate": "2028-03-23",
-      "hebrewDate": "25 Adar 5788",
+      "weekday": "Monday",
+      "englishDate": "April 24th 2028",
+      "isoDate": "2028-04-24",
+      "hebrewDate": "28 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "5:4-6",
       "sourceFlag": "",
@@ -14300,10 +14300,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-24",
       "row": 1213,
-      "weekday": "Friday",
-      "englishDate": "March 24th 2028",
-      "isoDate": "2028-03-24",
-      "hebrewDate": "26 Adar 5788",
+      "weekday": "Tuesday",
+      "englishDate": "April 25th 2028",
+      "isoDate": "2028-04-25",
+      "hebrewDate": "29 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "6:1-2",
       "sourceFlag": "",
@@ -14312,10 +14312,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-25",
       "row": 1214,
-      "weekday": "Saturday",
-      "englishDate": "March 25th 2028",
-      "isoDate": "2028-03-25",
-      "hebrewDate": "27 Adar 5788",
+      "weekday": "Wednesday",
+      "englishDate": "April 26th 2028",
+      "isoDate": "2028-04-26",
+      "hebrewDate": "30 Nisan 5788",
       "tractate": "ערכין",
       "assignment": "6:3-5",
       "sourceFlag": "",
@@ -14324,10 +14324,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-26",
       "row": 1215,
-      "weekday": "Sunday",
-      "englishDate": "March 26th 2028",
-      "isoDate": "2028-03-26",
-      "hebrewDate": "28 Adar 5788",
+      "weekday": "Thursday",
+      "englishDate": "April 27th 2028",
+      "isoDate": "2028-04-27",
+      "hebrewDate": "1 Iyar 5788",
       "tractate": "ערכין",
       "assignment": "7:1-2",
       "sourceFlag": "",
@@ -14336,10 +14336,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-27",
       "row": 1216,
-      "weekday": "Monday",
-      "englishDate": "March 27th 2028",
-      "isoDate": "2028-03-27",
-      "hebrewDate": "29 Adar 5788",
+      "weekday": "Friday",
+      "englishDate": "April 28th 2028",
+      "isoDate": "2028-04-28",
+      "hebrewDate": "2 Iyar 5788",
       "tractate": "ערכין",
       "assignment": "7:3-5",
       "sourceFlag": "",
@@ -14348,10 +14348,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-28",
       "row": 1217,
-      "weekday": "Tuesday",
-      "englishDate": "March 28th 2028",
-      "isoDate": "2028-03-28",
-      "hebrewDate": "1 Nisan 5788",
+      "weekday": "Saturday",
+      "englishDate": "April 29th 2028",
+      "isoDate": "2028-04-29",
+      "hebrewDate": "3 Iyar 5788",
       "tractate": "ערכין",
       "assignment": "8:1-2",
       "sourceFlag": "",
@@ -14360,10 +14360,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-29",
       "row": 1218,
-      "weekday": "Wednesday",
-      "englishDate": "March 29th 2028",
-      "isoDate": "2028-03-29",
-      "hebrewDate": "2 Nisan 5788",
+      "weekday": "Sunday",
+      "englishDate": "April 30th 2028",
+      "isoDate": "2028-04-30",
+      "hebrewDate": "4 Iyar 5788",
       "tractate": "ערכין",
       "assignment": "8:3-5",
       "sourceFlag": "",
@@ -14372,10 +14372,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-30",
       "row": 1219,
-      "weekday": "Thursday",
-      "englishDate": "March 30th 2028",
-      "isoDate": "2028-03-30",
-      "hebrewDate": "3 Nisan 5788",
+      "weekday": "Monday",
+      "englishDate": "May 1st 2028",
+      "isoDate": "2028-05-01",
+      "hebrewDate": "5 Iyar 5788",
       "tractate": "ערכין",
       "assignment": "8:6-7",
       "sourceFlag": "",
@@ -14384,10 +14384,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-03-31",
       "row": 1220,
-      "weekday": "Friday",
-      "englishDate": "March 31st 2028",
-      "isoDate": "2028-03-31",
-      "hebrewDate": "4 Nisan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "May 2nd 2028",
+      "isoDate": "2028-05-02",
+      "hebrewDate": "6 Iyar 5788",
       "tractate": "ערכין",
       "assignment": "9:1-3",
       "sourceFlag": "",
@@ -14396,10 +14396,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-01",
       "row": 1221,
-      "weekday": "Saturday",
-      "englishDate": "April 1st 2028",
-      "isoDate": "2028-04-01",
-      "hebrewDate": "5 Nisan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "May 3rd 2028",
+      "isoDate": "2028-05-03",
+      "hebrewDate": "7 Iyar 5788",
       "tractate": "ערכין",
       "assignment": "9:4-5",
       "sourceFlag": "",
@@ -14408,10 +14408,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-02",
       "row": 1222,
-      "weekday": "Sunday",
-      "englishDate": "April 2nd 2028",
-      "isoDate": "2028-04-02",
-      "hebrewDate": "6 Nisan 5788",
+      "weekday": "Thursday",
+      "englishDate": "May 4th 2028",
+      "isoDate": "2028-05-04",
+      "hebrewDate": "8 Iyar 5788",
       "tractate": "ערכין",
       "assignment": "9:6-8",
       "sourceFlag": "",
@@ -14420,10 +14420,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-03",
       "row": 1223,
-      "weekday": "Monday",
-      "englishDate": "April 3rd 2028",
-      "isoDate": "2028-04-03",
-      "hebrewDate": "7 Nisan 5788",
+      "weekday": "Friday",
+      "englishDate": "May 5th 2028",
+      "isoDate": "2028-05-05",
+      "hebrewDate": "9 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -14432,10 +14432,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-04",
       "row": 1224,
-      "weekday": "Tuesday",
-      "englishDate": "April 4th 2028",
-      "isoDate": "2028-04-04",
-      "hebrewDate": "8 Nisan 5788",
+      "weekday": "Saturday",
+      "englishDate": "May 6th 2028",
+      "isoDate": "2028-05-06",
+      "hebrewDate": "10 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "1:3-5",
       "sourceFlag": "",
@@ -14444,10 +14444,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-05",
       "row": 1225,
-      "weekday": "Wednesday",
-      "englishDate": "April 5th 2028",
-      "isoDate": "2028-04-05",
-      "hebrewDate": "9 Nisan 5788",
+      "weekday": "Sunday",
+      "englishDate": "May 7th 2028",
+      "isoDate": "2028-05-07",
+      "hebrewDate": "11 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "1:6-2:1",
       "sourceFlag": "",
@@ -14456,10 +14456,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-06",
       "row": 1226,
-      "weekday": "Thursday",
-      "englishDate": "April 6th 2028",
-      "isoDate": "2028-04-06",
-      "hebrewDate": "10 Nisan 5788",
+      "weekday": "Monday",
+      "englishDate": "May 8th 2028",
+      "isoDate": "2028-05-08",
+      "hebrewDate": "12 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "2:2-3:1",
       "sourceFlag": "",
@@ -14468,10 +14468,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-07",
       "row": 1227,
-      "weekday": "Friday",
-      "englishDate": "April 7th 2028",
-      "isoDate": "2028-04-07",
-      "hebrewDate": "11 Nisan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "May 9th 2028",
+      "isoDate": "2028-05-09",
+      "hebrewDate": "13 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "3:2-3",
       "sourceFlag": "",
@@ -14480,10 +14480,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-08",
       "row": 1228,
-      "weekday": "Saturday",
-      "englishDate": "April 8th 2028",
-      "isoDate": "2028-04-08",
-      "hebrewDate": "12 Nisan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "May 10th 2028",
+      "isoDate": "2028-05-10",
+      "hebrewDate": "14 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "3:4-4:1",
       "sourceFlag": "",
@@ -14492,10 +14492,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-09",
       "row": 1229,
-      "weekday": "Sunday",
-      "englishDate": "April 9th 2028",
-      "isoDate": "2028-04-09",
-      "hebrewDate": "13 Nisan 5788",
+      "weekday": "Thursday",
+      "englishDate": "May 11th 2028",
+      "isoDate": "2028-05-11",
+      "hebrewDate": "15 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "4:2-3",
       "sourceFlag": "",
@@ -14504,10 +14504,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-10",
       "row": 1230,
-      "weekday": "Monday",
-      "englishDate": "April 10th 2028",
-      "isoDate": "2028-04-10",
-      "hebrewDate": "14 Nisan 5788",
+      "weekday": "Friday",
+      "englishDate": "May 12th 2028",
+      "isoDate": "2028-05-12",
+      "hebrewDate": "16 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "4:4-5:2",
       "sourceFlag": "",
@@ -14516,10 +14516,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-11",
       "row": 1231,
-      "weekday": "Tuesday",
-      "englishDate": "April 11th 2028",
-      "isoDate": "2028-04-11",
-      "hebrewDate": "15 Nisan 5788",
+      "weekday": "Saturday",
+      "englishDate": "May 13th 2028",
+      "isoDate": "2028-05-13",
+      "hebrewDate": "17 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "5:3-4",
       "sourceFlag": "",
@@ -14528,10 +14528,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-12",
       "row": 1232,
-      "weekday": "Wednesday",
-      "englishDate": "April 12th 2028",
-      "isoDate": "2028-04-12",
-      "hebrewDate": "16 Nisan 5788",
+      "weekday": "Sunday",
+      "englishDate": "May 14th 2028",
+      "isoDate": "2028-05-14",
+      "hebrewDate": "18 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "5:5-6:1",
       "sourceFlag": "",
@@ -14540,10 +14540,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-13",
       "row": 1233,
-      "weekday": "Thursday",
-      "englishDate": "April 13th 2028",
-      "isoDate": "2028-04-13",
-      "hebrewDate": "17 Nisan 5788",
+      "weekday": "Monday",
+      "englishDate": "May 15th 2028",
+      "isoDate": "2028-05-15",
+      "hebrewDate": "19 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "6:2-3",
       "sourceFlag": "",
@@ -14552,10 +14552,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-14",
       "row": 1234,
-      "weekday": "Friday",
-      "englishDate": "April 14th 2028",
-      "isoDate": "2028-04-14",
-      "hebrewDate": "18 Nisan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "May 16th 2028",
+      "isoDate": "2028-05-16",
+      "hebrewDate": "20 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "6:4-7:1",
       "sourceFlag": "",
@@ -14564,10 +14564,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-15",
       "row": 1235,
-      "weekday": "Saturday",
-      "englishDate": "April 15th 2028",
-      "isoDate": "2028-04-15",
-      "hebrewDate": "19 Nisan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "May 17th 2028",
+      "isoDate": "2028-05-17",
+      "hebrewDate": "21 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "7:2-3",
       "sourceFlag": "",
@@ -14576,10 +14576,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-16",
       "row": 1236,
-      "weekday": "Sunday",
-      "englishDate": "April 16th 2028",
-      "isoDate": "2028-04-16",
-      "hebrewDate": "20 Nisan 5788",
+      "weekday": "Thursday",
+      "englishDate": "May 18th 2028",
+      "isoDate": "2028-05-18",
+      "hebrewDate": "22 Iyar 5788",
       "tractate": "תמורה",
       "assignment": "7:4-6",
       "sourceFlag": "",
@@ -14588,10 +14588,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-17",
       "row": 1237,
-      "weekday": "Monday",
-      "englishDate": "April 17th 2028",
-      "isoDate": "2028-04-17",
-      "hebrewDate": "21 Nisan 5788",
+      "weekday": "Friday",
+      "englishDate": "May 19th 2028",
+      "isoDate": "2028-05-19",
+      "hebrewDate": "23 Iyar 5788",
       "tractate": "כריתות",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -14600,10 +14600,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-18",
       "row": 1238,
-      "weekday": "Tuesday",
-      "englishDate": "April 18th 2028",
-      "isoDate": "2028-04-18",
-      "hebrewDate": "22 Nisan 5788",
+      "weekday": "Saturday",
+      "englishDate": "May 20th 2028",
+      "isoDate": "2028-05-20",
+      "hebrewDate": "24 Iyar 5788",
       "tractate": "כריתות",
       "assignment": "1:3-5",
       "sourceFlag": "",
@@ -14612,10 +14612,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-19",
       "row": 1239,
-      "weekday": "Wednesday",
-      "englishDate": "April 19th 2028",
-      "isoDate": "2028-04-19",
-      "hebrewDate": "23 Nisan 5788",
+      "weekday": "Sunday",
+      "englishDate": "May 21st 2028",
+      "isoDate": "2028-05-21",
+      "hebrewDate": "25 Iyar 5788",
       "tractate": "כריתות",
       "assignment": "1:6-7",
       "sourceFlag": "",
@@ -14624,10 +14624,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-20",
       "row": 1240,
-      "weekday": "Thursday",
-      "englishDate": "April 20th 2028",
-      "isoDate": "2028-04-20",
-      "hebrewDate": "24 Nisan 5788",
+      "weekday": "Monday",
+      "englishDate": "May 22nd 2028",
+      "isoDate": "2028-05-22",
+      "hebrewDate": "26 Iyar 5788",
       "tractate": "כריתות",
       "assignment": "2:1-2",
       "sourceFlag": "",
@@ -14636,10 +14636,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-21",
       "row": 1241,
-      "weekday": "Friday",
-      "englishDate": "April 21st 2028",
-      "isoDate": "2028-04-21",
-      "hebrewDate": "25 Nisan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "May 23rd 2028",
+      "isoDate": "2028-05-23",
+      "hebrewDate": "27 Iyar 5788",
       "tractate": "כריתות",
       "assignment": "2:3-5",
       "sourceFlag": "",
@@ -14648,10 +14648,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-22",
       "row": 1242,
-      "weekday": "Saturday",
-      "englishDate": "April 22nd 2028",
-      "isoDate": "2028-04-22",
-      "hebrewDate": "26 Nisan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "May 24th 2028",
+      "isoDate": "2028-05-24",
+      "hebrewDate": "28 Iyar 5788",
       "tractate": "כריתות",
       "assignment": "2:6-3:1",
       "sourceFlag": "",
@@ -14660,10 +14660,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-23",
       "row": 1243,
-      "weekday": "Sunday",
-      "englishDate": "April 23rd 2028",
-      "isoDate": "2028-04-23",
-      "hebrewDate": "27 Nisan 5788",
+      "weekday": "Thursday",
+      "englishDate": "May 25th 2028",
+      "isoDate": "2028-05-25",
+      "hebrewDate": "29 Iyar 5788",
       "tractate": "כריתות",
       "assignment": "3:2-4",
       "sourceFlag": "",
@@ -14672,10 +14672,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-24",
       "row": 1244,
-      "weekday": "Monday",
-      "englishDate": "April 24th 2028",
-      "isoDate": "2028-04-24",
-      "hebrewDate": "28 Nisan 5788",
+      "weekday": "Friday",
+      "englishDate": "May 26th 2028",
+      "isoDate": "2028-05-26",
+      "hebrewDate": "1 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "3:5-6",
       "sourceFlag": "",
@@ -14684,10 +14684,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-25",
       "row": 1245,
-      "weekday": "Tuesday",
-      "englishDate": "April 25th 2028",
-      "isoDate": "2028-04-25",
-      "hebrewDate": "29 Nisan 5788",
+      "weekday": "Saturday",
+      "englishDate": "May 27th 2028",
+      "isoDate": "2028-05-27",
+      "hebrewDate": "2 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "3:7-9",
       "sourceFlag": "",
@@ -14696,10 +14696,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-26",
       "row": 1246,
-      "weekday": "Wednesday",
-      "englishDate": "April 26th 2028",
-      "isoDate": "2028-04-26",
-      "hebrewDate": "30 Nisan 5788",
+      "weekday": "Sunday",
+      "englishDate": "May 28th 2028",
+      "isoDate": "2028-05-28",
+      "hebrewDate": "3 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "3:10-4:1",
       "sourceFlag": "",
@@ -14708,10 +14708,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-27",
       "row": 1247,
-      "weekday": "Thursday",
-      "englishDate": "April 27th 2028",
-      "isoDate": "2028-04-27",
-      "hebrewDate": "1 Iyar 5788",
+      "weekday": "Monday",
+      "englishDate": "May 29th 2028",
+      "isoDate": "2028-05-29",
+      "hebrewDate": "4 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "4:2-5:1",
       "sourceFlag": "",
@@ -14720,10 +14720,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-28",
       "row": 1248,
-      "weekday": "Friday",
-      "englishDate": "April 28th 2028",
-      "isoDate": "2028-04-28",
-      "hebrewDate": "2 Iyar 5788",
+      "weekday": "Tuesday",
+      "englishDate": "May 30th 2028",
+      "isoDate": "2028-05-30",
+      "hebrewDate": "5 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "5:2-3",
       "sourceFlag": "",
@@ -14732,10 +14732,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-29",
       "row": 1249,
-      "weekday": "Saturday",
-      "englishDate": "April 29th 2028",
-      "isoDate": "2028-04-29",
-      "hebrewDate": "3 Iyar 5788",
+      "weekday": "Wednesday",
+      "englishDate": "May 31st 2028",
+      "isoDate": "2028-05-31",
+      "hebrewDate": "6 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "5:4-6",
       "sourceFlag": "",
@@ -14744,10 +14744,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-04-30",
       "row": 1250,
-      "weekday": "Sunday",
-      "englishDate": "April 30th 2028",
-      "isoDate": "2028-04-30",
-      "hebrewDate": "4 Iyar 5788",
+      "weekday": "Thursday",
+      "englishDate": "June 1st 2028",
+      "isoDate": "2028-06-01",
+      "hebrewDate": "7 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "5:7-8",
       "sourceFlag": "",
@@ -14756,10 +14756,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-01",
       "row": 1251,
-      "weekday": "Monday",
-      "englishDate": "May 1st 2028",
-      "isoDate": "2028-05-01",
-      "hebrewDate": "5 Iyar 5788",
+      "weekday": "Friday",
+      "englishDate": "June 2nd 2028",
+      "isoDate": "2028-06-02",
+      "hebrewDate": "8 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "6:1-3",
       "sourceFlag": "",
@@ -14768,10 +14768,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-02",
       "row": 1252,
-      "weekday": "Tuesday",
-      "englishDate": "May 2nd 2028",
-      "isoDate": "2028-05-02",
-      "hebrewDate": "6 Iyar 5788",
+      "weekday": "Saturday",
+      "englishDate": "June 3rd 2028",
+      "isoDate": "2028-06-03",
+      "hebrewDate": "9 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "6:4-5",
       "sourceFlag": "",
@@ -14780,10 +14780,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-03",
       "row": 1253,
-      "weekday": "Wednesday",
-      "englishDate": "May 3rd 2028",
-      "isoDate": "2028-05-03",
-      "hebrewDate": "7 Iyar 5788",
+      "weekday": "Sunday",
+      "englishDate": "June 4th 2028",
+      "isoDate": "2028-06-04",
+      "hebrewDate": "10 Sivan 5788",
       "tractate": "כריתות",
       "assignment": "6:6-8",
       "sourceFlag": "",
@@ -14792,10 +14792,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-04",
       "row": 1254,
-      "weekday": "Thursday",
-      "englishDate": "May 4th 2028",
-      "isoDate": "2028-05-04",
-      "hebrewDate": "8 Iyar 5788",
+      "weekday": "Monday",
+      "englishDate": "June 5th 2028",
+      "isoDate": "2028-06-05",
+      "hebrewDate": "11 Sivan 5788",
       "tractate": "כריתות-מעילה",
       "assignment": "6:9 -1:1",
       "sourceFlag": "",
@@ -14804,10 +14804,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-05",
       "row": 1255,
-      "weekday": "Friday",
-      "englishDate": "May 5th 2028",
-      "isoDate": "2028-05-05",
-      "hebrewDate": "9 Iyar 5788",
+      "weekday": "Tuesday",
+      "englishDate": "June 6th 2028",
+      "isoDate": "2028-06-06",
+      "hebrewDate": "12 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "1:2-4",
       "sourceFlag": "",
@@ -14816,10 +14816,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-06",
       "row": 1256,
-      "weekday": "Saturday",
-      "englishDate": "May 6th 2028",
-      "isoDate": "2028-05-06",
-      "hebrewDate": "10 Iyar 5788",
+      "weekday": "Wednesday",
+      "englishDate": "June 7th 2028",
+      "isoDate": "2028-06-07",
+      "hebrewDate": "13 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "2:1-2",
       "sourceFlag": "",
@@ -14828,10 +14828,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-07",
       "row": 1257,
-      "weekday": "Sunday",
-      "englishDate": "May 7th 2028",
-      "isoDate": "2028-05-07",
-      "hebrewDate": "11 Iyar 5788",
+      "weekday": "Thursday",
+      "englishDate": "June 8th 2028",
+      "isoDate": "2028-06-08",
+      "hebrewDate": "14 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "2:3-5",
       "sourceFlag": "",
@@ -14840,10 +14840,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-08",
       "row": 1258,
-      "weekday": "Monday",
-      "englishDate": "May 8th 2028",
-      "isoDate": "2028-05-08",
-      "hebrewDate": "12 Iyar 5788",
+      "weekday": "Friday",
+      "englishDate": "June 9th 2028",
+      "isoDate": "2028-06-09",
+      "hebrewDate": "15 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "2:6-7",
       "sourceFlag": "",
@@ -14852,10 +14852,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-09",
       "row": 1259,
-      "weekday": "Tuesday",
-      "englishDate": "May 9th 2028",
-      "isoDate": "2028-05-09",
-      "hebrewDate": "13 Iyar 5788",
+      "weekday": "Saturday",
+      "englishDate": "June 10th 2028",
+      "isoDate": "2028-06-10",
+      "hebrewDate": "16 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "2:8-3:1",
       "sourceFlag": "",
@@ -14864,10 +14864,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-10",
       "row": 1260,
-      "weekday": "Wednesday",
-      "englishDate": "May 10th 2028",
-      "isoDate": "2028-05-10",
-      "hebrewDate": "14 Iyar 5788",
+      "weekday": "Sunday",
+      "englishDate": "June 11th 2028",
+      "isoDate": "2028-06-11",
+      "hebrewDate": "17 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "3:2-3",
       "sourceFlag": "",
@@ -14876,10 +14876,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-11",
       "row": 1261,
-      "weekday": "Thursday",
-      "englishDate": "May 11th 2028",
-      "isoDate": "2028-05-11",
-      "hebrewDate": "15 Iyar 5788",
+      "weekday": "Monday",
+      "englishDate": "June 12th 2028",
+      "isoDate": "2028-06-12",
+      "hebrewDate": "18 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "3:4-6",
       "sourceFlag": "",
@@ -14888,10 +14888,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-12",
       "row": 1262,
-      "weekday": "Friday",
-      "englishDate": "May 12th 2028",
-      "isoDate": "2028-05-12",
-      "hebrewDate": "16 Iyar 5788",
+      "weekday": "Tuesday",
+      "englishDate": "June 13th 2028",
+      "isoDate": "2028-06-13",
+      "hebrewDate": "19 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "3:7-8",
       "sourceFlag": "",
@@ -14900,10 +14900,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-13",
       "row": 1263,
-      "weekday": "Saturday",
-      "englishDate": "May 13th 2028",
-      "isoDate": "2028-05-13",
-      "hebrewDate": "17 Iyar 5788",
+      "weekday": "Wednesday",
+      "englishDate": "June 14th 2028",
+      "isoDate": "2028-06-14",
+      "hebrewDate": "20 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "4:1-3",
       "sourceFlag": "",
@@ -14912,10 +14912,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-14",
       "row": 1264,
-      "weekday": "Sunday",
-      "englishDate": "May 14th 2028",
-      "isoDate": "2028-05-14",
-      "hebrewDate": "18 Iyar 5788",
+      "weekday": "Thursday",
+      "englishDate": "June 15th 2028",
+      "isoDate": "2028-06-15",
+      "hebrewDate": "21 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "4:4-5",
       "sourceFlag": "",
@@ -14924,10 +14924,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-15",
       "row": 1265,
-      "weekday": "Monday",
-      "englishDate": "May 15th 2028",
-      "isoDate": "2028-05-15",
-      "hebrewDate": "19 Iyar 5788",
+      "weekday": "Friday",
+      "englishDate": "June 16th 2028",
+      "isoDate": "2028-06-16",
+      "hebrewDate": "22 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "4:6-5:2",
       "sourceFlag": "",
@@ -14936,10 +14936,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-16",
       "row": 1266,
-      "weekday": "Tuesday",
-      "englishDate": "May 16th 2028",
-      "isoDate": "2028-05-16",
-      "hebrewDate": "20 Iyar 5788",
+      "weekday": "Saturday",
+      "englishDate": "June 17th 2028",
+      "isoDate": "2028-06-17",
+      "hebrewDate": "23 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "5:3-4",
       "sourceFlag": "",
@@ -14948,10 +14948,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-17",
       "row": 1267,
-      "weekday": "Wednesday",
-      "englishDate": "May 17th 2028",
-      "isoDate": "2028-05-17",
-      "hebrewDate": "21 Iyar 5788",
+      "weekday": "Sunday",
+      "englishDate": "June 18th 2028",
+      "isoDate": "2028-06-18",
+      "hebrewDate": "24 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "5:5-6:2",
       "sourceFlag": "",
@@ -14960,10 +14960,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-18",
       "row": 1268,
-      "weekday": "Thursday",
-      "englishDate": "May 18th 2028",
-      "isoDate": "2028-05-18",
-      "hebrewDate": "22 Iyar 5788",
+      "weekday": "Monday",
+      "englishDate": "June 19th 2028",
+      "isoDate": "2028-06-19",
+      "hebrewDate": "25 Sivan 5788",
       "tractate": "מעילה",
       "assignment": "6:3-4",
       "sourceFlag": "",
@@ -14972,10 +14972,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-19",
       "row": 1269,
-      "weekday": "Friday",
-      "englishDate": "May 19th 2028",
-      "isoDate": "2028-05-19",
-      "hebrewDate": "23 Iyar 5788",
+      "weekday": "Tuesday",
+      "englishDate": "June 20th 2028",
+      "isoDate": "2028-06-20",
+      "hebrewDate": "26 Sivan 5788",
       "tractate": "מעילה-תמיד",
       "assignment": "6:5 -1:1",
       "sourceFlag": "",
@@ -14984,10 +14984,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-20",
       "row": 1270,
-      "weekday": "Saturday",
-      "englishDate": "May 20th 2028",
-      "isoDate": "2028-05-20",
-      "hebrewDate": "24 Iyar 5788",
+      "weekday": "Wednesday",
+      "englishDate": "June 21st 2028",
+      "isoDate": "2028-06-21",
+      "hebrewDate": "27 Sivan 5788",
       "tractate": "תמיד",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -14996,10 +14996,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-21",
       "row": 1271,
-      "weekday": "Sunday",
-      "englishDate": "May 21st 2028",
-      "isoDate": "2028-05-21",
-      "hebrewDate": "25 Iyar 5788",
+      "weekday": "Thursday",
+      "englishDate": "June 22nd 2028",
+      "isoDate": "2028-06-22",
+      "hebrewDate": "28 Sivan 5788",
       "tractate": "תמיד",
       "assignment": "1:4-2:2",
       "sourceFlag": "",
@@ -15008,10 +15008,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-22",
       "row": 1272,
-      "weekday": "Monday",
-      "englishDate": "May 22nd 2028",
-      "isoDate": "2028-05-22",
-      "hebrewDate": "26 Iyar 5788",
+      "weekday": "Friday",
+      "englishDate": "June 23rd 2028",
+      "isoDate": "2028-06-23",
+      "hebrewDate": "29 Sivan 5788",
       "tractate": "תמיד",
       "assignment": "2:3-4",
       "sourceFlag": "",
@@ -15020,10 +15020,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-23",
       "row": 1273,
-      "weekday": "Tuesday",
-      "englishDate": "May 23rd 2028",
-      "isoDate": "2028-05-23",
-      "hebrewDate": "27 Iyar 5788",
+      "weekday": "Saturday",
+      "englishDate": "June 24th 2028",
+      "isoDate": "2028-06-24",
+      "hebrewDate": "30 Sivan 5788",
       "tractate": "תמיד",
       "assignment": "2:5-3:2",
       "sourceFlag": "",
@@ -15032,10 +15032,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-24",
       "row": 1274,
-      "weekday": "Wednesday",
-      "englishDate": "May 24th 2028",
-      "isoDate": "2028-05-24",
-      "hebrewDate": "28 Iyar 5788",
+      "weekday": "Sunday",
+      "englishDate": "June 25th 2028",
+      "isoDate": "2028-06-25",
+      "hebrewDate": "1 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "3:3-4",
       "sourceFlag": "",
@@ -15044,10 +15044,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-25",
       "row": 1275,
-      "weekday": "Thursday",
-      "englishDate": "May 25th 2028",
-      "isoDate": "2028-05-25",
-      "hebrewDate": "29 Iyar 5788",
+      "weekday": "Monday",
+      "englishDate": "June 26th 2028",
+      "isoDate": "2028-06-26",
+      "hebrewDate": "2 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "3:5-7",
       "sourceFlag": "",
@@ -15056,10 +15056,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-26",
       "row": 1276,
-      "weekday": "Friday",
-      "englishDate": "May 26th 2028",
-      "isoDate": "2028-05-26",
-      "hebrewDate": "1 Sivan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "June 27th 2028",
+      "isoDate": "2028-06-27",
+      "hebrewDate": "3 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "3:8-9",
       "sourceFlag": "",
@@ -15068,10 +15068,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-27",
       "row": 1277,
-      "weekday": "Saturday",
-      "englishDate": "May 27th 2028",
-      "isoDate": "2028-05-27",
-      "hebrewDate": "2 Sivan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "June 28th 2028",
+      "isoDate": "2028-06-28",
+      "hebrewDate": "4 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "4:1-3",
       "sourceFlag": "",
@@ -15080,10 +15080,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-28",
       "row": 1278,
-      "weekday": "Sunday",
-      "englishDate": "May 28th 2028",
-      "isoDate": "2028-05-28",
-      "hebrewDate": "3 Sivan 5788",
+      "weekday": "Thursday",
+      "englishDate": "June 29th 2028",
+      "isoDate": "2028-06-29",
+      "hebrewDate": "5 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "5:1-2",
       "sourceFlag": "",
@@ -15092,10 +15092,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-29",
       "row": 1279,
-      "weekday": "Monday",
-      "englishDate": "May 29th 2028",
-      "isoDate": "2028-05-29",
-      "hebrewDate": "4 Sivan 5788",
+      "weekday": "Friday",
+      "englishDate": "June 30th 2028",
+      "isoDate": "2028-06-30",
+      "hebrewDate": "6 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "5:3-5",
       "sourceFlag": "",
@@ -15104,10 +15104,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-30",
       "row": 1280,
-      "weekday": "Tuesday",
-      "englishDate": "May 30th 2028",
-      "isoDate": "2028-05-30",
-      "hebrewDate": "5 Sivan 5788",
+      "weekday": "Saturday",
+      "englishDate": "July 1st 2028",
+      "isoDate": "2028-07-01",
+      "hebrewDate": "7 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "5:6-6:1",
       "sourceFlag": "",
@@ -15116,10 +15116,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-05-31",
       "row": 1281,
-      "weekday": "Wednesday",
-      "englishDate": "May 31st 2028",
-      "isoDate": "2028-05-31",
-      "hebrewDate": "6 Sivan 5788",
+      "weekday": "Sunday",
+      "englishDate": "July 2nd 2028",
+      "isoDate": "2028-07-02",
+      "hebrewDate": "8 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "6:2-7:1",
       "sourceFlag": "",
@@ -15128,10 +15128,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-01",
       "row": 1282,
-      "weekday": "Thursday",
-      "englishDate": "June 1st 2028",
-      "isoDate": "2028-06-01",
-      "hebrewDate": "7 Sivan 5788",
+      "weekday": "Monday",
+      "englishDate": "July 3rd 2028",
+      "isoDate": "2028-07-03",
+      "hebrewDate": "9 Tamuz 5788",
       "tractate": "תמיד",
       "assignment": "7:2-3",
       "sourceFlag": "",
@@ -15140,10 +15140,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-02",
       "row": 1283,
-      "weekday": "Friday",
-      "englishDate": "June 2nd 2028",
-      "isoDate": "2028-06-02",
-      "hebrewDate": "8 Sivan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "July 4th 2028",
+      "isoDate": "2028-07-04",
+      "hebrewDate": "10 Tamuz 5788",
       "tractate": "תמיד-מדות",
       "assignment": "7:4 -1:2",
       "sourceFlag": "",
@@ -15152,10 +15152,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-03",
       "row": 1284,
-      "weekday": "Saturday",
-      "englishDate": "June 3rd 2028",
-      "isoDate": "2028-06-03",
-      "hebrewDate": "9 Sivan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "July 5th 2028",
+      "isoDate": "2028-07-05",
+      "hebrewDate": "11 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "1:3-4",
       "sourceFlag": "",
@@ -15164,10 +15164,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-04",
       "row": 1285,
-      "weekday": "Sunday",
-      "englishDate": "June 4th 2028",
-      "isoDate": "2028-06-04",
-      "hebrewDate": "10 Sivan 5788",
+      "weekday": "Thursday",
+      "englishDate": "July 6th 2028",
+      "isoDate": "2028-07-06",
+      "hebrewDate": "12 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "1:5-7",
       "sourceFlag": "",
@@ -15176,10 +15176,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-05",
       "row": 1286,
-      "weekday": "Monday",
-      "englishDate": "June 5th 2028",
-      "isoDate": "2028-06-05",
-      "hebrewDate": "11 Sivan 5788",
+      "weekday": "Friday",
+      "englishDate": "July 7th 2028",
+      "isoDate": "2028-07-07",
+      "hebrewDate": "13 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "1:8-9",
       "sourceFlag": "",
@@ -15188,10 +15188,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-06",
       "row": 1287,
-      "weekday": "Tuesday",
-      "englishDate": "June 6th 2028",
-      "isoDate": "2028-06-06",
-      "hebrewDate": "12 Sivan 5788",
+      "weekday": "Saturday",
+      "englishDate": "July 8th 2028",
+      "isoDate": "2028-07-08",
+      "hebrewDate": "14 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "2:1-2",
       "sourceFlag": "",
@@ -15200,10 +15200,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-07",
       "row": 1288,
-      "weekday": "Wednesday",
-      "englishDate": "June 7th 2028",
-      "isoDate": "2028-06-07",
-      "hebrewDate": "13 Sivan 5788",
+      "weekday": "Sunday",
+      "englishDate": "July 9th 2028",
+      "isoDate": "2028-07-09",
+      "hebrewDate": "15 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "2:3-5",
       "sourceFlag": "",
@@ -15212,10 +15212,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-08",
       "row": 1289,
-      "weekday": "Thursday",
-      "englishDate": "June 8th 2028",
-      "isoDate": "2028-06-08",
-      "hebrewDate": "14 Sivan 5788",
+      "weekday": "Monday",
+      "englishDate": "July 10th 2028",
+      "isoDate": "2028-07-10",
+      "hebrewDate": "16 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "2:6-3:1",
       "sourceFlag": "",
@@ -15224,10 +15224,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-09",
       "row": 1290,
-      "weekday": "Friday",
-      "englishDate": "June 9th 2028",
-      "isoDate": "2028-06-09",
-      "hebrewDate": "15 Sivan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "July 11th 2028",
+      "isoDate": "2028-07-11",
+      "hebrewDate": "17 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "3:2-4",
       "sourceFlag": "",
@@ -15236,10 +15236,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-10",
       "row": 1291,
-      "weekday": "Saturday",
-      "englishDate": "June 10th 2028",
-      "isoDate": "2028-06-10",
-      "hebrewDate": "16 Sivan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "July 12th 2028",
+      "isoDate": "2028-07-12",
+      "hebrewDate": "18 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "3:5-6",
       "sourceFlag": "",
@@ -15248,10 +15248,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-11",
       "row": 1292,
-      "weekday": "Sunday",
-      "englishDate": "June 11th 2028",
-      "isoDate": "2028-06-11",
-      "hebrewDate": "17 Sivan 5788",
+      "weekday": "Thursday",
+      "englishDate": "July 13th 2028",
+      "isoDate": "2028-07-13",
+      "hebrewDate": "19 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "3:7-4:1",
       "sourceFlag": "",
@@ -15260,10 +15260,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-12",
       "row": 1293,
-      "weekday": "Monday",
-      "englishDate": "June 12th 2028",
-      "isoDate": "2028-06-12",
-      "hebrewDate": "18 Sivan 5788",
+      "weekday": "Friday",
+      "englishDate": "July 14th 2028",
+      "isoDate": "2028-07-14",
+      "hebrewDate": "20 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "4:2-3",
       "sourceFlag": "",
@@ -15272,10 +15272,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-13",
       "row": 1294,
-      "weekday": "Tuesday",
-      "englishDate": "June 13th 2028",
-      "isoDate": "2028-06-13",
-      "hebrewDate": "19 Sivan 5788",
+      "weekday": "Saturday",
+      "englishDate": "July 15th 2028",
+      "isoDate": "2028-07-15",
+      "hebrewDate": "21 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "4:4-6",
       "sourceFlag": "",
@@ -15284,10 +15284,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-14",
       "row": 1295,
-      "weekday": "Wednesday",
-      "englishDate": "June 14th 2028",
-      "isoDate": "2028-06-14",
-      "hebrewDate": "20 Sivan 5788",
+      "weekday": "Sunday",
+      "englishDate": "July 16th 2028",
+      "isoDate": "2028-07-16",
+      "hebrewDate": "22 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "4:7-5:1",
       "sourceFlag": "",
@@ -15296,10 +15296,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-15",
       "row": 1296,
-      "weekday": "Thursday",
-      "englishDate": "June 15th 2028",
-      "isoDate": "2028-06-15",
-      "hebrewDate": "21 Sivan 5788",
+      "weekday": "Monday",
+      "englishDate": "July 17th 2028",
+      "isoDate": "2028-07-17",
+      "hebrewDate": "23 Tamuz 5788",
       "tractate": "מדות",
       "assignment": "5:2-4",
       "sourceFlag": "",
@@ -15308,10 +15308,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-16",
       "row": 1297,
-      "weekday": "Friday",
-      "englishDate": "June 16th 2028",
-      "isoDate": "2028-06-16",
-      "hebrewDate": "22 Sivan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "July 18th 2028",
+      "isoDate": "2028-07-18",
+      "hebrewDate": "24 Tamuz 5788",
       "tractate": "קנים",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -15320,10 +15320,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-17",
       "row": 1298,
-      "weekday": "Saturday",
-      "englishDate": "June 17th 2028",
-      "isoDate": "2028-06-17",
-      "hebrewDate": "23 Sivan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "July 19th 2028",
+      "isoDate": "2028-07-19",
+      "hebrewDate": "25 Tamuz 5788",
       "tractate": "קנים",
       "assignment": "1:3-2:1",
       "sourceFlag": "",
@@ -15332,10 +15332,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-18",
       "row": 1299,
-      "weekday": "Sunday",
-      "englishDate": "June 18th 2028",
-      "isoDate": "2028-06-18",
-      "hebrewDate": "24 Sivan 5788",
+      "weekday": "Thursday",
+      "englishDate": "July 20th 2028",
+      "isoDate": "2028-07-20",
+      "hebrewDate": "26 Tamuz 5788",
       "tractate": "קנים",
       "assignment": "2:2-3",
       "sourceFlag": "",
@@ -15344,10 +15344,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-19",
       "row": 1300,
-      "weekday": "Monday",
-      "englishDate": "June 19th 2028",
-      "isoDate": "2028-06-19",
-      "hebrewDate": "25 Sivan 5788",
+      "weekday": "Friday",
+      "englishDate": "July 21st 2028",
+      "isoDate": "2028-07-21",
+      "hebrewDate": "27 Tamuz 5788",
       "tractate": "קנים",
       "assignment": "2:4-3:1",
       "sourceFlag": "",
@@ -15356,10 +15356,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-20",
       "row": 1301,
-      "weekday": "Tuesday",
-      "englishDate": "June 20th 2028",
-      "isoDate": "2028-06-20",
-      "hebrewDate": "26 Sivan 5788",
+      "weekday": "Saturday",
+      "englishDate": "July 22nd 2028",
+      "isoDate": "2028-07-22",
+      "hebrewDate": "28 Tamuz 5788",
       "tractate": "קנים",
       "assignment": "3:2-3",
       "sourceFlag": "",
@@ -15368,10 +15368,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-21",
       "row": 1302,
-      "weekday": "Wednesday",
-      "englishDate": "June 21st 2028",
-      "isoDate": "2028-06-21",
-      "hebrewDate": "27 Sivan 5788",
+      "weekday": "Sunday",
+      "englishDate": "July 23rd 2028",
+      "isoDate": "2028-07-23",
+      "hebrewDate": "29 Tamuz 5788",
       "tractate": "קנים",
       "assignment": "3:4-6",
       "sourceFlag": "",
@@ -15380,10 +15380,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-22",
       "row": 1303,
-      "weekday": "Thursday",
-      "englishDate": "June 22nd 2028",
-      "isoDate": "2028-06-22",
-      "hebrewDate": "28 Sivan 5788",
+      "weekday": "Monday",
+      "englishDate": "July 24th 2028",
+      "isoDate": "2028-07-24",
+      "hebrewDate": "1 Av 5788",
       "tractate": "כלים",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -15392,10 +15392,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-23",
       "row": 1304,
-      "weekday": "Friday",
-      "englishDate": "June 23rd 2028",
-      "isoDate": "2028-06-23",
-      "hebrewDate": "29 Sivan 5788",
+      "weekday": "Tuesday",
+      "englishDate": "July 25th 2028",
+      "isoDate": "2028-07-25",
+      "hebrewDate": "2 Av 5788",
       "tractate": "כלים",
       "assignment": "1:3-5",
       "sourceFlag": "",
@@ -15404,10 +15404,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-24",
       "row": 1305,
-      "weekday": "Saturday",
-      "englishDate": "June 24th 2028",
-      "isoDate": "2028-06-24",
-      "hebrewDate": "30 Sivan 5788",
+      "weekday": "Wednesday",
+      "englishDate": "July 26th 2028",
+      "isoDate": "2028-07-26",
+      "hebrewDate": "3 Av 5788",
       "tractate": "כלים",
       "assignment": "1:6-7",
       "sourceFlag": "",
@@ -15416,10 +15416,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-25",
       "row": 1306,
-      "weekday": "Sunday",
-      "englishDate": "June 25th 2028",
-      "isoDate": "2028-06-25",
-      "hebrewDate": "1 Tamuz 5788",
+      "weekday": "Thursday",
+      "englishDate": "July 27th 2028",
+      "isoDate": "2028-07-27",
+      "hebrewDate": "4 Av 5788",
       "tractate": "כלים",
       "assignment": "1:8-2:1",
       "sourceFlag": "",
@@ -15428,10 +15428,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-26",
       "row": 1307,
-      "weekday": "Monday",
-      "englishDate": "June 26th 2028",
-      "isoDate": "2028-06-26",
-      "hebrewDate": "2 Tamuz 5788",
+      "weekday": "Friday",
+      "englishDate": "July 28th 2028",
+      "isoDate": "2028-07-28",
+      "hebrewDate": "5 Av 5788",
       "tractate": "כלים",
       "assignment": "2:2-3",
       "sourceFlag": "",
@@ -15440,10 +15440,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-27",
       "row": 1308,
-      "weekday": "Tuesday",
-      "englishDate": "June 27th 2028",
-      "isoDate": "2028-06-27",
-      "hebrewDate": "3 Tamuz 5788",
+      "weekday": "Saturday",
+      "englishDate": "July 29th 2028",
+      "isoDate": "2028-07-29",
+      "hebrewDate": "6 Av 5788",
       "tractate": "כלים",
       "assignment": "2:4-6",
       "sourceFlag": "",
@@ -15452,10 +15452,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-28",
       "row": 1309,
-      "weekday": "Wednesday",
-      "englishDate": "June 28th 2028",
-      "isoDate": "2028-06-28",
-      "hebrewDate": "4 Tamuz 5788",
+      "weekday": "Sunday",
+      "englishDate": "July 30th 2028",
+      "isoDate": "2028-07-30",
+      "hebrewDate": "7 Av 5788",
       "tractate": "כלים",
       "assignment": "2:7-8",
       "sourceFlag": "",
@@ -15464,10 +15464,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-29",
       "row": 1310,
-      "weekday": "Thursday",
-      "englishDate": "June 29th 2028",
-      "isoDate": "2028-06-29",
-      "hebrewDate": "5 Tamuz 5788",
+      "weekday": "Monday",
+      "englishDate": "July 31st 2028",
+      "isoDate": "2028-07-31",
+      "hebrewDate": "8 Av 5788",
       "tractate": "כלים",
       "assignment": "3:1-3",
       "sourceFlag": "",
@@ -15476,10 +15476,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-06-30",
       "row": 1311,
-      "weekday": "Friday",
-      "englishDate": "June 30th 2028",
-      "isoDate": "2028-06-30",
-      "hebrewDate": "6 Tamuz 5788",
+      "weekday": "Tuesday",
+      "englishDate": "August 1st 2028",
+      "isoDate": "2028-08-01",
+      "hebrewDate": "9 Av 5788",
       "tractate": "כלים",
       "assignment": "3:4-5",
       "sourceFlag": "",
@@ -15488,10 +15488,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-01",
       "row": 1312,
-      "weekday": "Saturday",
-      "englishDate": "July 1st 2028",
-      "isoDate": "2028-07-01",
-      "hebrewDate": "7 Tamuz 5788",
+      "weekday": "Wednesday",
+      "englishDate": "August 2nd 2028",
+      "isoDate": "2028-08-02",
+      "hebrewDate": "10 Av 5788",
       "tractate": "כלים",
       "assignment": "3:6-8",
       "sourceFlag": "",
@@ -15500,10 +15500,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-02",
       "row": 1313,
-      "weekday": "Sunday",
-      "englishDate": "July 2nd 2028",
-      "isoDate": "2028-07-02",
-      "hebrewDate": "8 Tamuz 5788",
+      "weekday": "Thursday",
+      "englishDate": "August 3rd 2028",
+      "isoDate": "2028-08-03",
+      "hebrewDate": "11 Av 5788",
       "tractate": "כלים",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -15512,10 +15512,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-03",
       "row": 1314,
-      "weekday": "Monday",
-      "englishDate": "July 3rd 2028",
-      "isoDate": "2028-07-03",
-      "hebrewDate": "9 Tamuz 5788",
+      "weekday": "Friday",
+      "englishDate": "August 4th 2028",
+      "isoDate": "2028-08-04",
+      "hebrewDate": "12 Av 5788",
       "tractate": "כלים",
       "assignment": "4:3-5:1",
       "sourceFlag": "",
@@ -15524,10 +15524,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-04",
       "row": 1315,
-      "weekday": "Tuesday",
-      "englishDate": "July 4th 2028",
-      "isoDate": "2028-07-04",
-      "hebrewDate": "10 Tamuz 5788",
+      "weekday": "Saturday",
+      "englishDate": "August 5th 2028",
+      "isoDate": "2028-08-05",
+      "hebrewDate": "13 Av 5788",
       "tractate": "כלים",
       "assignment": "5:2-3",
       "sourceFlag": "",
@@ -15536,10 +15536,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-05",
       "row": 1316,
-      "weekday": "Wednesday",
-      "englishDate": "July 5th 2028",
-      "isoDate": "2028-07-05",
-      "hebrewDate": "11 Tamuz 5788",
+      "weekday": "Sunday",
+      "englishDate": "August 6th 2028",
+      "isoDate": "2028-08-06",
+      "hebrewDate": "14 Av 5788",
       "tractate": "כלים",
       "assignment": "5:4-6",
       "sourceFlag": "",
@@ -15548,10 +15548,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-06",
       "row": 1317,
-      "weekday": "Thursday",
-      "englishDate": "July 6th 2028",
-      "isoDate": "2028-07-06",
-      "hebrewDate": "12 Tamuz 5788",
+      "weekday": "Monday",
+      "englishDate": "August 7th 2028",
+      "isoDate": "2028-08-07",
+      "hebrewDate": "15 Av 5788",
       "tractate": "כלים",
       "assignment": "5:7-8",
       "sourceFlag": "",
@@ -15560,10 +15560,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-07",
       "row": 1318,
-      "weekday": "Friday",
-      "englishDate": "July 7th 2028",
-      "isoDate": "2028-07-07",
-      "hebrewDate": "13 Tamuz 5788",
+      "weekday": "Tuesday",
+      "englishDate": "August 8th 2028",
+      "isoDate": "2028-08-08",
+      "hebrewDate": "16 Av 5788",
       "tractate": "כלים",
       "assignment": "5:9-11",
       "sourceFlag": "",
@@ -15572,10 +15572,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-08",
       "row": 1319,
-      "weekday": "Saturday",
-      "englishDate": "July 8th 2028",
-      "isoDate": "2028-07-08",
-      "hebrewDate": "14 Tamuz 5788",
+      "weekday": "Wednesday",
+      "englishDate": "August 9th 2028",
+      "isoDate": "2028-08-09",
+      "hebrewDate": "17 Av 5788",
       "tractate": "כלים",
       "assignment": "6:1-2",
       "sourceFlag": "",
@@ -15584,10 +15584,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-09",
       "row": 1320,
-      "weekday": "Sunday",
-      "englishDate": "July 9th 2028",
-      "isoDate": "2028-07-09",
-      "hebrewDate": "15 Tamuz 5788",
+      "weekday": "Thursday",
+      "englishDate": "August 10th 2028",
+      "isoDate": "2028-08-10",
+      "hebrewDate": "18 Av 5788",
       "tractate": "כלים",
       "assignment": "6:3-7:1",
       "sourceFlag": "",
@@ -15596,10 +15596,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-10",
       "row": 1321,
-      "weekday": "Monday",
-      "englishDate": "July 10th 2028",
-      "isoDate": "2028-07-10",
-      "hebrewDate": "16 Tamuz 5788",
+      "weekday": "Friday",
+      "englishDate": "August 11th 2028",
+      "isoDate": "2028-08-11",
+      "hebrewDate": "19 Av 5788",
       "tractate": "כלים",
       "assignment": "7:2-3",
       "sourceFlag": "",
@@ -15608,10 +15608,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-11",
       "row": 1322,
-      "weekday": "Tuesday",
-      "englishDate": "July 11th 2028",
-      "isoDate": "2028-07-11",
-      "hebrewDate": "17 Tamuz 5788",
+      "weekday": "Saturday",
+      "englishDate": "August 12th 2028",
+      "isoDate": "2028-08-12",
+      "hebrewDate": "20 Av 5788",
       "tractate": "כלים",
       "assignment": "7:4-6",
       "sourceFlag": "",
@@ -15620,10 +15620,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-12",
       "row": 1323,
-      "weekday": "Wednesday",
-      "englishDate": "July 12th 2028",
-      "isoDate": "2028-07-12",
-      "hebrewDate": "18 Tamuz 5788",
+      "weekday": "Sunday",
+      "englishDate": "August 13th 2028",
+      "isoDate": "2028-08-13",
+      "hebrewDate": "21 Av 5788",
       "tractate": "כלים",
       "assignment": "8:1-2",
       "sourceFlag": "",
@@ -15632,10 +15632,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-13",
       "row": 1324,
-      "weekday": "Thursday",
-      "englishDate": "July 13th 2028",
-      "isoDate": "2028-07-13",
-      "hebrewDate": "19 Tamuz 5788",
+      "weekday": "Monday",
+      "englishDate": "August 14th 2028",
+      "isoDate": "2028-08-14",
+      "hebrewDate": "22 Av 5788",
       "tractate": "כלים",
       "assignment": "8:3-5",
       "sourceFlag": "",
@@ -15644,10 +15644,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-14",
       "row": 1325,
-      "weekday": "Friday",
-      "englishDate": "July 14th 2028",
-      "isoDate": "2028-07-14",
-      "hebrewDate": "20 Tamuz 5788",
+      "weekday": "Tuesday",
+      "englishDate": "August 15th 2028",
+      "isoDate": "2028-08-15",
+      "hebrewDate": "23 Av 5788",
       "tractate": "כלים",
       "assignment": "8:6-7",
       "sourceFlag": "",
@@ -15656,10 +15656,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-15",
       "row": 1326,
-      "weekday": "Saturday",
-      "englishDate": "July 15th 2028",
-      "isoDate": "2028-07-15",
-      "hebrewDate": "21 Tamuz 5788",
+      "weekday": "Wednesday",
+      "englishDate": "August 16th 2028",
+      "isoDate": "2028-08-16",
+      "hebrewDate": "24 Av 5788",
       "tractate": "כלים",
       "assignment": "8:8-10",
       "sourceFlag": "",
@@ -15668,10 +15668,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-16",
       "row": 1327,
-      "weekday": "Sunday",
-      "englishDate": "July 16th 2028",
-      "isoDate": "2028-07-16",
-      "hebrewDate": "22 Tamuz 5788",
+      "weekday": "Thursday",
+      "englishDate": "August 17th 2028",
+      "isoDate": "2028-08-17",
+      "hebrewDate": "25 Av 5788",
       "tractate": "כלים",
       "assignment": "8:11-9:1",
       "sourceFlag": "",
@@ -15680,10 +15680,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-17",
       "row": 1328,
-      "weekday": "Monday",
-      "englishDate": "July 17th 2028",
-      "isoDate": "2028-07-17",
-      "hebrewDate": "23 Tamuz 5788",
+      "weekday": "Friday",
+      "englishDate": "August 18th 2028",
+      "isoDate": "2028-08-18",
+      "hebrewDate": "26 Av 5788",
       "tractate": "כלים",
       "assignment": "9:2-4",
       "sourceFlag": "",
@@ -15692,10 +15692,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-18",
       "row": 1329,
-      "weekday": "Tuesday",
-      "englishDate": "July 18th 2028",
-      "isoDate": "2028-07-18",
-      "hebrewDate": "24 Tamuz 5788",
+      "weekday": "Saturday",
+      "englishDate": "August 19th 2028",
+      "isoDate": "2028-08-19",
+      "hebrewDate": "27 Av 5788",
       "tractate": "כלים",
       "assignment": "9:5-6",
       "sourceFlag": "",
@@ -15704,10 +15704,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-19",
       "row": 1330,
-      "weekday": "Wednesday",
-      "englishDate": "July 19th 2028",
-      "isoDate": "2028-07-19",
-      "hebrewDate": "25 Tamuz 5788",
+      "weekday": "Sunday",
+      "englishDate": "August 20th 2028",
+      "isoDate": "2028-08-20",
+      "hebrewDate": "28 Av 5788",
       "tractate": "כלים",
       "assignment": "9:7-10:1",
       "sourceFlag": "",
@@ -15716,10 +15716,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-20",
       "row": 1331,
-      "weekday": "Thursday",
-      "englishDate": "July 20th 2028",
-      "isoDate": "2028-07-20",
-      "hebrewDate": "26 Tamuz 5788",
+      "weekday": "Monday",
+      "englishDate": "August 21st 2028",
+      "isoDate": "2028-08-21",
+      "hebrewDate": "29 Av 5788",
       "tractate": "כלים",
       "assignment": "10:2-3",
       "sourceFlag": "",
@@ -15728,10 +15728,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-21",
       "row": 1332,
-      "weekday": "Friday",
-      "englishDate": "July 21st 2028",
-      "isoDate": "2028-07-21",
-      "hebrewDate": "27 Tamuz 5788",
+      "weekday": "Tuesday",
+      "englishDate": "August 22nd 2028",
+      "isoDate": "2028-08-22",
+      "hebrewDate": "30 Av 5788",
       "tractate": "כלים",
       "assignment": "10:4-5",
       "sourceFlag": "",
@@ -15740,10 +15740,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-22",
       "row": 1333,
-      "weekday": "Saturday",
-      "englishDate": "July 22nd 2028",
-      "isoDate": "2028-07-22",
-      "hebrewDate": "28 Tamuz 5788",
+      "weekday": "Wednesday",
+      "englishDate": "August 23rd 2028",
+      "isoDate": "2028-08-23",
+      "hebrewDate": "1 Elul 5788",
       "tractate": "כלים",
       "assignment": "10:6-8",
       "sourceFlag": "",
@@ -15752,10 +15752,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-23",
       "row": 1334,
-      "weekday": "Sunday",
-      "englishDate": "July 23rd 2028",
-      "isoDate": "2028-07-23",
-      "hebrewDate": "29 Tamuz 5788",
+      "weekday": "Thursday",
+      "englishDate": "August 24th 2028",
+      "isoDate": "2028-08-24",
+      "hebrewDate": "2 Elul 5788",
       "tractate": "כלים",
       "assignment": "11:1-2",
       "sourceFlag": "",
@@ -15764,10 +15764,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-24",
       "row": 1335,
-      "weekday": "Monday",
-      "englishDate": "July 24th 2028",
-      "isoDate": "2028-07-24",
-      "hebrewDate": "1 Av 5788",
+      "weekday": "Friday",
+      "englishDate": "August 25th 2028",
+      "isoDate": "2028-08-25",
+      "hebrewDate": "3 Elul 5788",
       "tractate": "כלים",
       "assignment": "11:3-5",
       "sourceFlag": "",
@@ -15776,10 +15776,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-25",
       "row": 1336,
-      "weekday": "Tuesday",
-      "englishDate": "July 25th 2028",
-      "isoDate": "2028-07-25",
-      "hebrewDate": "2 Av 5788",
+      "weekday": "Saturday",
+      "englishDate": "August 26th 2028",
+      "isoDate": "2028-08-26",
+      "hebrewDate": "4 Elul 5788",
       "tractate": "כלים",
       "assignment": "11:6-7",
       "sourceFlag": "",
@@ -15788,10 +15788,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-26",
       "row": 1337,
-      "weekday": "Wednesday",
-      "englishDate": "July 26th 2028",
-      "isoDate": "2028-07-26",
-      "hebrewDate": "3 Av 5788",
+      "weekday": "Sunday",
+      "englishDate": "August 27th 2028",
+      "isoDate": "2028-08-27",
+      "hebrewDate": "5 Elul 5788",
       "tractate": "כלים",
       "assignment": "11:8-12:1",
       "sourceFlag": "",
@@ -15800,10 +15800,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-27",
       "row": 1338,
-      "weekday": "Thursday",
-      "englishDate": "July 27th 2028",
-      "isoDate": "2028-07-27",
-      "hebrewDate": "4 Av 5788",
+      "weekday": "Monday",
+      "englishDate": "August 28th 2028",
+      "isoDate": "2028-08-28",
+      "hebrewDate": "6 Elul 5788",
       "tractate": "כלים",
       "assignment": "12:2-3",
       "sourceFlag": "",
@@ -15812,10 +15812,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-28",
       "row": 1339,
-      "weekday": "Friday",
-      "englishDate": "July 28th 2028",
-      "isoDate": "2028-07-28",
-      "hebrewDate": "5 Av 5788",
+      "weekday": "Tuesday",
+      "englishDate": "August 29th 2028",
+      "isoDate": "2028-08-29",
+      "hebrewDate": "7 Elul 5788",
       "tractate": "כלים",
       "assignment": "12:4-6",
       "sourceFlag": "",
@@ -15824,10 +15824,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-29",
       "row": 1340,
-      "weekday": "Saturday",
-      "englishDate": "July 29th 2028",
-      "isoDate": "2028-07-29",
-      "hebrewDate": "6 Av 5788",
+      "weekday": "Wednesday",
+      "englishDate": "August 30th 2028",
+      "isoDate": "2028-08-30",
+      "hebrewDate": "8 Elul 5788",
       "tractate": "כלים",
       "assignment": "12:7-8",
       "sourceFlag": "",
@@ -15836,10 +15836,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-30",
       "row": 1341,
-      "weekday": "Sunday",
-      "englishDate": "July 30th 2028",
-      "isoDate": "2028-07-30",
-      "hebrewDate": "7 Av 5788",
+      "weekday": "Thursday",
+      "englishDate": "August 31st 2028",
+      "isoDate": "2028-08-31",
+      "hebrewDate": "9 Elul 5788",
       "tractate": "כלים",
       "assignment": "13:1-3",
       "sourceFlag": "",
@@ -15848,10 +15848,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-07-31",
       "row": 1342,
-      "weekday": "Monday",
-      "englishDate": "July 31st 2028",
-      "isoDate": "2028-07-31",
-      "hebrewDate": "8 Av 5788",
+      "weekday": "Friday",
+      "englishDate": "September 1st 2028",
+      "isoDate": "2028-09-01",
+      "hebrewDate": "10 Elul 5788",
       "tractate": "כלים",
       "assignment": "13:4-5",
       "sourceFlag": "",
@@ -15860,10 +15860,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-01",
       "row": 1343,
-      "weekday": "Tuesday",
-      "englishDate": "August 1st 2028",
-      "isoDate": "2028-08-01",
-      "hebrewDate": "9 Av 5788",
+      "weekday": "Saturday",
+      "englishDate": "September 2nd 2028",
+      "isoDate": "2028-09-02",
+      "hebrewDate": "11 Elul 5788",
       "tractate": "כלים",
       "assignment": "13:6-8",
       "sourceFlag": "",
@@ -15872,10 +15872,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-02",
       "row": 1344,
-      "weekday": "Wednesday",
-      "englishDate": "August 2nd 2028",
-      "isoDate": "2028-08-02",
-      "hebrewDate": "10 Av 5788",
+      "weekday": "Sunday",
+      "englishDate": "September 3rd 2028",
+      "isoDate": "2028-09-03",
+      "hebrewDate": "12 Elul 5788",
       "tractate": "כלים",
       "assignment": "14:1-2",
       "sourceFlag": "",
@@ -15884,10 +15884,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-03",
       "row": 1345,
-      "weekday": "Thursday",
-      "englishDate": "August 3rd 2028",
-      "isoDate": "2028-08-03",
-      "hebrewDate": "11 Av 5788",
+      "weekday": "Monday",
+      "englishDate": "September 4th 2028",
+      "isoDate": "2028-09-04",
+      "hebrewDate": "13 Elul 5788",
       "tractate": "כלים",
       "assignment": "14:3-5",
       "sourceFlag": "",
@@ -15896,10 +15896,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-04",
       "row": 1346,
-      "weekday": "Friday",
-      "englishDate": "August 4th 2028",
-      "isoDate": "2028-08-04",
-      "hebrewDate": "12 Av 5788",
+      "weekday": "Tuesday",
+      "englishDate": "September 5th 2028",
+      "isoDate": "2028-09-05",
+      "hebrewDate": "14 Elul 5788",
       "tractate": "כלים",
       "assignment": "14:6-7",
       "sourceFlag": "",
@@ -15908,10 +15908,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-05",
       "row": 1347,
-      "weekday": "Saturday",
-      "englishDate": "August 5th 2028",
-      "isoDate": "2028-08-05",
-      "hebrewDate": "13 Av 5788",
+      "weekday": "Wednesday",
+      "englishDate": "September 6th 2028",
+      "isoDate": "2028-09-06",
+      "hebrewDate": "15 Elul 5788",
       "tractate": "כלים",
       "assignment": "14:8-15:2",
       "sourceFlag": "",
@@ -15920,10 +15920,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-06",
       "row": 1348,
-      "weekday": "Sunday",
-      "englishDate": "August 6th 2028",
-      "isoDate": "2028-08-06",
-      "hebrewDate": "14 Av 5788",
+      "weekday": "Thursday",
+      "englishDate": "September 7th 2028",
+      "isoDate": "2028-09-07",
+      "hebrewDate": "16 Elul 5788",
       "tractate": "כלים",
       "assignment": "15:3-4",
       "sourceFlag": "",
@@ -15932,10 +15932,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-07",
       "row": 1349,
-      "weekday": "Monday",
-      "englishDate": "August 7th 2028",
-      "isoDate": "2028-08-07",
-      "hebrewDate": "15 Av 5788",
+      "weekday": "Friday",
+      "englishDate": "September 8th 2028",
+      "isoDate": "2028-09-08",
+      "hebrewDate": "17 Elul 5788",
       "tractate": "כלים",
       "assignment": "15:5-16:1",
       "sourceFlag": "",
@@ -15944,10 +15944,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-08",
       "row": 1350,
-      "weekday": "Tuesday",
-      "englishDate": "August 8th 2028",
-      "isoDate": "2028-08-08",
-      "hebrewDate": "16 Av 5788",
+      "weekday": "Saturday",
+      "englishDate": "September 9th 2028",
+      "isoDate": "2028-09-09",
+      "hebrewDate": "18 Elul 5788",
       "tractate": "כלים",
       "assignment": "16:2-3",
       "sourceFlag": "",
@@ -15956,10 +15956,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-09",
       "row": 1351,
-      "weekday": "Wednesday",
-      "englishDate": "August 9th 2028",
-      "isoDate": "2028-08-09",
-      "hebrewDate": "17 Av 5788",
+      "weekday": "Sunday",
+      "englishDate": "September 10th 2028",
+      "isoDate": "2028-09-10",
+      "hebrewDate": "19 Elul 5788",
       "tractate": "כלים",
       "assignment": "16:4-6",
       "sourceFlag": "",
@@ -15968,10 +15968,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-10",
       "row": 1352,
-      "weekday": "Thursday",
-      "englishDate": "August 10th 2028",
-      "isoDate": "2028-08-10",
-      "hebrewDate": "18 Av 5788",
+      "weekday": "Monday",
+      "englishDate": "September 11th 2028",
+      "isoDate": "2028-09-11",
+      "hebrewDate": "20 Elul 5788",
       "tractate": "כלים",
       "assignment": "16:7-8",
       "sourceFlag": "",
@@ -15980,10 +15980,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-11",
       "row": 1353,
-      "weekday": "Friday",
-      "englishDate": "August 11th 2028",
-      "isoDate": "2028-08-11",
-      "hebrewDate": "19 Av 5788",
+      "weekday": "Tuesday",
+      "englishDate": "September 12th 2028",
+      "isoDate": "2028-09-12",
+      "hebrewDate": "21 Elul 5788",
       "tractate": "כלים",
       "assignment": "17:1-3",
       "sourceFlag": "",
@@ -15992,10 +15992,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-12",
       "row": 1354,
-      "weekday": "Saturday",
-      "englishDate": "August 12th 2028",
-      "isoDate": "2028-08-12",
-      "hebrewDate": "20 Av 5788",
+      "weekday": "Wednesday",
+      "englishDate": "September 13th 2028",
+      "isoDate": "2028-09-13",
+      "hebrewDate": "22 Elul 5788",
       "tractate": "כלים",
       "assignment": "17:4-5",
       "sourceFlag": "",
@@ -16004,10 +16004,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-13",
       "row": 1355,
-      "weekday": "Sunday",
-      "englishDate": "August 13th 2028",
-      "isoDate": "2028-08-13",
-      "hebrewDate": "21 Av 5788",
+      "weekday": "Thursday",
+      "englishDate": "September 14th 2028",
+      "isoDate": "2028-09-14",
+      "hebrewDate": "23 Elul 5788",
       "tractate": "כלים",
       "assignment": "17:6-8",
       "sourceFlag": "",
@@ -16016,10 +16016,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-14",
       "row": 1356,
-      "weekday": "Monday",
-      "englishDate": "August 14th 2028",
-      "isoDate": "2028-08-14",
-      "hebrewDate": "22 Av 5788",
+      "weekday": "Friday",
+      "englishDate": "September 15th 2028",
+      "isoDate": "2028-09-15",
+      "hebrewDate": "24 Elul 5788",
       "tractate": "כלים",
       "assignment": "17:9-10",
       "sourceFlag": "",
@@ -16028,10 +16028,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-15",
       "row": 1357,
-      "weekday": "Tuesday",
-      "englishDate": "August 15th 2028",
-      "isoDate": "2028-08-15",
-      "hebrewDate": "23 Av 5788",
+      "weekday": "Saturday",
+      "englishDate": "September 16th 2028",
+      "isoDate": "2028-09-16",
+      "hebrewDate": "25 Elul 5788",
       "tractate": "כלים",
       "assignment": "17:11-13",
       "sourceFlag": "",
@@ -16040,10 +16040,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-16",
       "row": 1358,
-      "weekday": "Wednesday",
-      "englishDate": "August 16th 2028",
-      "isoDate": "2028-08-16",
-      "hebrewDate": "24 Av 5788",
+      "weekday": "Sunday",
+      "englishDate": "September 17th 2028",
+      "isoDate": "2028-09-17",
+      "hebrewDate": "26 Elul 5788",
       "tractate": "כלים",
       "assignment": "17:14-15",
       "sourceFlag": "",
@@ -16052,10 +16052,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-17",
       "row": 1359,
-      "weekday": "Thursday",
-      "englishDate": "August 17th 2028",
-      "isoDate": "2028-08-17",
-      "hebrewDate": "25 Av 5788",
+      "weekday": "Monday",
+      "englishDate": "September 18th 2028",
+      "isoDate": "2028-09-18",
+      "hebrewDate": "27 Elul 5788",
       "tractate": "כלים",
       "assignment": "17:16-18:1",
       "sourceFlag": "",
@@ -16064,10 +16064,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-18",
       "row": 1360,
-      "weekday": "Friday",
-      "englishDate": "August 18th 2028",
-      "isoDate": "2028-08-18",
-      "hebrewDate": "26 Av 5788",
+      "weekday": "Tuesday",
+      "englishDate": "September 19th 2028",
+      "isoDate": "2028-09-19",
+      "hebrewDate": "28 Elul 5788",
       "tractate": "כלים",
       "assignment": "18:2-3",
       "sourceFlag": "",
@@ -16076,10 +16076,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-19",
       "row": 1361,
-      "weekday": "Saturday",
-      "englishDate": "August 19th 2028",
-      "isoDate": "2028-08-19",
-      "hebrewDate": "27 Av 5788",
+      "weekday": "Wednesday",
+      "englishDate": "September 20th 2028",
+      "isoDate": "2028-09-20",
+      "hebrewDate": "29 Elul 5788",
       "tractate": "כלים",
       "assignment": "18:4-6",
       "sourceFlag": "",
@@ -16088,10 +16088,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-20",
       "row": 1362,
-      "weekday": "Sunday",
-      "englishDate": "August 20th 2028",
-      "isoDate": "2028-08-20",
-      "hebrewDate": "28 Av 5788",
+      "weekday": "Thursday",
+      "englishDate": "September 21st 2028",
+      "isoDate": "2028-09-21",
+      "hebrewDate": "1 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "18:7-8",
       "sourceFlag": "",
@@ -16100,10 +16100,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-21",
       "row": 1363,
-      "weekday": "Monday",
-      "englishDate": "August 21st 2028",
-      "isoDate": "2028-08-21",
-      "hebrewDate": "29 Av 5788",
+      "weekday": "Friday",
+      "englishDate": "September 22nd 2028",
+      "isoDate": "2028-09-22",
+      "hebrewDate": "2 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "18:9-19:2",
       "sourceFlag": "",
@@ -16112,10 +16112,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-22",
       "row": 1364,
-      "weekday": "Tuesday",
-      "englishDate": "August 22nd 2028",
-      "isoDate": "2028-08-22",
-      "hebrewDate": "30 Av 5788",
+      "weekday": "Saturday",
+      "englishDate": "September 23rd 2028",
+      "isoDate": "2028-09-23",
+      "hebrewDate": "3 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "19:3-4",
       "sourceFlag": "",
@@ -16124,10 +16124,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-23",
       "row": 1365,
-      "weekday": "Wednesday",
-      "englishDate": "August 23rd 2028",
-      "isoDate": "2028-08-23",
-      "hebrewDate": "1 Elul 5788",
+      "weekday": "Sunday",
+      "englishDate": "September 24th 2028",
+      "isoDate": "2028-09-24",
+      "hebrewDate": "4 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "19:5-7",
       "sourceFlag": "",
@@ -16136,10 +16136,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-24",
       "row": 1366,
-      "weekday": "Thursday",
-      "englishDate": "August 24th 2028",
-      "isoDate": "2028-08-24",
-      "hebrewDate": "2 Elul 5788",
+      "weekday": "Monday",
+      "englishDate": "September 25th 2028",
+      "isoDate": "2028-09-25",
+      "hebrewDate": "5 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "19:8-9",
       "sourceFlag": "",
@@ -16148,10 +16148,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-25",
       "row": 1367,
-      "weekday": "Friday",
-      "englishDate": "August 25th 2028",
-      "isoDate": "2028-08-25",
-      "hebrewDate": "3 Elul 5788",
+      "weekday": "Tuesday",
+      "englishDate": "September 26th 2028",
+      "isoDate": "2028-09-26",
+      "hebrewDate": "6 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "19:10-20:2",
       "sourceFlag": "",
@@ -16160,10 +16160,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-26",
       "row": 1368,
-      "weekday": "Saturday",
-      "englishDate": "August 26th 2028",
-      "isoDate": "2028-08-26",
-      "hebrewDate": "4 Elul 5788",
+      "weekday": "Wednesday",
+      "englishDate": "September 27th 2028",
+      "isoDate": "2028-09-27",
+      "hebrewDate": "7 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "20:3-4",
       "sourceFlag": "",
@@ -16172,10 +16172,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-27",
       "row": 1369,
-      "weekday": "Sunday",
-      "englishDate": "August 27th 2028",
-      "isoDate": "2028-08-27",
-      "hebrewDate": "5 Elul 5788",
+      "weekday": "Thursday",
+      "englishDate": "September 28th 2028",
+      "isoDate": "2028-09-28",
+      "hebrewDate": "8 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "20:5-7",
       "sourceFlag": "",
@@ -16184,10 +16184,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-28",
       "row": 1370,
-      "weekday": "Monday",
-      "englishDate": "August 28th 2028",
-      "isoDate": "2028-08-28",
-      "hebrewDate": "6 Elul 5788",
+      "weekday": "Friday",
+      "englishDate": "September 29th 2028",
+      "isoDate": "2028-09-29",
+      "hebrewDate": "9 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "21:1-2",
       "sourceFlag": "",
@@ -16196,10 +16196,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-29",
       "row": 1371,
-      "weekday": "Tuesday",
-      "englishDate": "August 29th 2028",
-      "isoDate": "2028-08-29",
-      "hebrewDate": "7 Elul 5788",
+      "weekday": "Saturday",
+      "englishDate": "September 30th 2028",
+      "isoDate": "2028-09-30",
+      "hebrewDate": "10 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "21:3-22:2",
       "sourceFlag": "",
@@ -16208,10 +16208,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-30",
       "row": 1372,
-      "weekday": "Wednesday",
-      "englishDate": "August 30th 2028",
-      "isoDate": "2028-08-30",
-      "hebrewDate": "8 Elul 5788",
+      "weekday": "Sunday",
+      "englishDate": "October 1st 2028",
+      "isoDate": "2028-10-01",
+      "hebrewDate": "11 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "22:3-4",
       "sourceFlag": "",
@@ -16220,10 +16220,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-08-31",
       "row": 1373,
-      "weekday": "Thursday",
-      "englishDate": "August 31st 2028",
-      "isoDate": "2028-08-31",
-      "hebrewDate": "9 Elul 5788",
+      "weekday": "Monday",
+      "englishDate": "October 2nd 2028",
+      "isoDate": "2028-10-02",
+      "hebrewDate": "12 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "22:5-7",
       "sourceFlag": "",
@@ -16232,10 +16232,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-01",
       "row": 1374,
-      "weekday": "Friday",
-      "englishDate": "September 1st 2028",
-      "isoDate": "2028-09-01",
-      "hebrewDate": "10 Elul 5788",
+      "weekday": "Tuesday",
+      "englishDate": "October 3rd 2028",
+      "isoDate": "2028-10-03",
+      "hebrewDate": "13 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "22:8-9",
       "sourceFlag": "",
@@ -16244,10 +16244,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-02",
       "row": 1375,
-      "weekday": "Saturday",
-      "englishDate": "September 2nd 2028",
-      "isoDate": "2028-09-02",
-      "hebrewDate": "11 Elul 5788",
+      "weekday": "Wednesday",
+      "englishDate": "October 4th 2028",
+      "isoDate": "2028-10-04",
+      "hebrewDate": "14 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "22:10-23:2",
       "sourceFlag": "",
@@ -16256,10 +16256,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-03",
       "row": 1376,
-      "weekday": "Sunday",
-      "englishDate": "September 3rd 2028",
-      "isoDate": "2028-09-03",
-      "hebrewDate": "12 Elul 5788",
+      "weekday": "Thursday",
+      "englishDate": "October 5th 2028",
+      "isoDate": "2028-10-05",
+      "hebrewDate": "15 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "23:3-4",
       "sourceFlag": "",
@@ -16268,10 +16268,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-04",
       "row": 1377,
-      "weekday": "Monday",
-      "englishDate": "September 4th 2028",
-      "isoDate": "2028-09-04",
-      "hebrewDate": "13 Elul 5788",
+      "weekday": "Friday",
+      "englishDate": "October 6th 2028",
+      "isoDate": "2028-10-06",
+      "hebrewDate": "16 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "23:5-24:2",
       "sourceFlag": "",
@@ -16280,10 +16280,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-05",
       "row": 1378,
-      "weekday": "Tuesday",
-      "englishDate": "September 5th 2028",
-      "isoDate": "2028-09-05",
-      "hebrewDate": "14 Elul 5788",
+      "weekday": "Saturday",
+      "englishDate": "October 7th 2028",
+      "isoDate": "2028-10-07",
+      "hebrewDate": "17 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "24:3-4",
       "sourceFlag": "",
@@ -16292,10 +16292,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-06",
       "row": 1379,
-      "weekday": "Wednesday",
-      "englishDate": "September 6th 2028",
-      "isoDate": "2028-09-06",
-      "hebrewDate": "15 Elul 5788",
+      "weekday": "Sunday",
+      "englishDate": "October 8th 2028",
+      "isoDate": "2028-10-08",
+      "hebrewDate": "18 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "24:5-6",
       "sourceFlag": "",
@@ -16304,10 +16304,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-07",
       "row": 1380,
-      "weekday": "Thursday",
-      "englishDate": "September 7th 2028",
-      "isoDate": "2028-09-07",
-      "hebrewDate": "16 Elul 5788",
+      "weekday": "Monday",
+      "englishDate": "October 9th 2028",
+      "isoDate": "2028-10-09",
+      "hebrewDate": "19 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "24:7-9",
       "sourceFlag": "",
@@ -16316,10 +16316,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-08",
       "row": 1381,
-      "weekday": "Friday",
-      "englishDate": "September 8th 2028",
-      "isoDate": "2028-09-08",
-      "hebrewDate": "17 Elul 5788",
+      "weekday": "Tuesday",
+      "englishDate": "October 10th 2028",
+      "isoDate": "2028-10-10",
+      "hebrewDate": "20 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "24:10-11",
       "sourceFlag": "",
@@ -16328,10 +16328,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-09",
       "row": 1382,
-      "weekday": "Saturday",
-      "englishDate": "September 9th 2028",
-      "isoDate": "2028-09-09",
-      "hebrewDate": "18 Elul 5788",
+      "weekday": "Wednesday",
+      "englishDate": "October 11th 2028",
+      "isoDate": "2028-10-11",
+      "hebrewDate": "21 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "24:12-14",
       "sourceFlag": "",
@@ -16340,10 +16340,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-10",
       "row": 1383,
-      "weekday": "Sunday",
-      "englishDate": "September 10th 2028",
-      "isoDate": "2028-09-10",
-      "hebrewDate": "19 Elul 5788",
+      "weekday": "Thursday",
+      "englishDate": "October 12th 2028",
+      "isoDate": "2028-10-12",
+      "hebrewDate": "22 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "24:15-16",
       "sourceFlag": "",
@@ -16352,10 +16352,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-11",
       "row": 1384,
-      "weekday": "Monday",
-      "englishDate": "September 11th 2028",
-      "isoDate": "2028-09-11",
-      "hebrewDate": "20 Elul 5788",
+      "weekday": "Friday",
+      "englishDate": "October 13th 2028",
+      "isoDate": "2028-10-13",
+      "hebrewDate": "23 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "24:17-25:2",
       "sourceFlag": "",
@@ -16364,10 +16364,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-12",
       "row": 1385,
-      "weekday": "Tuesday",
-      "englishDate": "September 12th 2028",
-      "isoDate": "2028-09-12",
-      "hebrewDate": "21 Elul 5788",
+      "weekday": "Saturday",
+      "englishDate": "October 14th 2028",
+      "isoDate": "2028-10-14",
+      "hebrewDate": "24 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "25:3-4",
       "sourceFlag": "",
@@ -16376,10 +16376,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-13",
       "row": 1386,
-      "weekday": "Wednesday",
-      "englishDate": "September 13th 2028",
-      "isoDate": "2028-09-13",
-      "hebrewDate": "22 Elul 5788",
+      "weekday": "Sunday",
+      "englishDate": "October 15th 2028",
+      "isoDate": "2028-10-15",
+      "hebrewDate": "25 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "25:5-7",
       "sourceFlag": "",
@@ -16388,10 +16388,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-14",
       "row": 1387,
-      "weekday": "Thursday",
-      "englishDate": "September 14th 2028",
-      "isoDate": "2028-09-14",
-      "hebrewDate": "23 Elul 5788",
+      "weekday": "Monday",
+      "englishDate": "October 16th 2028",
+      "isoDate": "2028-10-16",
+      "hebrewDate": "26 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "25:8-9",
       "sourceFlag": "",
@@ -16400,10 +16400,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-15",
       "row": 1388,
-      "weekday": "Friday",
-      "englishDate": "September 15th 2028",
-      "isoDate": "2028-09-15",
-      "hebrewDate": "24 Elul 5788",
+      "weekday": "Tuesday",
+      "englishDate": "October 17th 2028",
+      "isoDate": "2028-10-17",
+      "hebrewDate": "27 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "26:1-3",
       "sourceFlag": "",
@@ -16412,10 +16412,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-16",
       "row": 1389,
-      "weekday": "Saturday",
-      "englishDate": "September 16th 2028",
-      "isoDate": "2028-09-16",
-      "hebrewDate": "25 Elul 5788",
+      "weekday": "Wednesday",
+      "englishDate": "October 18th 2028",
+      "isoDate": "2028-10-18",
+      "hebrewDate": "28 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "26:4-5",
       "sourceFlag": "",
@@ -16424,10 +16424,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-17",
       "row": 1390,
-      "weekday": "Sunday",
-      "englishDate": "September 17th 2028",
-      "isoDate": "2028-09-17",
-      "hebrewDate": "26 Elul 5788",
+      "weekday": "Thursday",
+      "englishDate": "October 19th 2028",
+      "isoDate": "2028-10-19",
+      "hebrewDate": "29 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "26:6-8",
       "sourceFlag": "",
@@ -16436,10 +16436,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-18",
       "row": 1391,
-      "weekday": "Monday",
-      "englishDate": "September 18th 2028",
-      "isoDate": "2028-09-18",
-      "hebrewDate": "27 Elul 5788",
+      "weekday": "Friday",
+      "englishDate": "October 20th 2028",
+      "isoDate": "2028-10-20",
+      "hebrewDate": "30 Tishrei 5789",
       "tractate": "כלים",
       "assignment": "26:9-27:1",
       "sourceFlag": "",
@@ -16448,10 +16448,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-19",
       "row": 1392,
-      "weekday": "Tuesday",
-      "englishDate": "September 19th 2028",
-      "isoDate": "2028-09-19",
-      "hebrewDate": "28 Elul 5788",
+      "weekday": "Saturday",
+      "englishDate": "October 21st 2028",
+      "isoDate": "2028-10-21",
+      "hebrewDate": "1 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "27:2-4",
       "sourceFlag": "",
@@ -16460,10 +16460,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-20",
       "row": 1393,
-      "weekday": "Wednesday",
-      "englishDate": "September 20th 2028",
-      "isoDate": "2028-09-20",
-      "hebrewDate": "29 Elul 5788",
+      "weekday": "Sunday",
+      "englishDate": "October 22nd 2028",
+      "isoDate": "2028-10-22",
+      "hebrewDate": "2 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "27:5-6",
       "sourceFlag": "",
@@ -16472,10 +16472,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-21",
       "row": 1394,
-      "weekday": "Thursday",
-      "englishDate": "September 21st 2028",
-      "isoDate": "2028-09-21",
-      "hebrewDate": "1 Tishrei 5789",
+      "weekday": "Monday",
+      "englishDate": "October 23rd 2028",
+      "isoDate": "2028-10-23",
+      "hebrewDate": "3 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "27:7-9",
       "sourceFlag": "",
@@ -16484,10 +16484,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-22",
       "row": 1395,
-      "weekday": "Friday",
-      "englishDate": "September 22nd 2028",
-      "isoDate": "2028-09-22",
-      "hebrewDate": "2 Tishrei 5789",
+      "weekday": "Tuesday",
+      "englishDate": "October 24th 2028",
+      "isoDate": "2028-10-24",
+      "hebrewDate": "4 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "27:10-11",
       "sourceFlag": "",
@@ -16496,10 +16496,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-23",
       "row": 1396,
-      "weekday": "Saturday",
-      "englishDate": "September 23rd 2028",
-      "isoDate": "2028-09-23",
-      "hebrewDate": "3 Tishrei 5789",
+      "weekday": "Wednesday",
+      "englishDate": "October 25th 2028",
+      "isoDate": "2028-10-25",
+      "hebrewDate": "5 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "27:12-28:2",
       "sourceFlag": "",
@@ -16508,10 +16508,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-24",
       "row": 1397,
-      "weekday": "Sunday",
-      "englishDate": "September 24th 2028",
-      "isoDate": "2028-09-24",
-      "hebrewDate": "4 Tishrei 5789",
+      "weekday": "Thursday",
+      "englishDate": "October 26th 2028",
+      "isoDate": "2028-10-26",
+      "hebrewDate": "6 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "28:3-4",
       "sourceFlag": "",
@@ -16520,10 +16520,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-25",
       "row": 1398,
-      "weekday": "Monday",
-      "englishDate": "September 25th 2028",
-      "isoDate": "2028-09-25",
-      "hebrewDate": "5 Tishrei 5789",
+      "weekday": "Friday",
+      "englishDate": "October 27th 2028",
+      "isoDate": "2028-10-27",
+      "hebrewDate": "7 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "28:5-7",
       "sourceFlag": "",
@@ -16532,10 +16532,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-26",
       "row": 1399,
-      "weekday": "Tuesday",
-      "englishDate": "September 26th 2028",
-      "isoDate": "2028-09-26",
-      "hebrewDate": "6 Tishrei 5789",
+      "weekday": "Saturday",
+      "englishDate": "October 28th 2028",
+      "isoDate": "2028-10-28",
+      "hebrewDate": "8 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "28:8-9",
       "sourceFlag": "",
@@ -16544,10 +16544,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-27",
       "row": 1400,
-      "weekday": "Wednesday",
-      "englishDate": "September 27th 2028",
-      "isoDate": "2028-09-27",
-      "hebrewDate": "7 Tishrei 5789",
+      "weekday": "Sunday",
+      "englishDate": "October 29th 2028",
+      "isoDate": "2028-10-29",
+      "hebrewDate": "9 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "28:10-29:2",
       "sourceFlag": "",
@@ -16556,10 +16556,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-28",
       "row": 1401,
-      "weekday": "Thursday",
-      "englishDate": "September 28th 2028",
-      "isoDate": "2028-09-28",
-      "hebrewDate": "8 Tishrei 5789",
+      "weekday": "Monday",
+      "englishDate": "October 30th 2028",
+      "isoDate": "2028-10-30",
+      "hebrewDate": "10 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "29:3-4",
       "sourceFlag": "",
@@ -16568,10 +16568,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-29",
       "row": 1402,
-      "weekday": "Friday",
-      "englishDate": "September 29th 2028",
-      "isoDate": "2028-09-29",
-      "hebrewDate": "9 Tishrei 5789",
+      "weekday": "Tuesday",
+      "englishDate": "October 31st 2028",
+      "isoDate": "2028-10-31",
+      "hebrewDate": "11 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "29:5-7",
       "sourceFlag": "",
@@ -16580,10 +16580,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-09-30",
       "row": 1403,
-      "weekday": "Saturday",
-      "englishDate": "September 30th 2028",
-      "isoDate": "2028-09-30",
-      "hebrewDate": "10 Tishrei 5789",
+      "weekday": "Wednesday",
+      "englishDate": "November 1st 2028",
+      "isoDate": "2028-11-01",
+      "hebrewDate": "12 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "29:8-30:1",
       "sourceFlag": "",
@@ -16592,10 +16592,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-01",
       "row": 1404,
-      "weekday": "Sunday",
-      "englishDate": "October 1st 2028",
-      "isoDate": "2028-10-01",
-      "hebrewDate": "11 Tishrei 5789",
+      "weekday": "Thursday",
+      "englishDate": "November 2nd 2028",
+      "isoDate": "2028-11-02",
+      "hebrewDate": "13 Cheshvan 5789",
       "tractate": "כלים",
       "assignment": "30:2-4",
       "sourceFlag": "",
@@ -16604,10 +16604,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-02",
       "row": 1405,
-      "weekday": "Monday",
-      "englishDate": "October 2nd 2028",
-      "isoDate": "2028-10-02",
-      "hebrewDate": "12 Tishrei 5789",
+      "weekday": "Friday",
+      "englishDate": "November 3rd 2028",
+      "isoDate": "2028-11-03",
+      "hebrewDate": "14 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -16616,10 +16616,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-03",
       "row": 1406,
-      "weekday": "Tuesday",
-      "englishDate": "October 3rd 2028",
-      "isoDate": "2028-10-03",
-      "hebrewDate": "13 Tishrei 5789",
+      "weekday": "Saturday",
+      "englishDate": "November 4th 2028",
+      "isoDate": "2028-11-04",
+      "hebrewDate": "15 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "1:3-5",
       "sourceFlag": "",
@@ -16628,10 +16628,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-04",
       "row": 1407,
-      "weekday": "Wednesday",
-      "englishDate": "October 4th 2028",
-      "isoDate": "2028-10-04",
-      "hebrewDate": "14 Tishrei 5789",
+      "weekday": "Sunday",
+      "englishDate": "November 5th 2028",
+      "isoDate": "2028-11-05",
+      "hebrewDate": "16 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "1:6-7",
       "sourceFlag": "",
@@ -16640,10 +16640,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-05",
       "row": 1408,
-      "weekday": "Thursday",
-      "englishDate": "October 5th 2028",
-      "isoDate": "2028-10-05",
-      "hebrewDate": "15 Tishrei 5789",
+      "weekday": "Monday",
+      "englishDate": "November 6th 2028",
+      "isoDate": "2028-11-06",
+      "hebrewDate": "17 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "1:8-2:2",
       "sourceFlag": "",
@@ -16652,10 +16652,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-06",
       "row": 1409,
-      "weekday": "Friday",
-      "englishDate": "October 6th 2028",
-      "isoDate": "2028-10-06",
-      "hebrewDate": "16 Tishrei 5789",
+      "weekday": "Tuesday",
+      "englishDate": "November 7th 2028",
+      "isoDate": "2028-11-07",
+      "hebrewDate": "18 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "2:3-4",
       "sourceFlag": "",
@@ -16664,10 +16664,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-07",
       "row": 1410,
-      "weekday": "Saturday",
-      "englishDate": "October 7th 2028",
-      "isoDate": "2028-10-07",
-      "hebrewDate": "17 Tishrei 5789",
+      "weekday": "Wednesday",
+      "englishDate": "November 8th 2028",
+      "isoDate": "2028-11-08",
+      "hebrewDate": "19 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "2:5-7",
       "sourceFlag": "",
@@ -16676,10 +16676,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-08",
       "row": 1411,
-      "weekday": "Sunday",
-      "englishDate": "October 8th 2028",
-      "isoDate": "2028-10-08",
-      "hebrewDate": "18 Tishrei 5789",
+      "weekday": "Thursday",
+      "englishDate": "November 9th 2028",
+      "isoDate": "2028-11-09",
+      "hebrewDate": "20 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "3:1-2",
       "sourceFlag": "",
@@ -16688,10 +16688,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-09",
       "row": 1412,
-      "weekday": "Monday",
-      "englishDate": "October 9th 2028",
-      "isoDate": "2028-10-09",
-      "hebrewDate": "19 Tishrei 5789",
+      "weekday": "Friday",
+      "englishDate": "November 10th 2028",
+      "isoDate": "2028-11-10",
+      "hebrewDate": "21 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "3:3-5",
       "sourceFlag": "",
@@ -16700,10 +16700,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-10",
       "row": 1413,
-      "weekday": "Tuesday",
-      "englishDate": "October 10th 2028",
-      "isoDate": "2028-10-10",
-      "hebrewDate": "20 Tishrei 5789",
+      "weekday": "Saturday",
+      "englishDate": "November 11th 2028",
+      "isoDate": "2028-11-11",
+      "hebrewDate": "22 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "3:6-7",
       "sourceFlag": "",
@@ -16712,10 +16712,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-11",
       "row": 1414,
-      "weekday": "Wednesday",
-      "englishDate": "October 11th 2028",
-      "isoDate": "2028-10-11",
-      "hebrewDate": "21 Tishrei 5789",
+      "weekday": "Sunday",
+      "englishDate": "November 12th 2028",
+      "isoDate": "2028-11-12",
+      "hebrewDate": "23 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "4:1-3",
       "sourceFlag": "",
@@ -16724,10 +16724,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-12",
       "row": 1415,
-      "weekday": "Thursday",
-      "englishDate": "October 12th 2028",
-      "isoDate": "2028-10-12",
-      "hebrewDate": "22 Tishrei 5789",
+      "weekday": "Monday",
+      "englishDate": "November 13th 2028",
+      "isoDate": "2028-11-13",
+      "hebrewDate": "24 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "5:1-2",
       "sourceFlag": "",
@@ -16736,10 +16736,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-13",
       "row": 1416,
-      "weekday": "Friday",
-      "englishDate": "October 13th 2028",
-      "isoDate": "2028-10-13",
-      "hebrewDate": "23 Tishrei 5789",
+      "weekday": "Tuesday",
+      "englishDate": "November 14th 2028",
+      "isoDate": "2028-11-14",
+      "hebrewDate": "25 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "5:3-5",
       "sourceFlag": "",
@@ -16748,10 +16748,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-14",
       "row": 1417,
-      "weekday": "Saturday",
-      "englishDate": "October 14th 2028",
-      "isoDate": "2028-10-14",
-      "hebrewDate": "24 Tishrei 5789",
+      "weekday": "Wednesday",
+      "englishDate": "November 15th 2028",
+      "isoDate": "2028-11-15",
+      "hebrewDate": "26 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "5:6-7",
       "sourceFlag": "",
@@ -16760,10 +16760,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-15",
       "row": 1418,
-      "weekday": "Sunday",
-      "englishDate": "October 15th 2028",
-      "isoDate": "2028-10-15",
-      "hebrewDate": "25 Tishrei 5789",
+      "weekday": "Thursday",
+      "englishDate": "November 16th 2028",
+      "isoDate": "2028-11-16",
+      "hebrewDate": "27 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "6:1-3",
       "sourceFlag": "",
@@ -16772,10 +16772,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-16",
       "row": 1419,
-      "weekday": "Monday",
-      "englishDate": "October 16th 2028",
-      "isoDate": "2028-10-16",
-      "hebrewDate": "26 Tishrei 5789",
+      "weekday": "Friday",
+      "englishDate": "November 17th 2028",
+      "isoDate": "2028-11-17",
+      "hebrewDate": "28 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "6:4-5",
       "sourceFlag": "",
@@ -16784,10 +16784,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-17",
       "row": 1420,
-      "weekday": "Tuesday",
-      "englishDate": "October 17th 2028",
-      "isoDate": "2028-10-17",
-      "hebrewDate": "27 Tishrei 5789",
+      "weekday": "Saturday",
+      "englishDate": "November 18th 2028",
+      "isoDate": "2028-11-18",
+      "hebrewDate": "29 Cheshvan 5789",
       "tractate": "אהלות",
       "assignment": "6:6-7:1",
       "sourceFlag": "",
@@ -16796,10 +16796,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-18",
       "row": 1421,
-      "weekday": "Wednesday",
-      "englishDate": "October 18th 2028",
-      "isoDate": "2028-10-18",
-      "hebrewDate": "28 Tishrei 5789",
+      "weekday": "Sunday",
+      "englishDate": "November 19th 2028",
+      "isoDate": "2028-11-19",
+      "hebrewDate": "1 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "7:2-3",
       "sourceFlag": "",
@@ -16808,10 +16808,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-19",
       "row": 1422,
-      "weekday": "Thursday",
-      "englishDate": "October 19th 2028",
-      "isoDate": "2028-10-19",
-      "hebrewDate": "29 Tishrei 5789",
+      "weekday": "Monday",
+      "englishDate": "November 20th 2028",
+      "isoDate": "2028-11-20",
+      "hebrewDate": "2 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "7:4-6",
       "sourceFlag": "",
@@ -16820,10 +16820,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-20",
       "row": 1423,
-      "weekday": "Friday",
-      "englishDate": "October 20th 2028",
-      "isoDate": "2028-10-20",
-      "hebrewDate": "30 Tishrei 5789",
+      "weekday": "Tuesday",
+      "englishDate": "November 21st 2028",
+      "isoDate": "2028-11-21",
+      "hebrewDate": "3 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "8:1-2",
       "sourceFlag": "",
@@ -16832,10 +16832,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-21",
       "row": 1424,
-      "weekday": "Saturday",
-      "englishDate": "October 21st 2028",
-      "isoDate": "2028-10-21",
-      "hebrewDate": "1 Cheshvan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "November 22nd 2028",
+      "isoDate": "2028-11-22",
+      "hebrewDate": "4 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "8:3-5",
       "sourceFlag": "",
@@ -16844,10 +16844,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-22",
       "row": 1425,
-      "weekday": "Sunday",
-      "englishDate": "October 22nd 2028",
-      "isoDate": "2028-10-22",
-      "hebrewDate": "2 Cheshvan 5789",
+      "weekday": "Thursday",
+      "englishDate": "November 23rd 2028",
+      "isoDate": "2028-11-23",
+      "hebrewDate": "5 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "8:6-9:1",
       "sourceFlag": "",
@@ -16856,10 +16856,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-23",
       "row": 1426,
-      "weekday": "Monday",
-      "englishDate": "October 23rd 2028",
-      "isoDate": "2028-10-23",
-      "hebrewDate": "3 Cheshvan 5789",
+      "weekday": "Friday",
+      "englishDate": "November 24th 2028",
+      "isoDate": "2028-11-24",
+      "hebrewDate": "6 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "9:2-3",
       "sourceFlag": "",
@@ -16868,10 +16868,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-24",
       "row": 1427,
-      "weekday": "Tuesday",
-      "englishDate": "October 24th 2028",
-      "isoDate": "2028-10-24",
-      "hebrewDate": "4 Cheshvan 5789",
+      "weekday": "Saturday",
+      "englishDate": "November 25th 2028",
+      "isoDate": "2028-11-25",
+      "hebrewDate": "7 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "9:4-6",
       "sourceFlag": "",
@@ -16880,10 +16880,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-25",
       "row": 1428,
-      "weekday": "Wednesday",
-      "englishDate": "October 25th 2028",
-      "isoDate": "2028-10-25",
-      "hebrewDate": "5 Cheshvan 5789",
+      "weekday": "Sunday",
+      "englishDate": "November 26th 2028",
+      "isoDate": "2028-11-26",
+      "hebrewDate": "8 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "9:7-8",
       "sourceFlag": "",
@@ -16892,10 +16892,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-26",
       "row": 1429,
-      "weekday": "Thursday",
-      "englishDate": "October 26th 2028",
-      "isoDate": "2028-10-26",
-      "hebrewDate": "6 Cheshvan 5789",
+      "weekday": "Monday",
+      "englishDate": "November 27th 2028",
+      "isoDate": "2028-11-27",
+      "hebrewDate": "9 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "9:9-11",
       "sourceFlag": "",
@@ -16904,10 +16904,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-27",
       "row": 1430,
-      "weekday": "Friday",
-      "englishDate": "October 27th 2028",
-      "isoDate": "2028-10-27",
-      "hebrewDate": "7 Cheshvan 5789",
+      "weekday": "Tuesday",
+      "englishDate": "November 28th 2028",
+      "isoDate": "2028-11-28",
+      "hebrewDate": "10 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "9:12-13",
       "sourceFlag": "",
@@ -16916,10 +16916,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-28",
       "row": 1431,
-      "weekday": "Saturday",
-      "englishDate": "October 28th 2028",
-      "isoDate": "2028-10-28",
-      "hebrewDate": "8 Cheshvan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "November 29th 2028",
+      "isoDate": "2028-11-29",
+      "hebrewDate": "11 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "9:14-16",
       "sourceFlag": "",
@@ -16928,10 +16928,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-29",
       "row": 1432,
-      "weekday": "Sunday",
-      "englishDate": "October 29th 2028",
-      "isoDate": "2028-10-29",
-      "hebrewDate": "9 Cheshvan 5789",
+      "weekday": "Thursday",
+      "englishDate": "November 30th 2028",
+      "isoDate": "2028-11-30",
+      "hebrewDate": "12 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "10:1-2",
       "sourceFlag": "",
@@ -16940,10 +16940,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-30",
       "row": 1433,
-      "weekday": "Monday",
-      "englishDate": "October 30th 2028",
-      "isoDate": "2028-10-30",
-      "hebrewDate": "10 Cheshvan 5789",
+      "weekday": "Friday",
+      "englishDate": "December 1st 2028",
+      "isoDate": "2028-12-01",
+      "hebrewDate": "13 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "10:3-5",
       "sourceFlag": "",
@@ -16952,10 +16952,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-10-31",
       "row": 1434,
-      "weekday": "Tuesday",
-      "englishDate": "October 31st 2028",
-      "isoDate": "2028-10-31",
-      "hebrewDate": "11 Cheshvan 5789",
+      "weekday": "Saturday",
+      "englishDate": "December 2nd 2028",
+      "isoDate": "2028-12-02",
+      "hebrewDate": "14 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "10:6-7",
       "sourceFlag": "",
@@ -16964,10 +16964,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-01",
       "row": 1435,
-      "weekday": "Wednesday",
-      "englishDate": "November 1st 2028",
-      "isoDate": "2028-11-01",
-      "hebrewDate": "12 Cheshvan 5789",
+      "weekday": "Sunday",
+      "englishDate": "December 3rd 2028",
+      "isoDate": "2028-12-03",
+      "hebrewDate": "15 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "11:1-3",
       "sourceFlag": "",
@@ -16976,10 +16976,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-02",
       "row": 1436,
-      "weekday": "Thursday",
-      "englishDate": "November 2nd 2028",
-      "isoDate": "2028-11-02",
-      "hebrewDate": "13 Cheshvan 5789",
+      "weekday": "Monday",
+      "englishDate": "December 4th 2028",
+      "isoDate": "2028-12-04",
+      "hebrewDate": "16 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "11:4-5",
       "sourceFlag": "",
@@ -16988,10 +16988,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-03",
       "row": 1437,
-      "weekday": "Friday",
-      "englishDate": "November 3rd 2028",
-      "isoDate": "2028-11-03",
-      "hebrewDate": "14 Cheshvan 5789",
+      "weekday": "Tuesday",
+      "englishDate": "December 5th 2028",
+      "isoDate": "2028-12-05",
+      "hebrewDate": "17 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "11:6-8",
       "sourceFlag": "",
@@ -17000,10 +17000,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-04",
       "row": 1438,
-      "weekday": "Saturday",
-      "englishDate": "November 4th 2028",
-      "isoDate": "2028-11-04",
-      "hebrewDate": "15 Cheshvan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "December 6th 2028",
+      "isoDate": "2028-12-06",
+      "hebrewDate": "18 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "11:9-12:1",
       "sourceFlag": "",
@@ -17012,10 +17012,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-05",
       "row": 1439,
-      "weekday": "Sunday",
-      "englishDate": "November 5th 2028",
-      "isoDate": "2028-11-05",
-      "hebrewDate": "16 Cheshvan 5789",
+      "weekday": "Thursday",
+      "englishDate": "December 7th 2028",
+      "isoDate": "2028-12-07",
+      "hebrewDate": "19 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "12:2-4",
       "sourceFlag": "",
@@ -17024,10 +17024,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-06",
       "row": 1440,
-      "weekday": "Monday",
-      "englishDate": "November 6th 2028",
-      "isoDate": "2028-11-06",
-      "hebrewDate": "17 Cheshvan 5789",
+      "weekday": "Friday",
+      "englishDate": "December 8th 2028",
+      "isoDate": "2028-12-08",
+      "hebrewDate": "20 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "12:5-6",
       "sourceFlag": "",
@@ -17036,10 +17036,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-07",
       "row": 1441,
-      "weekday": "Tuesday",
-      "englishDate": "November 7th 2028",
-      "isoDate": "2028-11-07",
-      "hebrewDate": "18 Cheshvan 5789",
+      "weekday": "Saturday",
+      "englishDate": "December 9th 2028",
+      "isoDate": "2028-12-09",
+      "hebrewDate": "21 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "12:7-13:1",
       "sourceFlag": "",
@@ -17048,10 +17048,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-08",
       "row": 1442,
-      "weekday": "Wednesday",
-      "englishDate": "November 8th 2028",
-      "isoDate": "2028-11-08",
-      "hebrewDate": "19 Cheshvan 5789",
+      "weekday": "Sunday",
+      "englishDate": "December 10th 2028",
+      "isoDate": "2028-12-10",
+      "hebrewDate": "22 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "13:2-3",
       "sourceFlag": "",
@@ -17060,10 +17060,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-09",
       "row": 1443,
-      "weekday": "Thursday",
-      "englishDate": "November 9th 2028",
-      "isoDate": "2028-11-09",
-      "hebrewDate": "20 Cheshvan 5789",
+      "weekday": "Monday",
+      "englishDate": "December 11th 2028",
+      "isoDate": "2028-12-11",
+      "hebrewDate": "23 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "13:4-6",
       "sourceFlag": "",
@@ -17072,10 +17072,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-10",
       "row": 1444,
-      "weekday": "Friday",
-      "englishDate": "November 10th 2028",
-      "isoDate": "2028-11-10",
-      "hebrewDate": "21 Cheshvan 5789",
+      "weekday": "Tuesday",
+      "englishDate": "December 12th 2028",
+      "isoDate": "2028-12-12",
+      "hebrewDate": "24 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "14:1-2",
       "sourceFlag": "",
@@ -17084,10 +17084,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-11",
       "row": 1445,
-      "weekday": "Saturday",
-      "englishDate": "November 11th 2028",
-      "isoDate": "2028-11-11",
-      "hebrewDate": "22 Cheshvan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "December 13th 2028",
+      "isoDate": "2028-12-13",
+      "hebrewDate": "25 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "14:3-5",
       "sourceFlag": "",
@@ -17096,10 +17096,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-12",
       "row": 1446,
-      "weekday": "Sunday",
-      "englishDate": "November 12th 2028",
-      "isoDate": "2028-11-12",
-      "hebrewDate": "23 Cheshvan 5789",
+      "weekday": "Thursday",
+      "englishDate": "December 14th 2028",
+      "isoDate": "2028-12-14",
+      "hebrewDate": "26 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "14:6-7",
       "sourceFlag": "",
@@ -17108,10 +17108,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-13",
       "row": 1447,
-      "weekday": "Monday",
-      "englishDate": "November 13th 2028",
-      "isoDate": "2028-11-13",
-      "hebrewDate": "24 Cheshvan 5789",
+      "weekday": "Friday",
+      "englishDate": "December 15th 2028",
+      "isoDate": "2028-12-15",
+      "hebrewDate": "27 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "15:1-3",
       "sourceFlag": "",
@@ -17120,10 +17120,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-14",
       "row": 1448,
-      "weekday": "Tuesday",
-      "englishDate": "November 14th 2028",
-      "isoDate": "2028-11-14",
-      "hebrewDate": "25 Cheshvan 5789",
+      "weekday": "Saturday",
+      "englishDate": "December 16th 2028",
+      "isoDate": "2028-12-16",
+      "hebrewDate": "28 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "15:4-5",
       "sourceFlag": "",
@@ -17132,10 +17132,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-15",
       "row": 1449,
-      "weekday": "Wednesday",
-      "englishDate": "November 15th 2028",
-      "isoDate": "2028-11-15",
-      "hebrewDate": "26 Cheshvan 5789",
+      "weekday": "Sunday",
+      "englishDate": "December 17th 2028",
+      "isoDate": "2028-12-17",
+      "hebrewDate": "29 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "15:6-8",
       "sourceFlag": "",
@@ -17144,10 +17144,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-16",
       "row": 1450,
-      "weekday": "Thursday",
-      "englishDate": "November 16th 2028",
-      "isoDate": "2028-11-16",
-      "hebrewDate": "27 Cheshvan 5789",
+      "weekday": "Monday",
+      "englishDate": "December 18th 2028",
+      "isoDate": "2028-12-18",
+      "hebrewDate": "30 Kislev 5789",
       "tractate": "אהלות",
       "assignment": "15:9-10",
       "sourceFlag": "",
@@ -17156,10 +17156,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-17",
       "row": 1451,
-      "weekday": "Friday",
-      "englishDate": "November 17th 2028",
-      "isoDate": "2028-11-17",
-      "hebrewDate": "28 Cheshvan 5789",
+      "weekday": "Tuesday",
+      "englishDate": "December 19th 2028",
+      "isoDate": "2028-12-19",
+      "hebrewDate": "1 Teves 5789",
       "tractate": "אהלות",
       "assignment": "16:1-3",
       "sourceFlag": "",
@@ -17168,10 +17168,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-18",
       "row": 1452,
-      "weekday": "Saturday",
-      "englishDate": "November 18th 2028",
-      "isoDate": "2028-11-18",
-      "hebrewDate": "29 Cheshvan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "December 20th 2028",
+      "isoDate": "2028-12-20",
+      "hebrewDate": "2 Teves 5789",
       "tractate": "אהלות",
       "assignment": "16:4-5",
       "sourceFlag": "",
@@ -17180,10 +17180,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-19",
       "row": 1453,
-      "weekday": "Sunday",
-      "englishDate": "November 19th 2028",
-      "isoDate": "2028-11-19",
-      "hebrewDate": "1 Kislev 5789",
+      "weekday": "Thursday",
+      "englishDate": "December 21st 2028",
+      "isoDate": "2028-12-21",
+      "hebrewDate": "3 Teves 5789",
       "tractate": "אהלות",
       "assignment": "17:1-3",
       "sourceFlag": "",
@@ -17192,10 +17192,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-20",
       "row": 1454,
-      "weekday": "Monday",
-      "englishDate": "November 20th 2028",
-      "isoDate": "2028-11-20",
-      "hebrewDate": "2 Kislev 5789",
+      "weekday": "Friday",
+      "englishDate": "December 22nd 2028",
+      "isoDate": "2028-12-22",
+      "hebrewDate": "4 Teves 5789",
       "tractate": "אהלות",
       "assignment": "17:4-5",
       "sourceFlag": "",
@@ -17204,10 +17204,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-21",
       "row": 1455,
-      "weekday": "Tuesday",
-      "englishDate": "November 21st 2028",
-      "isoDate": "2028-11-21",
-      "hebrewDate": "3 Kislev 5789",
+      "weekday": "Saturday",
+      "englishDate": "December 23rd 2028",
+      "isoDate": "2028-12-23",
+      "hebrewDate": "5 Teves 5789",
       "tractate": "אהלות",
       "assignment": "18:1-3",
       "sourceFlag": "",
@@ -17216,10 +17216,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-22",
       "row": 1456,
-      "weekday": "Wednesday",
-      "englishDate": "November 22nd 2028",
-      "isoDate": "2028-11-22",
-      "hebrewDate": "4 Kislev 5789",
+      "weekday": "Sunday",
+      "englishDate": "December 24th 2028",
+      "isoDate": "2028-12-24",
+      "hebrewDate": "6 Teves 5789",
       "tractate": "אהלות",
       "assignment": "18:4-5",
       "sourceFlag": "",
@@ -17228,10 +17228,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-23",
       "row": 1457,
-      "weekday": "Thursday",
-      "englishDate": "November 23rd 2028",
-      "isoDate": "2028-11-23",
-      "hebrewDate": "5 Kislev 5789",
+      "weekday": "Monday",
+      "englishDate": "December 25th 2028",
+      "isoDate": "2028-12-25",
+      "hebrewDate": "7 Teves 5789",
       "tractate": "אהלות",
       "assignment": "18:6-8",
       "sourceFlag": "",
@@ -17240,10 +17240,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-24",
       "row": 1458,
-      "weekday": "Friday",
-      "englishDate": "November 24th 2028",
-      "isoDate": "2028-11-24",
-      "hebrewDate": "6 Kislev 5789",
+      "weekday": "Tuesday",
+      "englishDate": "December 26th 2028",
+      "isoDate": "2028-12-26",
+      "hebrewDate": "8 Teves 5789",
       "tractate": "אהלות",
       "assignment": "18:9-10",
       "sourceFlag": "",
@@ -17252,10 +17252,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-25",
       "row": 1459,
-      "weekday": "Saturday",
-      "englishDate": "November 25th 2028",
-      "isoDate": "2028-11-25",
-      "hebrewDate": "7 Kislev 5789",
+      "weekday": "Wednesday",
+      "englishDate": "December 27th 2028",
+      "isoDate": "2028-12-27",
+      "hebrewDate": "9 Teves 5789",
       "tractate": "נגעים",
       "assignment": "1:1-3",
       "sourceFlag": "",
@@ -17264,10 +17264,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-26",
       "row": 1460,
-      "weekday": "Sunday",
-      "englishDate": "November 26th 2028",
-      "isoDate": "2028-11-26",
-      "hebrewDate": "8 Kislev 5789",
+      "weekday": "Thursday",
+      "englishDate": "December 28th 2028",
+      "isoDate": "2028-12-28",
+      "hebrewDate": "10 Teves 5789",
       "tractate": "נגעים",
       "assignment": "1:4-5",
       "sourceFlag": "",
@@ -17276,10 +17276,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-27",
       "row": 1461,
-      "weekday": "Monday",
-      "englishDate": "November 27th 2028",
-      "isoDate": "2028-11-27",
-      "hebrewDate": "9 Kislev 5789",
+      "weekday": "Friday",
+      "englishDate": "December 29th 2028",
+      "isoDate": "2028-12-29",
+      "hebrewDate": "11 Teves 5789",
       "tractate": "נגעים",
       "assignment": "1:6-2:2",
       "sourceFlag": "",
@@ -17288,10 +17288,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-28",
       "row": 1462,
-      "weekday": "Tuesday",
-      "englishDate": "November 28th 2028",
-      "isoDate": "2028-11-28",
-      "hebrewDate": "10 Kislev 5789",
+      "weekday": "Saturday",
+      "englishDate": "December 30th 2028",
+      "isoDate": "2028-12-30",
+      "hebrewDate": "12 Teves 5789",
       "tractate": "נגעים",
       "assignment": "2:3-4",
       "sourceFlag": "",
@@ -17300,10 +17300,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-29",
       "row": 1463,
-      "weekday": "Wednesday",
-      "englishDate": "November 29th 2028",
-      "isoDate": "2028-11-29",
-      "hebrewDate": "11 Kislev 5789",
+      "weekday": "Sunday",
+      "englishDate": "December 31st 2028",
+      "isoDate": "2028-12-31",
+      "hebrewDate": "13 Teves 5789",
       "tractate": "נגעים",
       "assignment": "2:5-3:2",
       "sourceFlag": "",
@@ -17312,10 +17312,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-11-30",
       "row": 1464,
-      "weekday": "Thursday",
-      "englishDate": "November 30th 2028",
-      "isoDate": "2028-11-30",
-      "hebrewDate": "12 Kislev 5789",
+      "weekday": "Monday",
+      "englishDate": "January 1st 2029",
+      "isoDate": "2029-01-01",
+      "hebrewDate": "14 Teves 5789",
       "tractate": "נגעים",
       "assignment": "3:3-4",
       "sourceFlag": "",
@@ -17324,10 +17324,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-01",
       "row": 1465,
-      "weekday": "Friday",
-      "englishDate": "December 1st 2028",
-      "isoDate": "2028-12-01",
-      "hebrewDate": "13 Kislev 5789",
+      "weekday": "Tuesday",
+      "englishDate": "January 2nd 2029",
+      "isoDate": "2029-01-02",
+      "hebrewDate": "15 Teves 5789",
       "tractate": "נגעים",
       "assignment": "3:5-7",
       "sourceFlag": "",
@@ -17336,10 +17336,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-02",
       "row": 1466,
-      "weekday": "Saturday",
-      "englishDate": "December 2nd 2028",
-      "isoDate": "2028-12-02",
-      "hebrewDate": "14 Kislev 5789",
+      "weekday": "Wednesday",
+      "englishDate": "January 3rd 2029",
+      "isoDate": "2029-01-03",
+      "hebrewDate": "16 Teves 5789",
       "tractate": "נגעים",
       "assignment": "3:8-4:1",
       "sourceFlag": "",
@@ -17348,10 +17348,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-03",
       "row": 1467,
-      "weekday": "Sunday",
-      "englishDate": "December 3rd 2028",
-      "isoDate": "2028-12-03",
-      "hebrewDate": "15 Kislev 5789",
+      "weekday": "Thursday",
+      "englishDate": "January 4th 2029",
+      "isoDate": "2029-01-04",
+      "hebrewDate": "17 Teves 5789",
       "tractate": "נגעים",
       "assignment": "4:2-4",
       "sourceFlag": "",
@@ -17360,10 +17360,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-04",
       "row": 1468,
-      "weekday": "Monday",
-      "englishDate": "December 4th 2028",
-      "isoDate": "2028-12-04",
-      "hebrewDate": "16 Kislev 5789",
+      "weekday": "Friday",
+      "englishDate": "January 5th 2029",
+      "isoDate": "2029-01-05",
+      "hebrewDate": "18 Teves 5789",
       "tractate": "נגעים",
       "assignment": "4:5-6",
       "sourceFlag": "",
@@ -17372,10 +17372,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-05",
       "row": 1469,
-      "weekday": "Tuesday",
-      "englishDate": "December 5th 2028",
-      "isoDate": "2028-12-05",
-      "hebrewDate": "17 Kislev 5789",
+      "weekday": "Saturday",
+      "englishDate": "January 6th 2029",
+      "isoDate": "2029-01-06",
+      "hebrewDate": "19 Teves 5789",
       "tractate": "נגעים",
       "assignment": "4:7-9",
       "sourceFlag": "",
@@ -17384,10 +17384,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-06",
       "row": 1470,
-      "weekday": "Wednesday",
-      "englishDate": "December 6th 2028",
-      "isoDate": "2028-12-06",
-      "hebrewDate": "18 Kislev 5789",
+      "weekday": "Sunday",
+      "englishDate": "January 7th 2029",
+      "isoDate": "2029-01-07",
+      "hebrewDate": "20 Teves 5789",
       "tractate": "נגעים",
       "assignment": "4:10-11",
       "sourceFlag": "",
@@ -17396,10 +17396,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-07",
       "row": 1471,
-      "weekday": "Thursday",
-      "englishDate": "December 7th 2028",
-      "isoDate": "2028-12-07",
-      "hebrewDate": "19 Kislev 5789",
+      "weekday": "Monday",
+      "englishDate": "January 8th 2029",
+      "isoDate": "2029-01-08",
+      "hebrewDate": "21 Teves 5789",
       "tractate": "נגעים",
       "assignment": "5:1-3",
       "sourceFlag": "",
@@ -17408,10 +17408,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-08",
       "row": 1472,
-      "weekday": "Friday",
-      "englishDate": "December 8th 2028",
-      "isoDate": "2028-12-08",
-      "hebrewDate": "20 Kislev 5789",
+      "weekday": "Tuesday",
+      "englishDate": "January 9th 2029",
+      "isoDate": "2029-01-09",
+      "hebrewDate": "22 Teves 5789",
       "tractate": "נגעים",
       "assignment": "5:4-5",
       "sourceFlag": "",
@@ -17420,10 +17420,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-09",
       "row": 1473,
-      "weekday": "Saturday",
-      "englishDate": "December 9th 2028",
-      "isoDate": "2028-12-09",
-      "hebrewDate": "21 Kislev 5789",
+      "weekday": "Wednesday",
+      "englishDate": "January 10th 2029",
+      "isoDate": "2029-01-10",
+      "hebrewDate": "23 Teves 5789",
       "tractate": "נגעים",
       "assignment": "6:1-2",
       "sourceFlag": "",
@@ -17432,10 +17432,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-10",
       "row": 1474,
-      "weekday": "Sunday",
-      "englishDate": "December 10th 2028",
-      "isoDate": "2028-12-10",
-      "hebrewDate": "22 Kislev 5789",
+      "weekday": "Thursday",
+      "englishDate": "January 11th 2029",
+      "isoDate": "2029-01-11",
+      "hebrewDate": "24 Teves 5789",
       "tractate": "נגעים",
       "assignment": "6:3-5",
       "sourceFlag": "",
@@ -17444,10 +17444,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-11",
       "row": 1475,
-      "weekday": "Monday",
-      "englishDate": "December 11th 2028",
-      "isoDate": "2028-12-11",
-      "hebrewDate": "23 Kislev 5789",
+      "weekday": "Friday",
+      "englishDate": "January 12th 2029",
+      "isoDate": "2029-01-12",
+      "hebrewDate": "25 Teves 5789",
       "tractate": "נגעים",
       "assignment": "6:6-7",
       "sourceFlag": "",
@@ -17456,10 +17456,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-12",
       "row": 1476,
-      "weekday": "Tuesday",
-      "englishDate": "December 12th 2028",
-      "isoDate": "2028-12-12",
-      "hebrewDate": "24 Kislev 5789",
+      "weekday": "Saturday",
+      "englishDate": "January 13th 2029",
+      "isoDate": "2029-01-13",
+      "hebrewDate": "26 Teves 5789",
       "tractate": "נגעים",
       "assignment": "6:8-7:2",
       "sourceFlag": "",
@@ -17468,10 +17468,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-13",
       "row": 1477,
-      "weekday": "Wednesday",
-      "englishDate": "December 13th 2028",
-      "isoDate": "2028-12-13",
-      "hebrewDate": "25 Kislev 5789",
+      "weekday": "Sunday",
+      "englishDate": "January 14th 2029",
+      "isoDate": "2029-01-14",
+      "hebrewDate": "27 Teves 5789",
       "tractate": "נגעים",
       "assignment": "7:3-4",
       "sourceFlag": "",
@@ -17480,10 +17480,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-14",
       "row": 1478,
-      "weekday": "Thursday",
-      "englishDate": "December 14th 2028",
-      "isoDate": "2028-12-14",
-      "hebrewDate": "26 Kislev 5789",
+      "weekday": "Monday",
+      "englishDate": "January 15th 2029",
+      "isoDate": "2029-01-15",
+      "hebrewDate": "28 Teves 5789",
       "tractate": "נגעים",
       "assignment": "7:5-8:2",
       "sourceFlag": "",
@@ -17492,10 +17492,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-15",
       "row": 1479,
-      "weekday": "Friday",
-      "englishDate": "December 15th 2028",
-      "isoDate": "2028-12-15",
-      "hebrewDate": "27 Kislev 5789",
+      "weekday": "Tuesday",
+      "englishDate": "January 16th 2029",
+      "isoDate": "2029-01-16",
+      "hebrewDate": "29 Teves 5789",
       "tractate": "נגעים",
       "assignment": "8:3-4",
       "sourceFlag": "",
@@ -17504,10 +17504,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-16",
       "row": 1480,
-      "weekday": "Saturday",
-      "englishDate": "December 16th 2028",
-      "isoDate": "2028-12-16",
-      "hebrewDate": "28 Kislev 5789",
+      "weekday": "Wednesday",
+      "englishDate": "January 17th 2029",
+      "isoDate": "2029-01-17",
+      "hebrewDate": "1 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "8:5-7",
       "sourceFlag": "",
@@ -17516,10 +17516,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-17",
       "row": 1481,
-      "weekday": "Sunday",
-      "englishDate": "December 17th 2028",
-      "isoDate": "2028-12-17",
-      "hebrewDate": "29 Kislev 5789",
+      "weekday": "Thursday",
+      "englishDate": "January 18th 2029",
+      "isoDate": "2029-01-18",
+      "hebrewDate": "2 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "8:8-9",
       "sourceFlag": "",
@@ -17528,10 +17528,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-18",
       "row": 1482,
-      "weekday": "Monday",
-      "englishDate": "December 18th 2028",
-      "isoDate": "2028-12-18",
-      "hebrewDate": "30 Kislev 5789",
+      "weekday": "Friday",
+      "englishDate": "January 19th 2029",
+      "isoDate": "2029-01-19",
+      "hebrewDate": "3 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "8:10-9:2",
       "sourceFlag": "",
@@ -17540,10 +17540,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-19",
       "row": 1483,
-      "weekday": "Tuesday",
-      "englishDate": "December 19th 2028",
-      "isoDate": "2028-12-19",
-      "hebrewDate": "1 Teves 5789",
+      "weekday": "Saturday",
+      "englishDate": "January 20th 2029",
+      "isoDate": "2029-01-20",
+      "hebrewDate": "4 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "9:3-10:1",
       "sourceFlag": "",
@@ -17552,10 +17552,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-20",
       "row": 1484,
-      "weekday": "Wednesday",
-      "englishDate": "December 20th 2028",
-      "isoDate": "2028-12-20",
-      "hebrewDate": "2 Teves 5789",
+      "weekday": "Sunday",
+      "englishDate": "January 21st 2029",
+      "isoDate": "2029-01-21",
+      "hebrewDate": "5 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "10:2-4",
       "sourceFlag": "",
@@ -17564,10 +17564,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-21",
       "row": 1485,
-      "weekday": "Thursday",
-      "englishDate": "December 21st 2028",
-      "isoDate": "2028-12-21",
-      "hebrewDate": "3 Teves 5789",
+      "weekday": "Monday",
+      "englishDate": "January 22nd 2029",
+      "isoDate": "2029-01-22",
+      "hebrewDate": "6 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "10:5-6",
       "sourceFlag": "",
@@ -17576,10 +17576,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-22",
       "row": 1486,
-      "weekday": "Friday",
-      "englishDate": "December 22nd 2028",
-      "isoDate": "2028-12-22",
-      "hebrewDate": "4 Teves 5789",
+      "weekday": "Tuesday",
+      "englishDate": "January 23rd 2029",
+      "isoDate": "2029-01-23",
+      "hebrewDate": "7 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "10:7-9",
       "sourceFlag": "",
@@ -17588,10 +17588,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-23",
       "row": 1487,
-      "weekday": "Saturday",
-      "englishDate": "December 23rd 2028",
-      "isoDate": "2028-12-23",
-      "hebrewDate": "5 Teves 5789",
+      "weekday": "Wednesday",
+      "englishDate": "January 24th 2029",
+      "isoDate": "2029-01-24",
+      "hebrewDate": "8 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "10:10-11:1",
       "sourceFlag": "",
@@ -17600,10 +17600,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-24",
       "row": 1488,
-      "weekday": "Sunday",
-      "englishDate": "December 24th 2028",
-      "isoDate": "2028-12-24",
-      "hebrewDate": "6 Teves 5789",
+      "weekday": "Thursday",
+      "englishDate": "January 25th 2029",
+      "isoDate": "2029-01-25",
+      "hebrewDate": "9 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "11:2-4",
       "sourceFlag": "",
@@ -17612,10 +17612,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-25",
       "row": 1489,
-      "weekday": "Monday",
-      "englishDate": "December 25th 2028",
-      "isoDate": "2028-12-25",
-      "hebrewDate": "7 Teves 5789",
+      "weekday": "Friday",
+      "englishDate": "January 26th 2029",
+      "isoDate": "2029-01-26",
+      "hebrewDate": "10 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "11:5-6",
       "sourceFlag": "",
@@ -17624,10 +17624,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-26",
       "row": 1490,
-      "weekday": "Tuesday",
-      "englishDate": "December 26th 2028",
-      "isoDate": "2028-12-26",
-      "hebrewDate": "8 Teves 5789",
+      "weekday": "Saturday",
+      "englishDate": "January 27th 2029",
+      "isoDate": "2029-01-27",
+      "hebrewDate": "11 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "11:7-9",
       "sourceFlag": "",
@@ -17636,10 +17636,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-27",
       "row": 1491,
-      "weekday": "Wednesday",
-      "englishDate": "December 27th 2028",
-      "isoDate": "2028-12-27",
-      "hebrewDate": "9 Teves 5789",
+      "weekday": "Sunday",
+      "englishDate": "January 28th 2029",
+      "isoDate": "2029-01-28",
+      "hebrewDate": "12 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "11:10-11",
       "sourceFlag": "",
@@ -17648,10 +17648,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-28",
       "row": 1492,
-      "weekday": "Thursday",
-      "englishDate": "December 28th 2028",
-      "isoDate": "2028-12-28",
-      "hebrewDate": "10 Teves 5789",
+      "weekday": "Monday",
+      "englishDate": "January 29th 2029",
+      "isoDate": "2029-01-29",
+      "hebrewDate": "13 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "11:12-12:2",
       "sourceFlag": "",
@@ -17660,10 +17660,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-29",
       "row": 1493,
-      "weekday": "Friday",
-      "englishDate": "December 29th 2028",
-      "isoDate": "2028-12-29",
-      "hebrewDate": "11 Teves 5789",
+      "weekday": "Tuesday",
+      "englishDate": "January 30th 2029",
+      "isoDate": "2029-01-30",
+      "hebrewDate": "14 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "12:3-4",
       "sourceFlag": "",
@@ -17672,10 +17672,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-30",
       "row": 1494,
-      "weekday": "Saturday",
-      "englishDate": "December 30th 2028",
-      "isoDate": "2028-12-30",
-      "hebrewDate": "12 Teves 5789",
+      "weekday": "Wednesday",
+      "englishDate": "January 31st 2029",
+      "isoDate": "2029-01-31",
+      "hebrewDate": "15 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "12:5-7",
       "sourceFlag": "",
@@ -17684,10 +17684,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2028-12-31",
       "row": 1495,
-      "weekday": "Sunday",
-      "englishDate": "December 31st 2028",
-      "isoDate": "2028-12-31",
-      "hebrewDate": "13 Teves 5789",
+      "weekday": "Thursday",
+      "englishDate": "February 1st 2029",
+      "isoDate": "2029-02-01",
+      "hebrewDate": "16 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "13:1-2",
       "sourceFlag": "",
@@ -17696,10 +17696,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-01",
       "row": 1496,
-      "weekday": "Monday",
-      "englishDate": "January 1st 2029",
-      "isoDate": "2029-01-01",
-      "hebrewDate": "14 Teves 5789",
+      "weekday": "Friday",
+      "englishDate": "February 2nd 2029",
+      "isoDate": "2029-02-02",
+      "hebrewDate": "17 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "13:3-5",
       "sourceFlag": "",
@@ -17708,10 +17708,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-02",
       "row": 1497,
-      "weekday": "Tuesday",
-      "englishDate": "January 2nd 2029",
-      "isoDate": "2029-01-02",
-      "hebrewDate": "15 Teves 5789",
+      "weekday": "Saturday",
+      "englishDate": "February 3rd 2029",
+      "isoDate": "2029-02-03",
+      "hebrewDate": "18 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "13:6-7",
       "sourceFlag": "",
@@ -17720,10 +17720,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-03",
       "row": 1498,
-      "weekday": "Wednesday",
-      "englishDate": "January 3rd 2029",
-      "isoDate": "2029-01-03",
-      "hebrewDate": "16 Teves 5789",
+      "weekday": "Sunday",
+      "englishDate": "February 4th 2029",
+      "isoDate": "2029-02-04",
+      "hebrewDate": "19 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "13:8-10",
       "sourceFlag": "",
@@ -17732,10 +17732,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-04",
       "row": 1499,
-      "weekday": "Thursday",
-      "englishDate": "January 4th 2029",
-      "isoDate": "2029-01-04",
-      "hebrewDate": "17 Teves 5789",
+      "weekday": "Monday",
+      "englishDate": "February 5th 2029",
+      "isoDate": "2029-02-05",
+      "hebrewDate": "20 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "13:11-12",
       "sourceFlag": "",
@@ -17744,10 +17744,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-05",
       "row": 1500,
-      "weekday": "Friday",
-      "englishDate": "January 5th 2029",
-      "isoDate": "2029-01-05",
-      "hebrewDate": "18 Teves 5789",
+      "weekday": "Tuesday",
+      "englishDate": "February 6th 2029",
+      "isoDate": "2029-02-06",
+      "hebrewDate": "21 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "14:1-3",
       "sourceFlag": "",
@@ -17756,10 +17756,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-06",
       "row": 1501,
-      "weekday": "Saturday",
-      "englishDate": "January 6th 2029",
-      "isoDate": "2029-01-06",
-      "hebrewDate": "19 Teves 5789",
+      "weekday": "Wednesday",
+      "englishDate": "February 7th 2029",
+      "isoDate": "2029-02-07",
+      "hebrewDate": "22 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "14:4-5",
       "sourceFlag": "",
@@ -17768,10 +17768,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-07",
       "row": 1502,
-      "weekday": "Sunday",
-      "englishDate": "January 7th 2029",
-      "isoDate": "2029-01-07",
-      "hebrewDate": "20 Teves 5789",
+      "weekday": "Thursday",
+      "englishDate": "February 8th 2029",
+      "isoDate": "2029-02-08",
+      "hebrewDate": "23 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "14:6-8",
       "sourceFlag": "",
@@ -17780,10 +17780,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-08",
       "row": 1503,
-      "weekday": "Monday",
-      "englishDate": "January 8th 2029",
-      "isoDate": "2029-01-08",
-      "hebrewDate": "21 Teves 5789",
+      "weekday": "Friday",
+      "englishDate": "February 9th 2029",
+      "isoDate": "2029-02-09",
+      "hebrewDate": "24 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "14:9-10",
       "sourceFlag": "",
@@ -17792,10 +17792,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-09",
       "row": 1504,
-      "weekday": "Tuesday",
-      "englishDate": "January 9th 2029",
-      "isoDate": "2029-01-09",
-      "hebrewDate": "22 Teves 5789",
+      "weekday": "Saturday",
+      "englishDate": "February 10th 2029",
+      "isoDate": "2029-02-10",
+      "hebrewDate": "25 Shevat 5789",
       "tractate": "נגעים",
       "assignment": "14:11-13",
       "sourceFlag": "",
@@ -17804,10 +17804,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-10",
       "row": 1505,
-      "weekday": "Wednesday",
-      "englishDate": "January 10th 2029",
-      "isoDate": "2029-01-10",
-      "hebrewDate": "23 Teves 5789",
+      "weekday": "Sunday",
+      "englishDate": "February 11th 2029",
+      "isoDate": "2029-02-11",
+      "hebrewDate": "26 Shevat 5789",
       "tractate": "פרה",
       "assignment": "1:1-2",
       "sourceFlag": "",
@@ -17816,10 +17816,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-11",
       "row": 1506,
-      "weekday": "Thursday",
-      "englishDate": "January 11th 2029",
-      "isoDate": "2029-01-11",
-      "hebrewDate": "24 Teves 5789",
+      "weekday": "Monday",
+      "englishDate": "February 12th 2029",
+      "isoDate": "2029-02-12",
+      "hebrewDate": "27 Shevat 5789",
       "tractate": "פרה",
       "assignment": "1:3-2:1",
       "sourceFlag": "",
@@ -17828,10 +17828,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-12",
       "row": 1507,
-      "weekday": "Friday",
-      "englishDate": "January 12th 2029",
-      "isoDate": "2029-01-12",
-      "hebrewDate": "25 Teves 5789",
+      "weekday": "Tuesday",
+      "englishDate": "February 13th 2029",
+      "isoDate": "2029-02-13",
+      "hebrewDate": "28 Shevat 5789",
       "tractate": "פרה",
       "assignment": "2:2-3",
       "sourceFlag": "",
@@ -17840,10 +17840,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-13",
       "row": 1508,
-      "weekday": "Saturday",
-      "englishDate": "January 13th 2029",
-      "isoDate": "2029-01-13",
-      "hebrewDate": "26 Teves 5789",
+      "weekday": "Wednesday",
+      "englishDate": "February 14th 2029",
+      "isoDate": "2029-02-14",
+      "hebrewDate": "29 Shevat 5789",
       "tractate": "פרה",
       "assignment": "2:4-3:1",
       "sourceFlag": "",
@@ -17852,10 +17852,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-14",
       "row": 1509,
-      "weekday": "Sunday",
-      "englishDate": "January 14th 2029",
-      "isoDate": "2029-01-14",
-      "hebrewDate": "27 Teves 5789",
+      "weekday": "Thursday",
+      "englishDate": "February 15th 2029",
+      "isoDate": "2029-02-15",
+      "hebrewDate": "30 Shevat 5789",
       "tractate": "פרה",
       "assignment": "3:2-3",
       "sourceFlag": "",
@@ -17864,10 +17864,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-15",
       "row": 1510,
-      "weekday": "Monday",
-      "englishDate": "January 15th 2029",
-      "isoDate": "2029-01-15",
-      "hebrewDate": "28 Teves 5789",
+      "weekday": "Friday",
+      "englishDate": "February 16th 2029",
+      "isoDate": "2029-02-16",
+      "hebrewDate": "1 Adar 5789",
       "tractate": "פרה",
       "assignment": "3:4-6",
       "sourceFlag": "",
@@ -17876,10 +17876,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-16",
       "row": 1511,
-      "weekday": "Tuesday",
-      "englishDate": "January 16th 2029",
-      "isoDate": "2029-01-16",
-      "hebrewDate": "29 Teves 5789",
+      "weekday": "Saturday",
+      "englishDate": "February 17th 2029",
+      "isoDate": "2029-02-17",
+      "hebrewDate": "2 Adar 5789",
       "tractate": "פרה",
       "assignment": "3:7-8",
       "sourceFlag": "",
@@ -17888,10 +17888,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-17",
       "row": 1512,
-      "weekday": "Wednesday",
-      "englishDate": "January 17th 2029",
-      "isoDate": "2029-01-17",
-      "hebrewDate": "1 Shevat 5789",
+      "weekday": "Sunday",
+      "englishDate": "February 18th 2029",
+      "isoDate": "2029-02-18",
+      "hebrewDate": "3 Adar 5789",
       "tractate": "פרה",
       "assignment": "3:9-11",
       "sourceFlag": "",
@@ -17900,10 +17900,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-18",
       "row": 1513,
-      "weekday": "Thursday",
-      "englishDate": "January 18th 2029",
-      "isoDate": "2029-01-18",
-      "hebrewDate": "2 Shevat 5789",
+      "weekday": "Monday",
+      "englishDate": "February 19th 2029",
+      "isoDate": "2029-02-19",
+      "hebrewDate": "4 Adar 5789",
       "tractate": "פרה",
       "assignment": "4:1-2",
       "sourceFlag": "",
@@ -17912,10 +17912,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-19",
       "row": 1514,
-      "weekday": "Friday",
-      "englishDate": "January 19th 2029",
-      "isoDate": "2029-01-19",
-      "hebrewDate": "3 Shevat 5789",
+      "weekday": "Tuesday",
+      "englishDate": "February 20th 2029",
+      "isoDate": "2029-02-20",
+      "hebrewDate": "5 Adar 5789",
       "tractate": "פרה",
       "assignment": "4:3-5:1",
       "sourceFlag": "",
@@ -17924,10 +17924,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-20",
       "row": 1515,
-      "weekday": "Saturday",
-      "englishDate": "January 20th 2029",
-      "isoDate": "2029-01-20",
-      "hebrewDate": "4 Shevat 5789",
+      "weekday": "Wednesday",
+      "englishDate": "February 21st 2029",
+      "isoDate": "2029-02-21",
+      "hebrewDate": "6 Adar 5789",
       "tractate": "פרה",
       "assignment": "5:2-3",
       "sourceFlag": "",
@@ -17936,10 +17936,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-21",
       "row": 1516,
-      "weekday": "Sunday",
-      "englishDate": "January 21st 2029",
-      "isoDate": "2029-01-21",
-      "hebrewDate": "5 Shevat 5789",
+      "weekday": "Thursday",
+      "englishDate": "February 22nd 2029",
+      "isoDate": "2029-02-22",
+      "hebrewDate": "7 Adar 5789",
       "tractate": "פרה",
       "assignment": "5:4-6",
       "sourceFlag": "",
@@ -17948,10 +17948,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-22",
       "row": 1517,
-      "weekday": "Monday",
-      "englishDate": "January 22nd 2029",
-      "isoDate": "2029-01-22",
-      "hebrewDate": "6 Shevat 5789",
+      "weekday": "Friday",
+      "englishDate": "February 23rd 2029",
+      "isoDate": "2029-02-23",
+      "hebrewDate": "8 Adar 5789",
       "tractate": "פרה",
       "assignment": "5:7-8",
       "sourceFlag": "",
@@ -17960,10 +17960,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-23",
       "row": 1518,
-      "weekday": "Tuesday",
-      "englishDate": "January 23rd 2029",
-      "isoDate": "2029-01-23",
-      "hebrewDate": "7 Shevat 5789",
+      "weekday": "Saturday",
+      "englishDate": "February 24th 2029",
+      "isoDate": "2029-02-24",
+      "hebrewDate": "9 Adar 5789",
       "tractate": "פרה",
       "assignment": "5:9-6:2",
       "sourceFlag": "",
@@ -17972,10 +17972,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-24",
       "row": 1519,
-      "weekday": "Wednesday",
-      "englishDate": "January 24th 2029",
-      "isoDate": "2029-01-24",
-      "hebrewDate": "8 Shevat 5789",
+      "weekday": "Sunday",
+      "englishDate": "February 25th 2029",
+      "isoDate": "2029-02-25",
+      "hebrewDate": "10 Adar 5789",
       "tractate": "פרה",
       "assignment": "6:3-4",
       "sourceFlag": "",
@@ -17984,10 +17984,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-25",
       "row": 1520,
-      "weekday": "Thursday",
-      "englishDate": "January 25th 2029",
-      "isoDate": "2029-01-25",
-      "hebrewDate": "9 Shevat 5789",
+      "weekday": "Monday",
+      "englishDate": "February 26th 2029",
+      "isoDate": "2029-02-26",
+      "hebrewDate": "11 Adar 5789",
       "tractate": "פרה",
       "assignment": "6:5-7:1",
       "sourceFlag": "",
@@ -17996,10 +17996,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-26",
       "row": 1521,
-      "weekday": "Friday",
-      "englishDate": "January 26th 2029",
-      "isoDate": "2029-01-26",
-      "hebrewDate": "10 Shevat 5789",
+      "weekday": "Tuesday",
+      "englishDate": "February 27th 2029",
+      "isoDate": "2029-02-27",
+      "hebrewDate": "12 Adar 5789",
       "tractate": "פרה",
       "assignment": "7:2-4",
       "sourceFlag": "",
@@ -18008,10 +18008,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-27",
       "row": 1522,
-      "weekday": "Saturday",
-      "englishDate": "January 27th 2029",
-      "isoDate": "2029-01-27",
-      "hebrewDate": "11 Shevat 5789",
+      "weekday": "Wednesday",
+      "englishDate": "February 28th 2029",
+      "isoDate": "2029-02-28",
+      "hebrewDate": "13 Adar 5789",
       "tractate": "פרה",
       "assignment": "7:5-6",
       "sourceFlag": "",
@@ -18020,10 +18020,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-28",
       "row": 1523,
-      "weekday": "Sunday",
-      "englishDate": "January 28th 2029",
-      "isoDate": "2029-01-28",
-      "hebrewDate": "12 Shevat 5789",
+      "weekday": "Thursday",
+      "englishDate": "March 1st 2029",
+      "isoDate": "2029-03-01",
+      "hebrewDate": "14 Adar 5789",
       "tractate": "פרה",
       "assignment": "7:7-9",
       "sourceFlag": "",
@@ -18032,10 +18032,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-29",
       "row": 1524,
-      "weekday": "Monday",
-      "englishDate": "January 29th 2029",
-      "isoDate": "2029-01-29",
-      "hebrewDate": "13 Shevat 5789",
+      "weekday": "Friday",
+      "englishDate": "March 2nd 2029",
+      "isoDate": "2029-03-02",
+      "hebrewDate": "15 Adar 5789",
       "tractate": "פרה",
       "assignment": "7:10-11",
       "sourceFlag": "",
@@ -18044,10 +18044,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-30",
       "row": 1525,
-      "weekday": "Tuesday",
-      "englishDate": "January 30th 2029",
-      "isoDate": "2029-01-30",
-      "hebrewDate": "14 Shevat 5789",
+      "weekday": "Saturday",
+      "englishDate": "March 3rd 2029",
+      "isoDate": "2029-03-03",
+      "hebrewDate": "16 Adar 5789",
       "tractate": "פרה",
       "assignment": "7:12-8:2",
       "sourceFlag": "",
@@ -18056,10 +18056,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-01-31",
       "row": 1526,
-      "weekday": "Wednesday",
-      "englishDate": "January 31st 2029",
-      "isoDate": "2029-01-31",
-      "hebrewDate": "15 Shevat 5789",
+      "weekday": "Sunday",
+      "englishDate": "March 4th 2029",
+      "isoDate": "2029-03-04",
+      "hebrewDate": "17 Adar 5789",
       "tractate": "פרה",
       "assignment": "8:3-4",
       "sourceFlag": "",
@@ -18068,10 +18068,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-01",
       "row": 1527,
-      "weekday": "Thursday",
-      "englishDate": "February 1st 2029",
-      "isoDate": "2029-02-01",
-      "hebrewDate": "16 Shevat 5789",
+      "weekday": "Monday",
+      "englishDate": "March 5th 2029",
+      "isoDate": "2029-03-05",
+      "hebrewDate": "18 Adar 5789",
       "tractate": "פרה",
       "assignment": "8:5-7",
       "sourceFlag": "",
@@ -18080,10 +18080,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-02",
       "row": 1528,
-      "weekday": "Friday",
-      "englishDate": "February 2nd 2029",
-      "isoDate": "2029-02-02",
-      "hebrewDate": "17 Shevat 5789",
+      "weekday": "Tuesday",
+      "englishDate": "March 6th 2029",
+      "isoDate": "2029-03-06",
+      "hebrewDate": "19 Adar 5789",
       "tractate": "פרה",
       "assignment": "8:8-9",
       "sourceFlag": "",
@@ -18092,10 +18092,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-03",
       "row": 1529,
-      "weekday": "Saturday",
-      "englishDate": "February 3rd 2029",
-      "isoDate": "2029-02-03",
-      "hebrewDate": "18 Shevat 5789",
+      "weekday": "Wednesday",
+      "englishDate": "March 7th 2029",
+      "isoDate": "2029-03-07",
+      "hebrewDate": "20 Adar 5789",
       "tractate": "פרה",
       "assignment": "8:10-9:1",
       "sourceFlag": "",
@@ -18104,10 +18104,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-04",
       "row": 1530,
-      "weekday": "Sunday",
-      "englishDate": "February 4th 2029",
-      "isoDate": "2029-02-04",
-      "hebrewDate": "19 Shevat 5789",
+      "weekday": "Thursday",
+      "englishDate": "March 8th 2029",
+      "isoDate": "2029-03-08",
+      "hebrewDate": "21 Adar 5789",
       "tractate": "פרה",
       "assignment": "9:2-3",
       "sourceFlag": "",
@@ -18116,10 +18116,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-05",
       "row": 1531,
-      "weekday": "Monday",
-      "englishDate": "February 5th 2029",
-      "isoDate": "2029-02-05",
-      "hebrewDate": "20 Shevat 5789",
+      "weekday": "Friday",
+      "englishDate": "March 9th 2029",
+      "isoDate": "2029-03-09",
+      "hebrewDate": "22 Adar 5789",
       "tractate": "פרה",
       "assignment": "9:4-6",
       "sourceFlag": "",
@@ -18128,10 +18128,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-06",
       "row": 1532,
-      "weekday": "Tuesday",
-      "englishDate": "February 6th 2029",
-      "isoDate": "2029-02-06",
-      "hebrewDate": "21 Shevat 5789",
+      "weekday": "Saturday",
+      "englishDate": "March 10th 2029",
+      "isoDate": "2029-03-10",
+      "hebrewDate": "23 Adar 5789",
       "tractate": "פרה",
       "assignment": "9:7-8",
       "sourceFlag": "",
@@ -18140,10 +18140,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-07",
       "row": 1533,
-      "weekday": "Wednesday",
-      "englishDate": "February 7th 2029",
-      "isoDate": "2029-02-07",
-      "hebrewDate": "22 Shevat 5789",
+      "weekday": "Sunday",
+      "englishDate": "March 11th 2029",
+      "isoDate": "2029-03-11",
+      "hebrewDate": "24 Adar 5789",
       "tractate": "פרה",
       "assignment": "9:9-10:2",
       "sourceFlag": "",
@@ -18152,10 +18152,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-08",
       "row": 1534,
-      "weekday": "Thursday",
-      "englishDate": "February 8th 2029",
-      "isoDate": "2029-02-08",
-      "hebrewDate": "23 Shevat 5789",
+      "weekday": "Monday",
+      "englishDate": "March 12th 2029",
+      "isoDate": "2029-03-12",
+      "hebrewDate": "25 Adar 5789",
       "tractate": "פרה",
       "assignment": "10:3-4",
       "sourceFlag": "",
@@ -18164,10 +18164,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-09",
       "row": 1535,
-      "weekday": "Friday",
-      "englishDate": "February 9th 2029",
-      "isoDate": "2029-02-09",
-      "hebrewDate": "24 Shevat 5789",
+      "weekday": "Tuesday",
+      "englishDate": "March 13th 2029",
+      "isoDate": "2029-03-13",
+      "hebrewDate": "26 Adar 5789",
       "tractate": "פרה",
       "assignment": "10:5-11:1",
       "sourceFlag": "",
@@ -18176,10 +18176,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-10",
       "row": 1536,
-      "weekday": "Saturday",
-      "englishDate": "February 10th 2029",
-      "isoDate": "2029-02-10",
-      "hebrewDate": "25 Shevat 5789",
+      "weekday": "Wednesday",
+      "englishDate": "March 14th 2029",
+      "isoDate": "2029-03-14",
+      "hebrewDate": "27 Adar 5789",
       "tractate": "פרה",
       "assignment": "11:2-3",
       "sourceFlag": "",
@@ -18188,10 +18188,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-11",
       "row": 1537,
-      "weekday": "Sunday",
-      "englishDate": "February 11th 2029",
-      "isoDate": "2029-02-11",
-      "hebrewDate": "26 Shevat 5789",
+      "weekday": "Thursday",
+      "englishDate": "March 15th 2029",
+      "isoDate": "2029-03-15",
+      "hebrewDate": "28 Adar 5789",
       "tractate": "פרה",
       "assignment": "11:4-6",
       "sourceFlag": "",
@@ -18200,10 +18200,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-12",
       "row": 1538,
-      "weekday": "Monday",
-      "englishDate": "February 12th 2029",
-      "isoDate": "2029-02-12",
-      "hebrewDate": "27 Shevat 5789",
+      "weekday": "Friday",
+      "englishDate": "March 16th 2029",
+      "isoDate": "2029-03-16",
+      "hebrewDate": "29 Adar 5789",
       "tractate": "פרה",
       "assignment": "11:7-8",
       "sourceFlag": "",
@@ -18212,10 +18212,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-13",
       "row": 1539,
-      "weekday": "Tuesday",
-      "englishDate": "February 13th 2029",
-      "isoDate": "2029-02-13",
-      "hebrewDate": "28 Shevat 5789",
+      "weekday": "Saturday",
+      "englishDate": "March 17th 2029",
+      "isoDate": "2029-03-17",
+      "hebrewDate": "1 Nisan 5789",
       "tractate": "פרה",
       "assignment": "11:9-12:2",
       "sourceFlag": "",
@@ -18224,10 +18224,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-14",
       "row": 1540,
-      "weekday": "Wednesday",
-      "englishDate": "February 14th 2029",
-      "isoDate": "2029-02-14",
-      "hebrewDate": "29 Shevat 5789",
+      "weekday": "Sunday",
+      "englishDate": "March 18th 2029",
+      "isoDate": "2029-03-18",
+      "hebrewDate": "2 Nisan 5789",
       "tractate": "פרה",
       "assignment": "12:3-4",
       "sourceFlag": "",
@@ -18236,10 +18236,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-15",
       "row": 1541,
-      "weekday": "Thursday",
-      "englishDate": "February 15th 2029",
-      "isoDate": "2029-02-15",
-      "hebrewDate": "30 Shevat 5789",
+      "weekday": "Monday",
+      "englishDate": "March 19th 2029",
+      "isoDate": "2029-03-19",
+      "hebrewDate": "3 Nisan 5789",
       "tractate": "פרה",
       "assignment": "12:5-7",
       "sourceFlag": "",
@@ -18248,10 +18248,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-16",
       "row": 1542,
-      "weekday": "Friday",
-      "englishDate": "February 16th 2029",
-      "isoDate": "2029-02-16",
-      "hebrewDate": "1 Adar 5789",
+      "weekday": "Tuesday",
+      "englishDate": "March 20th 2029",
+      "isoDate": "2029-03-20",
+      "hebrewDate": "4 Nisan 5789",
       "tractate": "פרה",
       "assignment": "12:8-9",
       "sourceFlag": "",
@@ -18260,10 +18260,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-17",
       "row": 1543,
-      "weekday": "Saturday",
-      "englishDate": "February 17th 2029",
-      "isoDate": "2029-02-17",
-      "hebrewDate": "2 Adar 5789",
+      "weekday": "Wednesday",
+      "englishDate": "March 21st 2029",
+      "isoDate": "2029-03-21",
+      "hebrewDate": "5 Nisan 5789",
       "tractate": "פרה-טהרות",
       "assignment": "12:10 - 1:1",
       "sourceFlag": "",
@@ -18272,10 +18272,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-18",
       "row": 1544,
-      "weekday": "Sunday",
-      "englishDate": "February 18th 2029",
-      "isoDate": "2029-02-18",
-      "hebrewDate": "3 Adar 5789",
+      "weekday": "Thursday",
+      "englishDate": "March 22nd 2029",
+      "isoDate": "2029-03-22",
+      "hebrewDate": "6 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -18284,10 +18284,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-19",
       "row": 1545,
-      "weekday": "Monday",
-      "englishDate": "February 19th 2029",
-      "isoDate": "2029-02-19",
-      "hebrewDate": "4 Adar 5789",
+      "weekday": "Friday",
+      "englishDate": "March 23rd 2029",
+      "isoDate": "2029-03-23",
+      "hebrewDate": "7 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "1:4-6",
       "sourceFlag": "",
@@ -18296,10 +18296,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-20",
       "row": 1546,
-      "weekday": "Tuesday",
-      "englishDate": "February 20th 2029",
-      "isoDate": "2029-02-20",
-      "hebrewDate": "5 Adar 5789",
+      "weekday": "Saturday",
+      "englishDate": "March 24th 2029",
+      "isoDate": "2029-03-24",
+      "hebrewDate": "8 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "1:7-8",
       "sourceFlag": "",
@@ -18308,10 +18308,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-21",
       "row": 1547,
-      "weekday": "Wednesday",
-      "englishDate": "February 21st 2029",
-      "isoDate": "2029-02-21",
-      "hebrewDate": "6 Adar 5789",
+      "weekday": "Sunday",
+      "englishDate": "March 25th 2029",
+      "isoDate": "2029-03-25",
+      "hebrewDate": "9 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "1:9-2:2",
       "sourceFlag": "",
@@ -18320,10 +18320,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-22",
       "row": 1548,
-      "weekday": "Thursday",
-      "englishDate": "February 22nd 2029",
-      "isoDate": "2029-02-22",
-      "hebrewDate": "7 Adar 5789",
+      "weekday": "Monday",
+      "englishDate": "March 26th 2029",
+      "isoDate": "2029-03-26",
+      "hebrewDate": "10 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "2:3-4",
       "sourceFlag": "",
@@ -18332,10 +18332,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-23",
       "row": 1549,
-      "weekday": "Friday",
-      "englishDate": "February 23rd 2029",
-      "isoDate": "2029-02-23",
-      "hebrewDate": "8 Adar 5789",
+      "weekday": "Tuesday",
+      "englishDate": "March 27th 2029",
+      "isoDate": "2029-03-27",
+      "hebrewDate": "11 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "2:5-7",
       "sourceFlag": "",
@@ -18344,10 +18344,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-24",
       "row": 1550,
-      "weekday": "Saturday",
-      "englishDate": "February 24th 2029",
-      "isoDate": "2029-02-24",
-      "hebrewDate": "9 Adar 5789",
+      "weekday": "Wednesday",
+      "englishDate": "March 28th 2029",
+      "isoDate": "2029-03-28",
+      "hebrewDate": "12 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "2:8-3:1",
       "sourceFlag": "",
@@ -18356,10 +18356,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-25",
       "row": 1551,
-      "weekday": "Sunday",
-      "englishDate": "February 25th 2029",
-      "isoDate": "2029-02-25",
-      "hebrewDate": "10 Adar 5789",
+      "weekday": "Thursday",
+      "englishDate": "March 29th 2029",
+      "isoDate": "2029-03-29",
+      "hebrewDate": "13 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "3:2-4",
       "sourceFlag": "",
@@ -18368,10 +18368,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-26",
       "row": 1552,
-      "weekday": "Monday",
-      "englishDate": "February 26th 2029",
-      "isoDate": "2029-02-26",
-      "hebrewDate": "11 Adar 5789",
+      "weekday": "Friday",
+      "englishDate": "March 30th 2029",
+      "isoDate": "2029-03-30",
+      "hebrewDate": "14 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "3:5-6",
       "sourceFlag": "",
@@ -18380,10 +18380,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-27",
       "row": 1553,
-      "weekday": "Tuesday",
-      "englishDate": "February 27th 2029",
-      "isoDate": "2029-02-27",
-      "hebrewDate": "12 Adar 5789",
+      "weekday": "Saturday",
+      "englishDate": "March 31st 2029",
+      "isoDate": "2029-03-31",
+      "hebrewDate": "15 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "3:7-4:1",
       "sourceFlag": "",
@@ -18392,10 +18392,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-02-28",
       "row": 1554,
-      "weekday": "Wednesday",
-      "englishDate": "February 28th 2029",
-      "isoDate": "2029-02-28",
-      "hebrewDate": "13 Adar 5789",
+      "weekday": "Sunday",
+      "englishDate": "April 1st 2029",
+      "isoDate": "2029-04-01",
+      "hebrewDate": "16 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "4:2-3",
       "sourceFlag": "",
@@ -18404,10 +18404,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-01",
       "row": 1555,
-      "weekday": "Thursday",
-      "englishDate": "March 1st 2029",
-      "isoDate": "2029-03-01",
-      "hebrewDate": "14 Adar 5789",
+      "weekday": "Monday",
+      "englishDate": "April 2nd 2029",
+      "isoDate": "2029-04-02",
+      "hebrewDate": "17 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "4:4-6",
       "sourceFlag": "",
@@ -18416,10 +18416,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-02",
       "row": 1556,
-      "weekday": "Friday",
-      "englishDate": "March 2nd 2029",
-      "isoDate": "2029-03-02",
-      "hebrewDate": "15 Adar 5789",
+      "weekday": "Tuesday",
+      "englishDate": "April 3rd 2029",
+      "isoDate": "2029-04-03",
+      "hebrewDate": "18 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "4:7-8",
       "sourceFlag": "",
@@ -18428,10 +18428,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-03",
       "row": 1557,
-      "weekday": "Saturday",
-      "englishDate": "March 3rd 2029",
-      "isoDate": "2029-03-03",
-      "hebrewDate": "16 Adar 5789",
+      "weekday": "Wednesday",
+      "englishDate": "April 4th 2029",
+      "isoDate": "2029-04-04",
+      "hebrewDate": "19 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "4:9-11",
       "sourceFlag": "",
@@ -18440,10 +18440,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-04",
       "row": 1558,
-      "weekday": "Sunday",
-      "englishDate": "March 4th 2029",
-      "isoDate": "2029-03-04",
-      "hebrewDate": "17 Adar 5789",
+      "weekday": "Thursday",
+      "englishDate": "April 5th 2029",
+      "isoDate": "2029-04-05",
+      "hebrewDate": "20 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "4:12-13",
       "sourceFlag": "",
@@ -18452,10 +18452,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-05",
       "row": 1559,
-      "weekday": "Monday",
-      "englishDate": "March 5th 2029",
-      "isoDate": "2029-03-05",
-      "hebrewDate": "18 Adar 5789",
+      "weekday": "Friday",
+      "englishDate": "April 6th 2029",
+      "isoDate": "2029-04-06",
+      "hebrewDate": "21 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "5:1-3",
       "sourceFlag": "",
@@ -18464,10 +18464,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-06",
       "row": 1560,
-      "weekday": "Tuesday",
-      "englishDate": "March 6th 2029",
-      "isoDate": "2029-03-06",
-      "hebrewDate": "19 Adar 5789",
+      "weekday": "Saturday",
+      "englishDate": "April 7th 2029",
+      "isoDate": "2029-04-07",
+      "hebrewDate": "22 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "5:4-5",
       "sourceFlag": "",
@@ -18476,10 +18476,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-07",
       "row": 1561,
-      "weekday": "Wednesday",
-      "englishDate": "March 7th 2029",
-      "isoDate": "2029-03-07",
-      "hebrewDate": "20 Adar 5789",
+      "weekday": "Sunday",
+      "englishDate": "April 8th 2029",
+      "isoDate": "2029-04-08",
+      "hebrewDate": "23 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "5:6-8",
       "sourceFlag": "",
@@ -18488,10 +18488,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-08",
       "row": 1562,
-      "weekday": "Thursday",
-      "englishDate": "March 8th 2029",
-      "isoDate": "2029-03-08",
-      "hebrewDate": "21 Adar 5789",
+      "weekday": "Monday",
+      "englishDate": "April 9th 2029",
+      "isoDate": "2029-04-09",
+      "hebrewDate": "24 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "5:9-6:1",
       "sourceFlag": "",
@@ -18500,10 +18500,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-09",
       "row": 1563,
-      "weekday": "Friday",
-      "englishDate": "March 9th 2029",
-      "isoDate": "2029-03-09",
-      "hebrewDate": "22 Adar 5789",
+      "weekday": "Tuesday",
+      "englishDate": "April 10th 2029",
+      "isoDate": "2029-04-10",
+      "hebrewDate": "25 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "6:2-4",
       "sourceFlag": "",
@@ -18512,10 +18512,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-10",
       "row": 1564,
-      "weekday": "Saturday",
-      "englishDate": "March 10th 2029",
-      "isoDate": "2029-03-10",
-      "hebrewDate": "23 Adar 5789",
+      "weekday": "Wednesday",
+      "englishDate": "April 11th 2029",
+      "isoDate": "2029-04-11",
+      "hebrewDate": "26 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "6:5-6",
       "sourceFlag": "",
@@ -18524,10 +18524,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-11",
       "row": 1565,
-      "weekday": "Sunday",
-      "englishDate": "March 11th 2029",
-      "isoDate": "2029-03-11",
-      "hebrewDate": "24 Adar 5789",
+      "weekday": "Thursday",
+      "englishDate": "April 12th 2029",
+      "isoDate": "2029-04-12",
+      "hebrewDate": "27 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "6:7-9",
       "sourceFlag": "",
@@ -18536,10 +18536,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-12",
       "row": 1566,
-      "weekday": "Monday",
-      "englishDate": "March 12th 2029",
-      "isoDate": "2029-03-12",
-      "hebrewDate": "25 Adar 5789",
+      "weekday": "Friday",
+      "englishDate": "April 13th 2029",
+      "isoDate": "2029-04-13",
+      "hebrewDate": "28 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "6:10-7:1",
       "sourceFlag": "",
@@ -18548,10 +18548,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-13",
       "row": 1567,
-      "weekday": "Tuesday",
-      "englishDate": "March 13th 2029",
-      "isoDate": "2029-03-13",
-      "hebrewDate": "26 Adar 5789",
+      "weekday": "Saturday",
+      "englishDate": "April 14th 2029",
+      "isoDate": "2029-04-14",
+      "hebrewDate": "29 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "7:2-3",
       "sourceFlag": "",
@@ -18560,10 +18560,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-14",
       "row": 1568,
-      "weekday": "Wednesday",
-      "englishDate": "March 14th 2029",
-      "isoDate": "2029-03-14",
-      "hebrewDate": "27 Adar 5789",
+      "weekday": "Sunday",
+      "englishDate": "April 15th 2029",
+      "isoDate": "2029-04-15",
+      "hebrewDate": "30 Nisan 5789",
       "tractate": "טהרות",
       "assignment": "7:4-6",
       "sourceFlag": "",
@@ -18572,10 +18572,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-15",
       "row": 1569,
-      "weekday": "Thursday",
-      "englishDate": "March 15th 2029",
-      "isoDate": "2029-03-15",
-      "hebrewDate": "28 Adar 5789",
+      "weekday": "Monday",
+      "englishDate": "April 16th 2029",
+      "isoDate": "2029-04-16",
+      "hebrewDate": "1 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "7:7-8",
       "sourceFlag": "",
@@ -18584,10 +18584,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-16",
       "row": 1570,
-      "weekday": "Friday",
-      "englishDate": "March 16th 2029",
-      "isoDate": "2029-03-16",
-      "hebrewDate": "29 Adar 5789",
+      "weekday": "Tuesday",
+      "englishDate": "April 17th 2029",
+      "isoDate": "2029-04-17",
+      "hebrewDate": "2 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "7:9-8:2",
       "sourceFlag": "",
@@ -18596,10 +18596,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-17",
       "row": 1571,
-      "weekday": "Saturday",
-      "englishDate": "March 17th 2029",
-      "isoDate": "2029-03-17",
-      "hebrewDate": "1 Nisan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "April 18th 2029",
+      "isoDate": "2029-04-18",
+      "hebrewDate": "3 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "8:3-4",
       "sourceFlag": "",
@@ -18608,10 +18608,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-18",
       "row": 1572,
-      "weekday": "Sunday",
-      "englishDate": "March 18th 2029",
-      "isoDate": "2029-03-18",
-      "hebrewDate": "2 Nisan 5789",
+      "weekday": "Thursday",
+      "englishDate": "April 19th 2029",
+      "isoDate": "2029-04-19",
+      "hebrewDate": "4 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "8:5-7",
       "sourceFlag": "",
@@ -18620,10 +18620,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-19",
       "row": 1573,
-      "weekday": "Monday",
-      "englishDate": "March 19th 2029",
-      "isoDate": "2029-03-19",
-      "hebrewDate": "3 Nisan 5789",
+      "weekday": "Friday",
+      "englishDate": "April 20th 2029",
+      "isoDate": "2029-04-20",
+      "hebrewDate": "5 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "8:8-9",
       "sourceFlag": "",
@@ -18632,10 +18632,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-20",
       "row": 1574,
-      "weekday": "Tuesday",
-      "englishDate": "March 20th 2029",
-      "isoDate": "2029-03-20",
-      "hebrewDate": "4 Nisan 5789",
+      "weekday": "Saturday",
+      "englishDate": "April 21st 2029",
+      "isoDate": "2029-04-21",
+      "hebrewDate": "6 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "9:1-3",
       "sourceFlag": "",
@@ -18644,10 +18644,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-21",
       "row": 1575,
-      "weekday": "Wednesday",
-      "englishDate": "March 21st 2029",
-      "isoDate": "2029-03-21",
-      "hebrewDate": "5 Nisan 5789",
+      "weekday": "Sunday",
+      "englishDate": "April 22nd 2029",
+      "isoDate": "2029-04-22",
+      "hebrewDate": "7 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "9:4-5",
       "sourceFlag": "",
@@ -18656,10 +18656,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-22",
       "row": 1576,
-      "weekday": "Thursday",
-      "englishDate": "March 22nd 2029",
-      "isoDate": "2029-03-22",
-      "hebrewDate": "6 Nisan 5789",
+      "weekday": "Monday",
+      "englishDate": "April 23rd 2029",
+      "isoDate": "2029-04-23",
+      "hebrewDate": "8 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "9:6-8",
       "sourceFlag": "",
@@ -18668,10 +18668,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-23",
       "row": 1577,
-      "weekday": "Friday",
-      "englishDate": "March 23rd 2029",
-      "isoDate": "2029-03-23",
-      "hebrewDate": "7 Nisan 5789",
+      "weekday": "Tuesday",
+      "englishDate": "April 24th 2029",
+      "isoDate": "2029-04-24",
+      "hebrewDate": "9 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "9:9-10:1",
       "sourceFlag": "",
@@ -18680,10 +18680,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-24",
       "row": 1578,
-      "weekday": "Saturday",
-      "englishDate": "March 24th 2029",
-      "isoDate": "2029-03-24",
-      "hebrewDate": "8 Nisan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "April 25th 2029",
+      "isoDate": "2029-04-25",
+      "hebrewDate": "10 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "10:2-4",
       "sourceFlag": "",
@@ -18692,10 +18692,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-25",
       "row": 1579,
-      "weekday": "Sunday",
-      "englishDate": "March 25th 2029",
-      "isoDate": "2029-03-25",
-      "hebrewDate": "9 Nisan 5789",
+      "weekday": "Thursday",
+      "englishDate": "April 26th 2029",
+      "isoDate": "2029-04-26",
+      "hebrewDate": "11 Iyar 5789",
       "tractate": "טהרות",
       "assignment": "10:5-6",
       "sourceFlag": "",
@@ -18704,10 +18704,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-26",
       "row": 1580,
-      "weekday": "Monday",
-      "englishDate": "March 26th 2029",
-      "isoDate": "2029-03-26",
-      "hebrewDate": "10 Nisan 5789",
+      "weekday": "Friday",
+      "englishDate": "April 27th 2029",
+      "isoDate": "2029-04-27",
+      "hebrewDate": "12 Iyar 5789",
       "tractate": "טהרות-מקואות",
       "assignment": "10:7 -1:1",
       "sourceFlag": "",
@@ -18716,10 +18716,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-27",
       "row": 1581,
-      "weekday": "Tuesday",
-      "englishDate": "March 27th 2029",
-      "isoDate": "2029-03-27",
-      "hebrewDate": "11 Nisan 5789",
+      "weekday": "Saturday",
+      "englishDate": "April 28th 2029",
+      "isoDate": "2029-04-28",
+      "hebrewDate": "13 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "1:2-3",
       "sourceFlag": "",
@@ -18728,10 +18728,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-28",
       "row": 1582,
-      "weekday": "Wednesday",
-      "englishDate": "March 28th 2029",
-      "isoDate": "2029-03-28",
-      "hebrewDate": "12 Nisan 5789",
+      "weekday": "Sunday",
+      "englishDate": "April 29th 2029",
+      "isoDate": "2029-04-29",
+      "hebrewDate": "14 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "1:4-6",
       "sourceFlag": "",
@@ -18740,10 +18740,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-29",
       "row": 1583,
-      "weekday": "Thursday",
-      "englishDate": "March 29th 2029",
-      "isoDate": "2029-03-29",
-      "hebrewDate": "13 Nisan 5789",
+      "weekday": "Monday",
+      "englishDate": "April 30th 2029",
+      "isoDate": "2029-04-30",
+      "hebrewDate": "15 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "1:7-8",
       "sourceFlag": "",
@@ -18752,10 +18752,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-30",
       "row": 1584,
-      "weekday": "Friday",
-      "englishDate": "March 30th 2029",
-      "isoDate": "2029-03-30",
-      "hebrewDate": "14 Nisan 5789",
+      "weekday": "Tuesday",
+      "englishDate": "May 1st 2029",
+      "isoDate": "2029-05-01",
+      "hebrewDate": "16 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "2:1-3",
       "sourceFlag": "",
@@ -18764,10 +18764,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-03-31",
       "row": 1585,
-      "weekday": "Saturday",
-      "englishDate": "March 31st 2029",
-      "isoDate": "2029-03-31",
-      "hebrewDate": "15 Nisan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "May 2nd 2029",
+      "isoDate": "2029-05-02",
+      "hebrewDate": "17 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "2:4-5",
       "sourceFlag": "",
@@ -18776,10 +18776,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-01",
       "row": 1586,
-      "weekday": "Sunday",
-      "englishDate": "April 1st 2029",
-      "isoDate": "2029-04-01",
-      "hebrewDate": "16 Nisan 5789",
+      "weekday": "Thursday",
+      "englishDate": "May 3rd 2029",
+      "isoDate": "2029-05-03",
+      "hebrewDate": "18 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "2:6-8",
       "sourceFlag": "",
@@ -18788,10 +18788,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-02",
       "row": 1587,
-      "weekday": "Monday",
-      "englishDate": "April 2nd 2029",
-      "isoDate": "2029-04-02",
-      "hebrewDate": "17 Nisan 5789",
+      "weekday": "Friday",
+      "englishDate": "May 4th 2029",
+      "isoDate": "2029-05-04",
+      "hebrewDate": "19 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "2:9-10",
       "sourceFlag": "",
@@ -18800,10 +18800,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-03",
       "row": 1588,
-      "weekday": "Tuesday",
-      "englishDate": "April 3rd 2029",
-      "isoDate": "2029-04-03",
-      "hebrewDate": "18 Nisan 5789",
+      "weekday": "Saturday",
+      "englishDate": "May 5th 2029",
+      "isoDate": "2029-05-05",
+      "hebrewDate": "20 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "3:1-3",
       "sourceFlag": "",
@@ -18812,10 +18812,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-04",
       "row": 1589,
-      "weekday": "Wednesday",
-      "englishDate": "April 4th 2029",
-      "isoDate": "2029-04-04",
-      "hebrewDate": "19 Nisan 5789",
+      "weekday": "Sunday",
+      "englishDate": "May 6th 2029",
+      "isoDate": "2029-05-06",
+      "hebrewDate": "21 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "3:4-4:1",
       "sourceFlag": "",
@@ -18824,10 +18824,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-05",
       "row": 1590,
-      "weekday": "Thursday",
-      "englishDate": "April 5th 2029",
-      "isoDate": "2029-04-05",
-      "hebrewDate": "20 Nisan 5789",
+      "weekday": "Monday",
+      "englishDate": "May 7th 2029",
+      "isoDate": "2029-05-07",
+      "hebrewDate": "22 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "4:2-4",
       "sourceFlag": "",
@@ -18836,10 +18836,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-06",
       "row": 1591,
-      "weekday": "Friday",
-      "englishDate": "April 6th 2029",
-      "isoDate": "2029-04-06",
-      "hebrewDate": "21 Nisan 5789",
+      "weekday": "Tuesday",
+      "englishDate": "May 8th 2029",
+      "isoDate": "2029-05-08",
+      "hebrewDate": "23 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "4:5-5:1",
       "sourceFlag": "",
@@ -18848,10 +18848,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-07",
       "row": 1592,
-      "weekday": "Saturday",
-      "englishDate": "April 7th 2029",
-      "isoDate": "2029-04-07",
-      "hebrewDate": "22 Nisan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "May 9th 2029",
+      "isoDate": "2029-05-09",
+      "hebrewDate": "24 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "5:2-4",
       "sourceFlag": "",
@@ -18860,10 +18860,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-08",
       "row": 1593,
-      "weekday": "Sunday",
-      "englishDate": "April 8th 2029",
-      "isoDate": "2029-04-08",
-      "hebrewDate": "23 Nisan 5789",
+      "weekday": "Thursday",
+      "englishDate": "May 10th 2029",
+      "isoDate": "2029-05-10",
+      "hebrewDate": "25 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "5:5-6",
       "sourceFlag": "",
@@ -18872,10 +18872,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-09",
       "row": 1594,
-      "weekday": "Monday",
-      "englishDate": "April 9th 2029",
-      "isoDate": "2029-04-09",
-      "hebrewDate": "24 Nisan 5789",
+      "weekday": "Friday",
+      "englishDate": "May 11th 2029",
+      "isoDate": "2029-05-11",
+      "hebrewDate": "26 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "6:1-3",
       "sourceFlag": "",
@@ -18884,10 +18884,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-10",
       "row": 1595,
-      "weekday": "Tuesday",
-      "englishDate": "April 10th 2029",
-      "isoDate": "2029-04-10",
-      "hebrewDate": "25 Nisan 5789",
+      "weekday": "Saturday",
+      "englishDate": "May 12th 2029",
+      "isoDate": "2029-05-12",
+      "hebrewDate": "27 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "6:4-5",
       "sourceFlag": "",
@@ -18896,10 +18896,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-11",
       "row": 1596,
-      "weekday": "Wednesday",
-      "englishDate": "April 11th 2029",
-      "isoDate": "2029-04-11",
-      "hebrewDate": "26 Nisan 5789",
+      "weekday": "Sunday",
+      "englishDate": "May 13th 2029",
+      "isoDate": "2029-05-13",
+      "hebrewDate": "28 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "6:6-8",
       "sourceFlag": "",
@@ -18908,10 +18908,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-12",
       "row": 1597,
-      "weekday": "Thursday",
-      "englishDate": "April 12th 2029",
-      "isoDate": "2029-04-12",
-      "hebrewDate": "27 Nisan 5789",
+      "weekday": "Monday",
+      "englishDate": "May 14th 2029",
+      "isoDate": "2029-05-14",
+      "hebrewDate": "29 Iyar 5789",
       "tractate": "מקואות",
       "assignment": "6:9-10",
       "sourceFlag": "",
@@ -18920,10 +18920,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-13",
       "row": 1598,
-      "weekday": "Friday",
-      "englishDate": "April 13th 2029",
-      "isoDate": "2029-04-13",
-      "hebrewDate": "28 Nisan 5789",
+      "weekday": "Tuesday",
+      "englishDate": "May 15th 2029",
+      "isoDate": "2029-05-15",
+      "hebrewDate": "1 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "6:11-7:2",
       "sourceFlag": "",
@@ -18932,10 +18932,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-14",
       "row": 1599,
-      "weekday": "Saturday",
-      "englishDate": "April 14th 2029",
-      "isoDate": "2029-04-14",
-      "hebrewDate": "29 Nisan 5789",
+      "weekday": "Wednesday",
+      "englishDate": "May 16th 2029",
+      "isoDate": "2029-05-16",
+      "hebrewDate": "2 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "7:3-4",
       "sourceFlag": "",
@@ -18944,10 +18944,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-15",
       "row": 1600,
-      "weekday": "Sunday",
-      "englishDate": "April 15th 2029",
-      "isoDate": "2029-04-15",
-      "hebrewDate": "30 Nisan 5789",
+      "weekday": "Thursday",
+      "englishDate": "May 17th 2029",
+      "isoDate": "2029-05-17",
+      "hebrewDate": "3 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "7:5-7",
       "sourceFlag": "",
@@ -18956,10 +18956,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-16",
       "row": 1601,
-      "weekday": "Monday",
-      "englishDate": "April 16th 2029",
-      "isoDate": "2029-04-16",
-      "hebrewDate": "1 Iyar 5789",
+      "weekday": "Friday",
+      "englishDate": "May 18th 2029",
+      "isoDate": "2029-05-18",
+      "hebrewDate": "4 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "8:1-2",
       "sourceFlag": "",
@@ -18968,10 +18968,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-17",
       "row": 1602,
-      "weekday": "Tuesday",
-      "englishDate": "April 17th 2029",
-      "isoDate": "2029-04-17",
-      "hebrewDate": "2 Iyar 5789",
+      "weekday": "Saturday",
+      "englishDate": "May 19th 2029",
+      "isoDate": "2029-05-19",
+      "hebrewDate": "5 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "8:3-5",
       "sourceFlag": "",
@@ -18980,10 +18980,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-18",
       "row": 1603,
-      "weekday": "Wednesday",
-      "englishDate": "April 18th 2029",
-      "isoDate": "2029-04-18",
-      "hebrewDate": "3 Iyar 5789",
+      "weekday": "Sunday",
+      "englishDate": "May 20th 2029",
+      "isoDate": "2029-05-20",
+      "hebrewDate": "6 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "9:1-2",
       "sourceFlag": "",
@@ -18992,10 +18992,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-19",
       "row": 1604,
-      "weekday": "Thursday",
-      "englishDate": "April 19th 2029",
-      "isoDate": "2029-04-19",
-      "hebrewDate": "4 Iyar 5789",
+      "weekday": "Monday",
+      "englishDate": "May 21st 2029",
+      "isoDate": "2029-05-21",
+      "hebrewDate": "7 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "9:3-5",
       "sourceFlag": "",
@@ -19004,10 +19004,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-20",
       "row": 1605,
-      "weekday": "Friday",
-      "englishDate": "April 20th 2029",
-      "isoDate": "2029-04-20",
-      "hebrewDate": "5 Iyar 5789",
+      "weekday": "Tuesday",
+      "englishDate": "May 22nd 2029",
+      "isoDate": "2029-05-22",
+      "hebrewDate": "8 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "9:6-7",
       "sourceFlag": "",
@@ -19016,10 +19016,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-21",
       "row": 1606,
-      "weekday": "Saturday",
-      "englishDate": "April 21st 2029",
-      "isoDate": "2029-04-21",
-      "hebrewDate": "6 Iyar 5789",
+      "weekday": "Wednesday",
+      "englishDate": "May 23rd 2029",
+      "isoDate": "2029-05-23",
+      "hebrewDate": "9 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "10:1-3",
       "sourceFlag": "",
@@ -19028,10 +19028,10 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-22",
       "row": 1607,
-      "weekday": "Sunday",
-      "englishDate": "April 22nd 2029",
-      "isoDate": "2029-04-22",
-      "hebrewDate": "7 Iyar 5789",
+      "weekday": "Thursday",
+      "englishDate": "May 24th 2029",
+      "isoDate": "2029-05-24",
+      "hebrewDate": "10 Sivan 5789",
       "tractate": "מקואות",
       "assignment": "10:4-5",
       "sourceFlag": "",
@@ -19040,396 +19040,12 @@ window.MISHNAH_YOMIS_DATA = {
     {
       "id": "2029-04-23",
       "row": 1608,
-      "weekday": "Monday",
-      "englishDate": "April 23rd 2029",
-      "isoDate": "2029-04-23",
-      "hebrewDate": "8 Iyar 5789",
-      "tractate": "מקואות",
-      "assignment": "10:6-8",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-04-24",
-      "row": 1609,
-      "weekday": "Tuesday",
-      "englishDate": "April 24th 2029",
-      "isoDate": "2029-04-24",
-      "hebrewDate": "9 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "1:1-2",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-04-25",
-      "row": 1610,
-      "weekday": "Wednesday",
-      "englishDate": "April 25th 2029",
-      "isoDate": "2029-04-25",
-      "hebrewDate": "10 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "1:3-5",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-04-26",
-      "row": 1611,
-      "weekday": "Thursday",
-      "englishDate": "April 26th 2029",
-      "isoDate": "2029-04-26",
-      "hebrewDate": "11 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "1:6-7",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-04-27",
-      "row": 1612,
-      "weekday": "Friday",
-      "englishDate": "April 27th 2029",
-      "isoDate": "2029-04-27",
-      "hebrewDate": "12 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "2:1-3",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-04-28",
-      "row": 1613,
-      "weekday": "Saturday",
-      "englishDate": "April 28th 2029",
-      "isoDate": "2029-04-28",
-      "hebrewDate": "13 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "2:4-5",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-04-29",
-      "row": 1614,
-      "weekday": "Sunday",
-      "englishDate": "April 29th 2029",
-      "isoDate": "2029-04-29",
-      "hebrewDate": "14 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "2:6-7",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-04-30",
-      "row": 1615,
-      "weekday": "Monday",
-      "englishDate": "April 30th 2029",
-      "isoDate": "2029-04-30",
-      "hebrewDate": "15 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "3:1-3",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-01",
-      "row": 1616,
-      "weekday": "Tuesday",
-      "englishDate": "May 1st 2029",
-      "isoDate": "2029-05-01",
-      "hebrewDate": "16 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "3:4-5",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-02",
-      "row": 1617,
-      "weekday": "Wednesday",
-      "englishDate": "May 2nd 2029",
-      "isoDate": "2029-05-02",
-      "hebrewDate": "17 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "3:6-4:1",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-03",
-      "row": 1618,
-      "weekday": "Thursday",
-      "englishDate": "May 3rd 2029",
-      "isoDate": "2029-05-03",
-      "hebrewDate": "18 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "4:2-3",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-04",
-      "row": 1619,
-      "weekday": "Friday",
-      "englishDate": "May 4th 2029",
-      "isoDate": "2029-05-04",
-      "hebrewDate": "19 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "4:4-6",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-05",
-      "row": 1620,
-      "weekday": "Saturday",
-      "englishDate": "May 5th 2029",
-      "isoDate": "2029-05-05",
-      "hebrewDate": "20 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "4:7-5:1",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-06",
-      "row": 1621,
-      "weekday": "Sunday",
-      "englishDate": "May 6th 2029",
-      "isoDate": "2029-05-06",
-      "hebrewDate": "21 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "5:2-4",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-07",
-      "row": 1622,
-      "weekday": "Monday",
-      "englishDate": "May 7th 2029",
-      "isoDate": "2029-05-07",
-      "hebrewDate": "22 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "5:5-6",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-08",
-      "row": 1623,
-      "weekday": "Tuesday",
-      "englishDate": "May 8th 2029",
-      "isoDate": "2029-05-08",
-      "hebrewDate": "23 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "5:7-9",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-09",
-      "row": 1624,
-      "weekday": "Wednesday",
-      "englishDate": "May 9th 2029",
-      "isoDate": "2029-05-09",
-      "hebrewDate": "24 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "6:1-2",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-10",
-      "row": 1625,
-      "weekday": "Thursday",
-      "englishDate": "May 10th 2029",
-      "isoDate": "2029-05-10",
-      "hebrewDate": "25 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "6:3-5",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-11",
-      "row": 1626,
-      "weekday": "Friday",
-      "englishDate": "May 11th 2029",
-      "isoDate": "2029-05-11",
-      "hebrewDate": "26 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "6:6-7",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-12",
-      "row": 1627,
-      "weekday": "Saturday",
-      "englishDate": "May 12th 2029",
-      "isoDate": "2029-05-12",
-      "hebrewDate": "27 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "6:8-10",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-13",
-      "row": 1628,
-      "weekday": "Sunday",
-      "englishDate": "May 13th 2029",
-      "isoDate": "2029-05-13",
-      "hebrewDate": "28 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "6:11-12",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-14",
-      "row": 1629,
-      "weekday": "Monday",
-      "englishDate": "May 14th 2029",
-      "isoDate": "2029-05-14",
-      "hebrewDate": "29 Iyar 5789",
-      "tractate": "נדה",
-      "assignment": "6:13-7:1",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-15",
-      "row": 1630,
-      "weekday": "Tuesday",
-      "englishDate": "May 15th 2029",
-      "isoDate": "2029-05-15",
-      "hebrewDate": "1 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "7:2-3",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-16",
-      "row": 1631,
-      "weekday": "Wednesday",
-      "englishDate": "May 16th 2029",
-      "isoDate": "2029-05-16",
-      "hebrewDate": "2 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "7:4-8:1",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-17",
-      "row": 1632,
-      "weekday": "Thursday",
-      "englishDate": "May 17th 2029",
-      "isoDate": "2029-05-17",
-      "hebrewDate": "3 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "8:2-3",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-18",
-      "row": 1633,
-      "weekday": "Friday",
-      "englishDate": "May 18th 2029",
-      "isoDate": "2029-05-18",
-      "hebrewDate": "4 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "8:4-9:2",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-19",
-      "row": 1634,
-      "weekday": "Saturday",
-      "englishDate": "May 19th 2029",
-      "isoDate": "2029-05-19",
-      "hebrewDate": "5 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "9:3-4",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-20",
-      "row": 1635,
-      "weekday": "Sunday",
-      "englishDate": "May 20th 2029",
-      "isoDate": "2029-05-20",
-      "hebrewDate": "6 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "9:5-7",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-21",
-      "row": 1636,
-      "weekday": "Monday",
-      "englishDate": "May 21st 2029",
-      "isoDate": "2029-05-21",
-      "hebrewDate": "7 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "9:8-9",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-22",
-      "row": 1637,
-      "weekday": "Tuesday",
-      "englishDate": "May 22nd 2029",
-      "isoDate": "2029-05-22",
-      "hebrewDate": "8 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "9:10-10:1",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-23",
-      "row": 1638,
-      "weekday": "Wednesday",
-      "englishDate": "May 23rd 2029",
-      "isoDate": "2029-05-23",
-      "hebrewDate": "9 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "10:2-3",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-24",
-      "row": 1639,
-      "weekday": "Thursday",
-      "englishDate": "May 24th 2029",
-      "isoDate": "2029-05-24",
-      "hebrewDate": "10 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "10:4-6",
-      "sourceFlag": "",
-      "sourceCompleted": false
-    },
-    {
-      "id": "2029-05-25",
-      "row": 1640,
       "weekday": "Friday",
       "englishDate": "May 25th 2029",
       "isoDate": "2029-05-25",
       "hebrewDate": "11 Sivan 5789",
-      "tractate": "נדה",
-      "assignment": "10:7-8",
+      "tractate": "מקואות",
+      "assignment": "10:6-8",
       "sourceFlag": "",
       "sourceCompleted": false
     },
@@ -20212,6 +19828,10122 @@ window.MISHNAH_YOMIS_DATA = {
       "assignment": "3:11-12",
       "sourceFlag": "",
       "sourceCompleted": false
+    }
+  ],
+  "progressStorageRows": 1684,
+  "scheduleRevision": {
+    "id": "20261125-no-niddah",
+    "excludedTractates": [
+      "נדה"
+    ],
+    "firstRescheduledAssignmentId": "2026-09-09",
+    "catchUpDays": 32,
+    "originalFinishDate": "2029-07-29"
+  },
+  "calendarDays": [
+    {
+      "isoDate": "2024-12-19",
+      "weekday": "Thursday",
+      "englishDate": "December 19th 2024",
+      "hebrewDate": "18 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-20",
+      "weekday": "Friday",
+      "englishDate": "December 20th 2024",
+      "hebrewDate": "19 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-21",
+      "weekday": "Saturday",
+      "englishDate": "December 21st 2024",
+      "hebrewDate": "20 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-22",
+      "weekday": "Sunday",
+      "englishDate": "December 22nd 2024",
+      "hebrewDate": "21 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-23",
+      "weekday": "Monday",
+      "englishDate": "December 23rd 2024",
+      "hebrewDate": "22 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-24",
+      "weekday": "Tuesday",
+      "englishDate": "December 24th 2024",
+      "hebrewDate": "23 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-25",
+      "weekday": "Wednesday",
+      "englishDate": "December 25th 2024",
+      "hebrewDate": "24 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-26",
+      "weekday": "Thursday",
+      "englishDate": "December 26th 2024",
+      "hebrewDate": "25 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-27",
+      "weekday": "Friday",
+      "englishDate": "December 27th 2024",
+      "hebrewDate": "26 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-28",
+      "weekday": "Saturday",
+      "englishDate": "December 28th 2024",
+      "hebrewDate": "27 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-29",
+      "weekday": "Sunday",
+      "englishDate": "December 29th 2024",
+      "hebrewDate": "28 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-30",
+      "weekday": "Monday",
+      "englishDate": "December 30th 2024",
+      "hebrewDate": "29 Kislev 5785"
+    },
+    {
+      "isoDate": "2024-12-31",
+      "weekday": "Tuesday",
+      "englishDate": "December 31st 2024",
+      "hebrewDate": "30 Kislev 5785"
+    },
+    {
+      "isoDate": "2025-01-01",
+      "weekday": "Wednesday",
+      "englishDate": "January 1st 2025",
+      "hebrewDate": "1 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-02",
+      "weekday": "Thursday",
+      "englishDate": "January 2nd 2025",
+      "hebrewDate": "2 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-03",
+      "weekday": "Friday",
+      "englishDate": "January 3rd 2025",
+      "hebrewDate": "3 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-04",
+      "weekday": "Saturday",
+      "englishDate": "January 4th 2025",
+      "hebrewDate": "4 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-05",
+      "weekday": "Sunday",
+      "englishDate": "January 5th 2025",
+      "hebrewDate": "5 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-06",
+      "weekday": "Monday",
+      "englishDate": "January 6th 2025",
+      "hebrewDate": "6 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-07",
+      "weekday": "Tuesday",
+      "englishDate": "January 7th 2025",
+      "hebrewDate": "7 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-08",
+      "weekday": "Wednesday",
+      "englishDate": "January 8th 2025",
+      "hebrewDate": "8 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-09",
+      "weekday": "Thursday",
+      "englishDate": "January 9th 2025",
+      "hebrewDate": "9 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-10",
+      "weekday": "Friday",
+      "englishDate": "January 10th 2025",
+      "hebrewDate": "10 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-11",
+      "weekday": "Saturday",
+      "englishDate": "January 11th 2025",
+      "hebrewDate": "11 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-12",
+      "weekday": "Sunday",
+      "englishDate": "January 12th 2025",
+      "hebrewDate": "12 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-13",
+      "weekday": "Monday",
+      "englishDate": "January 13th 2025",
+      "hebrewDate": "13 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-14",
+      "weekday": "Tuesday",
+      "englishDate": "January 14th 2025",
+      "hebrewDate": "14 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-15",
+      "weekday": "Wednesday",
+      "englishDate": "January 15th 2025",
+      "hebrewDate": "15 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-16",
+      "weekday": "Thursday",
+      "englishDate": "January 16th 2025",
+      "hebrewDate": "16 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-17",
+      "weekday": "Friday",
+      "englishDate": "January 17th 2025",
+      "hebrewDate": "17 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-18",
+      "weekday": "Saturday",
+      "englishDate": "January 18th 2025",
+      "hebrewDate": "18 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-19",
+      "weekday": "Sunday",
+      "englishDate": "January 19th 2025",
+      "hebrewDate": "19 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-20",
+      "weekday": "Monday",
+      "englishDate": "January 20th 2025",
+      "hebrewDate": "20 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-21",
+      "weekday": "Tuesday",
+      "englishDate": "January 21st 2025",
+      "hebrewDate": "21 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-22",
+      "weekday": "Wednesday",
+      "englishDate": "January 22nd 2025",
+      "hebrewDate": "22 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-23",
+      "weekday": "Thursday",
+      "englishDate": "January 23rd 2025",
+      "hebrewDate": "23 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-24",
+      "weekday": "Friday",
+      "englishDate": "January 24th 2025",
+      "hebrewDate": "24 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-25",
+      "weekday": "Saturday",
+      "englishDate": "January 25th 2025",
+      "hebrewDate": "25 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-26",
+      "weekday": "Sunday",
+      "englishDate": "January 26th 2025",
+      "hebrewDate": "26 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-27",
+      "weekday": "Monday",
+      "englishDate": "January 27th 2025",
+      "hebrewDate": "27 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-28",
+      "weekday": "Tuesday",
+      "englishDate": "January 28th 2025",
+      "hebrewDate": "28 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-29",
+      "weekday": "Wednesday",
+      "englishDate": "January 29th 2025",
+      "hebrewDate": "29 Teves 5785"
+    },
+    {
+      "isoDate": "2025-01-30",
+      "weekday": "Thursday",
+      "englishDate": "January 30th 2025",
+      "hebrewDate": "1 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-01-31",
+      "weekday": "Friday",
+      "englishDate": "January 31st 2025",
+      "hebrewDate": "2 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-01",
+      "weekday": "Saturday",
+      "englishDate": "February 1st 2025",
+      "hebrewDate": "3 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-02",
+      "weekday": "Sunday",
+      "englishDate": "February 2nd 2025",
+      "hebrewDate": "4 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-03",
+      "weekday": "Monday",
+      "englishDate": "February 3rd 2025",
+      "hebrewDate": "5 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-04",
+      "weekday": "Tuesday",
+      "englishDate": "February 4th 2025",
+      "hebrewDate": "6 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-05",
+      "weekday": "Wednesday",
+      "englishDate": "February 5th 2025",
+      "hebrewDate": "7 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-06",
+      "weekday": "Thursday",
+      "englishDate": "February 6th 2025",
+      "hebrewDate": "8 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-07",
+      "weekday": "Friday",
+      "englishDate": "February 7th 2025",
+      "hebrewDate": "9 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-08",
+      "weekday": "Saturday",
+      "englishDate": "February 8th 2025",
+      "hebrewDate": "10 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-09",
+      "weekday": "Sunday",
+      "englishDate": "February 9th 2025",
+      "hebrewDate": "11 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-10",
+      "weekday": "Monday",
+      "englishDate": "February 10th 2025",
+      "hebrewDate": "12 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-11",
+      "weekday": "Tuesday",
+      "englishDate": "February 11th 2025",
+      "hebrewDate": "13 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-12",
+      "weekday": "Wednesday",
+      "englishDate": "February 12th 2025",
+      "hebrewDate": "14 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-13",
+      "weekday": "Thursday",
+      "englishDate": "February 13th 2025",
+      "hebrewDate": "15 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-14",
+      "weekday": "Friday",
+      "englishDate": "February 14th 2025",
+      "hebrewDate": "16 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-15",
+      "weekday": "Saturday",
+      "englishDate": "February 15th 2025",
+      "hebrewDate": "17 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-16",
+      "weekday": "Sunday",
+      "englishDate": "February 16th 2025",
+      "hebrewDate": "18 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-17",
+      "weekday": "Monday",
+      "englishDate": "February 17th 2025",
+      "hebrewDate": "19 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-18",
+      "weekday": "Tuesday",
+      "englishDate": "February 18th 2025",
+      "hebrewDate": "20 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-19",
+      "weekday": "Wednesday",
+      "englishDate": "February 19th 2025",
+      "hebrewDate": "21 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-20",
+      "weekday": "Thursday",
+      "englishDate": "February 20th 2025",
+      "hebrewDate": "22 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-21",
+      "weekday": "Friday",
+      "englishDate": "February 21st 2025",
+      "hebrewDate": "23 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-22",
+      "weekday": "Saturday",
+      "englishDate": "February 22nd 2025",
+      "hebrewDate": "24 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-23",
+      "weekday": "Sunday",
+      "englishDate": "February 23rd 2025",
+      "hebrewDate": "25 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-24",
+      "weekday": "Monday",
+      "englishDate": "February 24th 2025",
+      "hebrewDate": "26 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-25",
+      "weekday": "Tuesday",
+      "englishDate": "February 25th 2025",
+      "hebrewDate": "27 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-26",
+      "weekday": "Wednesday",
+      "englishDate": "February 26th 2025",
+      "hebrewDate": "28 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-27",
+      "weekday": "Thursday",
+      "englishDate": "February 27th 2025",
+      "hebrewDate": "29 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-02-28",
+      "weekday": "Friday",
+      "englishDate": "February 28th 2025",
+      "hebrewDate": "30 Shevat 5785"
+    },
+    {
+      "isoDate": "2025-03-01",
+      "weekday": "Saturday",
+      "englishDate": "March 1st 2025",
+      "hebrewDate": "1 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-02",
+      "weekday": "Sunday",
+      "englishDate": "March 2nd 2025",
+      "hebrewDate": "2 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-03",
+      "weekday": "Monday",
+      "englishDate": "March 3rd 2025",
+      "hebrewDate": "3 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-04",
+      "weekday": "Tuesday",
+      "englishDate": "March 4th 2025",
+      "hebrewDate": "4 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-05",
+      "weekday": "Wednesday",
+      "englishDate": "March 5th 2025",
+      "hebrewDate": "5 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-06",
+      "weekday": "Thursday",
+      "englishDate": "March 6th 2025",
+      "hebrewDate": "6 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-07",
+      "weekday": "Friday",
+      "englishDate": "March 7th 2025",
+      "hebrewDate": "7 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-08",
+      "weekday": "Saturday",
+      "englishDate": "March 8th 2025",
+      "hebrewDate": "8 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-09",
+      "weekday": "Sunday",
+      "englishDate": "March 9th 2025",
+      "hebrewDate": "9 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-10",
+      "weekday": "Monday",
+      "englishDate": "March 10th 2025",
+      "hebrewDate": "10 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-11",
+      "weekday": "Tuesday",
+      "englishDate": "March 11th 2025",
+      "hebrewDate": "11 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-12",
+      "weekday": "Wednesday",
+      "englishDate": "March 12th 2025",
+      "hebrewDate": "12 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-13",
+      "weekday": "Thursday",
+      "englishDate": "March 13th 2025",
+      "hebrewDate": "13 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-14",
+      "weekday": "Friday",
+      "englishDate": "March 14th 2025",
+      "hebrewDate": "14 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-15",
+      "weekday": "Saturday",
+      "englishDate": "March 15th 2025",
+      "hebrewDate": "15 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-16",
+      "weekday": "Sunday",
+      "englishDate": "March 16th 2025",
+      "hebrewDate": "16 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-17",
+      "weekday": "Monday",
+      "englishDate": "March 17th 2025",
+      "hebrewDate": "17 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-18",
+      "weekday": "Tuesday",
+      "englishDate": "March 18th 2025",
+      "hebrewDate": "18 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-19",
+      "weekday": "Wednesday",
+      "englishDate": "March 19th 2025",
+      "hebrewDate": "19 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-20",
+      "weekday": "Thursday",
+      "englishDate": "March 20th 2025",
+      "hebrewDate": "20 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-21",
+      "weekday": "Friday",
+      "englishDate": "March 21st 2025",
+      "hebrewDate": "21 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-22",
+      "weekday": "Saturday",
+      "englishDate": "March 22nd 2025",
+      "hebrewDate": "22 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-23",
+      "weekday": "Sunday",
+      "englishDate": "March 23rd 2025",
+      "hebrewDate": "23 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-24",
+      "weekday": "Monday",
+      "englishDate": "March 24th 2025",
+      "hebrewDate": "24 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-25",
+      "weekday": "Tuesday",
+      "englishDate": "March 25th 2025",
+      "hebrewDate": "25 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-26",
+      "weekday": "Wednesday",
+      "englishDate": "March 26th 2025",
+      "hebrewDate": "26 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-27",
+      "weekday": "Thursday",
+      "englishDate": "March 27th 2025",
+      "hebrewDate": "27 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-28",
+      "weekday": "Friday",
+      "englishDate": "March 28th 2025",
+      "hebrewDate": "28 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-29",
+      "weekday": "Saturday",
+      "englishDate": "March 29th 2025",
+      "hebrewDate": "29 Adar 5785"
+    },
+    {
+      "isoDate": "2025-03-30",
+      "weekday": "Sunday",
+      "englishDate": "March 30th 2025",
+      "hebrewDate": "1 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-03-31",
+      "weekday": "Monday",
+      "englishDate": "March 31st 2025",
+      "hebrewDate": "2 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-01",
+      "weekday": "Tuesday",
+      "englishDate": "April 1st 2025",
+      "hebrewDate": "3 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-02",
+      "weekday": "Wednesday",
+      "englishDate": "April 2nd 2025",
+      "hebrewDate": "4 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-03",
+      "weekday": "Thursday",
+      "englishDate": "April 3rd 2025",
+      "hebrewDate": "5 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-04",
+      "weekday": "Friday",
+      "englishDate": "April 4th 2025",
+      "hebrewDate": "6 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-05",
+      "weekday": "Saturday",
+      "englishDate": "April 5th 2025",
+      "hebrewDate": "7 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-06",
+      "weekday": "Sunday",
+      "englishDate": "April 6th 2025",
+      "hebrewDate": "8 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-07",
+      "weekday": "Monday",
+      "englishDate": "April 7th 2025",
+      "hebrewDate": "9 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-08",
+      "weekday": "Tuesday",
+      "englishDate": "April 8th 2025",
+      "hebrewDate": "10 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-09",
+      "weekday": "Wednesday",
+      "englishDate": "April 9th 2025",
+      "hebrewDate": "11 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-10",
+      "weekday": "Thursday",
+      "englishDate": "April 10th 2025",
+      "hebrewDate": "12 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-11",
+      "weekday": "Friday",
+      "englishDate": "April 11th 2025",
+      "hebrewDate": "13 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-12",
+      "weekday": "Saturday",
+      "englishDate": "April 12th 2025",
+      "hebrewDate": "14 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-13",
+      "weekday": "Sunday",
+      "englishDate": "April 13th 2025",
+      "hebrewDate": "15 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-14",
+      "weekday": "Monday",
+      "englishDate": "April 14th 2025",
+      "hebrewDate": "16 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-15",
+      "weekday": "Tuesday",
+      "englishDate": "April 15th 2025",
+      "hebrewDate": "17 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-16",
+      "weekday": "Wednesday",
+      "englishDate": "April 16th 2025",
+      "hebrewDate": "18 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-17",
+      "weekday": "Thursday",
+      "englishDate": "April 17th 2025",
+      "hebrewDate": "19 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-18",
+      "weekday": "Friday",
+      "englishDate": "April 18th 2025",
+      "hebrewDate": "20 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-19",
+      "weekday": "Saturday",
+      "englishDate": "April 19th 2025",
+      "hebrewDate": "21 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-20",
+      "weekday": "Sunday",
+      "englishDate": "April 20th 2025",
+      "hebrewDate": "22 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-21",
+      "weekday": "Monday",
+      "englishDate": "April 21st 2025",
+      "hebrewDate": "23 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-22",
+      "weekday": "Tuesday",
+      "englishDate": "April 22nd 2025",
+      "hebrewDate": "24 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-23",
+      "weekday": "Wednesday",
+      "englishDate": "April 23rd 2025",
+      "hebrewDate": "25 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-24",
+      "weekday": "Thursday",
+      "englishDate": "April 24th 2025",
+      "hebrewDate": "26 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-25",
+      "weekday": "Friday",
+      "englishDate": "April 25th 2025",
+      "hebrewDate": "27 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-26",
+      "weekday": "Saturday",
+      "englishDate": "April 26th 2025",
+      "hebrewDate": "28 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-27",
+      "weekday": "Sunday",
+      "englishDate": "April 27th 2025",
+      "hebrewDate": "29 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-28",
+      "weekday": "Monday",
+      "englishDate": "April 28th 2025",
+      "hebrewDate": "30 Nisan 5785"
+    },
+    {
+      "isoDate": "2025-04-29",
+      "weekday": "Tuesday",
+      "englishDate": "April 29th 2025",
+      "hebrewDate": "1 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-04-30",
+      "weekday": "Wednesday",
+      "englishDate": "April 30th 2025",
+      "hebrewDate": "2 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-01",
+      "weekday": "Thursday",
+      "englishDate": "May 1st 2025",
+      "hebrewDate": "3 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-02",
+      "weekday": "Friday",
+      "englishDate": "May 2nd 2025",
+      "hebrewDate": "4 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-03",
+      "weekday": "Saturday",
+      "englishDate": "May 3rd 2025",
+      "hebrewDate": "5 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-04",
+      "weekday": "Sunday",
+      "englishDate": "May 4th 2025",
+      "hebrewDate": "6 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-05",
+      "weekday": "Monday",
+      "englishDate": "May 5th 2025",
+      "hebrewDate": "7 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-06",
+      "weekday": "Tuesday",
+      "englishDate": "May 6th 2025",
+      "hebrewDate": "8 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-07",
+      "weekday": "Wednesday",
+      "englishDate": "May 7th 2025",
+      "hebrewDate": "9 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-08",
+      "weekday": "Thursday",
+      "englishDate": "May 8th 2025",
+      "hebrewDate": "10 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-09",
+      "weekday": "Friday",
+      "englishDate": "May 9th 2025",
+      "hebrewDate": "11 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-10",
+      "weekday": "Saturday",
+      "englishDate": "May 10th 2025",
+      "hebrewDate": "12 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-11",
+      "weekday": "Sunday",
+      "englishDate": "May 11th 2025",
+      "hebrewDate": "13 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-12",
+      "weekday": "Monday",
+      "englishDate": "May 12th 2025",
+      "hebrewDate": "14 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-13",
+      "weekday": "Tuesday",
+      "englishDate": "May 13th 2025",
+      "hebrewDate": "15 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-14",
+      "weekday": "Wednesday",
+      "englishDate": "May 14th 2025",
+      "hebrewDate": "16 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-15",
+      "weekday": "Thursday",
+      "englishDate": "May 15th 2025",
+      "hebrewDate": "17 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-16",
+      "weekday": "Friday",
+      "englishDate": "May 16th 2025",
+      "hebrewDate": "18 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-17",
+      "weekday": "Saturday",
+      "englishDate": "May 17th 2025",
+      "hebrewDate": "19 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-18",
+      "weekday": "Sunday",
+      "englishDate": "May 18th 2025",
+      "hebrewDate": "20 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-19",
+      "weekday": "Monday",
+      "englishDate": "May 19th 2025",
+      "hebrewDate": "21 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-20",
+      "weekday": "Tuesday",
+      "englishDate": "May 20th 2025",
+      "hebrewDate": "22 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-21",
+      "weekday": "Wednesday",
+      "englishDate": "May 21st 2025",
+      "hebrewDate": "23 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-22",
+      "weekday": "Thursday",
+      "englishDate": "May 22nd 2025",
+      "hebrewDate": "24 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-23",
+      "weekday": "Friday",
+      "englishDate": "May 23rd 2025",
+      "hebrewDate": "25 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-24",
+      "weekday": "Saturday",
+      "englishDate": "May 24th 2025",
+      "hebrewDate": "26 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-25",
+      "weekday": "Sunday",
+      "englishDate": "May 25th 2025",
+      "hebrewDate": "27 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-26",
+      "weekday": "Monday",
+      "englishDate": "May 26th 2025",
+      "hebrewDate": "28 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-27",
+      "weekday": "Tuesday",
+      "englishDate": "May 27th 2025",
+      "hebrewDate": "29 Iyar 5785"
+    },
+    {
+      "isoDate": "2025-05-28",
+      "weekday": "Wednesday",
+      "englishDate": "May 28th 2025",
+      "hebrewDate": "1 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-05-29",
+      "weekday": "Thursday",
+      "englishDate": "May 29th 2025",
+      "hebrewDate": "2 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-05-30",
+      "weekday": "Friday",
+      "englishDate": "May 30th 2025",
+      "hebrewDate": "3 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-05-31",
+      "weekday": "Saturday",
+      "englishDate": "May 31st 2025",
+      "hebrewDate": "4 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-01",
+      "weekday": "Sunday",
+      "englishDate": "June 1st 2025",
+      "hebrewDate": "5 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-02",
+      "weekday": "Monday",
+      "englishDate": "June 2nd 2025",
+      "hebrewDate": "6 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-03",
+      "weekday": "Tuesday",
+      "englishDate": "June 3rd 2025",
+      "hebrewDate": "7 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-04",
+      "weekday": "Wednesday",
+      "englishDate": "June 4th 2025",
+      "hebrewDate": "8 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-05",
+      "weekday": "Thursday",
+      "englishDate": "June 5th 2025",
+      "hebrewDate": "9 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-06",
+      "weekday": "Friday",
+      "englishDate": "June 6th 2025",
+      "hebrewDate": "10 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-07",
+      "weekday": "Saturday",
+      "englishDate": "June 7th 2025",
+      "hebrewDate": "11 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-08",
+      "weekday": "Sunday",
+      "englishDate": "June 8th 2025",
+      "hebrewDate": "12 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-09",
+      "weekday": "Monday",
+      "englishDate": "June 9th 2025",
+      "hebrewDate": "13 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-10",
+      "weekday": "Tuesday",
+      "englishDate": "June 10th 2025",
+      "hebrewDate": "14 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-11",
+      "weekday": "Wednesday",
+      "englishDate": "June 11th 2025",
+      "hebrewDate": "15 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-12",
+      "weekday": "Thursday",
+      "englishDate": "June 12th 2025",
+      "hebrewDate": "16 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-13",
+      "weekday": "Friday",
+      "englishDate": "June 13th 2025",
+      "hebrewDate": "17 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-14",
+      "weekday": "Saturday",
+      "englishDate": "June 14th 2025",
+      "hebrewDate": "18 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-15",
+      "weekday": "Sunday",
+      "englishDate": "June 15th 2025",
+      "hebrewDate": "19 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-16",
+      "weekday": "Monday",
+      "englishDate": "June 16th 2025",
+      "hebrewDate": "20 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-17",
+      "weekday": "Tuesday",
+      "englishDate": "June 17th 2025",
+      "hebrewDate": "21 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-18",
+      "weekday": "Wednesday",
+      "englishDate": "June 18th 2025",
+      "hebrewDate": "22 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-19",
+      "weekday": "Thursday",
+      "englishDate": "June 19th 2025",
+      "hebrewDate": "23 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-20",
+      "weekday": "Friday",
+      "englishDate": "June 20th 2025",
+      "hebrewDate": "24 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-21",
+      "weekday": "Saturday",
+      "englishDate": "June 21st 2025",
+      "hebrewDate": "25 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-22",
+      "weekday": "Sunday",
+      "englishDate": "June 22nd 2025",
+      "hebrewDate": "26 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-23",
+      "weekday": "Monday",
+      "englishDate": "June 23rd 2025",
+      "hebrewDate": "27 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-24",
+      "weekday": "Tuesday",
+      "englishDate": "June 24th 2025",
+      "hebrewDate": "28 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-25",
+      "weekday": "Wednesday",
+      "englishDate": "June 25th 2025",
+      "hebrewDate": "29 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-26",
+      "weekday": "Thursday",
+      "englishDate": "June 26th 2025",
+      "hebrewDate": "30 Sivan 5785"
+    },
+    {
+      "isoDate": "2025-06-27",
+      "weekday": "Friday",
+      "englishDate": "June 27th 2025",
+      "hebrewDate": "1 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-06-28",
+      "weekday": "Saturday",
+      "englishDate": "June 28th 2025",
+      "hebrewDate": "2 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-06-29",
+      "weekday": "Sunday",
+      "englishDate": "June 29th 2025",
+      "hebrewDate": "3 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-06-30",
+      "weekday": "Monday",
+      "englishDate": "June 30th 2025",
+      "hebrewDate": "4 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-01",
+      "weekday": "Tuesday",
+      "englishDate": "July 1st 2025",
+      "hebrewDate": "5 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-02",
+      "weekday": "Wednesday",
+      "englishDate": "July 2nd 2025",
+      "hebrewDate": "6 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-03",
+      "weekday": "Thursday",
+      "englishDate": "July 3rd 2025",
+      "hebrewDate": "7 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-04",
+      "weekday": "Friday",
+      "englishDate": "July 4th 2025",
+      "hebrewDate": "8 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-05",
+      "weekday": "Saturday",
+      "englishDate": "July 5th 2025",
+      "hebrewDate": "9 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-06",
+      "weekday": "Sunday",
+      "englishDate": "July 6th 2025",
+      "hebrewDate": "10 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-07",
+      "weekday": "Monday",
+      "englishDate": "July 7th 2025",
+      "hebrewDate": "11 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-08",
+      "weekday": "Tuesday",
+      "englishDate": "July 8th 2025",
+      "hebrewDate": "12 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-09",
+      "weekday": "Wednesday",
+      "englishDate": "July 9th 2025",
+      "hebrewDate": "13 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-10",
+      "weekday": "Thursday",
+      "englishDate": "July 10th 2025",
+      "hebrewDate": "14 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-11",
+      "weekday": "Friday",
+      "englishDate": "July 11th 2025",
+      "hebrewDate": "15 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-12",
+      "weekday": "Saturday",
+      "englishDate": "July 12th 2025",
+      "hebrewDate": "16 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-13",
+      "weekday": "Sunday",
+      "englishDate": "July 13th 2025",
+      "hebrewDate": "17 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-14",
+      "weekday": "Monday",
+      "englishDate": "July 14th 2025",
+      "hebrewDate": "18 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-15",
+      "weekday": "Tuesday",
+      "englishDate": "July 15th 2025",
+      "hebrewDate": "19 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-16",
+      "weekday": "Wednesday",
+      "englishDate": "July 16th 2025",
+      "hebrewDate": "20 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-17",
+      "weekday": "Thursday",
+      "englishDate": "July 17th 2025",
+      "hebrewDate": "21 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-18",
+      "weekday": "Friday",
+      "englishDate": "July 18th 2025",
+      "hebrewDate": "22 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-19",
+      "weekday": "Saturday",
+      "englishDate": "July 19th 2025",
+      "hebrewDate": "23 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-20",
+      "weekday": "Sunday",
+      "englishDate": "July 20th 2025",
+      "hebrewDate": "24 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-21",
+      "weekday": "Monday",
+      "englishDate": "July 21st 2025",
+      "hebrewDate": "25 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-22",
+      "weekday": "Tuesday",
+      "englishDate": "July 22nd 2025",
+      "hebrewDate": "26 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-23",
+      "weekday": "Wednesday",
+      "englishDate": "July 23rd 2025",
+      "hebrewDate": "27 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-24",
+      "weekday": "Thursday",
+      "englishDate": "July 24th 2025",
+      "hebrewDate": "28 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-25",
+      "weekday": "Friday",
+      "englishDate": "July 25th 2025",
+      "hebrewDate": "29 Tamuz 5785"
+    },
+    {
+      "isoDate": "2025-07-26",
+      "weekday": "Saturday",
+      "englishDate": "July 26th 2025",
+      "hebrewDate": "1 Av 5785"
+    },
+    {
+      "isoDate": "2025-07-27",
+      "weekday": "Sunday",
+      "englishDate": "July 27th 2025",
+      "hebrewDate": "2 Av 5785"
+    },
+    {
+      "isoDate": "2025-07-28",
+      "weekday": "Monday",
+      "englishDate": "July 28th 2025",
+      "hebrewDate": "3 Av 5785"
+    },
+    {
+      "isoDate": "2025-07-29",
+      "weekday": "Tuesday",
+      "englishDate": "July 29th 2025",
+      "hebrewDate": "4 Av 5785"
+    },
+    {
+      "isoDate": "2025-07-30",
+      "weekday": "Wednesday",
+      "englishDate": "July 30th 2025",
+      "hebrewDate": "5 Av 5785"
+    },
+    {
+      "isoDate": "2025-07-31",
+      "weekday": "Thursday",
+      "englishDate": "July 31st 2025",
+      "hebrewDate": "6 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-01",
+      "weekday": "Friday",
+      "englishDate": "August 1st 2025",
+      "hebrewDate": "7 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-02",
+      "weekday": "Saturday",
+      "englishDate": "August 2nd 2025",
+      "hebrewDate": "8 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-03",
+      "weekday": "Sunday",
+      "englishDate": "August 3rd 2025",
+      "hebrewDate": "9 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-04",
+      "weekday": "Monday",
+      "englishDate": "August 4th 2025",
+      "hebrewDate": "10 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-05",
+      "weekday": "Tuesday",
+      "englishDate": "August 5th 2025",
+      "hebrewDate": "11 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-06",
+      "weekday": "Wednesday",
+      "englishDate": "August 6th 2025",
+      "hebrewDate": "12 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-07",
+      "weekday": "Thursday",
+      "englishDate": "August 7th 2025",
+      "hebrewDate": "13 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-08",
+      "weekday": "Friday",
+      "englishDate": "August 8th 2025",
+      "hebrewDate": "14 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-09",
+      "weekday": "Saturday",
+      "englishDate": "August 9th 2025",
+      "hebrewDate": "15 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-10",
+      "weekday": "Sunday",
+      "englishDate": "August 10th 2025",
+      "hebrewDate": "16 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-11",
+      "weekday": "Monday",
+      "englishDate": "August 11th 2025",
+      "hebrewDate": "17 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-12",
+      "weekday": "Tuesday",
+      "englishDate": "August 12th 2025",
+      "hebrewDate": "18 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-13",
+      "weekday": "Wednesday",
+      "englishDate": "August 13th 2025",
+      "hebrewDate": "19 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-14",
+      "weekday": "Thursday",
+      "englishDate": "August 14th 2025",
+      "hebrewDate": "20 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-15",
+      "weekday": "Friday",
+      "englishDate": "August 15th 2025",
+      "hebrewDate": "21 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-16",
+      "weekday": "Saturday",
+      "englishDate": "August 16th 2025",
+      "hebrewDate": "22 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-17",
+      "weekday": "Sunday",
+      "englishDate": "August 17th 2025",
+      "hebrewDate": "23 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-18",
+      "weekday": "Monday",
+      "englishDate": "August 18th 2025",
+      "hebrewDate": "24 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-19",
+      "weekday": "Tuesday",
+      "englishDate": "August 19th 2025",
+      "hebrewDate": "25 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-20",
+      "weekday": "Wednesday",
+      "englishDate": "August 20th 2025",
+      "hebrewDate": "26 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-21",
+      "weekday": "Thursday",
+      "englishDate": "August 21st 2025",
+      "hebrewDate": "27 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-22",
+      "weekday": "Friday",
+      "englishDate": "August 22nd 2025",
+      "hebrewDate": "28 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-23",
+      "weekday": "Saturday",
+      "englishDate": "August 23rd 2025",
+      "hebrewDate": "29 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-24",
+      "weekday": "Sunday",
+      "englishDate": "August 24th 2025",
+      "hebrewDate": "30 Av 5785"
+    },
+    {
+      "isoDate": "2025-08-25",
+      "weekday": "Monday",
+      "englishDate": "August 25th 2025",
+      "hebrewDate": "1 Elul 5785"
+    },
+    {
+      "isoDate": "2025-08-26",
+      "weekday": "Tuesday",
+      "englishDate": "August 26th 2025",
+      "hebrewDate": "2 Elul 5785"
+    },
+    {
+      "isoDate": "2025-08-27",
+      "weekday": "Wednesday",
+      "englishDate": "August 27th 2025",
+      "hebrewDate": "3 Elul 5785"
+    },
+    {
+      "isoDate": "2025-08-28",
+      "weekday": "Thursday",
+      "englishDate": "August 28th 2025",
+      "hebrewDate": "4 Elul 5785"
+    },
+    {
+      "isoDate": "2025-08-29",
+      "weekday": "Friday",
+      "englishDate": "August 29th 2025",
+      "hebrewDate": "5 Elul 5785"
+    },
+    {
+      "isoDate": "2025-08-30",
+      "weekday": "Saturday",
+      "englishDate": "August 30th 2025",
+      "hebrewDate": "6 Elul 5785"
+    },
+    {
+      "isoDate": "2025-08-31",
+      "weekday": "Sunday",
+      "englishDate": "August 31st 2025",
+      "hebrewDate": "7 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-01",
+      "weekday": "Monday",
+      "englishDate": "September 1st 2025",
+      "hebrewDate": "8 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-02",
+      "weekday": "Tuesday",
+      "englishDate": "September 2nd 2025",
+      "hebrewDate": "9 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-03",
+      "weekday": "Wednesday",
+      "englishDate": "September 3rd 2025",
+      "hebrewDate": "10 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-04",
+      "weekday": "Thursday",
+      "englishDate": "September 4th 2025",
+      "hebrewDate": "11 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-05",
+      "weekday": "Friday",
+      "englishDate": "September 5th 2025",
+      "hebrewDate": "12 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-06",
+      "weekday": "Saturday",
+      "englishDate": "September 6th 2025",
+      "hebrewDate": "13 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-07",
+      "weekday": "Sunday",
+      "englishDate": "September 7th 2025",
+      "hebrewDate": "14 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-08",
+      "weekday": "Monday",
+      "englishDate": "September 8th 2025",
+      "hebrewDate": "15 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-09",
+      "weekday": "Tuesday",
+      "englishDate": "September 9th 2025",
+      "hebrewDate": "16 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-10",
+      "weekday": "Wednesday",
+      "englishDate": "September 10th 2025",
+      "hebrewDate": "17 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-11",
+      "weekday": "Thursday",
+      "englishDate": "September 11th 2025",
+      "hebrewDate": "18 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-12",
+      "weekday": "Friday",
+      "englishDate": "September 12th 2025",
+      "hebrewDate": "19 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-13",
+      "weekday": "Saturday",
+      "englishDate": "September 13th 2025",
+      "hebrewDate": "20 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-14",
+      "weekday": "Sunday",
+      "englishDate": "September 14th 2025",
+      "hebrewDate": "21 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-15",
+      "weekday": "Monday",
+      "englishDate": "September 15th 2025",
+      "hebrewDate": "22 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-16",
+      "weekday": "Tuesday",
+      "englishDate": "September 16th 2025",
+      "hebrewDate": "23 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-17",
+      "weekday": "Wednesday",
+      "englishDate": "September 17th 2025",
+      "hebrewDate": "24 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-18",
+      "weekday": "Thursday",
+      "englishDate": "September 18th 2025",
+      "hebrewDate": "25 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-19",
+      "weekday": "Friday",
+      "englishDate": "September 19th 2025",
+      "hebrewDate": "26 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-20",
+      "weekday": "Saturday",
+      "englishDate": "September 20th 2025",
+      "hebrewDate": "27 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-21",
+      "weekday": "Sunday",
+      "englishDate": "September 21st 2025",
+      "hebrewDate": "28 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-22",
+      "weekday": "Monday",
+      "englishDate": "September 22nd 2025",
+      "hebrewDate": "29 Elul 5785"
+    },
+    {
+      "isoDate": "2025-09-23",
+      "weekday": "Tuesday",
+      "englishDate": "September 23rd 2025",
+      "hebrewDate": "1 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-09-24",
+      "weekday": "Wednesday",
+      "englishDate": "September 24th 2025",
+      "hebrewDate": "2 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-09-25",
+      "weekday": "Thursday",
+      "englishDate": "September 25th 2025",
+      "hebrewDate": "3 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-09-26",
+      "weekday": "Friday",
+      "englishDate": "September 26th 2025",
+      "hebrewDate": "4 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-09-27",
+      "weekday": "Saturday",
+      "englishDate": "September 27th 2025",
+      "hebrewDate": "5 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-09-28",
+      "weekday": "Sunday",
+      "englishDate": "September 28th 2025",
+      "hebrewDate": "6 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-09-29",
+      "weekday": "Monday",
+      "englishDate": "September 29th 2025",
+      "hebrewDate": "7 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-09-30",
+      "weekday": "Tuesday",
+      "englishDate": "September 30th 2025",
+      "hebrewDate": "8 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-01",
+      "weekday": "Wednesday",
+      "englishDate": "October 1st 2025",
+      "hebrewDate": "9 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-02",
+      "weekday": "Thursday",
+      "englishDate": "October 2nd 2025",
+      "hebrewDate": "10 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-03",
+      "weekday": "Friday",
+      "englishDate": "October 3rd 2025",
+      "hebrewDate": "11 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-04",
+      "weekday": "Saturday",
+      "englishDate": "October 4th 2025",
+      "hebrewDate": "12 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-05",
+      "weekday": "Sunday",
+      "englishDate": "October 5th 2025",
+      "hebrewDate": "13 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-06",
+      "weekday": "Monday",
+      "englishDate": "October 6th 2025",
+      "hebrewDate": "14 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-07",
+      "weekday": "Tuesday",
+      "englishDate": "October 7th 2025",
+      "hebrewDate": "15 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-08",
+      "weekday": "Wednesday",
+      "englishDate": "October 8th 2025",
+      "hebrewDate": "16 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-09",
+      "weekday": "Thursday",
+      "englishDate": "October 9th 2025",
+      "hebrewDate": "17 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-10",
+      "weekday": "Friday",
+      "englishDate": "October 10th 2025",
+      "hebrewDate": "18 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-11",
+      "weekday": "Saturday",
+      "englishDate": "October 11th 2025",
+      "hebrewDate": "19 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-12",
+      "weekday": "Sunday",
+      "englishDate": "October 12th 2025",
+      "hebrewDate": "20 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-13",
+      "weekday": "Monday",
+      "englishDate": "October 13th 2025",
+      "hebrewDate": "21 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-14",
+      "weekday": "Tuesday",
+      "englishDate": "October 14th 2025",
+      "hebrewDate": "22 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-15",
+      "weekday": "Wednesday",
+      "englishDate": "October 15th 2025",
+      "hebrewDate": "23 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-16",
+      "weekday": "Thursday",
+      "englishDate": "October 16th 2025",
+      "hebrewDate": "24 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-17",
+      "weekday": "Friday",
+      "englishDate": "October 17th 2025",
+      "hebrewDate": "25 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-18",
+      "weekday": "Saturday",
+      "englishDate": "October 18th 2025",
+      "hebrewDate": "26 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-19",
+      "weekday": "Sunday",
+      "englishDate": "October 19th 2025",
+      "hebrewDate": "27 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-20",
+      "weekday": "Monday",
+      "englishDate": "October 20th 2025",
+      "hebrewDate": "28 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-21",
+      "weekday": "Tuesday",
+      "englishDate": "October 21st 2025",
+      "hebrewDate": "29 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-22",
+      "weekday": "Wednesday",
+      "englishDate": "October 22nd 2025",
+      "hebrewDate": "30 Tishrei 5786"
+    },
+    {
+      "isoDate": "2025-10-23",
+      "weekday": "Thursday",
+      "englishDate": "October 23rd 2025",
+      "hebrewDate": "1 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-10-24",
+      "weekday": "Friday",
+      "englishDate": "October 24th 2025",
+      "hebrewDate": "2 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-10-25",
+      "weekday": "Saturday",
+      "englishDate": "October 25th 2025",
+      "hebrewDate": "3 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-10-26",
+      "weekday": "Sunday",
+      "englishDate": "October 26th 2025",
+      "hebrewDate": "4 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-10-27",
+      "weekday": "Monday",
+      "englishDate": "October 27th 2025",
+      "hebrewDate": "5 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-10-28",
+      "weekday": "Tuesday",
+      "englishDate": "October 28th 2025",
+      "hebrewDate": "6 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-10-29",
+      "weekday": "Wednesday",
+      "englishDate": "October 29th 2025",
+      "hebrewDate": "7 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-10-30",
+      "weekday": "Thursday",
+      "englishDate": "October 30th 2025",
+      "hebrewDate": "8 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-10-31",
+      "weekday": "Friday",
+      "englishDate": "October 31st 2025",
+      "hebrewDate": "9 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-01",
+      "weekday": "Saturday",
+      "englishDate": "November 1st 2025",
+      "hebrewDate": "10 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-02",
+      "weekday": "Sunday",
+      "englishDate": "November 2nd 2025",
+      "hebrewDate": "11 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-03",
+      "weekday": "Monday",
+      "englishDate": "November 3rd 2025",
+      "hebrewDate": "12 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-04",
+      "weekday": "Tuesday",
+      "englishDate": "November 4th 2025",
+      "hebrewDate": "13 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-05",
+      "weekday": "Wednesday",
+      "englishDate": "November 5th 2025",
+      "hebrewDate": "14 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-06",
+      "weekday": "Thursday",
+      "englishDate": "November 6th 2025",
+      "hebrewDate": "15 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-07",
+      "weekday": "Friday",
+      "englishDate": "November 7th 2025",
+      "hebrewDate": "16 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-08",
+      "weekday": "Saturday",
+      "englishDate": "November 8th 2025",
+      "hebrewDate": "17 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-09",
+      "weekday": "Sunday",
+      "englishDate": "November 9th 2025",
+      "hebrewDate": "18 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-10",
+      "weekday": "Monday",
+      "englishDate": "November 10th 2025",
+      "hebrewDate": "19 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-11",
+      "weekday": "Tuesday",
+      "englishDate": "November 11th 2025",
+      "hebrewDate": "20 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-12",
+      "weekday": "Wednesday",
+      "englishDate": "November 12th 2025",
+      "hebrewDate": "21 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-13",
+      "weekday": "Thursday",
+      "englishDate": "November 13th 2025",
+      "hebrewDate": "22 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-14",
+      "weekday": "Friday",
+      "englishDate": "November 14th 2025",
+      "hebrewDate": "23 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-15",
+      "weekday": "Saturday",
+      "englishDate": "November 15th 2025",
+      "hebrewDate": "24 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-16",
+      "weekday": "Sunday",
+      "englishDate": "November 16th 2025",
+      "hebrewDate": "25 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-17",
+      "weekday": "Monday",
+      "englishDate": "November 17th 2025",
+      "hebrewDate": "26 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-18",
+      "weekday": "Tuesday",
+      "englishDate": "November 18th 2025",
+      "hebrewDate": "27 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-19",
+      "weekday": "Wednesday",
+      "englishDate": "November 19th 2025",
+      "hebrewDate": "28 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-20",
+      "weekday": "Thursday",
+      "englishDate": "November 20th 2025",
+      "hebrewDate": "29 Cheshvan 5786"
+    },
+    {
+      "isoDate": "2025-11-21",
+      "weekday": "Friday",
+      "englishDate": "November 21st 2025",
+      "hebrewDate": "1 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-22",
+      "weekday": "Saturday",
+      "englishDate": "November 22nd 2025",
+      "hebrewDate": "2 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-23",
+      "weekday": "Sunday",
+      "englishDate": "November 23rd 2025",
+      "hebrewDate": "3 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-24",
+      "weekday": "Monday",
+      "englishDate": "November 24th 2025",
+      "hebrewDate": "4 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-25",
+      "weekday": "Tuesday",
+      "englishDate": "November 25th 2025",
+      "hebrewDate": "5 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-26",
+      "weekday": "Wednesday",
+      "englishDate": "November 26th 2025",
+      "hebrewDate": "6 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-27",
+      "weekday": "Thursday",
+      "englishDate": "November 27th 2025",
+      "hebrewDate": "7 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-28",
+      "weekday": "Friday",
+      "englishDate": "November 28th 2025",
+      "hebrewDate": "8 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-29",
+      "weekday": "Saturday",
+      "englishDate": "November 29th 2025",
+      "hebrewDate": "9 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-11-30",
+      "weekday": "Sunday",
+      "englishDate": "November 30th 2025",
+      "hebrewDate": "10 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-01",
+      "weekday": "Monday",
+      "englishDate": "December 1st 2025",
+      "hebrewDate": "11 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-02",
+      "weekday": "Tuesday",
+      "englishDate": "December 2nd 2025",
+      "hebrewDate": "12 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-03",
+      "weekday": "Wednesday",
+      "englishDate": "December 3rd 2025",
+      "hebrewDate": "13 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-04",
+      "weekday": "Thursday",
+      "englishDate": "December 4th 2025",
+      "hebrewDate": "14 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-05",
+      "weekday": "Friday",
+      "englishDate": "December 5th 2025",
+      "hebrewDate": "15 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-06",
+      "weekday": "Saturday",
+      "englishDate": "December 6th 2025",
+      "hebrewDate": "16 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-07",
+      "weekday": "Sunday",
+      "englishDate": "December 7th 2025",
+      "hebrewDate": "17 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-08",
+      "weekday": "Monday",
+      "englishDate": "December 8th 2025",
+      "hebrewDate": "18 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-09",
+      "weekday": "Tuesday",
+      "englishDate": "December 9th 2025",
+      "hebrewDate": "19 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-10",
+      "weekday": "Wednesday",
+      "englishDate": "December 10th 2025",
+      "hebrewDate": "20 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-11",
+      "weekday": "Thursday",
+      "englishDate": "December 11th 2025",
+      "hebrewDate": "21 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-12",
+      "weekday": "Friday",
+      "englishDate": "December 12th 2025",
+      "hebrewDate": "22 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-13",
+      "weekday": "Saturday",
+      "englishDate": "December 13th 2025",
+      "hebrewDate": "23 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-14",
+      "weekday": "Sunday",
+      "englishDate": "December 14th 2025",
+      "hebrewDate": "24 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-15",
+      "weekday": "Monday",
+      "englishDate": "December 15th 2025",
+      "hebrewDate": "25 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-16",
+      "weekday": "Tuesday",
+      "englishDate": "December 16th 2025",
+      "hebrewDate": "26 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-17",
+      "weekday": "Wednesday",
+      "englishDate": "December 17th 2025",
+      "hebrewDate": "27 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-18",
+      "weekday": "Thursday",
+      "englishDate": "December 18th 2025",
+      "hebrewDate": "28 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-19",
+      "weekday": "Friday",
+      "englishDate": "December 19th 2025",
+      "hebrewDate": "29 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-20",
+      "weekday": "Saturday",
+      "englishDate": "December 20th 2025",
+      "hebrewDate": "30 Kislev 5786"
+    },
+    {
+      "isoDate": "2025-12-21",
+      "weekday": "Sunday",
+      "englishDate": "December 21st 2025",
+      "hebrewDate": "1 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-22",
+      "weekday": "Monday",
+      "englishDate": "December 22nd 2025",
+      "hebrewDate": "2 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-23",
+      "weekday": "Tuesday",
+      "englishDate": "December 23rd 2025",
+      "hebrewDate": "3 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-24",
+      "weekday": "Wednesday",
+      "englishDate": "December 24th 2025",
+      "hebrewDate": "4 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-25",
+      "weekday": "Thursday",
+      "englishDate": "December 25th 2025",
+      "hebrewDate": "5 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-26",
+      "weekday": "Friday",
+      "englishDate": "December 26th 2025",
+      "hebrewDate": "6 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-27",
+      "weekday": "Saturday",
+      "englishDate": "December 27th 2025",
+      "hebrewDate": "7 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-28",
+      "weekday": "Sunday",
+      "englishDate": "December 28th 2025",
+      "hebrewDate": "8 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-29",
+      "weekday": "Monday",
+      "englishDate": "December 29th 2025",
+      "hebrewDate": "9 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-30",
+      "weekday": "Tuesday",
+      "englishDate": "December 30th 2025",
+      "hebrewDate": "10 Teves 5786"
+    },
+    {
+      "isoDate": "2025-12-31",
+      "weekday": "Wednesday",
+      "englishDate": "December 31st 2025",
+      "hebrewDate": "11 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-01",
+      "weekday": "Thursday",
+      "englishDate": "January 1st 2026",
+      "hebrewDate": "12 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-02",
+      "weekday": "Friday",
+      "englishDate": "January 2nd 2026",
+      "hebrewDate": "13 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-03",
+      "weekday": "Saturday",
+      "englishDate": "January 3rd 2026",
+      "hebrewDate": "14 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-04",
+      "weekday": "Sunday",
+      "englishDate": "January 4th 2026",
+      "hebrewDate": "15 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-05",
+      "weekday": "Monday",
+      "englishDate": "January 5th 2026",
+      "hebrewDate": "16 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-06",
+      "weekday": "Tuesday",
+      "englishDate": "January 6th 2026",
+      "hebrewDate": "17 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-07",
+      "weekday": "Wednesday",
+      "englishDate": "January 7th 2026",
+      "hebrewDate": "18 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-08",
+      "weekday": "Thursday",
+      "englishDate": "January 8th 2026",
+      "hebrewDate": "19 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-09",
+      "weekday": "Friday",
+      "englishDate": "January 9th 2026",
+      "hebrewDate": "20 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-10",
+      "weekday": "Saturday",
+      "englishDate": "January 10th 2026",
+      "hebrewDate": "21 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-11",
+      "weekday": "Sunday",
+      "englishDate": "January 11th 2026",
+      "hebrewDate": "22 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-12",
+      "weekday": "Monday",
+      "englishDate": "January 12th 2026",
+      "hebrewDate": "23 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-13",
+      "weekday": "Tuesday",
+      "englishDate": "January 13th 2026",
+      "hebrewDate": "24 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-14",
+      "weekday": "Wednesday",
+      "englishDate": "January 14th 2026",
+      "hebrewDate": "25 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-15",
+      "weekday": "Thursday",
+      "englishDate": "January 15th 2026",
+      "hebrewDate": "26 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-16",
+      "weekday": "Friday",
+      "englishDate": "January 16th 2026",
+      "hebrewDate": "27 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-17",
+      "weekday": "Saturday",
+      "englishDate": "January 17th 2026",
+      "hebrewDate": "28 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-18",
+      "weekday": "Sunday",
+      "englishDate": "January 18th 2026",
+      "hebrewDate": "29 Teves 5786"
+    },
+    {
+      "isoDate": "2026-01-19",
+      "weekday": "Monday",
+      "englishDate": "January 19th 2026",
+      "hebrewDate": "1 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-20",
+      "weekday": "Tuesday",
+      "englishDate": "January 20th 2026",
+      "hebrewDate": "2 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-21",
+      "weekday": "Wednesday",
+      "englishDate": "January 21st 2026",
+      "hebrewDate": "3 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-22",
+      "weekday": "Thursday",
+      "englishDate": "January 22nd 2026",
+      "hebrewDate": "4 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-23",
+      "weekday": "Friday",
+      "englishDate": "January 23rd 2026",
+      "hebrewDate": "5 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-24",
+      "weekday": "Saturday",
+      "englishDate": "January 24th 2026",
+      "hebrewDate": "6 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-25",
+      "weekday": "Sunday",
+      "englishDate": "January 25th 2026",
+      "hebrewDate": "7 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-26",
+      "weekday": "Monday",
+      "englishDate": "January 26th 2026",
+      "hebrewDate": "8 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-27",
+      "weekday": "Tuesday",
+      "englishDate": "January 27th 2026",
+      "hebrewDate": "9 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-28",
+      "weekday": "Wednesday",
+      "englishDate": "January 28th 2026",
+      "hebrewDate": "10 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-29",
+      "weekday": "Thursday",
+      "englishDate": "January 29th 2026",
+      "hebrewDate": "11 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-30",
+      "weekday": "Friday",
+      "englishDate": "January 30th 2026",
+      "hebrewDate": "12 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-01-31",
+      "weekday": "Saturday",
+      "englishDate": "January 31st 2026",
+      "hebrewDate": "13 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-01",
+      "weekday": "Sunday",
+      "englishDate": "February 1st 2026",
+      "hebrewDate": "14 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-02",
+      "weekday": "Monday",
+      "englishDate": "February 2nd 2026",
+      "hebrewDate": "15 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-03",
+      "weekday": "Tuesday",
+      "englishDate": "February 3rd 2026",
+      "hebrewDate": "16 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-04",
+      "weekday": "Wednesday",
+      "englishDate": "February 4th 2026",
+      "hebrewDate": "17 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-05",
+      "weekday": "Thursday",
+      "englishDate": "February 5th 2026",
+      "hebrewDate": "18 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-06",
+      "weekday": "Friday",
+      "englishDate": "February 6th 2026",
+      "hebrewDate": "19 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-07",
+      "weekday": "Saturday",
+      "englishDate": "February 7th 2026",
+      "hebrewDate": "20 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-08",
+      "weekday": "Sunday",
+      "englishDate": "February 8th 2026",
+      "hebrewDate": "21 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-09",
+      "weekday": "Monday",
+      "englishDate": "February 9th 2026",
+      "hebrewDate": "22 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-10",
+      "weekday": "Tuesday",
+      "englishDate": "February 10th 2026",
+      "hebrewDate": "23 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-11",
+      "weekday": "Wednesday",
+      "englishDate": "February 11th 2026",
+      "hebrewDate": "24 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-12",
+      "weekday": "Thursday",
+      "englishDate": "February 12th 2026",
+      "hebrewDate": "25 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-13",
+      "weekday": "Friday",
+      "englishDate": "February 13th 2026",
+      "hebrewDate": "26 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-14",
+      "weekday": "Saturday",
+      "englishDate": "February 14th 2026",
+      "hebrewDate": "27 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-15",
+      "weekday": "Sunday",
+      "englishDate": "February 15th 2026",
+      "hebrewDate": "28 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-16",
+      "weekday": "Monday",
+      "englishDate": "February 16th 2026",
+      "hebrewDate": "29 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-17",
+      "weekday": "Tuesday",
+      "englishDate": "February 17th 2026",
+      "hebrewDate": "30 Shevat 5786"
+    },
+    {
+      "isoDate": "2026-02-18",
+      "weekday": "Wednesday",
+      "englishDate": "February 18th 2026",
+      "hebrewDate": "1 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-19",
+      "weekday": "Thursday",
+      "englishDate": "February 19th 2026",
+      "hebrewDate": "2 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-20",
+      "weekday": "Friday",
+      "englishDate": "February 20th 2026",
+      "hebrewDate": "3 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-21",
+      "weekday": "Saturday",
+      "englishDate": "February 21st 2026",
+      "hebrewDate": "4 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-22",
+      "weekday": "Sunday",
+      "englishDate": "February 22nd 2026",
+      "hebrewDate": "5 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-23",
+      "weekday": "Monday",
+      "englishDate": "February 23rd 2026",
+      "hebrewDate": "6 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-24",
+      "weekday": "Tuesday",
+      "englishDate": "February 24th 2026",
+      "hebrewDate": "7 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-25",
+      "weekday": "Wednesday",
+      "englishDate": "February 25th 2026",
+      "hebrewDate": "8 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-26",
+      "weekday": "Thursday",
+      "englishDate": "February 26th 2026",
+      "hebrewDate": "9 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-27",
+      "weekday": "Friday",
+      "englishDate": "February 27th 2026",
+      "hebrewDate": "10 Adar 5786"
+    },
+    {
+      "isoDate": "2026-02-28",
+      "weekday": "Saturday",
+      "englishDate": "February 28th 2026",
+      "hebrewDate": "11 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-01",
+      "weekday": "Sunday",
+      "englishDate": "March 1st 2026",
+      "hebrewDate": "12 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-02",
+      "weekday": "Monday",
+      "englishDate": "March 2nd 2026",
+      "hebrewDate": "13 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-03",
+      "weekday": "Tuesday",
+      "englishDate": "March 3rd 2026",
+      "hebrewDate": "14 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-04",
+      "weekday": "Wednesday",
+      "englishDate": "March 4th 2026",
+      "hebrewDate": "15 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-05",
+      "weekday": "Thursday",
+      "englishDate": "March 5th 2026",
+      "hebrewDate": "16 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-06",
+      "weekday": "Friday",
+      "englishDate": "March 6th 2026",
+      "hebrewDate": "17 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-07",
+      "weekday": "Saturday",
+      "englishDate": "March 7th 2026",
+      "hebrewDate": "18 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-08",
+      "weekday": "Sunday",
+      "englishDate": "March 8th 2026",
+      "hebrewDate": "19 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-09",
+      "weekday": "Monday",
+      "englishDate": "March 9th 2026",
+      "hebrewDate": "20 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-10",
+      "weekday": "Tuesday",
+      "englishDate": "March 10th 2026",
+      "hebrewDate": "21 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-11",
+      "weekday": "Wednesday",
+      "englishDate": "March 11th 2026",
+      "hebrewDate": "22 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-12",
+      "weekday": "Thursday",
+      "englishDate": "March 12th 2026",
+      "hebrewDate": "23 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-13",
+      "weekday": "Friday",
+      "englishDate": "March 13th 2026",
+      "hebrewDate": "24 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-14",
+      "weekday": "Saturday",
+      "englishDate": "March 14th 2026",
+      "hebrewDate": "25 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-15",
+      "weekday": "Sunday",
+      "englishDate": "March 15th 2026",
+      "hebrewDate": "26 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-16",
+      "weekday": "Monday",
+      "englishDate": "March 16th 2026",
+      "hebrewDate": "27 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-17",
+      "weekday": "Tuesday",
+      "englishDate": "March 17th 2026",
+      "hebrewDate": "28 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-18",
+      "weekday": "Wednesday",
+      "englishDate": "March 18th 2026",
+      "hebrewDate": "29 Adar 5786"
+    },
+    {
+      "isoDate": "2026-03-19",
+      "weekday": "Thursday",
+      "englishDate": "March 19th 2026",
+      "hebrewDate": "1 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-20",
+      "weekday": "Friday",
+      "englishDate": "March 20th 2026",
+      "hebrewDate": "2 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-21",
+      "weekday": "Saturday",
+      "englishDate": "March 21st 2026",
+      "hebrewDate": "3 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-22",
+      "weekday": "Sunday",
+      "englishDate": "March 22nd 2026",
+      "hebrewDate": "4 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-23",
+      "weekday": "Monday",
+      "englishDate": "March 23rd 2026",
+      "hebrewDate": "5 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-24",
+      "weekday": "Tuesday",
+      "englishDate": "March 24th 2026",
+      "hebrewDate": "6 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-25",
+      "weekday": "Wednesday",
+      "englishDate": "March 25th 2026",
+      "hebrewDate": "7 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-26",
+      "weekday": "Thursday",
+      "englishDate": "March 26th 2026",
+      "hebrewDate": "8 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-27",
+      "weekday": "Friday",
+      "englishDate": "March 27th 2026",
+      "hebrewDate": "9 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-28",
+      "weekday": "Saturday",
+      "englishDate": "March 28th 2026",
+      "hebrewDate": "10 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-29",
+      "weekday": "Sunday",
+      "englishDate": "March 29th 2026",
+      "hebrewDate": "11 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-30",
+      "weekday": "Monday",
+      "englishDate": "March 30th 2026",
+      "hebrewDate": "12 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-03-31",
+      "weekday": "Tuesday",
+      "englishDate": "March 31st 2026",
+      "hebrewDate": "13 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-01",
+      "weekday": "Wednesday",
+      "englishDate": "April 1st 2026",
+      "hebrewDate": "14 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-02",
+      "weekday": "Thursday",
+      "englishDate": "April 2nd 2026",
+      "hebrewDate": "15 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-03",
+      "weekday": "Friday",
+      "englishDate": "April 3rd 2026",
+      "hebrewDate": "16 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-04",
+      "weekday": "Saturday",
+      "englishDate": "April 4th 2026",
+      "hebrewDate": "17 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-05",
+      "weekday": "Sunday",
+      "englishDate": "April 5th 2026",
+      "hebrewDate": "18 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-06",
+      "weekday": "Monday",
+      "englishDate": "April 6th 2026",
+      "hebrewDate": "19 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-07",
+      "weekday": "Tuesday",
+      "englishDate": "April 7th 2026",
+      "hebrewDate": "20 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-08",
+      "weekday": "Wednesday",
+      "englishDate": "April 8th 2026",
+      "hebrewDate": "21 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-09",
+      "weekday": "Thursday",
+      "englishDate": "April 9th 2026",
+      "hebrewDate": "22 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-10",
+      "weekday": "Friday",
+      "englishDate": "April 10th 2026",
+      "hebrewDate": "23 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-11",
+      "weekday": "Saturday",
+      "englishDate": "April 11th 2026",
+      "hebrewDate": "24 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-12",
+      "weekday": "Sunday",
+      "englishDate": "April 12th 2026",
+      "hebrewDate": "25 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-13",
+      "weekday": "Monday",
+      "englishDate": "April 13th 2026",
+      "hebrewDate": "26 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-14",
+      "weekday": "Tuesday",
+      "englishDate": "April 14th 2026",
+      "hebrewDate": "27 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-15",
+      "weekday": "Wednesday",
+      "englishDate": "April 15th 2026",
+      "hebrewDate": "28 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-16",
+      "weekday": "Thursday",
+      "englishDate": "April 16th 2026",
+      "hebrewDate": "29 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-17",
+      "weekday": "Friday",
+      "englishDate": "April 17th 2026",
+      "hebrewDate": "30 Nisan 5786"
+    },
+    {
+      "isoDate": "2026-04-18",
+      "weekday": "Saturday",
+      "englishDate": "April 18th 2026",
+      "hebrewDate": "1 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-19",
+      "weekday": "Sunday",
+      "englishDate": "April 19th 2026",
+      "hebrewDate": "2 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-20",
+      "weekday": "Monday",
+      "englishDate": "April 20th 2026",
+      "hebrewDate": "3 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-21",
+      "weekday": "Tuesday",
+      "englishDate": "April 21st 2026",
+      "hebrewDate": "4 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-22",
+      "weekday": "Wednesday",
+      "englishDate": "April 22nd 2026",
+      "hebrewDate": "5 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-23",
+      "weekday": "Thursday",
+      "englishDate": "April 23rd 2026",
+      "hebrewDate": "6 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-24",
+      "weekday": "Friday",
+      "englishDate": "April 24th 2026",
+      "hebrewDate": "7 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-25",
+      "weekday": "Saturday",
+      "englishDate": "April 25th 2026",
+      "hebrewDate": "8 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-26",
+      "weekday": "Sunday",
+      "englishDate": "April 26th 2026",
+      "hebrewDate": "9 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-27",
+      "weekday": "Monday",
+      "englishDate": "April 27th 2026",
+      "hebrewDate": "10 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-28",
+      "weekday": "Tuesday",
+      "englishDate": "April 28th 2026",
+      "hebrewDate": "11 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-29",
+      "weekday": "Wednesday",
+      "englishDate": "April 29th 2026",
+      "hebrewDate": "12 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-04-30",
+      "weekday": "Thursday",
+      "englishDate": "April 30th 2026",
+      "hebrewDate": "13 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-01",
+      "weekday": "Friday",
+      "englishDate": "May 1st 2026",
+      "hebrewDate": "14 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-02",
+      "weekday": "Saturday",
+      "englishDate": "May 2nd 2026",
+      "hebrewDate": "15 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-03",
+      "weekday": "Sunday",
+      "englishDate": "May 3rd 2026",
+      "hebrewDate": "16 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-04",
+      "weekday": "Monday",
+      "englishDate": "May 4th 2026",
+      "hebrewDate": "17 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-05",
+      "weekday": "Tuesday",
+      "englishDate": "May 5th 2026",
+      "hebrewDate": "18 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-06",
+      "weekday": "Wednesday",
+      "englishDate": "May 6th 2026",
+      "hebrewDate": "19 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-07",
+      "weekday": "Thursday",
+      "englishDate": "May 7th 2026",
+      "hebrewDate": "20 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-08",
+      "weekday": "Friday",
+      "englishDate": "May 8th 2026",
+      "hebrewDate": "21 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-09",
+      "weekday": "Saturday",
+      "englishDate": "May 9th 2026",
+      "hebrewDate": "22 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-10",
+      "weekday": "Sunday",
+      "englishDate": "May 10th 2026",
+      "hebrewDate": "23 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-11",
+      "weekday": "Monday",
+      "englishDate": "May 11th 2026",
+      "hebrewDate": "24 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-12",
+      "weekday": "Tuesday",
+      "englishDate": "May 12th 2026",
+      "hebrewDate": "25 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-13",
+      "weekday": "Wednesday",
+      "englishDate": "May 13th 2026",
+      "hebrewDate": "26 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-14",
+      "weekday": "Thursday",
+      "englishDate": "May 14th 2026",
+      "hebrewDate": "27 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-15",
+      "weekday": "Friday",
+      "englishDate": "May 15th 2026",
+      "hebrewDate": "28 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-16",
+      "weekday": "Saturday",
+      "englishDate": "May 16th 2026",
+      "hebrewDate": "29 Iyar 5786"
+    },
+    {
+      "isoDate": "2026-05-17",
+      "weekday": "Sunday",
+      "englishDate": "May 17th 2026",
+      "hebrewDate": "1 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-18",
+      "weekday": "Monday",
+      "englishDate": "May 18th 2026",
+      "hebrewDate": "2 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-19",
+      "weekday": "Tuesday",
+      "englishDate": "May 19th 2026",
+      "hebrewDate": "3 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-20",
+      "weekday": "Wednesday",
+      "englishDate": "May 20th 2026",
+      "hebrewDate": "4 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-21",
+      "weekday": "Thursday",
+      "englishDate": "May 21st 2026",
+      "hebrewDate": "5 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-22",
+      "weekday": "Friday",
+      "englishDate": "May 22nd 2026",
+      "hebrewDate": "6 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-23",
+      "weekday": "Saturday",
+      "englishDate": "May 23rd 2026",
+      "hebrewDate": "7 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-24",
+      "weekday": "Sunday",
+      "englishDate": "May 24th 2026",
+      "hebrewDate": "8 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-25",
+      "weekday": "Monday",
+      "englishDate": "May 25th 2026",
+      "hebrewDate": "9 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-26",
+      "weekday": "Tuesday",
+      "englishDate": "May 26th 2026",
+      "hebrewDate": "10 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-27",
+      "weekday": "Wednesday",
+      "englishDate": "May 27th 2026",
+      "hebrewDate": "11 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-28",
+      "weekday": "Thursday",
+      "englishDate": "May 28th 2026",
+      "hebrewDate": "12 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-29",
+      "weekday": "Friday",
+      "englishDate": "May 29th 2026",
+      "hebrewDate": "13 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-30",
+      "weekday": "Saturday",
+      "englishDate": "May 30th 2026",
+      "hebrewDate": "14 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-05-31",
+      "weekday": "Sunday",
+      "englishDate": "May 31st 2026",
+      "hebrewDate": "15 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-01",
+      "weekday": "Monday",
+      "englishDate": "June 1st 2026",
+      "hebrewDate": "16 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-02",
+      "weekday": "Tuesday",
+      "englishDate": "June 2nd 2026",
+      "hebrewDate": "17 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-03",
+      "weekday": "Wednesday",
+      "englishDate": "June 3rd 2026",
+      "hebrewDate": "18 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-04",
+      "weekday": "Thursday",
+      "englishDate": "June 4th 2026",
+      "hebrewDate": "19 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-05",
+      "weekday": "Friday",
+      "englishDate": "June 5th 2026",
+      "hebrewDate": "20 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-06",
+      "weekday": "Saturday",
+      "englishDate": "June 6th 2026",
+      "hebrewDate": "21 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-07",
+      "weekday": "Sunday",
+      "englishDate": "June 7th 2026",
+      "hebrewDate": "22 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-08",
+      "weekday": "Monday",
+      "englishDate": "June 8th 2026",
+      "hebrewDate": "23 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-09",
+      "weekday": "Tuesday",
+      "englishDate": "June 9th 2026",
+      "hebrewDate": "24 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-10",
+      "weekday": "Wednesday",
+      "englishDate": "June 10th 2026",
+      "hebrewDate": "25 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-11",
+      "weekday": "Thursday",
+      "englishDate": "June 11th 2026",
+      "hebrewDate": "26 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-12",
+      "weekday": "Friday",
+      "englishDate": "June 12th 2026",
+      "hebrewDate": "27 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-13",
+      "weekday": "Saturday",
+      "englishDate": "June 13th 2026",
+      "hebrewDate": "28 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-14",
+      "weekday": "Sunday",
+      "englishDate": "June 14th 2026",
+      "hebrewDate": "29 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-15",
+      "weekday": "Monday",
+      "englishDate": "June 15th 2026",
+      "hebrewDate": "30 Sivan 5786"
+    },
+    {
+      "isoDate": "2026-06-16",
+      "weekday": "Tuesday",
+      "englishDate": "June 16th 2026",
+      "hebrewDate": "1 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-17",
+      "weekday": "Wednesday",
+      "englishDate": "June 17th 2026",
+      "hebrewDate": "2 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-18",
+      "weekday": "Thursday",
+      "englishDate": "June 18th 2026",
+      "hebrewDate": "3 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-19",
+      "weekday": "Friday",
+      "englishDate": "June 19th 2026",
+      "hebrewDate": "4 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-20",
+      "weekday": "Saturday",
+      "englishDate": "June 20th 2026",
+      "hebrewDate": "5 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-21",
+      "weekday": "Sunday",
+      "englishDate": "June 21st 2026",
+      "hebrewDate": "6 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-22",
+      "weekday": "Monday",
+      "englishDate": "June 22nd 2026",
+      "hebrewDate": "7 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-23",
+      "weekday": "Tuesday",
+      "englishDate": "June 23rd 2026",
+      "hebrewDate": "8 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-24",
+      "weekday": "Wednesday",
+      "englishDate": "June 24th 2026",
+      "hebrewDate": "9 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-25",
+      "weekday": "Thursday",
+      "englishDate": "June 25th 2026",
+      "hebrewDate": "10 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-26",
+      "weekday": "Friday",
+      "englishDate": "June 26th 2026",
+      "hebrewDate": "11 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-27",
+      "weekday": "Saturday",
+      "englishDate": "June 27th 2026",
+      "hebrewDate": "12 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-28",
+      "weekday": "Sunday",
+      "englishDate": "June 28th 2026",
+      "hebrewDate": "13 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-29",
+      "weekday": "Monday",
+      "englishDate": "June 29th 2026",
+      "hebrewDate": "14 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-06-30",
+      "weekday": "Tuesday",
+      "englishDate": "June 30th 2026",
+      "hebrewDate": "15 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-01",
+      "weekday": "Wednesday",
+      "englishDate": "July 1st 2026",
+      "hebrewDate": "16 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-02",
+      "weekday": "Thursday",
+      "englishDate": "July 2nd 2026",
+      "hebrewDate": "17 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-03",
+      "weekday": "Friday",
+      "englishDate": "July 3rd 2026",
+      "hebrewDate": "18 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-04",
+      "weekday": "Saturday",
+      "englishDate": "July 4th 2026",
+      "hebrewDate": "19 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-05",
+      "weekday": "Sunday",
+      "englishDate": "July 5th 2026",
+      "hebrewDate": "20 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-06",
+      "weekday": "Monday",
+      "englishDate": "July 6th 2026",
+      "hebrewDate": "21 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-07",
+      "weekday": "Tuesday",
+      "englishDate": "July 7th 2026",
+      "hebrewDate": "22 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-08",
+      "weekday": "Wednesday",
+      "englishDate": "July 8th 2026",
+      "hebrewDate": "23 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-09",
+      "weekday": "Thursday",
+      "englishDate": "July 9th 2026",
+      "hebrewDate": "24 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-10",
+      "weekday": "Friday",
+      "englishDate": "July 10th 2026",
+      "hebrewDate": "25 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-11",
+      "weekday": "Saturday",
+      "englishDate": "July 11th 2026",
+      "hebrewDate": "26 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-12",
+      "weekday": "Sunday",
+      "englishDate": "July 12th 2026",
+      "hebrewDate": "27 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-13",
+      "weekday": "Monday",
+      "englishDate": "July 13th 2026",
+      "hebrewDate": "28 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-14",
+      "weekday": "Tuesday",
+      "englishDate": "July 14th 2026",
+      "hebrewDate": "29 Tamuz 5786"
+    },
+    {
+      "isoDate": "2026-07-15",
+      "weekday": "Wednesday",
+      "englishDate": "July 15th 2026",
+      "hebrewDate": "1 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-16",
+      "weekday": "Thursday",
+      "englishDate": "July 16th 2026",
+      "hebrewDate": "2 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-17",
+      "weekday": "Friday",
+      "englishDate": "July 17th 2026",
+      "hebrewDate": "3 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-18",
+      "weekday": "Saturday",
+      "englishDate": "July 18th 2026",
+      "hebrewDate": "4 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-19",
+      "weekday": "Sunday",
+      "englishDate": "July 19th 2026",
+      "hebrewDate": "5 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-20",
+      "weekday": "Monday",
+      "englishDate": "July 20th 2026",
+      "hebrewDate": "6 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-21",
+      "weekday": "Tuesday",
+      "englishDate": "July 21st 2026",
+      "hebrewDate": "7 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-22",
+      "weekday": "Wednesday",
+      "englishDate": "July 22nd 2026",
+      "hebrewDate": "8 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-23",
+      "weekday": "Thursday",
+      "englishDate": "July 23rd 2026",
+      "hebrewDate": "9 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-24",
+      "weekday": "Friday",
+      "englishDate": "July 24th 2026",
+      "hebrewDate": "10 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-25",
+      "weekday": "Saturday",
+      "englishDate": "July 25th 2026",
+      "hebrewDate": "11 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-26",
+      "weekday": "Sunday",
+      "englishDate": "July 26th 2026",
+      "hebrewDate": "12 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-27",
+      "weekday": "Monday",
+      "englishDate": "July 27th 2026",
+      "hebrewDate": "13 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-28",
+      "weekday": "Tuesday",
+      "englishDate": "July 28th 2026",
+      "hebrewDate": "14 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-29",
+      "weekday": "Wednesday",
+      "englishDate": "July 29th 2026",
+      "hebrewDate": "15 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-30",
+      "weekday": "Thursday",
+      "englishDate": "July 30th 2026",
+      "hebrewDate": "16 Av 5786"
+    },
+    {
+      "isoDate": "2026-07-31",
+      "weekday": "Friday",
+      "englishDate": "July 31st 2026",
+      "hebrewDate": "17 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-01",
+      "weekday": "Saturday",
+      "englishDate": "August 1st 2026",
+      "hebrewDate": "18 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-02",
+      "weekday": "Sunday",
+      "englishDate": "August 2nd 2026",
+      "hebrewDate": "19 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-03",
+      "weekday": "Monday",
+      "englishDate": "August 3rd 2026",
+      "hebrewDate": "20 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-04",
+      "weekday": "Tuesday",
+      "englishDate": "August 4th 2026",
+      "hebrewDate": "21 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-05",
+      "weekday": "Wednesday",
+      "englishDate": "August 5th 2026",
+      "hebrewDate": "22 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-06",
+      "weekday": "Thursday",
+      "englishDate": "August 6th 2026",
+      "hebrewDate": "23 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-07",
+      "weekday": "Friday",
+      "englishDate": "August 7th 2026",
+      "hebrewDate": "24 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-08",
+      "weekday": "Saturday",
+      "englishDate": "August 8th 2026",
+      "hebrewDate": "25 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-09",
+      "weekday": "Sunday",
+      "englishDate": "August 9th 2026",
+      "hebrewDate": "26 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-10",
+      "weekday": "Monday",
+      "englishDate": "August 10th 2026",
+      "hebrewDate": "27 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-11",
+      "weekday": "Tuesday",
+      "englishDate": "August 11th 2026",
+      "hebrewDate": "28 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-12",
+      "weekday": "Wednesday",
+      "englishDate": "August 12th 2026",
+      "hebrewDate": "29 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-13",
+      "weekday": "Thursday",
+      "englishDate": "August 13th 2026",
+      "hebrewDate": "30 Av 5786"
+    },
+    {
+      "isoDate": "2026-08-14",
+      "weekday": "Friday",
+      "englishDate": "August 14th 2026",
+      "hebrewDate": "1 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-15",
+      "weekday": "Saturday",
+      "englishDate": "August 15th 2026",
+      "hebrewDate": "2 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-16",
+      "weekday": "Sunday",
+      "englishDate": "August 16th 2026",
+      "hebrewDate": "3 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-17",
+      "weekday": "Monday",
+      "englishDate": "August 17th 2026",
+      "hebrewDate": "4 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-18",
+      "weekday": "Tuesday",
+      "englishDate": "August 18th 2026",
+      "hebrewDate": "5 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-19",
+      "weekday": "Wednesday",
+      "englishDate": "August 19th 2026",
+      "hebrewDate": "6 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-20",
+      "weekday": "Thursday",
+      "englishDate": "August 20th 2026",
+      "hebrewDate": "7 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-21",
+      "weekday": "Friday",
+      "englishDate": "August 21st 2026",
+      "hebrewDate": "8 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-22",
+      "weekday": "Saturday",
+      "englishDate": "August 22nd 2026",
+      "hebrewDate": "9 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-23",
+      "weekday": "Sunday",
+      "englishDate": "August 23rd 2026",
+      "hebrewDate": "10 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-24",
+      "weekday": "Monday",
+      "englishDate": "August 24th 2026",
+      "hebrewDate": "11 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-25",
+      "weekday": "Tuesday",
+      "englishDate": "August 25th 2026",
+      "hebrewDate": "12 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-26",
+      "weekday": "Wednesday",
+      "englishDate": "August 26th 2026",
+      "hebrewDate": "13 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-27",
+      "weekday": "Thursday",
+      "englishDate": "August 27th 2026",
+      "hebrewDate": "14 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-28",
+      "weekday": "Friday",
+      "englishDate": "August 28th 2026",
+      "hebrewDate": "15 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-29",
+      "weekday": "Saturday",
+      "englishDate": "August 29th 2026",
+      "hebrewDate": "16 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-30",
+      "weekday": "Sunday",
+      "englishDate": "August 30th 2026",
+      "hebrewDate": "17 Elul 5786"
+    },
+    {
+      "isoDate": "2026-08-31",
+      "weekday": "Monday",
+      "englishDate": "August 31st 2026",
+      "hebrewDate": "18 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-01",
+      "weekday": "Tuesday",
+      "englishDate": "September 1st 2026",
+      "hebrewDate": "19 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-02",
+      "weekday": "Wednesday",
+      "englishDate": "September 2nd 2026",
+      "hebrewDate": "20 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-03",
+      "weekday": "Thursday",
+      "englishDate": "September 3rd 2026",
+      "hebrewDate": "21 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-04",
+      "weekday": "Friday",
+      "englishDate": "September 4th 2026",
+      "hebrewDate": "22 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-05",
+      "weekday": "Saturday",
+      "englishDate": "September 5th 2026",
+      "hebrewDate": "23 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-06",
+      "weekday": "Sunday",
+      "englishDate": "September 6th 2026",
+      "hebrewDate": "24 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-07",
+      "weekday": "Monday",
+      "englishDate": "September 7th 2026",
+      "hebrewDate": "25 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-08",
+      "weekday": "Tuesday",
+      "englishDate": "September 8th 2026",
+      "hebrewDate": "26 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-09",
+      "weekday": "Wednesday",
+      "englishDate": "September 9th 2026",
+      "hebrewDate": "27 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-10",
+      "weekday": "Thursday",
+      "englishDate": "September 10th 2026",
+      "hebrewDate": "28 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-11",
+      "weekday": "Friday",
+      "englishDate": "September 11th 2026",
+      "hebrewDate": "29 Elul 5786"
+    },
+    {
+      "isoDate": "2026-09-12",
+      "weekday": "Saturday",
+      "englishDate": "September 12th 2026",
+      "hebrewDate": "1 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-13",
+      "weekday": "Sunday",
+      "englishDate": "September 13th 2026",
+      "hebrewDate": "2 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-14",
+      "weekday": "Monday",
+      "englishDate": "September 14th 2026",
+      "hebrewDate": "3 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-15",
+      "weekday": "Tuesday",
+      "englishDate": "September 15th 2026",
+      "hebrewDate": "4 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-16",
+      "weekday": "Wednesday",
+      "englishDate": "September 16th 2026",
+      "hebrewDate": "5 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-17",
+      "weekday": "Thursday",
+      "englishDate": "September 17th 2026",
+      "hebrewDate": "6 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-18",
+      "weekday": "Friday",
+      "englishDate": "September 18th 2026",
+      "hebrewDate": "7 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-19",
+      "weekday": "Saturday",
+      "englishDate": "September 19th 2026",
+      "hebrewDate": "8 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-20",
+      "weekday": "Sunday",
+      "englishDate": "September 20th 2026",
+      "hebrewDate": "9 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-21",
+      "weekday": "Monday",
+      "englishDate": "September 21st 2026",
+      "hebrewDate": "10 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-22",
+      "weekday": "Tuesday",
+      "englishDate": "September 22nd 2026",
+      "hebrewDate": "11 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-23",
+      "weekday": "Wednesday",
+      "englishDate": "September 23rd 2026",
+      "hebrewDate": "12 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-24",
+      "weekday": "Thursday",
+      "englishDate": "September 24th 2026",
+      "hebrewDate": "13 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-25",
+      "weekday": "Friday",
+      "englishDate": "September 25th 2026",
+      "hebrewDate": "14 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-26",
+      "weekday": "Saturday",
+      "englishDate": "September 26th 2026",
+      "hebrewDate": "15 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-27",
+      "weekday": "Sunday",
+      "englishDate": "September 27th 2026",
+      "hebrewDate": "16 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-28",
+      "weekday": "Monday",
+      "englishDate": "September 28th 2026",
+      "hebrewDate": "17 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-29",
+      "weekday": "Tuesday",
+      "englishDate": "September 29th 2026",
+      "hebrewDate": "18 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-09-30",
+      "weekday": "Wednesday",
+      "englishDate": "September 30th 2026",
+      "hebrewDate": "19 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-01",
+      "weekday": "Thursday",
+      "englishDate": "October 1st 2026",
+      "hebrewDate": "20 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-02",
+      "weekday": "Friday",
+      "englishDate": "October 2nd 2026",
+      "hebrewDate": "21 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-03",
+      "weekday": "Saturday",
+      "englishDate": "October 3rd 2026",
+      "hebrewDate": "22 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-04",
+      "weekday": "Sunday",
+      "englishDate": "October 4th 2026",
+      "hebrewDate": "23 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-05",
+      "weekday": "Monday",
+      "englishDate": "October 5th 2026",
+      "hebrewDate": "24 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-06",
+      "weekday": "Tuesday",
+      "englishDate": "October 6th 2026",
+      "hebrewDate": "25 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-07",
+      "weekday": "Wednesday",
+      "englishDate": "October 7th 2026",
+      "hebrewDate": "26 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-08",
+      "weekday": "Thursday",
+      "englishDate": "October 8th 2026",
+      "hebrewDate": "27 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-09",
+      "weekday": "Friday",
+      "englishDate": "October 9th 2026",
+      "hebrewDate": "28 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-10",
+      "weekday": "Saturday",
+      "englishDate": "October 10th 2026",
+      "hebrewDate": "29 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-11",
+      "weekday": "Sunday",
+      "englishDate": "October 11th 2026",
+      "hebrewDate": "30 Tishrei 5787"
+    },
+    {
+      "isoDate": "2026-10-12",
+      "weekday": "Monday",
+      "englishDate": "October 12th 2026",
+      "hebrewDate": "1 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-13",
+      "weekday": "Tuesday",
+      "englishDate": "October 13th 2026",
+      "hebrewDate": "2 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-14",
+      "weekday": "Wednesday",
+      "englishDate": "October 14th 2026",
+      "hebrewDate": "3 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-15",
+      "weekday": "Thursday",
+      "englishDate": "October 15th 2026",
+      "hebrewDate": "4 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-16",
+      "weekday": "Friday",
+      "englishDate": "October 16th 2026",
+      "hebrewDate": "5 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-17",
+      "weekday": "Saturday",
+      "englishDate": "October 17th 2026",
+      "hebrewDate": "6 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-18",
+      "weekday": "Sunday",
+      "englishDate": "October 18th 2026",
+      "hebrewDate": "7 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-19",
+      "weekday": "Monday",
+      "englishDate": "October 19th 2026",
+      "hebrewDate": "8 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-20",
+      "weekday": "Tuesday",
+      "englishDate": "October 20th 2026",
+      "hebrewDate": "9 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-21",
+      "weekday": "Wednesday",
+      "englishDate": "October 21st 2026",
+      "hebrewDate": "10 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-22",
+      "weekday": "Thursday",
+      "englishDate": "October 22nd 2026",
+      "hebrewDate": "11 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-23",
+      "weekday": "Friday",
+      "englishDate": "October 23rd 2026",
+      "hebrewDate": "12 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-24",
+      "weekday": "Saturday",
+      "englishDate": "October 24th 2026",
+      "hebrewDate": "13 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-25",
+      "weekday": "Sunday",
+      "englishDate": "October 25th 2026",
+      "hebrewDate": "14 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-26",
+      "weekday": "Monday",
+      "englishDate": "October 26th 2026",
+      "hebrewDate": "15 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-27",
+      "weekday": "Tuesday",
+      "englishDate": "October 27th 2026",
+      "hebrewDate": "16 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-28",
+      "weekday": "Wednesday",
+      "englishDate": "October 28th 2026",
+      "hebrewDate": "17 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-29",
+      "weekday": "Thursday",
+      "englishDate": "October 29th 2026",
+      "hebrewDate": "18 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-30",
+      "weekday": "Friday",
+      "englishDate": "October 30th 2026",
+      "hebrewDate": "19 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-10-31",
+      "weekday": "Saturday",
+      "englishDate": "October 31st 2026",
+      "hebrewDate": "20 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-01",
+      "weekday": "Sunday",
+      "englishDate": "November 1st 2026",
+      "hebrewDate": "21 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-02",
+      "weekday": "Monday",
+      "englishDate": "November 2nd 2026",
+      "hebrewDate": "22 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-03",
+      "weekday": "Tuesday",
+      "englishDate": "November 3rd 2026",
+      "hebrewDate": "23 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-04",
+      "weekday": "Wednesday",
+      "englishDate": "November 4th 2026",
+      "hebrewDate": "24 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-05",
+      "weekday": "Thursday",
+      "englishDate": "November 5th 2026",
+      "hebrewDate": "25 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-06",
+      "weekday": "Friday",
+      "englishDate": "November 6th 2026",
+      "hebrewDate": "26 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-07",
+      "weekday": "Saturday",
+      "englishDate": "November 7th 2026",
+      "hebrewDate": "27 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-08",
+      "weekday": "Sunday",
+      "englishDate": "November 8th 2026",
+      "hebrewDate": "28 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-09",
+      "weekday": "Monday",
+      "englishDate": "November 9th 2026",
+      "hebrewDate": "29 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-10",
+      "weekday": "Tuesday",
+      "englishDate": "November 10th 2026",
+      "hebrewDate": "30 Cheshvan 5787"
+    },
+    {
+      "isoDate": "2026-11-11",
+      "weekday": "Wednesday",
+      "englishDate": "November 11th 2026",
+      "hebrewDate": "1 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-12",
+      "weekday": "Thursday",
+      "englishDate": "November 12th 2026",
+      "hebrewDate": "2 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-13",
+      "weekday": "Friday",
+      "englishDate": "November 13th 2026",
+      "hebrewDate": "3 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-14",
+      "weekday": "Saturday",
+      "englishDate": "November 14th 2026",
+      "hebrewDate": "4 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-15",
+      "weekday": "Sunday",
+      "englishDate": "November 15th 2026",
+      "hebrewDate": "5 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-16",
+      "weekday": "Monday",
+      "englishDate": "November 16th 2026",
+      "hebrewDate": "6 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-17",
+      "weekday": "Tuesday",
+      "englishDate": "November 17th 2026",
+      "hebrewDate": "7 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-18",
+      "weekday": "Wednesday",
+      "englishDate": "November 18th 2026",
+      "hebrewDate": "8 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-19",
+      "weekday": "Thursday",
+      "englishDate": "November 19th 2026",
+      "hebrewDate": "9 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-20",
+      "weekday": "Friday",
+      "englishDate": "November 20th 2026",
+      "hebrewDate": "10 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-21",
+      "weekday": "Saturday",
+      "englishDate": "November 21st 2026",
+      "hebrewDate": "11 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-22",
+      "weekday": "Sunday",
+      "englishDate": "November 22nd 2026",
+      "hebrewDate": "12 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-23",
+      "weekday": "Monday",
+      "englishDate": "November 23rd 2026",
+      "hebrewDate": "13 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-24",
+      "weekday": "Tuesday",
+      "englishDate": "November 24th 2026",
+      "hebrewDate": "14 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-25",
+      "weekday": "Wednesday",
+      "englishDate": "November 25th 2026",
+      "hebrewDate": "15 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-26",
+      "weekday": "Thursday",
+      "englishDate": "November 26th 2026",
+      "hebrewDate": "16 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-27",
+      "weekday": "Friday",
+      "englishDate": "November 27th 2026",
+      "hebrewDate": "17 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-28",
+      "weekday": "Saturday",
+      "englishDate": "November 28th 2026",
+      "hebrewDate": "18 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-29",
+      "weekday": "Sunday",
+      "englishDate": "November 29th 2026",
+      "hebrewDate": "19 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-11-30",
+      "weekday": "Monday",
+      "englishDate": "November 30th 2026",
+      "hebrewDate": "20 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-01",
+      "weekday": "Tuesday",
+      "englishDate": "December 1st 2026",
+      "hebrewDate": "21 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-02",
+      "weekday": "Wednesday",
+      "englishDate": "December 2nd 2026",
+      "hebrewDate": "22 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-03",
+      "weekday": "Thursday",
+      "englishDate": "December 3rd 2026",
+      "hebrewDate": "23 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-04",
+      "weekday": "Friday",
+      "englishDate": "December 4th 2026",
+      "hebrewDate": "24 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-05",
+      "weekday": "Saturday",
+      "englishDate": "December 5th 2026",
+      "hebrewDate": "25 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-06",
+      "weekday": "Sunday",
+      "englishDate": "December 6th 2026",
+      "hebrewDate": "26 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-07",
+      "weekday": "Monday",
+      "englishDate": "December 7th 2026",
+      "hebrewDate": "27 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-08",
+      "weekday": "Tuesday",
+      "englishDate": "December 8th 2026",
+      "hebrewDate": "28 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-09",
+      "weekday": "Wednesday",
+      "englishDate": "December 9th 2026",
+      "hebrewDate": "29 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-10",
+      "weekday": "Thursday",
+      "englishDate": "December 10th 2026",
+      "hebrewDate": "30 Kislev 5787"
+    },
+    {
+      "isoDate": "2026-12-11",
+      "weekday": "Friday",
+      "englishDate": "December 11th 2026",
+      "hebrewDate": "1 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-12",
+      "weekday": "Saturday",
+      "englishDate": "December 12th 2026",
+      "hebrewDate": "2 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-13",
+      "weekday": "Sunday",
+      "englishDate": "December 13th 2026",
+      "hebrewDate": "3 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-14",
+      "weekday": "Monday",
+      "englishDate": "December 14th 2026",
+      "hebrewDate": "4 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-15",
+      "weekday": "Tuesday",
+      "englishDate": "December 15th 2026",
+      "hebrewDate": "5 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-16",
+      "weekday": "Wednesday",
+      "englishDate": "December 16th 2026",
+      "hebrewDate": "6 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-17",
+      "weekday": "Thursday",
+      "englishDate": "December 17th 2026",
+      "hebrewDate": "7 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-18",
+      "weekday": "Friday",
+      "englishDate": "December 18th 2026",
+      "hebrewDate": "8 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-19",
+      "weekday": "Saturday",
+      "englishDate": "December 19th 2026",
+      "hebrewDate": "9 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-20",
+      "weekday": "Sunday",
+      "englishDate": "December 20th 2026",
+      "hebrewDate": "10 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-21",
+      "weekday": "Monday",
+      "englishDate": "December 21st 2026",
+      "hebrewDate": "11 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-22",
+      "weekday": "Tuesday",
+      "englishDate": "December 22nd 2026",
+      "hebrewDate": "12 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-23",
+      "weekday": "Wednesday",
+      "englishDate": "December 23rd 2026",
+      "hebrewDate": "13 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-24",
+      "weekday": "Thursday",
+      "englishDate": "December 24th 2026",
+      "hebrewDate": "14 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-25",
+      "weekday": "Friday",
+      "englishDate": "December 25th 2026",
+      "hebrewDate": "15 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-26",
+      "weekday": "Saturday",
+      "englishDate": "December 26th 2026",
+      "hebrewDate": "16 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-27",
+      "weekday": "Sunday",
+      "englishDate": "December 27th 2026",
+      "hebrewDate": "17 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-28",
+      "weekday": "Monday",
+      "englishDate": "December 28th 2026",
+      "hebrewDate": "18 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-29",
+      "weekday": "Tuesday",
+      "englishDate": "December 29th 2026",
+      "hebrewDate": "19 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-30",
+      "weekday": "Wednesday",
+      "englishDate": "December 30th 2026",
+      "hebrewDate": "20 Teves 5787"
+    },
+    {
+      "isoDate": "2026-12-31",
+      "weekday": "Thursday",
+      "englishDate": "December 31st 2026",
+      "hebrewDate": "21 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-01",
+      "weekday": "Friday",
+      "englishDate": "January 1st 2027",
+      "hebrewDate": "22 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-02",
+      "weekday": "Saturday",
+      "englishDate": "January 2nd 2027",
+      "hebrewDate": "23 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-03",
+      "weekday": "Sunday",
+      "englishDate": "January 3rd 2027",
+      "hebrewDate": "24 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-04",
+      "weekday": "Monday",
+      "englishDate": "January 4th 2027",
+      "hebrewDate": "25 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-05",
+      "weekday": "Tuesday",
+      "englishDate": "January 5th 2027",
+      "hebrewDate": "26 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-06",
+      "weekday": "Wednesday",
+      "englishDate": "January 6th 2027",
+      "hebrewDate": "27 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-07",
+      "weekday": "Thursday",
+      "englishDate": "January 7th 2027",
+      "hebrewDate": "28 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-08",
+      "weekday": "Friday",
+      "englishDate": "January 8th 2027",
+      "hebrewDate": "29 Teves 5787"
+    },
+    {
+      "isoDate": "2027-01-09",
+      "weekday": "Saturday",
+      "englishDate": "January 9th 2027",
+      "hebrewDate": "1 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-10",
+      "weekday": "Sunday",
+      "englishDate": "January 10th 2027",
+      "hebrewDate": "2 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-11",
+      "weekday": "Monday",
+      "englishDate": "January 11th 2027",
+      "hebrewDate": "3 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-12",
+      "weekday": "Tuesday",
+      "englishDate": "January 12th 2027",
+      "hebrewDate": "4 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-13",
+      "weekday": "Wednesday",
+      "englishDate": "January 13th 2027",
+      "hebrewDate": "5 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-14",
+      "weekday": "Thursday",
+      "englishDate": "January 14th 2027",
+      "hebrewDate": "6 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-15",
+      "weekday": "Friday",
+      "englishDate": "January 15th 2027",
+      "hebrewDate": "7 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-16",
+      "weekday": "Saturday",
+      "englishDate": "January 16th 2027",
+      "hebrewDate": "8 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-17",
+      "weekday": "Sunday",
+      "englishDate": "January 17th 2027",
+      "hebrewDate": "9 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-18",
+      "weekday": "Monday",
+      "englishDate": "January 18th 2027",
+      "hebrewDate": "10 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-19",
+      "weekday": "Tuesday",
+      "englishDate": "January 19th 2027",
+      "hebrewDate": "11 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-20",
+      "weekday": "Wednesday",
+      "englishDate": "January 20th 2027",
+      "hebrewDate": "12 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-21",
+      "weekday": "Thursday",
+      "englishDate": "January 21st 2027",
+      "hebrewDate": "13 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-22",
+      "weekday": "Friday",
+      "englishDate": "January 22nd 2027",
+      "hebrewDate": "14 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-23",
+      "weekday": "Saturday",
+      "englishDate": "January 23rd 2027",
+      "hebrewDate": "15 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-24",
+      "weekday": "Sunday",
+      "englishDate": "January 24th 2027",
+      "hebrewDate": "16 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-25",
+      "weekday": "Monday",
+      "englishDate": "January 25th 2027",
+      "hebrewDate": "17 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-26",
+      "weekday": "Tuesday",
+      "englishDate": "January 26th 2027",
+      "hebrewDate": "18 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-27",
+      "weekday": "Wednesday",
+      "englishDate": "January 27th 2027",
+      "hebrewDate": "19 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-28",
+      "weekday": "Thursday",
+      "englishDate": "January 28th 2027",
+      "hebrewDate": "20 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-29",
+      "weekday": "Friday",
+      "englishDate": "January 29th 2027",
+      "hebrewDate": "21 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-30",
+      "weekday": "Saturday",
+      "englishDate": "January 30th 2027",
+      "hebrewDate": "22 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-01-31",
+      "weekday": "Sunday",
+      "englishDate": "January 31st 2027",
+      "hebrewDate": "23 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-02-01",
+      "weekday": "Monday",
+      "englishDate": "February 1st 2027",
+      "hebrewDate": "24 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-02-02",
+      "weekday": "Tuesday",
+      "englishDate": "February 2nd 2027",
+      "hebrewDate": "25 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-02-03",
+      "weekday": "Wednesday",
+      "englishDate": "February 3rd 2027",
+      "hebrewDate": "26 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-02-04",
+      "weekday": "Thursday",
+      "englishDate": "February 4th 2027",
+      "hebrewDate": "27 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-02-05",
+      "weekday": "Friday",
+      "englishDate": "February 5th 2027",
+      "hebrewDate": "28 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-02-06",
+      "weekday": "Saturday",
+      "englishDate": "February 6th 2027",
+      "hebrewDate": "29 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-02-07",
+      "weekday": "Sunday",
+      "englishDate": "February 7th 2027",
+      "hebrewDate": "30 Shevat 5787"
+    },
+    {
+      "isoDate": "2027-02-08",
+      "weekday": "Monday",
+      "englishDate": "February 8th 2027",
+      "hebrewDate": "1 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-09",
+      "weekday": "Tuesday",
+      "englishDate": "February 9th 2027",
+      "hebrewDate": "2 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-10",
+      "weekday": "Wednesday",
+      "englishDate": "February 10th 2027",
+      "hebrewDate": "3 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-11",
+      "weekday": "Thursday",
+      "englishDate": "February 11th 2027",
+      "hebrewDate": "4 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-12",
+      "weekday": "Friday",
+      "englishDate": "February 12th 2027",
+      "hebrewDate": "5 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-13",
+      "weekday": "Saturday",
+      "englishDate": "February 13th 2027",
+      "hebrewDate": "6 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-14",
+      "weekday": "Sunday",
+      "englishDate": "February 14th 2027",
+      "hebrewDate": "7 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-15",
+      "weekday": "Monday",
+      "englishDate": "February 15th 2027",
+      "hebrewDate": "8 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-16",
+      "weekday": "Tuesday",
+      "englishDate": "February 16th 2027",
+      "hebrewDate": "9 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-17",
+      "weekday": "Wednesday",
+      "englishDate": "February 17th 2027",
+      "hebrewDate": "10 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-18",
+      "weekday": "Thursday",
+      "englishDate": "February 18th 2027",
+      "hebrewDate": "11 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-19",
+      "weekday": "Friday",
+      "englishDate": "February 19th 2027",
+      "hebrewDate": "12 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-20",
+      "weekday": "Saturday",
+      "englishDate": "February 20th 2027",
+      "hebrewDate": "13 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-21",
+      "weekday": "Sunday",
+      "englishDate": "February 21st 2027",
+      "hebrewDate": "14 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-22",
+      "weekday": "Monday",
+      "englishDate": "February 22nd 2027",
+      "hebrewDate": "15 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-23",
+      "weekday": "Tuesday",
+      "englishDate": "February 23rd 2027",
+      "hebrewDate": "16 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-24",
+      "weekday": "Wednesday",
+      "englishDate": "February 24th 2027",
+      "hebrewDate": "17 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-25",
+      "weekday": "Thursday",
+      "englishDate": "February 25th 2027",
+      "hebrewDate": "18 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-26",
+      "weekday": "Friday",
+      "englishDate": "February 26th 2027",
+      "hebrewDate": "19 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-27",
+      "weekday": "Saturday",
+      "englishDate": "February 27th 2027",
+      "hebrewDate": "20 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-02-28",
+      "weekday": "Sunday",
+      "englishDate": "February 28th 2027",
+      "hebrewDate": "21 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-01",
+      "weekday": "Monday",
+      "englishDate": "March 1st 2027",
+      "hebrewDate": "22 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-02",
+      "weekday": "Tuesday",
+      "englishDate": "March 2nd 2027",
+      "hebrewDate": "23 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-03",
+      "weekday": "Wednesday",
+      "englishDate": "March 3rd 2027",
+      "hebrewDate": "24 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-04",
+      "weekday": "Thursday",
+      "englishDate": "March 4th 2027",
+      "hebrewDate": "25 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-05",
+      "weekday": "Friday",
+      "englishDate": "March 5th 2027",
+      "hebrewDate": "26 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-06",
+      "weekday": "Saturday",
+      "englishDate": "March 6th 2027",
+      "hebrewDate": "27 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-07",
+      "weekday": "Sunday",
+      "englishDate": "March 7th 2027",
+      "hebrewDate": "28 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-08",
+      "weekday": "Monday",
+      "englishDate": "March 8th 2027",
+      "hebrewDate": "29 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-09",
+      "weekday": "Tuesday",
+      "englishDate": "March 9th 2027",
+      "hebrewDate": "30 Adar I 5787"
+    },
+    {
+      "isoDate": "2027-03-10",
+      "weekday": "Wednesday",
+      "englishDate": "March 10th 2027",
+      "hebrewDate": "1 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-11",
+      "weekday": "Thursday",
+      "englishDate": "March 11th 2027",
+      "hebrewDate": "2 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-12",
+      "weekday": "Friday",
+      "englishDate": "March 12th 2027",
+      "hebrewDate": "3 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-13",
+      "weekday": "Saturday",
+      "englishDate": "March 13th 2027",
+      "hebrewDate": "4 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-14",
+      "weekday": "Sunday",
+      "englishDate": "March 14th 2027",
+      "hebrewDate": "5 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-15",
+      "weekday": "Monday",
+      "englishDate": "March 15th 2027",
+      "hebrewDate": "6 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-16",
+      "weekday": "Tuesday",
+      "englishDate": "March 16th 2027",
+      "hebrewDate": "7 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-17",
+      "weekday": "Wednesday",
+      "englishDate": "March 17th 2027",
+      "hebrewDate": "8 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-18",
+      "weekday": "Thursday",
+      "englishDate": "March 18th 2027",
+      "hebrewDate": "9 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-19",
+      "weekday": "Friday",
+      "englishDate": "March 19th 2027",
+      "hebrewDate": "10 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-20",
+      "weekday": "Saturday",
+      "englishDate": "March 20th 2027",
+      "hebrewDate": "11 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-21",
+      "weekday": "Sunday",
+      "englishDate": "March 21st 2027",
+      "hebrewDate": "12 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-22",
+      "weekday": "Monday",
+      "englishDate": "March 22nd 2027",
+      "hebrewDate": "13 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-23",
+      "weekday": "Tuesday",
+      "englishDate": "March 23rd 2027",
+      "hebrewDate": "14 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-24",
+      "weekday": "Wednesday",
+      "englishDate": "March 24th 2027",
+      "hebrewDate": "15 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-25",
+      "weekday": "Thursday",
+      "englishDate": "March 25th 2027",
+      "hebrewDate": "16 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-26",
+      "weekday": "Friday",
+      "englishDate": "March 26th 2027",
+      "hebrewDate": "17 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-27",
+      "weekday": "Saturday",
+      "englishDate": "March 27th 2027",
+      "hebrewDate": "18 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-28",
+      "weekday": "Sunday",
+      "englishDate": "March 28th 2027",
+      "hebrewDate": "19 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-29",
+      "weekday": "Monday",
+      "englishDate": "March 29th 2027",
+      "hebrewDate": "20 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-30",
+      "weekday": "Tuesday",
+      "englishDate": "March 30th 2027",
+      "hebrewDate": "21 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-03-31",
+      "weekday": "Wednesday",
+      "englishDate": "March 31st 2027",
+      "hebrewDate": "22 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-04-01",
+      "weekday": "Thursday",
+      "englishDate": "April 1st 2027",
+      "hebrewDate": "23 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-04-02",
+      "weekday": "Friday",
+      "englishDate": "April 2nd 2027",
+      "hebrewDate": "24 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-04-03",
+      "weekday": "Saturday",
+      "englishDate": "April 3rd 2027",
+      "hebrewDate": "25 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-04-04",
+      "weekday": "Sunday",
+      "englishDate": "April 4th 2027",
+      "hebrewDate": "26 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-04-05",
+      "weekday": "Monday",
+      "englishDate": "April 5th 2027",
+      "hebrewDate": "27 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-04-06",
+      "weekday": "Tuesday",
+      "englishDate": "April 6th 2027",
+      "hebrewDate": "28 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-04-07",
+      "weekday": "Wednesday",
+      "englishDate": "April 7th 2027",
+      "hebrewDate": "29 Adar II 5787"
+    },
+    {
+      "isoDate": "2027-04-08",
+      "weekday": "Thursday",
+      "englishDate": "April 8th 2027",
+      "hebrewDate": "1 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-09",
+      "weekday": "Friday",
+      "englishDate": "April 9th 2027",
+      "hebrewDate": "2 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-10",
+      "weekday": "Saturday",
+      "englishDate": "April 10th 2027",
+      "hebrewDate": "3 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-11",
+      "weekday": "Sunday",
+      "englishDate": "April 11th 2027",
+      "hebrewDate": "4 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-12",
+      "weekday": "Monday",
+      "englishDate": "April 12th 2027",
+      "hebrewDate": "5 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-13",
+      "weekday": "Tuesday",
+      "englishDate": "April 13th 2027",
+      "hebrewDate": "6 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-14",
+      "weekday": "Wednesday",
+      "englishDate": "April 14th 2027",
+      "hebrewDate": "7 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-15",
+      "weekday": "Thursday",
+      "englishDate": "April 15th 2027",
+      "hebrewDate": "8 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-16",
+      "weekday": "Friday",
+      "englishDate": "April 16th 2027",
+      "hebrewDate": "9 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-17",
+      "weekday": "Saturday",
+      "englishDate": "April 17th 2027",
+      "hebrewDate": "10 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-18",
+      "weekday": "Sunday",
+      "englishDate": "April 18th 2027",
+      "hebrewDate": "11 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-19",
+      "weekday": "Monday",
+      "englishDate": "April 19th 2027",
+      "hebrewDate": "12 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-20",
+      "weekday": "Tuesday",
+      "englishDate": "April 20th 2027",
+      "hebrewDate": "13 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-21",
+      "weekday": "Wednesday",
+      "englishDate": "April 21st 2027",
+      "hebrewDate": "14 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-22",
+      "weekday": "Thursday",
+      "englishDate": "April 22nd 2027",
+      "hebrewDate": "15 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-23",
+      "weekday": "Friday",
+      "englishDate": "April 23rd 2027",
+      "hebrewDate": "16 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-24",
+      "weekday": "Saturday",
+      "englishDate": "April 24th 2027",
+      "hebrewDate": "17 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-25",
+      "weekday": "Sunday",
+      "englishDate": "April 25th 2027",
+      "hebrewDate": "18 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-26",
+      "weekday": "Monday",
+      "englishDate": "April 26th 2027",
+      "hebrewDate": "19 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-27",
+      "weekday": "Tuesday",
+      "englishDate": "April 27th 2027",
+      "hebrewDate": "20 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-28",
+      "weekday": "Wednesday",
+      "englishDate": "April 28th 2027",
+      "hebrewDate": "21 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-29",
+      "weekday": "Thursday",
+      "englishDate": "April 29th 2027",
+      "hebrewDate": "22 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-04-30",
+      "weekday": "Friday",
+      "englishDate": "April 30th 2027",
+      "hebrewDate": "23 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-05-01",
+      "weekday": "Saturday",
+      "englishDate": "May 1st 2027",
+      "hebrewDate": "24 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-05-02",
+      "weekday": "Sunday",
+      "englishDate": "May 2nd 2027",
+      "hebrewDate": "25 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-05-03",
+      "weekday": "Monday",
+      "englishDate": "May 3rd 2027",
+      "hebrewDate": "26 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-05-04",
+      "weekday": "Tuesday",
+      "englishDate": "May 4th 2027",
+      "hebrewDate": "27 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-05-05",
+      "weekday": "Wednesday",
+      "englishDate": "May 5th 2027",
+      "hebrewDate": "28 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-05-06",
+      "weekday": "Thursday",
+      "englishDate": "May 6th 2027",
+      "hebrewDate": "29 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-05-07",
+      "weekday": "Friday",
+      "englishDate": "May 7th 2027",
+      "hebrewDate": "30 Nisan 5787"
+    },
+    {
+      "isoDate": "2027-05-08",
+      "weekday": "Saturday",
+      "englishDate": "May 8th 2027",
+      "hebrewDate": "1 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-09",
+      "weekday": "Sunday",
+      "englishDate": "May 9th 2027",
+      "hebrewDate": "2 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-10",
+      "weekday": "Monday",
+      "englishDate": "May 10th 2027",
+      "hebrewDate": "3 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-11",
+      "weekday": "Tuesday",
+      "englishDate": "May 11th 2027",
+      "hebrewDate": "4 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-12",
+      "weekday": "Wednesday",
+      "englishDate": "May 12th 2027",
+      "hebrewDate": "5 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-13",
+      "weekday": "Thursday",
+      "englishDate": "May 13th 2027",
+      "hebrewDate": "6 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-14",
+      "weekday": "Friday",
+      "englishDate": "May 14th 2027",
+      "hebrewDate": "7 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-15",
+      "weekday": "Saturday",
+      "englishDate": "May 15th 2027",
+      "hebrewDate": "8 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-16",
+      "weekday": "Sunday",
+      "englishDate": "May 16th 2027",
+      "hebrewDate": "9 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-17",
+      "weekday": "Monday",
+      "englishDate": "May 17th 2027",
+      "hebrewDate": "10 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-18",
+      "weekday": "Tuesday",
+      "englishDate": "May 18th 2027",
+      "hebrewDate": "11 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-19",
+      "weekday": "Wednesday",
+      "englishDate": "May 19th 2027",
+      "hebrewDate": "12 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-20",
+      "weekday": "Thursday",
+      "englishDate": "May 20th 2027",
+      "hebrewDate": "13 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-21",
+      "weekday": "Friday",
+      "englishDate": "May 21st 2027",
+      "hebrewDate": "14 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-22",
+      "weekday": "Saturday",
+      "englishDate": "May 22nd 2027",
+      "hebrewDate": "15 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-23",
+      "weekday": "Sunday",
+      "englishDate": "May 23rd 2027",
+      "hebrewDate": "16 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-24",
+      "weekday": "Monday",
+      "englishDate": "May 24th 2027",
+      "hebrewDate": "17 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-25",
+      "weekday": "Tuesday",
+      "englishDate": "May 25th 2027",
+      "hebrewDate": "18 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-26",
+      "weekday": "Wednesday",
+      "englishDate": "May 26th 2027",
+      "hebrewDate": "19 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-27",
+      "weekday": "Thursday",
+      "englishDate": "May 27th 2027",
+      "hebrewDate": "20 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-28",
+      "weekday": "Friday",
+      "englishDate": "May 28th 2027",
+      "hebrewDate": "21 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-29",
+      "weekday": "Saturday",
+      "englishDate": "May 29th 2027",
+      "hebrewDate": "22 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-30",
+      "weekday": "Sunday",
+      "englishDate": "May 30th 2027",
+      "hebrewDate": "23 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-05-31",
+      "weekday": "Monday",
+      "englishDate": "May 31st 2027",
+      "hebrewDate": "24 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-06-01",
+      "weekday": "Tuesday",
+      "englishDate": "June 1st 2027",
+      "hebrewDate": "25 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-06-02",
+      "weekday": "Wednesday",
+      "englishDate": "June 2nd 2027",
+      "hebrewDate": "26 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-06-03",
+      "weekday": "Thursday",
+      "englishDate": "June 3rd 2027",
+      "hebrewDate": "27 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-06-04",
+      "weekday": "Friday",
+      "englishDate": "June 4th 2027",
+      "hebrewDate": "28 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-06-05",
+      "weekday": "Saturday",
+      "englishDate": "June 5th 2027",
+      "hebrewDate": "29 Iyar 5787"
+    },
+    {
+      "isoDate": "2027-06-06",
+      "weekday": "Sunday",
+      "englishDate": "June 6th 2027",
+      "hebrewDate": "1 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-07",
+      "weekday": "Monday",
+      "englishDate": "June 7th 2027",
+      "hebrewDate": "2 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-08",
+      "weekday": "Tuesday",
+      "englishDate": "June 8th 2027",
+      "hebrewDate": "3 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-09",
+      "weekday": "Wednesday",
+      "englishDate": "June 9th 2027",
+      "hebrewDate": "4 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-10",
+      "weekday": "Thursday",
+      "englishDate": "June 10th 2027",
+      "hebrewDate": "5 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-11",
+      "weekday": "Friday",
+      "englishDate": "June 11th 2027",
+      "hebrewDate": "6 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-12",
+      "weekday": "Saturday",
+      "englishDate": "June 12th 2027",
+      "hebrewDate": "7 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-13",
+      "weekday": "Sunday",
+      "englishDate": "June 13th 2027",
+      "hebrewDate": "8 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-14",
+      "weekday": "Monday",
+      "englishDate": "June 14th 2027",
+      "hebrewDate": "9 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-15",
+      "weekday": "Tuesday",
+      "englishDate": "June 15th 2027",
+      "hebrewDate": "10 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-16",
+      "weekday": "Wednesday",
+      "englishDate": "June 16th 2027",
+      "hebrewDate": "11 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-17",
+      "weekday": "Thursday",
+      "englishDate": "June 17th 2027",
+      "hebrewDate": "12 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-18",
+      "weekday": "Friday",
+      "englishDate": "June 18th 2027",
+      "hebrewDate": "13 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-19",
+      "weekday": "Saturday",
+      "englishDate": "June 19th 2027",
+      "hebrewDate": "14 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-20",
+      "weekday": "Sunday",
+      "englishDate": "June 20th 2027",
+      "hebrewDate": "15 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-21",
+      "weekday": "Monday",
+      "englishDate": "June 21st 2027",
+      "hebrewDate": "16 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-22",
+      "weekday": "Tuesday",
+      "englishDate": "June 22nd 2027",
+      "hebrewDate": "17 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-23",
+      "weekday": "Wednesday",
+      "englishDate": "June 23rd 2027",
+      "hebrewDate": "18 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-24",
+      "weekday": "Thursday",
+      "englishDate": "June 24th 2027",
+      "hebrewDate": "19 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-25",
+      "weekday": "Friday",
+      "englishDate": "June 25th 2027",
+      "hebrewDate": "20 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-26",
+      "weekday": "Saturday",
+      "englishDate": "June 26th 2027",
+      "hebrewDate": "21 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-27",
+      "weekday": "Sunday",
+      "englishDate": "June 27th 2027",
+      "hebrewDate": "22 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-28",
+      "weekday": "Monday",
+      "englishDate": "June 28th 2027",
+      "hebrewDate": "23 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-29",
+      "weekday": "Tuesday",
+      "englishDate": "June 29th 2027",
+      "hebrewDate": "24 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-06-30",
+      "weekday": "Wednesday",
+      "englishDate": "June 30th 2027",
+      "hebrewDate": "25 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-07-01",
+      "weekday": "Thursday",
+      "englishDate": "July 1st 2027",
+      "hebrewDate": "26 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-07-02",
+      "weekday": "Friday",
+      "englishDate": "July 2nd 2027",
+      "hebrewDate": "27 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-07-03",
+      "weekday": "Saturday",
+      "englishDate": "July 3rd 2027",
+      "hebrewDate": "28 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-07-04",
+      "weekday": "Sunday",
+      "englishDate": "July 4th 2027",
+      "hebrewDate": "29 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-07-05",
+      "weekday": "Monday",
+      "englishDate": "July 5th 2027",
+      "hebrewDate": "30 Sivan 5787"
+    },
+    {
+      "isoDate": "2027-07-06",
+      "weekday": "Tuesday",
+      "englishDate": "July 6th 2027",
+      "hebrewDate": "1 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-07",
+      "weekday": "Wednesday",
+      "englishDate": "July 7th 2027",
+      "hebrewDate": "2 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-08",
+      "weekday": "Thursday",
+      "englishDate": "July 8th 2027",
+      "hebrewDate": "3 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-09",
+      "weekday": "Friday",
+      "englishDate": "July 9th 2027",
+      "hebrewDate": "4 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-10",
+      "weekday": "Saturday",
+      "englishDate": "July 10th 2027",
+      "hebrewDate": "5 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-11",
+      "weekday": "Sunday",
+      "englishDate": "July 11th 2027",
+      "hebrewDate": "6 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-12",
+      "weekday": "Monday",
+      "englishDate": "July 12th 2027",
+      "hebrewDate": "7 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-13",
+      "weekday": "Tuesday",
+      "englishDate": "July 13th 2027",
+      "hebrewDate": "8 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-14",
+      "weekday": "Wednesday",
+      "englishDate": "July 14th 2027",
+      "hebrewDate": "9 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-15",
+      "weekday": "Thursday",
+      "englishDate": "July 15th 2027",
+      "hebrewDate": "10 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-16",
+      "weekday": "Friday",
+      "englishDate": "July 16th 2027",
+      "hebrewDate": "11 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-17",
+      "weekday": "Saturday",
+      "englishDate": "July 17th 2027",
+      "hebrewDate": "12 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-18",
+      "weekday": "Sunday",
+      "englishDate": "July 18th 2027",
+      "hebrewDate": "13 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-19",
+      "weekday": "Monday",
+      "englishDate": "July 19th 2027",
+      "hebrewDate": "14 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-20",
+      "weekday": "Tuesday",
+      "englishDate": "July 20th 2027",
+      "hebrewDate": "15 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-21",
+      "weekday": "Wednesday",
+      "englishDate": "July 21st 2027",
+      "hebrewDate": "16 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-22",
+      "weekday": "Thursday",
+      "englishDate": "July 22nd 2027",
+      "hebrewDate": "17 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-23",
+      "weekday": "Friday",
+      "englishDate": "July 23rd 2027",
+      "hebrewDate": "18 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-24",
+      "weekday": "Saturday",
+      "englishDate": "July 24th 2027",
+      "hebrewDate": "19 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-25",
+      "weekday": "Sunday",
+      "englishDate": "July 25th 2027",
+      "hebrewDate": "20 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-26",
+      "weekday": "Monday",
+      "englishDate": "July 26th 2027",
+      "hebrewDate": "21 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-27",
+      "weekday": "Tuesday",
+      "englishDate": "July 27th 2027",
+      "hebrewDate": "22 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-28",
+      "weekday": "Wednesday",
+      "englishDate": "July 28th 2027",
+      "hebrewDate": "23 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-29",
+      "weekday": "Thursday",
+      "englishDate": "July 29th 2027",
+      "hebrewDate": "24 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-30",
+      "weekday": "Friday",
+      "englishDate": "July 30th 2027",
+      "hebrewDate": "25 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-07-31",
+      "weekday": "Saturday",
+      "englishDate": "July 31st 2027",
+      "hebrewDate": "26 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-08-01",
+      "weekday": "Sunday",
+      "englishDate": "August 1st 2027",
+      "hebrewDate": "27 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-08-02",
+      "weekday": "Monday",
+      "englishDate": "August 2nd 2027",
+      "hebrewDate": "28 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-08-03",
+      "weekday": "Tuesday",
+      "englishDate": "August 3rd 2027",
+      "hebrewDate": "29 Tamuz 5787"
+    },
+    {
+      "isoDate": "2027-08-04",
+      "weekday": "Wednesday",
+      "englishDate": "August 4th 2027",
+      "hebrewDate": "1 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-05",
+      "weekday": "Thursday",
+      "englishDate": "August 5th 2027",
+      "hebrewDate": "2 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-06",
+      "weekday": "Friday",
+      "englishDate": "August 6th 2027",
+      "hebrewDate": "3 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-07",
+      "weekday": "Saturday",
+      "englishDate": "August 7th 2027",
+      "hebrewDate": "4 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-08",
+      "weekday": "Sunday",
+      "englishDate": "August 8th 2027",
+      "hebrewDate": "5 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-09",
+      "weekday": "Monday",
+      "englishDate": "August 9th 2027",
+      "hebrewDate": "6 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-10",
+      "weekday": "Tuesday",
+      "englishDate": "August 10th 2027",
+      "hebrewDate": "7 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-11",
+      "weekday": "Wednesday",
+      "englishDate": "August 11th 2027",
+      "hebrewDate": "8 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-12",
+      "weekday": "Thursday",
+      "englishDate": "August 12th 2027",
+      "hebrewDate": "9 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-13",
+      "weekday": "Friday",
+      "englishDate": "August 13th 2027",
+      "hebrewDate": "10 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-14",
+      "weekday": "Saturday",
+      "englishDate": "August 14th 2027",
+      "hebrewDate": "11 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-15",
+      "weekday": "Sunday",
+      "englishDate": "August 15th 2027",
+      "hebrewDate": "12 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-16",
+      "weekday": "Monday",
+      "englishDate": "August 16th 2027",
+      "hebrewDate": "13 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-17",
+      "weekday": "Tuesday",
+      "englishDate": "August 17th 2027",
+      "hebrewDate": "14 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-18",
+      "weekday": "Wednesday",
+      "englishDate": "August 18th 2027",
+      "hebrewDate": "15 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-19",
+      "weekday": "Thursday",
+      "englishDate": "August 19th 2027",
+      "hebrewDate": "16 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-20",
+      "weekday": "Friday",
+      "englishDate": "August 20th 2027",
+      "hebrewDate": "17 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-21",
+      "weekday": "Saturday",
+      "englishDate": "August 21st 2027",
+      "hebrewDate": "18 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-22",
+      "weekday": "Sunday",
+      "englishDate": "August 22nd 2027",
+      "hebrewDate": "19 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-23",
+      "weekday": "Monday",
+      "englishDate": "August 23rd 2027",
+      "hebrewDate": "20 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-24",
+      "weekday": "Tuesday",
+      "englishDate": "August 24th 2027",
+      "hebrewDate": "21 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-25",
+      "weekday": "Wednesday",
+      "englishDate": "August 25th 2027",
+      "hebrewDate": "22 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-26",
+      "weekday": "Thursday",
+      "englishDate": "August 26th 2027",
+      "hebrewDate": "23 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-27",
+      "weekday": "Friday",
+      "englishDate": "August 27th 2027",
+      "hebrewDate": "24 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-28",
+      "weekday": "Saturday",
+      "englishDate": "August 28th 2027",
+      "hebrewDate": "25 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-29",
+      "weekday": "Sunday",
+      "englishDate": "August 29th 2027",
+      "hebrewDate": "26 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-30",
+      "weekday": "Monday",
+      "englishDate": "August 30th 2027",
+      "hebrewDate": "27 Av 5787"
+    },
+    {
+      "isoDate": "2027-08-31",
+      "weekday": "Tuesday",
+      "englishDate": "August 31st 2027",
+      "hebrewDate": "28 Av 5787"
+    },
+    {
+      "isoDate": "2027-09-01",
+      "weekday": "Wednesday",
+      "englishDate": "September 1st 2027",
+      "hebrewDate": "29 Av 5787"
+    },
+    {
+      "isoDate": "2027-09-02",
+      "weekday": "Thursday",
+      "englishDate": "September 2nd 2027",
+      "hebrewDate": "30 Av 5787"
+    },
+    {
+      "isoDate": "2027-09-03",
+      "weekday": "Friday",
+      "englishDate": "September 3rd 2027",
+      "hebrewDate": "1 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-04",
+      "weekday": "Saturday",
+      "englishDate": "September 4th 2027",
+      "hebrewDate": "2 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-05",
+      "weekday": "Sunday",
+      "englishDate": "September 5th 2027",
+      "hebrewDate": "3 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-06",
+      "weekday": "Monday",
+      "englishDate": "September 6th 2027",
+      "hebrewDate": "4 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-07",
+      "weekday": "Tuesday",
+      "englishDate": "September 7th 2027",
+      "hebrewDate": "5 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-08",
+      "weekday": "Wednesday",
+      "englishDate": "September 8th 2027",
+      "hebrewDate": "6 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-09",
+      "weekday": "Thursday",
+      "englishDate": "September 9th 2027",
+      "hebrewDate": "7 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-10",
+      "weekday": "Friday",
+      "englishDate": "September 10th 2027",
+      "hebrewDate": "8 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-11",
+      "weekday": "Saturday",
+      "englishDate": "September 11th 2027",
+      "hebrewDate": "9 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-12",
+      "weekday": "Sunday",
+      "englishDate": "September 12th 2027",
+      "hebrewDate": "10 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-13",
+      "weekday": "Monday",
+      "englishDate": "September 13th 2027",
+      "hebrewDate": "11 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-14",
+      "weekday": "Tuesday",
+      "englishDate": "September 14th 2027",
+      "hebrewDate": "12 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-15",
+      "weekday": "Wednesday",
+      "englishDate": "September 15th 2027",
+      "hebrewDate": "13 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-16",
+      "weekday": "Thursday",
+      "englishDate": "September 16th 2027",
+      "hebrewDate": "14 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-17",
+      "weekday": "Friday",
+      "englishDate": "September 17th 2027",
+      "hebrewDate": "15 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-18",
+      "weekday": "Saturday",
+      "englishDate": "September 18th 2027",
+      "hebrewDate": "16 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-19",
+      "weekday": "Sunday",
+      "englishDate": "September 19th 2027",
+      "hebrewDate": "17 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-20",
+      "weekday": "Monday",
+      "englishDate": "September 20th 2027",
+      "hebrewDate": "18 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-21",
+      "weekday": "Tuesday",
+      "englishDate": "September 21st 2027",
+      "hebrewDate": "19 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-22",
+      "weekday": "Wednesday",
+      "englishDate": "September 22nd 2027",
+      "hebrewDate": "20 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-23",
+      "weekday": "Thursday",
+      "englishDate": "September 23rd 2027",
+      "hebrewDate": "21 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-24",
+      "weekday": "Friday",
+      "englishDate": "September 24th 2027",
+      "hebrewDate": "22 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-25",
+      "weekday": "Saturday",
+      "englishDate": "September 25th 2027",
+      "hebrewDate": "23 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-26",
+      "weekday": "Sunday",
+      "englishDate": "September 26th 2027",
+      "hebrewDate": "24 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-27",
+      "weekday": "Monday",
+      "englishDate": "September 27th 2027",
+      "hebrewDate": "25 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-28",
+      "weekday": "Tuesday",
+      "englishDate": "September 28th 2027",
+      "hebrewDate": "26 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-29",
+      "weekday": "Wednesday",
+      "englishDate": "September 29th 2027",
+      "hebrewDate": "27 Elul 5787"
+    },
+    {
+      "isoDate": "2027-09-30",
+      "weekday": "Thursday",
+      "englishDate": "September 30th 2027",
+      "hebrewDate": "28 Elul 5787"
+    },
+    {
+      "isoDate": "2027-10-01",
+      "weekday": "Friday",
+      "englishDate": "October 1st 2027",
+      "hebrewDate": "29 Elul 5787"
+    },
+    {
+      "isoDate": "2027-10-02",
+      "weekday": "Saturday",
+      "englishDate": "October 2nd 2027",
+      "hebrewDate": "1 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-03",
+      "weekday": "Sunday",
+      "englishDate": "October 3rd 2027",
+      "hebrewDate": "2 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-04",
+      "weekday": "Monday",
+      "englishDate": "October 4th 2027",
+      "hebrewDate": "3 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-05",
+      "weekday": "Tuesday",
+      "englishDate": "October 5th 2027",
+      "hebrewDate": "4 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-06",
+      "weekday": "Wednesday",
+      "englishDate": "October 6th 2027",
+      "hebrewDate": "5 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-07",
+      "weekday": "Thursday",
+      "englishDate": "October 7th 2027",
+      "hebrewDate": "6 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-08",
+      "weekday": "Friday",
+      "englishDate": "October 8th 2027",
+      "hebrewDate": "7 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-09",
+      "weekday": "Saturday",
+      "englishDate": "October 9th 2027",
+      "hebrewDate": "8 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-10",
+      "weekday": "Sunday",
+      "englishDate": "October 10th 2027",
+      "hebrewDate": "9 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-11",
+      "weekday": "Monday",
+      "englishDate": "October 11th 2027",
+      "hebrewDate": "10 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-12",
+      "weekday": "Tuesday",
+      "englishDate": "October 12th 2027",
+      "hebrewDate": "11 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-13",
+      "weekday": "Wednesday",
+      "englishDate": "October 13th 2027",
+      "hebrewDate": "12 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-14",
+      "weekday": "Thursday",
+      "englishDate": "October 14th 2027",
+      "hebrewDate": "13 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-15",
+      "weekday": "Friday",
+      "englishDate": "October 15th 2027",
+      "hebrewDate": "14 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-16",
+      "weekday": "Saturday",
+      "englishDate": "October 16th 2027",
+      "hebrewDate": "15 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-17",
+      "weekday": "Sunday",
+      "englishDate": "October 17th 2027",
+      "hebrewDate": "16 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-18",
+      "weekday": "Monday",
+      "englishDate": "October 18th 2027",
+      "hebrewDate": "17 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-19",
+      "weekday": "Tuesday",
+      "englishDate": "October 19th 2027",
+      "hebrewDate": "18 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-20",
+      "weekday": "Wednesday",
+      "englishDate": "October 20th 2027",
+      "hebrewDate": "19 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-21",
+      "weekday": "Thursday",
+      "englishDate": "October 21st 2027",
+      "hebrewDate": "20 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-22",
+      "weekday": "Friday",
+      "englishDate": "October 22nd 2027",
+      "hebrewDate": "21 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-23",
+      "weekday": "Saturday",
+      "englishDate": "October 23rd 2027",
+      "hebrewDate": "22 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-24",
+      "weekday": "Sunday",
+      "englishDate": "October 24th 2027",
+      "hebrewDate": "23 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-25",
+      "weekday": "Monday",
+      "englishDate": "October 25th 2027",
+      "hebrewDate": "24 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-26",
+      "weekday": "Tuesday",
+      "englishDate": "October 26th 2027",
+      "hebrewDate": "25 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-27",
+      "weekday": "Wednesday",
+      "englishDate": "October 27th 2027",
+      "hebrewDate": "26 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-28",
+      "weekday": "Thursday",
+      "englishDate": "October 28th 2027",
+      "hebrewDate": "27 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-29",
+      "weekday": "Friday",
+      "englishDate": "October 29th 2027",
+      "hebrewDate": "28 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-30",
+      "weekday": "Saturday",
+      "englishDate": "October 30th 2027",
+      "hebrewDate": "29 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-10-31",
+      "weekday": "Sunday",
+      "englishDate": "October 31st 2027",
+      "hebrewDate": "30 Tishrei 5788"
+    },
+    {
+      "isoDate": "2027-11-01",
+      "weekday": "Monday",
+      "englishDate": "November 1st 2027",
+      "hebrewDate": "1 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-02",
+      "weekday": "Tuesday",
+      "englishDate": "November 2nd 2027",
+      "hebrewDate": "2 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-03",
+      "weekday": "Wednesday",
+      "englishDate": "November 3rd 2027",
+      "hebrewDate": "3 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-04",
+      "weekday": "Thursday",
+      "englishDate": "November 4th 2027",
+      "hebrewDate": "4 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-05",
+      "weekday": "Friday",
+      "englishDate": "November 5th 2027",
+      "hebrewDate": "5 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-06",
+      "weekday": "Saturday",
+      "englishDate": "November 6th 2027",
+      "hebrewDate": "6 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-07",
+      "weekday": "Sunday",
+      "englishDate": "November 7th 2027",
+      "hebrewDate": "7 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-08",
+      "weekday": "Monday",
+      "englishDate": "November 8th 2027",
+      "hebrewDate": "8 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-09",
+      "weekday": "Tuesday",
+      "englishDate": "November 9th 2027",
+      "hebrewDate": "9 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-10",
+      "weekday": "Wednesday",
+      "englishDate": "November 10th 2027",
+      "hebrewDate": "10 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-11",
+      "weekday": "Thursday",
+      "englishDate": "November 11th 2027",
+      "hebrewDate": "11 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-12",
+      "weekday": "Friday",
+      "englishDate": "November 12th 2027",
+      "hebrewDate": "12 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-13",
+      "weekday": "Saturday",
+      "englishDate": "November 13th 2027",
+      "hebrewDate": "13 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-14",
+      "weekday": "Sunday",
+      "englishDate": "November 14th 2027",
+      "hebrewDate": "14 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-15",
+      "weekday": "Monday",
+      "englishDate": "November 15th 2027",
+      "hebrewDate": "15 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-16",
+      "weekday": "Tuesday",
+      "englishDate": "November 16th 2027",
+      "hebrewDate": "16 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-17",
+      "weekday": "Wednesday",
+      "englishDate": "November 17th 2027",
+      "hebrewDate": "17 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-18",
+      "weekday": "Thursday",
+      "englishDate": "November 18th 2027",
+      "hebrewDate": "18 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-19",
+      "weekday": "Friday",
+      "englishDate": "November 19th 2027",
+      "hebrewDate": "19 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-20",
+      "weekday": "Saturday",
+      "englishDate": "November 20th 2027",
+      "hebrewDate": "20 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-21",
+      "weekday": "Sunday",
+      "englishDate": "November 21st 2027",
+      "hebrewDate": "21 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-22",
+      "weekday": "Monday",
+      "englishDate": "November 22nd 2027",
+      "hebrewDate": "22 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-23",
+      "weekday": "Tuesday",
+      "englishDate": "November 23rd 2027",
+      "hebrewDate": "23 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-24",
+      "weekday": "Wednesday",
+      "englishDate": "November 24th 2027",
+      "hebrewDate": "24 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-25",
+      "weekday": "Thursday",
+      "englishDate": "November 25th 2027",
+      "hebrewDate": "25 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-26",
+      "weekday": "Friday",
+      "englishDate": "November 26th 2027",
+      "hebrewDate": "26 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-27",
+      "weekday": "Saturday",
+      "englishDate": "November 27th 2027",
+      "hebrewDate": "27 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-28",
+      "weekday": "Sunday",
+      "englishDate": "November 28th 2027",
+      "hebrewDate": "28 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-29",
+      "weekday": "Monday",
+      "englishDate": "November 29th 2027",
+      "hebrewDate": "29 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-11-30",
+      "weekday": "Tuesday",
+      "englishDate": "November 30th 2027",
+      "hebrewDate": "30 Cheshvan 5788"
+    },
+    {
+      "isoDate": "2027-12-01",
+      "weekday": "Wednesday",
+      "englishDate": "December 1st 2027",
+      "hebrewDate": "1 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-02",
+      "weekday": "Thursday",
+      "englishDate": "December 2nd 2027",
+      "hebrewDate": "2 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-03",
+      "weekday": "Friday",
+      "englishDate": "December 3rd 2027",
+      "hebrewDate": "3 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-04",
+      "weekday": "Saturday",
+      "englishDate": "December 4th 2027",
+      "hebrewDate": "4 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-05",
+      "weekday": "Sunday",
+      "englishDate": "December 5th 2027",
+      "hebrewDate": "5 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-06",
+      "weekday": "Monday",
+      "englishDate": "December 6th 2027",
+      "hebrewDate": "6 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-07",
+      "weekday": "Tuesday",
+      "englishDate": "December 7th 2027",
+      "hebrewDate": "7 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-08",
+      "weekday": "Wednesday",
+      "englishDate": "December 8th 2027",
+      "hebrewDate": "8 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-09",
+      "weekday": "Thursday",
+      "englishDate": "December 9th 2027",
+      "hebrewDate": "9 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-10",
+      "weekday": "Friday",
+      "englishDate": "December 10th 2027",
+      "hebrewDate": "10 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-11",
+      "weekday": "Saturday",
+      "englishDate": "December 11th 2027",
+      "hebrewDate": "11 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-12",
+      "weekday": "Sunday",
+      "englishDate": "December 12th 2027",
+      "hebrewDate": "12 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-13",
+      "weekday": "Monday",
+      "englishDate": "December 13th 2027",
+      "hebrewDate": "13 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-14",
+      "weekday": "Tuesday",
+      "englishDate": "December 14th 2027",
+      "hebrewDate": "14 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-15",
+      "weekday": "Wednesday",
+      "englishDate": "December 15th 2027",
+      "hebrewDate": "15 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-16",
+      "weekday": "Thursday",
+      "englishDate": "December 16th 2027",
+      "hebrewDate": "16 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-17",
+      "weekday": "Friday",
+      "englishDate": "December 17th 2027",
+      "hebrewDate": "17 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-18",
+      "weekday": "Saturday",
+      "englishDate": "December 18th 2027",
+      "hebrewDate": "18 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-19",
+      "weekday": "Sunday",
+      "englishDate": "December 19th 2027",
+      "hebrewDate": "19 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-20",
+      "weekday": "Monday",
+      "englishDate": "December 20th 2027",
+      "hebrewDate": "20 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-21",
+      "weekday": "Tuesday",
+      "englishDate": "December 21st 2027",
+      "hebrewDate": "21 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-22",
+      "weekday": "Wednesday",
+      "englishDate": "December 22nd 2027",
+      "hebrewDate": "22 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-23",
+      "weekday": "Thursday",
+      "englishDate": "December 23rd 2027",
+      "hebrewDate": "23 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-24",
+      "weekday": "Friday",
+      "englishDate": "December 24th 2027",
+      "hebrewDate": "24 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-25",
+      "weekday": "Saturday",
+      "englishDate": "December 25th 2027",
+      "hebrewDate": "25 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-26",
+      "weekday": "Sunday",
+      "englishDate": "December 26th 2027",
+      "hebrewDate": "26 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-27",
+      "weekday": "Monday",
+      "englishDate": "December 27th 2027",
+      "hebrewDate": "27 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-28",
+      "weekday": "Tuesday",
+      "englishDate": "December 28th 2027",
+      "hebrewDate": "28 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-29",
+      "weekday": "Wednesday",
+      "englishDate": "December 29th 2027",
+      "hebrewDate": "29 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-30",
+      "weekday": "Thursday",
+      "englishDate": "December 30th 2027",
+      "hebrewDate": "30 Kislev 5788"
+    },
+    {
+      "isoDate": "2027-12-31",
+      "weekday": "Friday",
+      "englishDate": "December 31st 2027",
+      "hebrewDate": "1 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-01",
+      "weekday": "Saturday",
+      "englishDate": "January 1st 2028",
+      "hebrewDate": "2 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-02",
+      "weekday": "Sunday",
+      "englishDate": "January 2nd 2028",
+      "hebrewDate": "3 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-03",
+      "weekday": "Monday",
+      "englishDate": "January 3rd 2028",
+      "hebrewDate": "4 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-04",
+      "weekday": "Tuesday",
+      "englishDate": "January 4th 2028",
+      "hebrewDate": "5 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-05",
+      "weekday": "Wednesday",
+      "englishDate": "January 5th 2028",
+      "hebrewDate": "6 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-06",
+      "weekday": "Thursday",
+      "englishDate": "January 6th 2028",
+      "hebrewDate": "7 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-07",
+      "weekday": "Friday",
+      "englishDate": "January 7th 2028",
+      "hebrewDate": "8 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-08",
+      "weekday": "Saturday",
+      "englishDate": "January 8th 2028",
+      "hebrewDate": "9 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-09",
+      "weekday": "Sunday",
+      "englishDate": "January 9th 2028",
+      "hebrewDate": "10 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-10",
+      "weekday": "Monday",
+      "englishDate": "January 10th 2028",
+      "hebrewDate": "11 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-11",
+      "weekday": "Tuesday",
+      "englishDate": "January 11th 2028",
+      "hebrewDate": "12 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-12",
+      "weekday": "Wednesday",
+      "englishDate": "January 12th 2028",
+      "hebrewDate": "13 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-13",
+      "weekday": "Thursday",
+      "englishDate": "January 13th 2028",
+      "hebrewDate": "14 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-14",
+      "weekday": "Friday",
+      "englishDate": "January 14th 2028",
+      "hebrewDate": "15 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-15",
+      "weekday": "Saturday",
+      "englishDate": "January 15th 2028",
+      "hebrewDate": "16 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-16",
+      "weekday": "Sunday",
+      "englishDate": "January 16th 2028",
+      "hebrewDate": "17 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-17",
+      "weekday": "Monday",
+      "englishDate": "January 17th 2028",
+      "hebrewDate": "18 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-18",
+      "weekday": "Tuesday",
+      "englishDate": "January 18th 2028",
+      "hebrewDate": "19 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-19",
+      "weekday": "Wednesday",
+      "englishDate": "January 19th 2028",
+      "hebrewDate": "20 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-20",
+      "weekday": "Thursday",
+      "englishDate": "January 20th 2028",
+      "hebrewDate": "21 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-21",
+      "weekday": "Friday",
+      "englishDate": "January 21st 2028",
+      "hebrewDate": "22 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-22",
+      "weekday": "Saturday",
+      "englishDate": "January 22nd 2028",
+      "hebrewDate": "23 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-23",
+      "weekday": "Sunday",
+      "englishDate": "January 23rd 2028",
+      "hebrewDate": "24 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-24",
+      "weekday": "Monday",
+      "englishDate": "January 24th 2028",
+      "hebrewDate": "25 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-25",
+      "weekday": "Tuesday",
+      "englishDate": "January 25th 2028",
+      "hebrewDate": "26 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-26",
+      "weekday": "Wednesday",
+      "englishDate": "January 26th 2028",
+      "hebrewDate": "27 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-27",
+      "weekday": "Thursday",
+      "englishDate": "January 27th 2028",
+      "hebrewDate": "28 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-28",
+      "weekday": "Friday",
+      "englishDate": "January 28th 2028",
+      "hebrewDate": "29 Teves 5788"
+    },
+    {
+      "isoDate": "2028-01-29",
+      "weekday": "Saturday",
+      "englishDate": "January 29th 2028",
+      "hebrewDate": "1 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-01-30",
+      "weekday": "Sunday",
+      "englishDate": "January 30th 2028",
+      "hebrewDate": "2 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-01-31",
+      "weekday": "Monday",
+      "englishDate": "January 31st 2028",
+      "hebrewDate": "3 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-01",
+      "weekday": "Tuesday",
+      "englishDate": "February 1st 2028",
+      "hebrewDate": "4 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-02",
+      "weekday": "Wednesday",
+      "englishDate": "February 2nd 2028",
+      "hebrewDate": "5 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-03",
+      "weekday": "Thursday",
+      "englishDate": "February 3rd 2028",
+      "hebrewDate": "6 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-04",
+      "weekday": "Friday",
+      "englishDate": "February 4th 2028",
+      "hebrewDate": "7 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-05",
+      "weekday": "Saturday",
+      "englishDate": "February 5th 2028",
+      "hebrewDate": "8 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-06",
+      "weekday": "Sunday",
+      "englishDate": "February 6th 2028",
+      "hebrewDate": "9 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-07",
+      "weekday": "Monday",
+      "englishDate": "February 7th 2028",
+      "hebrewDate": "10 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-08",
+      "weekday": "Tuesday",
+      "englishDate": "February 8th 2028",
+      "hebrewDate": "11 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-09",
+      "weekday": "Wednesday",
+      "englishDate": "February 9th 2028",
+      "hebrewDate": "12 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-10",
+      "weekday": "Thursday",
+      "englishDate": "February 10th 2028",
+      "hebrewDate": "13 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-11",
+      "weekday": "Friday",
+      "englishDate": "February 11th 2028",
+      "hebrewDate": "14 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-12",
+      "weekday": "Saturday",
+      "englishDate": "February 12th 2028",
+      "hebrewDate": "15 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-13",
+      "weekday": "Sunday",
+      "englishDate": "February 13th 2028",
+      "hebrewDate": "16 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-14",
+      "weekday": "Monday",
+      "englishDate": "February 14th 2028",
+      "hebrewDate": "17 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-15",
+      "weekday": "Tuesday",
+      "englishDate": "February 15th 2028",
+      "hebrewDate": "18 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-16",
+      "weekday": "Wednesday",
+      "englishDate": "February 16th 2028",
+      "hebrewDate": "19 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-17",
+      "weekday": "Thursday",
+      "englishDate": "February 17th 2028",
+      "hebrewDate": "20 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-18",
+      "weekday": "Friday",
+      "englishDate": "February 18th 2028",
+      "hebrewDate": "21 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-19",
+      "weekday": "Saturday",
+      "englishDate": "February 19th 2028",
+      "hebrewDate": "22 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-20",
+      "weekday": "Sunday",
+      "englishDate": "February 20th 2028",
+      "hebrewDate": "23 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-21",
+      "weekday": "Monday",
+      "englishDate": "February 21st 2028",
+      "hebrewDate": "24 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-22",
+      "weekday": "Tuesday",
+      "englishDate": "February 22nd 2028",
+      "hebrewDate": "25 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-23",
+      "weekday": "Wednesday",
+      "englishDate": "February 23rd 2028",
+      "hebrewDate": "26 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-24",
+      "weekday": "Thursday",
+      "englishDate": "February 24th 2028",
+      "hebrewDate": "27 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-25",
+      "weekday": "Friday",
+      "englishDate": "February 25th 2028",
+      "hebrewDate": "28 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-26",
+      "weekday": "Saturday",
+      "englishDate": "February 26th 2028",
+      "hebrewDate": "29 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-27",
+      "weekday": "Sunday",
+      "englishDate": "February 27th 2028",
+      "hebrewDate": "30 Shevat 5788"
+    },
+    {
+      "isoDate": "2028-02-28",
+      "weekday": "Monday",
+      "englishDate": "February 28th 2028",
+      "hebrewDate": "1 Adar 5788"
+    },
+    {
+      "isoDate": "2028-02-29",
+      "weekday": "Tuesday",
+      "englishDate": "February 29th 2028",
+      "hebrewDate": "2 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-01",
+      "weekday": "Wednesday",
+      "englishDate": "March 1st 2028",
+      "hebrewDate": "3 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-02",
+      "weekday": "Thursday",
+      "englishDate": "March 2nd 2028",
+      "hebrewDate": "4 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-03",
+      "weekday": "Friday",
+      "englishDate": "March 3rd 2028",
+      "hebrewDate": "5 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-04",
+      "weekday": "Saturday",
+      "englishDate": "March 4th 2028",
+      "hebrewDate": "6 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-05",
+      "weekday": "Sunday",
+      "englishDate": "March 5th 2028",
+      "hebrewDate": "7 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-06",
+      "weekday": "Monday",
+      "englishDate": "March 6th 2028",
+      "hebrewDate": "8 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-07",
+      "weekday": "Tuesday",
+      "englishDate": "March 7th 2028",
+      "hebrewDate": "9 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-08",
+      "weekday": "Wednesday",
+      "englishDate": "March 8th 2028",
+      "hebrewDate": "10 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-09",
+      "weekday": "Thursday",
+      "englishDate": "March 9th 2028",
+      "hebrewDate": "11 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-10",
+      "weekday": "Friday",
+      "englishDate": "March 10th 2028",
+      "hebrewDate": "12 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-11",
+      "weekday": "Saturday",
+      "englishDate": "March 11th 2028",
+      "hebrewDate": "13 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-12",
+      "weekday": "Sunday",
+      "englishDate": "March 12th 2028",
+      "hebrewDate": "14 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-13",
+      "weekday": "Monday",
+      "englishDate": "March 13th 2028",
+      "hebrewDate": "15 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-14",
+      "weekday": "Tuesday",
+      "englishDate": "March 14th 2028",
+      "hebrewDate": "16 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-15",
+      "weekday": "Wednesday",
+      "englishDate": "March 15th 2028",
+      "hebrewDate": "17 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-16",
+      "weekday": "Thursday",
+      "englishDate": "March 16th 2028",
+      "hebrewDate": "18 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-17",
+      "weekday": "Friday",
+      "englishDate": "March 17th 2028",
+      "hebrewDate": "19 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-18",
+      "weekday": "Saturday",
+      "englishDate": "March 18th 2028",
+      "hebrewDate": "20 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-19",
+      "weekday": "Sunday",
+      "englishDate": "March 19th 2028",
+      "hebrewDate": "21 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-20",
+      "weekday": "Monday",
+      "englishDate": "March 20th 2028",
+      "hebrewDate": "22 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-21",
+      "weekday": "Tuesday",
+      "englishDate": "March 21st 2028",
+      "hebrewDate": "23 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-22",
+      "weekday": "Wednesday",
+      "englishDate": "March 22nd 2028",
+      "hebrewDate": "24 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-23",
+      "weekday": "Thursday",
+      "englishDate": "March 23rd 2028",
+      "hebrewDate": "25 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-24",
+      "weekday": "Friday",
+      "englishDate": "March 24th 2028",
+      "hebrewDate": "26 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-25",
+      "weekday": "Saturday",
+      "englishDate": "March 25th 2028",
+      "hebrewDate": "27 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-26",
+      "weekday": "Sunday",
+      "englishDate": "March 26th 2028",
+      "hebrewDate": "28 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-27",
+      "weekday": "Monday",
+      "englishDate": "March 27th 2028",
+      "hebrewDate": "29 Adar 5788"
+    },
+    {
+      "isoDate": "2028-03-28",
+      "weekday": "Tuesday",
+      "englishDate": "March 28th 2028",
+      "hebrewDate": "1 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-03-29",
+      "weekday": "Wednesday",
+      "englishDate": "March 29th 2028",
+      "hebrewDate": "2 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-03-30",
+      "weekday": "Thursday",
+      "englishDate": "March 30th 2028",
+      "hebrewDate": "3 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-03-31",
+      "weekday": "Friday",
+      "englishDate": "March 31st 2028",
+      "hebrewDate": "4 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-01",
+      "weekday": "Saturday",
+      "englishDate": "April 1st 2028",
+      "hebrewDate": "5 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-02",
+      "weekday": "Sunday",
+      "englishDate": "April 2nd 2028",
+      "hebrewDate": "6 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-03",
+      "weekday": "Monday",
+      "englishDate": "April 3rd 2028",
+      "hebrewDate": "7 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-04",
+      "weekday": "Tuesday",
+      "englishDate": "April 4th 2028",
+      "hebrewDate": "8 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-05",
+      "weekday": "Wednesday",
+      "englishDate": "April 5th 2028",
+      "hebrewDate": "9 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-06",
+      "weekday": "Thursday",
+      "englishDate": "April 6th 2028",
+      "hebrewDate": "10 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-07",
+      "weekday": "Friday",
+      "englishDate": "April 7th 2028",
+      "hebrewDate": "11 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-08",
+      "weekday": "Saturday",
+      "englishDate": "April 8th 2028",
+      "hebrewDate": "12 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-09",
+      "weekday": "Sunday",
+      "englishDate": "April 9th 2028",
+      "hebrewDate": "13 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-10",
+      "weekday": "Monday",
+      "englishDate": "April 10th 2028",
+      "hebrewDate": "14 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-11",
+      "weekday": "Tuesday",
+      "englishDate": "April 11th 2028",
+      "hebrewDate": "15 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-12",
+      "weekday": "Wednesday",
+      "englishDate": "April 12th 2028",
+      "hebrewDate": "16 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-13",
+      "weekday": "Thursday",
+      "englishDate": "April 13th 2028",
+      "hebrewDate": "17 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-14",
+      "weekday": "Friday",
+      "englishDate": "April 14th 2028",
+      "hebrewDate": "18 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-15",
+      "weekday": "Saturday",
+      "englishDate": "April 15th 2028",
+      "hebrewDate": "19 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-16",
+      "weekday": "Sunday",
+      "englishDate": "April 16th 2028",
+      "hebrewDate": "20 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-17",
+      "weekday": "Monday",
+      "englishDate": "April 17th 2028",
+      "hebrewDate": "21 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-18",
+      "weekday": "Tuesday",
+      "englishDate": "April 18th 2028",
+      "hebrewDate": "22 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-19",
+      "weekday": "Wednesday",
+      "englishDate": "April 19th 2028",
+      "hebrewDate": "23 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-20",
+      "weekday": "Thursday",
+      "englishDate": "April 20th 2028",
+      "hebrewDate": "24 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-21",
+      "weekday": "Friday",
+      "englishDate": "April 21st 2028",
+      "hebrewDate": "25 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-22",
+      "weekday": "Saturday",
+      "englishDate": "April 22nd 2028",
+      "hebrewDate": "26 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-23",
+      "weekday": "Sunday",
+      "englishDate": "April 23rd 2028",
+      "hebrewDate": "27 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-24",
+      "weekday": "Monday",
+      "englishDate": "April 24th 2028",
+      "hebrewDate": "28 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-25",
+      "weekday": "Tuesday",
+      "englishDate": "April 25th 2028",
+      "hebrewDate": "29 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-26",
+      "weekday": "Wednesday",
+      "englishDate": "April 26th 2028",
+      "hebrewDate": "30 Nisan 5788"
+    },
+    {
+      "isoDate": "2028-04-27",
+      "weekday": "Thursday",
+      "englishDate": "April 27th 2028",
+      "hebrewDate": "1 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-04-28",
+      "weekday": "Friday",
+      "englishDate": "April 28th 2028",
+      "hebrewDate": "2 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-04-29",
+      "weekday": "Saturday",
+      "englishDate": "April 29th 2028",
+      "hebrewDate": "3 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-04-30",
+      "weekday": "Sunday",
+      "englishDate": "April 30th 2028",
+      "hebrewDate": "4 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-01",
+      "weekday": "Monday",
+      "englishDate": "May 1st 2028",
+      "hebrewDate": "5 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-02",
+      "weekday": "Tuesday",
+      "englishDate": "May 2nd 2028",
+      "hebrewDate": "6 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-03",
+      "weekday": "Wednesday",
+      "englishDate": "May 3rd 2028",
+      "hebrewDate": "7 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-04",
+      "weekday": "Thursday",
+      "englishDate": "May 4th 2028",
+      "hebrewDate": "8 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-05",
+      "weekday": "Friday",
+      "englishDate": "May 5th 2028",
+      "hebrewDate": "9 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-06",
+      "weekday": "Saturday",
+      "englishDate": "May 6th 2028",
+      "hebrewDate": "10 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-07",
+      "weekday": "Sunday",
+      "englishDate": "May 7th 2028",
+      "hebrewDate": "11 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-08",
+      "weekday": "Monday",
+      "englishDate": "May 8th 2028",
+      "hebrewDate": "12 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-09",
+      "weekday": "Tuesday",
+      "englishDate": "May 9th 2028",
+      "hebrewDate": "13 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-10",
+      "weekday": "Wednesday",
+      "englishDate": "May 10th 2028",
+      "hebrewDate": "14 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-11",
+      "weekday": "Thursday",
+      "englishDate": "May 11th 2028",
+      "hebrewDate": "15 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-12",
+      "weekday": "Friday",
+      "englishDate": "May 12th 2028",
+      "hebrewDate": "16 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-13",
+      "weekday": "Saturday",
+      "englishDate": "May 13th 2028",
+      "hebrewDate": "17 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-14",
+      "weekday": "Sunday",
+      "englishDate": "May 14th 2028",
+      "hebrewDate": "18 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-15",
+      "weekday": "Monday",
+      "englishDate": "May 15th 2028",
+      "hebrewDate": "19 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-16",
+      "weekday": "Tuesday",
+      "englishDate": "May 16th 2028",
+      "hebrewDate": "20 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-17",
+      "weekday": "Wednesday",
+      "englishDate": "May 17th 2028",
+      "hebrewDate": "21 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-18",
+      "weekday": "Thursday",
+      "englishDate": "May 18th 2028",
+      "hebrewDate": "22 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-19",
+      "weekday": "Friday",
+      "englishDate": "May 19th 2028",
+      "hebrewDate": "23 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-20",
+      "weekday": "Saturday",
+      "englishDate": "May 20th 2028",
+      "hebrewDate": "24 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-21",
+      "weekday": "Sunday",
+      "englishDate": "May 21st 2028",
+      "hebrewDate": "25 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-22",
+      "weekday": "Monday",
+      "englishDate": "May 22nd 2028",
+      "hebrewDate": "26 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-23",
+      "weekday": "Tuesday",
+      "englishDate": "May 23rd 2028",
+      "hebrewDate": "27 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-24",
+      "weekday": "Wednesday",
+      "englishDate": "May 24th 2028",
+      "hebrewDate": "28 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-25",
+      "weekday": "Thursday",
+      "englishDate": "May 25th 2028",
+      "hebrewDate": "29 Iyar 5788"
+    },
+    {
+      "isoDate": "2028-05-26",
+      "weekday": "Friday",
+      "englishDate": "May 26th 2028",
+      "hebrewDate": "1 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-05-27",
+      "weekday": "Saturday",
+      "englishDate": "May 27th 2028",
+      "hebrewDate": "2 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-05-28",
+      "weekday": "Sunday",
+      "englishDate": "May 28th 2028",
+      "hebrewDate": "3 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-05-29",
+      "weekday": "Monday",
+      "englishDate": "May 29th 2028",
+      "hebrewDate": "4 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-05-30",
+      "weekday": "Tuesday",
+      "englishDate": "May 30th 2028",
+      "hebrewDate": "5 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-05-31",
+      "weekday": "Wednesday",
+      "englishDate": "May 31st 2028",
+      "hebrewDate": "6 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-01",
+      "weekday": "Thursday",
+      "englishDate": "June 1st 2028",
+      "hebrewDate": "7 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-02",
+      "weekday": "Friday",
+      "englishDate": "June 2nd 2028",
+      "hebrewDate": "8 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-03",
+      "weekday": "Saturday",
+      "englishDate": "June 3rd 2028",
+      "hebrewDate": "9 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-04",
+      "weekday": "Sunday",
+      "englishDate": "June 4th 2028",
+      "hebrewDate": "10 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-05",
+      "weekday": "Monday",
+      "englishDate": "June 5th 2028",
+      "hebrewDate": "11 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-06",
+      "weekday": "Tuesday",
+      "englishDate": "June 6th 2028",
+      "hebrewDate": "12 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-07",
+      "weekday": "Wednesday",
+      "englishDate": "June 7th 2028",
+      "hebrewDate": "13 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-08",
+      "weekday": "Thursday",
+      "englishDate": "June 8th 2028",
+      "hebrewDate": "14 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-09",
+      "weekday": "Friday",
+      "englishDate": "June 9th 2028",
+      "hebrewDate": "15 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-10",
+      "weekday": "Saturday",
+      "englishDate": "June 10th 2028",
+      "hebrewDate": "16 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-11",
+      "weekday": "Sunday",
+      "englishDate": "June 11th 2028",
+      "hebrewDate": "17 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-12",
+      "weekday": "Monday",
+      "englishDate": "June 12th 2028",
+      "hebrewDate": "18 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-13",
+      "weekday": "Tuesday",
+      "englishDate": "June 13th 2028",
+      "hebrewDate": "19 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-14",
+      "weekday": "Wednesday",
+      "englishDate": "June 14th 2028",
+      "hebrewDate": "20 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-15",
+      "weekday": "Thursday",
+      "englishDate": "June 15th 2028",
+      "hebrewDate": "21 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-16",
+      "weekday": "Friday",
+      "englishDate": "June 16th 2028",
+      "hebrewDate": "22 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-17",
+      "weekday": "Saturday",
+      "englishDate": "June 17th 2028",
+      "hebrewDate": "23 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-18",
+      "weekday": "Sunday",
+      "englishDate": "June 18th 2028",
+      "hebrewDate": "24 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-19",
+      "weekday": "Monday",
+      "englishDate": "June 19th 2028",
+      "hebrewDate": "25 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-20",
+      "weekday": "Tuesday",
+      "englishDate": "June 20th 2028",
+      "hebrewDate": "26 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-21",
+      "weekday": "Wednesday",
+      "englishDate": "June 21st 2028",
+      "hebrewDate": "27 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-22",
+      "weekday": "Thursday",
+      "englishDate": "June 22nd 2028",
+      "hebrewDate": "28 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-23",
+      "weekday": "Friday",
+      "englishDate": "June 23rd 2028",
+      "hebrewDate": "29 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-24",
+      "weekday": "Saturday",
+      "englishDate": "June 24th 2028",
+      "hebrewDate": "30 Sivan 5788"
+    },
+    {
+      "isoDate": "2028-06-25",
+      "weekday": "Sunday",
+      "englishDate": "June 25th 2028",
+      "hebrewDate": "1 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-06-26",
+      "weekday": "Monday",
+      "englishDate": "June 26th 2028",
+      "hebrewDate": "2 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-06-27",
+      "weekday": "Tuesday",
+      "englishDate": "June 27th 2028",
+      "hebrewDate": "3 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-06-28",
+      "weekday": "Wednesday",
+      "englishDate": "June 28th 2028",
+      "hebrewDate": "4 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-06-29",
+      "weekday": "Thursday",
+      "englishDate": "June 29th 2028",
+      "hebrewDate": "5 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-06-30",
+      "weekday": "Friday",
+      "englishDate": "June 30th 2028",
+      "hebrewDate": "6 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-01",
+      "weekday": "Saturday",
+      "englishDate": "July 1st 2028",
+      "hebrewDate": "7 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-02",
+      "weekday": "Sunday",
+      "englishDate": "July 2nd 2028",
+      "hebrewDate": "8 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-03",
+      "weekday": "Monday",
+      "englishDate": "July 3rd 2028",
+      "hebrewDate": "9 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-04",
+      "weekday": "Tuesday",
+      "englishDate": "July 4th 2028",
+      "hebrewDate": "10 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-05",
+      "weekday": "Wednesday",
+      "englishDate": "July 5th 2028",
+      "hebrewDate": "11 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-06",
+      "weekday": "Thursday",
+      "englishDate": "July 6th 2028",
+      "hebrewDate": "12 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-07",
+      "weekday": "Friday",
+      "englishDate": "July 7th 2028",
+      "hebrewDate": "13 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-08",
+      "weekday": "Saturday",
+      "englishDate": "July 8th 2028",
+      "hebrewDate": "14 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-09",
+      "weekday": "Sunday",
+      "englishDate": "July 9th 2028",
+      "hebrewDate": "15 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-10",
+      "weekday": "Monday",
+      "englishDate": "July 10th 2028",
+      "hebrewDate": "16 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-11",
+      "weekday": "Tuesday",
+      "englishDate": "July 11th 2028",
+      "hebrewDate": "17 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-12",
+      "weekday": "Wednesday",
+      "englishDate": "July 12th 2028",
+      "hebrewDate": "18 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-13",
+      "weekday": "Thursday",
+      "englishDate": "July 13th 2028",
+      "hebrewDate": "19 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-14",
+      "weekday": "Friday",
+      "englishDate": "July 14th 2028",
+      "hebrewDate": "20 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-15",
+      "weekday": "Saturday",
+      "englishDate": "July 15th 2028",
+      "hebrewDate": "21 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-16",
+      "weekday": "Sunday",
+      "englishDate": "July 16th 2028",
+      "hebrewDate": "22 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-17",
+      "weekday": "Monday",
+      "englishDate": "July 17th 2028",
+      "hebrewDate": "23 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-18",
+      "weekday": "Tuesday",
+      "englishDate": "July 18th 2028",
+      "hebrewDate": "24 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-19",
+      "weekday": "Wednesday",
+      "englishDate": "July 19th 2028",
+      "hebrewDate": "25 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-20",
+      "weekday": "Thursday",
+      "englishDate": "July 20th 2028",
+      "hebrewDate": "26 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-21",
+      "weekday": "Friday",
+      "englishDate": "July 21st 2028",
+      "hebrewDate": "27 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-22",
+      "weekday": "Saturday",
+      "englishDate": "July 22nd 2028",
+      "hebrewDate": "28 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-23",
+      "weekday": "Sunday",
+      "englishDate": "July 23rd 2028",
+      "hebrewDate": "29 Tamuz 5788"
+    },
+    {
+      "isoDate": "2028-07-24",
+      "weekday": "Monday",
+      "englishDate": "July 24th 2028",
+      "hebrewDate": "1 Av 5788"
+    },
+    {
+      "isoDate": "2028-07-25",
+      "weekday": "Tuesday",
+      "englishDate": "July 25th 2028",
+      "hebrewDate": "2 Av 5788"
+    },
+    {
+      "isoDate": "2028-07-26",
+      "weekday": "Wednesday",
+      "englishDate": "July 26th 2028",
+      "hebrewDate": "3 Av 5788"
+    },
+    {
+      "isoDate": "2028-07-27",
+      "weekday": "Thursday",
+      "englishDate": "July 27th 2028",
+      "hebrewDate": "4 Av 5788"
+    },
+    {
+      "isoDate": "2028-07-28",
+      "weekday": "Friday",
+      "englishDate": "July 28th 2028",
+      "hebrewDate": "5 Av 5788"
+    },
+    {
+      "isoDate": "2028-07-29",
+      "weekday": "Saturday",
+      "englishDate": "July 29th 2028",
+      "hebrewDate": "6 Av 5788"
+    },
+    {
+      "isoDate": "2028-07-30",
+      "weekday": "Sunday",
+      "englishDate": "July 30th 2028",
+      "hebrewDate": "7 Av 5788"
+    },
+    {
+      "isoDate": "2028-07-31",
+      "weekday": "Monday",
+      "englishDate": "July 31st 2028",
+      "hebrewDate": "8 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-01",
+      "weekday": "Tuesday",
+      "englishDate": "August 1st 2028",
+      "hebrewDate": "9 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-02",
+      "weekday": "Wednesday",
+      "englishDate": "August 2nd 2028",
+      "hebrewDate": "10 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-03",
+      "weekday": "Thursday",
+      "englishDate": "August 3rd 2028",
+      "hebrewDate": "11 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-04",
+      "weekday": "Friday",
+      "englishDate": "August 4th 2028",
+      "hebrewDate": "12 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-05",
+      "weekday": "Saturday",
+      "englishDate": "August 5th 2028",
+      "hebrewDate": "13 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-06",
+      "weekday": "Sunday",
+      "englishDate": "August 6th 2028",
+      "hebrewDate": "14 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-07",
+      "weekday": "Monday",
+      "englishDate": "August 7th 2028",
+      "hebrewDate": "15 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-08",
+      "weekday": "Tuesday",
+      "englishDate": "August 8th 2028",
+      "hebrewDate": "16 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-09",
+      "weekday": "Wednesday",
+      "englishDate": "August 9th 2028",
+      "hebrewDate": "17 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-10",
+      "weekday": "Thursday",
+      "englishDate": "August 10th 2028",
+      "hebrewDate": "18 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-11",
+      "weekday": "Friday",
+      "englishDate": "August 11th 2028",
+      "hebrewDate": "19 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-12",
+      "weekday": "Saturday",
+      "englishDate": "August 12th 2028",
+      "hebrewDate": "20 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-13",
+      "weekday": "Sunday",
+      "englishDate": "August 13th 2028",
+      "hebrewDate": "21 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-14",
+      "weekday": "Monday",
+      "englishDate": "August 14th 2028",
+      "hebrewDate": "22 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-15",
+      "weekday": "Tuesday",
+      "englishDate": "August 15th 2028",
+      "hebrewDate": "23 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-16",
+      "weekday": "Wednesday",
+      "englishDate": "August 16th 2028",
+      "hebrewDate": "24 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-17",
+      "weekday": "Thursday",
+      "englishDate": "August 17th 2028",
+      "hebrewDate": "25 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-18",
+      "weekday": "Friday",
+      "englishDate": "August 18th 2028",
+      "hebrewDate": "26 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-19",
+      "weekday": "Saturday",
+      "englishDate": "August 19th 2028",
+      "hebrewDate": "27 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-20",
+      "weekday": "Sunday",
+      "englishDate": "August 20th 2028",
+      "hebrewDate": "28 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-21",
+      "weekday": "Monday",
+      "englishDate": "August 21st 2028",
+      "hebrewDate": "29 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-22",
+      "weekday": "Tuesday",
+      "englishDate": "August 22nd 2028",
+      "hebrewDate": "30 Av 5788"
+    },
+    {
+      "isoDate": "2028-08-23",
+      "weekday": "Wednesday",
+      "englishDate": "August 23rd 2028",
+      "hebrewDate": "1 Elul 5788"
+    },
+    {
+      "isoDate": "2028-08-24",
+      "weekday": "Thursday",
+      "englishDate": "August 24th 2028",
+      "hebrewDate": "2 Elul 5788"
+    },
+    {
+      "isoDate": "2028-08-25",
+      "weekday": "Friday",
+      "englishDate": "August 25th 2028",
+      "hebrewDate": "3 Elul 5788"
+    },
+    {
+      "isoDate": "2028-08-26",
+      "weekday": "Saturday",
+      "englishDate": "August 26th 2028",
+      "hebrewDate": "4 Elul 5788"
+    },
+    {
+      "isoDate": "2028-08-27",
+      "weekday": "Sunday",
+      "englishDate": "August 27th 2028",
+      "hebrewDate": "5 Elul 5788"
+    },
+    {
+      "isoDate": "2028-08-28",
+      "weekday": "Monday",
+      "englishDate": "August 28th 2028",
+      "hebrewDate": "6 Elul 5788"
+    },
+    {
+      "isoDate": "2028-08-29",
+      "weekday": "Tuesday",
+      "englishDate": "August 29th 2028",
+      "hebrewDate": "7 Elul 5788"
+    },
+    {
+      "isoDate": "2028-08-30",
+      "weekday": "Wednesday",
+      "englishDate": "August 30th 2028",
+      "hebrewDate": "8 Elul 5788"
+    },
+    {
+      "isoDate": "2028-08-31",
+      "weekday": "Thursday",
+      "englishDate": "August 31st 2028",
+      "hebrewDate": "9 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-01",
+      "weekday": "Friday",
+      "englishDate": "September 1st 2028",
+      "hebrewDate": "10 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-02",
+      "weekday": "Saturday",
+      "englishDate": "September 2nd 2028",
+      "hebrewDate": "11 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-03",
+      "weekday": "Sunday",
+      "englishDate": "September 3rd 2028",
+      "hebrewDate": "12 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-04",
+      "weekday": "Monday",
+      "englishDate": "September 4th 2028",
+      "hebrewDate": "13 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-05",
+      "weekday": "Tuesday",
+      "englishDate": "September 5th 2028",
+      "hebrewDate": "14 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-06",
+      "weekday": "Wednesday",
+      "englishDate": "September 6th 2028",
+      "hebrewDate": "15 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-07",
+      "weekday": "Thursday",
+      "englishDate": "September 7th 2028",
+      "hebrewDate": "16 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-08",
+      "weekday": "Friday",
+      "englishDate": "September 8th 2028",
+      "hebrewDate": "17 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-09",
+      "weekday": "Saturday",
+      "englishDate": "September 9th 2028",
+      "hebrewDate": "18 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-10",
+      "weekday": "Sunday",
+      "englishDate": "September 10th 2028",
+      "hebrewDate": "19 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-11",
+      "weekday": "Monday",
+      "englishDate": "September 11th 2028",
+      "hebrewDate": "20 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-12",
+      "weekday": "Tuesday",
+      "englishDate": "September 12th 2028",
+      "hebrewDate": "21 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-13",
+      "weekday": "Wednesday",
+      "englishDate": "September 13th 2028",
+      "hebrewDate": "22 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-14",
+      "weekday": "Thursday",
+      "englishDate": "September 14th 2028",
+      "hebrewDate": "23 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-15",
+      "weekday": "Friday",
+      "englishDate": "September 15th 2028",
+      "hebrewDate": "24 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-16",
+      "weekday": "Saturday",
+      "englishDate": "September 16th 2028",
+      "hebrewDate": "25 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-17",
+      "weekday": "Sunday",
+      "englishDate": "September 17th 2028",
+      "hebrewDate": "26 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-18",
+      "weekday": "Monday",
+      "englishDate": "September 18th 2028",
+      "hebrewDate": "27 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-19",
+      "weekday": "Tuesday",
+      "englishDate": "September 19th 2028",
+      "hebrewDate": "28 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-20",
+      "weekday": "Wednesday",
+      "englishDate": "September 20th 2028",
+      "hebrewDate": "29 Elul 5788"
+    },
+    {
+      "isoDate": "2028-09-21",
+      "weekday": "Thursday",
+      "englishDate": "September 21st 2028",
+      "hebrewDate": "1 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-22",
+      "weekday": "Friday",
+      "englishDate": "September 22nd 2028",
+      "hebrewDate": "2 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-23",
+      "weekday": "Saturday",
+      "englishDate": "September 23rd 2028",
+      "hebrewDate": "3 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-24",
+      "weekday": "Sunday",
+      "englishDate": "September 24th 2028",
+      "hebrewDate": "4 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-25",
+      "weekday": "Monday",
+      "englishDate": "September 25th 2028",
+      "hebrewDate": "5 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-26",
+      "weekday": "Tuesday",
+      "englishDate": "September 26th 2028",
+      "hebrewDate": "6 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-27",
+      "weekday": "Wednesday",
+      "englishDate": "September 27th 2028",
+      "hebrewDate": "7 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-28",
+      "weekday": "Thursday",
+      "englishDate": "September 28th 2028",
+      "hebrewDate": "8 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-29",
+      "weekday": "Friday",
+      "englishDate": "September 29th 2028",
+      "hebrewDate": "9 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-09-30",
+      "weekday": "Saturday",
+      "englishDate": "September 30th 2028",
+      "hebrewDate": "10 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-01",
+      "weekday": "Sunday",
+      "englishDate": "October 1st 2028",
+      "hebrewDate": "11 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-02",
+      "weekday": "Monday",
+      "englishDate": "October 2nd 2028",
+      "hebrewDate": "12 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-03",
+      "weekday": "Tuesday",
+      "englishDate": "October 3rd 2028",
+      "hebrewDate": "13 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-04",
+      "weekday": "Wednesday",
+      "englishDate": "October 4th 2028",
+      "hebrewDate": "14 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-05",
+      "weekday": "Thursday",
+      "englishDate": "October 5th 2028",
+      "hebrewDate": "15 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-06",
+      "weekday": "Friday",
+      "englishDate": "October 6th 2028",
+      "hebrewDate": "16 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-07",
+      "weekday": "Saturday",
+      "englishDate": "October 7th 2028",
+      "hebrewDate": "17 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-08",
+      "weekday": "Sunday",
+      "englishDate": "October 8th 2028",
+      "hebrewDate": "18 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-09",
+      "weekday": "Monday",
+      "englishDate": "October 9th 2028",
+      "hebrewDate": "19 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-10",
+      "weekday": "Tuesday",
+      "englishDate": "October 10th 2028",
+      "hebrewDate": "20 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-11",
+      "weekday": "Wednesday",
+      "englishDate": "October 11th 2028",
+      "hebrewDate": "21 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-12",
+      "weekday": "Thursday",
+      "englishDate": "October 12th 2028",
+      "hebrewDate": "22 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-13",
+      "weekday": "Friday",
+      "englishDate": "October 13th 2028",
+      "hebrewDate": "23 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-14",
+      "weekday": "Saturday",
+      "englishDate": "October 14th 2028",
+      "hebrewDate": "24 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-15",
+      "weekday": "Sunday",
+      "englishDate": "October 15th 2028",
+      "hebrewDate": "25 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-16",
+      "weekday": "Monday",
+      "englishDate": "October 16th 2028",
+      "hebrewDate": "26 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-17",
+      "weekday": "Tuesday",
+      "englishDate": "October 17th 2028",
+      "hebrewDate": "27 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-18",
+      "weekday": "Wednesday",
+      "englishDate": "October 18th 2028",
+      "hebrewDate": "28 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-19",
+      "weekday": "Thursday",
+      "englishDate": "October 19th 2028",
+      "hebrewDate": "29 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-20",
+      "weekday": "Friday",
+      "englishDate": "October 20th 2028",
+      "hebrewDate": "30 Tishrei 5789"
+    },
+    {
+      "isoDate": "2028-10-21",
+      "weekday": "Saturday",
+      "englishDate": "October 21st 2028",
+      "hebrewDate": "1 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-22",
+      "weekday": "Sunday",
+      "englishDate": "October 22nd 2028",
+      "hebrewDate": "2 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-23",
+      "weekday": "Monday",
+      "englishDate": "October 23rd 2028",
+      "hebrewDate": "3 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-24",
+      "weekday": "Tuesday",
+      "englishDate": "October 24th 2028",
+      "hebrewDate": "4 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-25",
+      "weekday": "Wednesday",
+      "englishDate": "October 25th 2028",
+      "hebrewDate": "5 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-26",
+      "weekday": "Thursday",
+      "englishDate": "October 26th 2028",
+      "hebrewDate": "6 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-27",
+      "weekday": "Friday",
+      "englishDate": "October 27th 2028",
+      "hebrewDate": "7 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-28",
+      "weekday": "Saturday",
+      "englishDate": "October 28th 2028",
+      "hebrewDate": "8 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-29",
+      "weekday": "Sunday",
+      "englishDate": "October 29th 2028",
+      "hebrewDate": "9 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-30",
+      "weekday": "Monday",
+      "englishDate": "October 30th 2028",
+      "hebrewDate": "10 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-10-31",
+      "weekday": "Tuesday",
+      "englishDate": "October 31st 2028",
+      "hebrewDate": "11 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-01",
+      "weekday": "Wednesday",
+      "englishDate": "November 1st 2028",
+      "hebrewDate": "12 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-02",
+      "weekday": "Thursday",
+      "englishDate": "November 2nd 2028",
+      "hebrewDate": "13 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-03",
+      "weekday": "Friday",
+      "englishDate": "November 3rd 2028",
+      "hebrewDate": "14 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-04",
+      "weekday": "Saturday",
+      "englishDate": "November 4th 2028",
+      "hebrewDate": "15 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-05",
+      "weekday": "Sunday",
+      "englishDate": "November 5th 2028",
+      "hebrewDate": "16 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-06",
+      "weekday": "Monday",
+      "englishDate": "November 6th 2028",
+      "hebrewDate": "17 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-07",
+      "weekday": "Tuesday",
+      "englishDate": "November 7th 2028",
+      "hebrewDate": "18 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-08",
+      "weekday": "Wednesday",
+      "englishDate": "November 8th 2028",
+      "hebrewDate": "19 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-09",
+      "weekday": "Thursday",
+      "englishDate": "November 9th 2028",
+      "hebrewDate": "20 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-10",
+      "weekday": "Friday",
+      "englishDate": "November 10th 2028",
+      "hebrewDate": "21 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-11",
+      "weekday": "Saturday",
+      "englishDate": "November 11th 2028",
+      "hebrewDate": "22 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-12",
+      "weekday": "Sunday",
+      "englishDate": "November 12th 2028",
+      "hebrewDate": "23 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-13",
+      "weekday": "Monday",
+      "englishDate": "November 13th 2028",
+      "hebrewDate": "24 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-14",
+      "weekday": "Tuesday",
+      "englishDate": "November 14th 2028",
+      "hebrewDate": "25 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-15",
+      "weekday": "Wednesday",
+      "englishDate": "November 15th 2028",
+      "hebrewDate": "26 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-16",
+      "weekday": "Thursday",
+      "englishDate": "November 16th 2028",
+      "hebrewDate": "27 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-17",
+      "weekday": "Friday",
+      "englishDate": "November 17th 2028",
+      "hebrewDate": "28 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-18",
+      "weekday": "Saturday",
+      "englishDate": "November 18th 2028",
+      "hebrewDate": "29 Cheshvan 5789"
+    },
+    {
+      "isoDate": "2028-11-19",
+      "weekday": "Sunday",
+      "englishDate": "November 19th 2028",
+      "hebrewDate": "1 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-20",
+      "weekday": "Monday",
+      "englishDate": "November 20th 2028",
+      "hebrewDate": "2 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-21",
+      "weekday": "Tuesday",
+      "englishDate": "November 21st 2028",
+      "hebrewDate": "3 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-22",
+      "weekday": "Wednesday",
+      "englishDate": "November 22nd 2028",
+      "hebrewDate": "4 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-23",
+      "weekday": "Thursday",
+      "englishDate": "November 23rd 2028",
+      "hebrewDate": "5 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-24",
+      "weekday": "Friday",
+      "englishDate": "November 24th 2028",
+      "hebrewDate": "6 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-25",
+      "weekday": "Saturday",
+      "englishDate": "November 25th 2028",
+      "hebrewDate": "7 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-26",
+      "weekday": "Sunday",
+      "englishDate": "November 26th 2028",
+      "hebrewDate": "8 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-27",
+      "weekday": "Monday",
+      "englishDate": "November 27th 2028",
+      "hebrewDate": "9 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-28",
+      "weekday": "Tuesday",
+      "englishDate": "November 28th 2028",
+      "hebrewDate": "10 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-29",
+      "weekday": "Wednesday",
+      "englishDate": "November 29th 2028",
+      "hebrewDate": "11 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-11-30",
+      "weekday": "Thursday",
+      "englishDate": "November 30th 2028",
+      "hebrewDate": "12 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-01",
+      "weekday": "Friday",
+      "englishDate": "December 1st 2028",
+      "hebrewDate": "13 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-02",
+      "weekday": "Saturday",
+      "englishDate": "December 2nd 2028",
+      "hebrewDate": "14 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-03",
+      "weekday": "Sunday",
+      "englishDate": "December 3rd 2028",
+      "hebrewDate": "15 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-04",
+      "weekday": "Monday",
+      "englishDate": "December 4th 2028",
+      "hebrewDate": "16 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-05",
+      "weekday": "Tuesday",
+      "englishDate": "December 5th 2028",
+      "hebrewDate": "17 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-06",
+      "weekday": "Wednesday",
+      "englishDate": "December 6th 2028",
+      "hebrewDate": "18 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-07",
+      "weekday": "Thursday",
+      "englishDate": "December 7th 2028",
+      "hebrewDate": "19 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-08",
+      "weekday": "Friday",
+      "englishDate": "December 8th 2028",
+      "hebrewDate": "20 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-09",
+      "weekday": "Saturday",
+      "englishDate": "December 9th 2028",
+      "hebrewDate": "21 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-10",
+      "weekday": "Sunday",
+      "englishDate": "December 10th 2028",
+      "hebrewDate": "22 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-11",
+      "weekday": "Monday",
+      "englishDate": "December 11th 2028",
+      "hebrewDate": "23 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-12",
+      "weekday": "Tuesday",
+      "englishDate": "December 12th 2028",
+      "hebrewDate": "24 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-13",
+      "weekday": "Wednesday",
+      "englishDate": "December 13th 2028",
+      "hebrewDate": "25 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-14",
+      "weekday": "Thursday",
+      "englishDate": "December 14th 2028",
+      "hebrewDate": "26 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-15",
+      "weekday": "Friday",
+      "englishDate": "December 15th 2028",
+      "hebrewDate": "27 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-16",
+      "weekday": "Saturday",
+      "englishDate": "December 16th 2028",
+      "hebrewDate": "28 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-17",
+      "weekday": "Sunday",
+      "englishDate": "December 17th 2028",
+      "hebrewDate": "29 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-18",
+      "weekday": "Monday",
+      "englishDate": "December 18th 2028",
+      "hebrewDate": "30 Kislev 5789"
+    },
+    {
+      "isoDate": "2028-12-19",
+      "weekday": "Tuesday",
+      "englishDate": "December 19th 2028",
+      "hebrewDate": "1 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-20",
+      "weekday": "Wednesday",
+      "englishDate": "December 20th 2028",
+      "hebrewDate": "2 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-21",
+      "weekday": "Thursday",
+      "englishDate": "December 21st 2028",
+      "hebrewDate": "3 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-22",
+      "weekday": "Friday",
+      "englishDate": "December 22nd 2028",
+      "hebrewDate": "4 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-23",
+      "weekday": "Saturday",
+      "englishDate": "December 23rd 2028",
+      "hebrewDate": "5 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-24",
+      "weekday": "Sunday",
+      "englishDate": "December 24th 2028",
+      "hebrewDate": "6 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-25",
+      "weekday": "Monday",
+      "englishDate": "December 25th 2028",
+      "hebrewDate": "7 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-26",
+      "weekday": "Tuesday",
+      "englishDate": "December 26th 2028",
+      "hebrewDate": "8 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-27",
+      "weekday": "Wednesday",
+      "englishDate": "December 27th 2028",
+      "hebrewDate": "9 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-28",
+      "weekday": "Thursday",
+      "englishDate": "December 28th 2028",
+      "hebrewDate": "10 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-29",
+      "weekday": "Friday",
+      "englishDate": "December 29th 2028",
+      "hebrewDate": "11 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-30",
+      "weekday": "Saturday",
+      "englishDate": "December 30th 2028",
+      "hebrewDate": "12 Teves 5789"
+    },
+    {
+      "isoDate": "2028-12-31",
+      "weekday": "Sunday",
+      "englishDate": "December 31st 2028",
+      "hebrewDate": "13 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-01",
+      "weekday": "Monday",
+      "englishDate": "January 1st 2029",
+      "hebrewDate": "14 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-02",
+      "weekday": "Tuesday",
+      "englishDate": "January 2nd 2029",
+      "hebrewDate": "15 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-03",
+      "weekday": "Wednesday",
+      "englishDate": "January 3rd 2029",
+      "hebrewDate": "16 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-04",
+      "weekday": "Thursday",
+      "englishDate": "January 4th 2029",
+      "hebrewDate": "17 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-05",
+      "weekday": "Friday",
+      "englishDate": "January 5th 2029",
+      "hebrewDate": "18 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-06",
+      "weekday": "Saturday",
+      "englishDate": "January 6th 2029",
+      "hebrewDate": "19 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-07",
+      "weekday": "Sunday",
+      "englishDate": "January 7th 2029",
+      "hebrewDate": "20 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-08",
+      "weekday": "Monday",
+      "englishDate": "January 8th 2029",
+      "hebrewDate": "21 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-09",
+      "weekday": "Tuesday",
+      "englishDate": "January 9th 2029",
+      "hebrewDate": "22 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-10",
+      "weekday": "Wednesday",
+      "englishDate": "January 10th 2029",
+      "hebrewDate": "23 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-11",
+      "weekday": "Thursday",
+      "englishDate": "January 11th 2029",
+      "hebrewDate": "24 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-12",
+      "weekday": "Friday",
+      "englishDate": "January 12th 2029",
+      "hebrewDate": "25 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-13",
+      "weekday": "Saturday",
+      "englishDate": "January 13th 2029",
+      "hebrewDate": "26 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-14",
+      "weekday": "Sunday",
+      "englishDate": "January 14th 2029",
+      "hebrewDate": "27 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-15",
+      "weekday": "Monday",
+      "englishDate": "January 15th 2029",
+      "hebrewDate": "28 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-16",
+      "weekday": "Tuesday",
+      "englishDate": "January 16th 2029",
+      "hebrewDate": "29 Teves 5789"
+    },
+    {
+      "isoDate": "2029-01-17",
+      "weekday": "Wednesday",
+      "englishDate": "January 17th 2029",
+      "hebrewDate": "1 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-18",
+      "weekday": "Thursday",
+      "englishDate": "January 18th 2029",
+      "hebrewDate": "2 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-19",
+      "weekday": "Friday",
+      "englishDate": "January 19th 2029",
+      "hebrewDate": "3 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-20",
+      "weekday": "Saturday",
+      "englishDate": "January 20th 2029",
+      "hebrewDate": "4 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-21",
+      "weekday": "Sunday",
+      "englishDate": "January 21st 2029",
+      "hebrewDate": "5 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-22",
+      "weekday": "Monday",
+      "englishDate": "January 22nd 2029",
+      "hebrewDate": "6 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-23",
+      "weekday": "Tuesday",
+      "englishDate": "January 23rd 2029",
+      "hebrewDate": "7 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-24",
+      "weekday": "Wednesday",
+      "englishDate": "January 24th 2029",
+      "hebrewDate": "8 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-25",
+      "weekday": "Thursday",
+      "englishDate": "January 25th 2029",
+      "hebrewDate": "9 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-26",
+      "weekday": "Friday",
+      "englishDate": "January 26th 2029",
+      "hebrewDate": "10 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-27",
+      "weekday": "Saturday",
+      "englishDate": "January 27th 2029",
+      "hebrewDate": "11 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-28",
+      "weekday": "Sunday",
+      "englishDate": "January 28th 2029",
+      "hebrewDate": "12 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-29",
+      "weekday": "Monday",
+      "englishDate": "January 29th 2029",
+      "hebrewDate": "13 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-30",
+      "weekday": "Tuesday",
+      "englishDate": "January 30th 2029",
+      "hebrewDate": "14 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-01-31",
+      "weekday": "Wednesday",
+      "englishDate": "January 31st 2029",
+      "hebrewDate": "15 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-01",
+      "weekday": "Thursday",
+      "englishDate": "February 1st 2029",
+      "hebrewDate": "16 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-02",
+      "weekday": "Friday",
+      "englishDate": "February 2nd 2029",
+      "hebrewDate": "17 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-03",
+      "weekday": "Saturday",
+      "englishDate": "February 3rd 2029",
+      "hebrewDate": "18 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-04",
+      "weekday": "Sunday",
+      "englishDate": "February 4th 2029",
+      "hebrewDate": "19 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-05",
+      "weekday": "Monday",
+      "englishDate": "February 5th 2029",
+      "hebrewDate": "20 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-06",
+      "weekday": "Tuesday",
+      "englishDate": "February 6th 2029",
+      "hebrewDate": "21 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-07",
+      "weekday": "Wednesday",
+      "englishDate": "February 7th 2029",
+      "hebrewDate": "22 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-08",
+      "weekday": "Thursday",
+      "englishDate": "February 8th 2029",
+      "hebrewDate": "23 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-09",
+      "weekday": "Friday",
+      "englishDate": "February 9th 2029",
+      "hebrewDate": "24 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-10",
+      "weekday": "Saturday",
+      "englishDate": "February 10th 2029",
+      "hebrewDate": "25 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-11",
+      "weekday": "Sunday",
+      "englishDate": "February 11th 2029",
+      "hebrewDate": "26 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-12",
+      "weekday": "Monday",
+      "englishDate": "February 12th 2029",
+      "hebrewDate": "27 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-13",
+      "weekday": "Tuesday",
+      "englishDate": "February 13th 2029",
+      "hebrewDate": "28 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-14",
+      "weekday": "Wednesday",
+      "englishDate": "February 14th 2029",
+      "hebrewDate": "29 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-15",
+      "weekday": "Thursday",
+      "englishDate": "February 15th 2029",
+      "hebrewDate": "30 Shevat 5789"
+    },
+    {
+      "isoDate": "2029-02-16",
+      "weekday": "Friday",
+      "englishDate": "February 16th 2029",
+      "hebrewDate": "1 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-17",
+      "weekday": "Saturday",
+      "englishDate": "February 17th 2029",
+      "hebrewDate": "2 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-18",
+      "weekday": "Sunday",
+      "englishDate": "February 18th 2029",
+      "hebrewDate": "3 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-19",
+      "weekday": "Monday",
+      "englishDate": "February 19th 2029",
+      "hebrewDate": "4 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-20",
+      "weekday": "Tuesday",
+      "englishDate": "February 20th 2029",
+      "hebrewDate": "5 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-21",
+      "weekday": "Wednesday",
+      "englishDate": "February 21st 2029",
+      "hebrewDate": "6 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-22",
+      "weekday": "Thursday",
+      "englishDate": "February 22nd 2029",
+      "hebrewDate": "7 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-23",
+      "weekday": "Friday",
+      "englishDate": "February 23rd 2029",
+      "hebrewDate": "8 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-24",
+      "weekday": "Saturday",
+      "englishDate": "February 24th 2029",
+      "hebrewDate": "9 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-25",
+      "weekday": "Sunday",
+      "englishDate": "February 25th 2029",
+      "hebrewDate": "10 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-26",
+      "weekday": "Monday",
+      "englishDate": "February 26th 2029",
+      "hebrewDate": "11 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-27",
+      "weekday": "Tuesday",
+      "englishDate": "February 27th 2029",
+      "hebrewDate": "12 Adar 5789"
+    },
+    {
+      "isoDate": "2029-02-28",
+      "weekday": "Wednesday",
+      "englishDate": "February 28th 2029",
+      "hebrewDate": "13 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-01",
+      "weekday": "Thursday",
+      "englishDate": "March 1st 2029",
+      "hebrewDate": "14 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-02",
+      "weekday": "Friday",
+      "englishDate": "March 2nd 2029",
+      "hebrewDate": "15 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-03",
+      "weekday": "Saturday",
+      "englishDate": "March 3rd 2029",
+      "hebrewDate": "16 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-04",
+      "weekday": "Sunday",
+      "englishDate": "March 4th 2029",
+      "hebrewDate": "17 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-05",
+      "weekday": "Monday",
+      "englishDate": "March 5th 2029",
+      "hebrewDate": "18 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-06",
+      "weekday": "Tuesday",
+      "englishDate": "March 6th 2029",
+      "hebrewDate": "19 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-07",
+      "weekday": "Wednesday",
+      "englishDate": "March 7th 2029",
+      "hebrewDate": "20 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-08",
+      "weekday": "Thursday",
+      "englishDate": "March 8th 2029",
+      "hebrewDate": "21 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-09",
+      "weekday": "Friday",
+      "englishDate": "March 9th 2029",
+      "hebrewDate": "22 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-10",
+      "weekday": "Saturday",
+      "englishDate": "March 10th 2029",
+      "hebrewDate": "23 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-11",
+      "weekday": "Sunday",
+      "englishDate": "March 11th 2029",
+      "hebrewDate": "24 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-12",
+      "weekday": "Monday",
+      "englishDate": "March 12th 2029",
+      "hebrewDate": "25 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-13",
+      "weekday": "Tuesday",
+      "englishDate": "March 13th 2029",
+      "hebrewDate": "26 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-14",
+      "weekday": "Wednesday",
+      "englishDate": "March 14th 2029",
+      "hebrewDate": "27 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-15",
+      "weekday": "Thursday",
+      "englishDate": "March 15th 2029",
+      "hebrewDate": "28 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-16",
+      "weekday": "Friday",
+      "englishDate": "March 16th 2029",
+      "hebrewDate": "29 Adar 5789"
+    },
+    {
+      "isoDate": "2029-03-17",
+      "weekday": "Saturday",
+      "englishDate": "March 17th 2029",
+      "hebrewDate": "1 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-18",
+      "weekday": "Sunday",
+      "englishDate": "March 18th 2029",
+      "hebrewDate": "2 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-19",
+      "weekday": "Monday",
+      "englishDate": "March 19th 2029",
+      "hebrewDate": "3 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-20",
+      "weekday": "Tuesday",
+      "englishDate": "March 20th 2029",
+      "hebrewDate": "4 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-21",
+      "weekday": "Wednesday",
+      "englishDate": "March 21st 2029",
+      "hebrewDate": "5 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-22",
+      "weekday": "Thursday",
+      "englishDate": "March 22nd 2029",
+      "hebrewDate": "6 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-23",
+      "weekday": "Friday",
+      "englishDate": "March 23rd 2029",
+      "hebrewDate": "7 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-24",
+      "weekday": "Saturday",
+      "englishDate": "March 24th 2029",
+      "hebrewDate": "8 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-25",
+      "weekday": "Sunday",
+      "englishDate": "March 25th 2029",
+      "hebrewDate": "9 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-26",
+      "weekday": "Monday",
+      "englishDate": "March 26th 2029",
+      "hebrewDate": "10 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-27",
+      "weekday": "Tuesday",
+      "englishDate": "March 27th 2029",
+      "hebrewDate": "11 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-28",
+      "weekday": "Wednesday",
+      "englishDate": "March 28th 2029",
+      "hebrewDate": "12 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-29",
+      "weekday": "Thursday",
+      "englishDate": "March 29th 2029",
+      "hebrewDate": "13 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-30",
+      "weekday": "Friday",
+      "englishDate": "March 30th 2029",
+      "hebrewDate": "14 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-03-31",
+      "weekday": "Saturday",
+      "englishDate": "March 31st 2029",
+      "hebrewDate": "15 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-01",
+      "weekday": "Sunday",
+      "englishDate": "April 1st 2029",
+      "hebrewDate": "16 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-02",
+      "weekday": "Monday",
+      "englishDate": "April 2nd 2029",
+      "hebrewDate": "17 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-03",
+      "weekday": "Tuesday",
+      "englishDate": "April 3rd 2029",
+      "hebrewDate": "18 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-04",
+      "weekday": "Wednesday",
+      "englishDate": "April 4th 2029",
+      "hebrewDate": "19 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-05",
+      "weekday": "Thursday",
+      "englishDate": "April 5th 2029",
+      "hebrewDate": "20 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-06",
+      "weekday": "Friday",
+      "englishDate": "April 6th 2029",
+      "hebrewDate": "21 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-07",
+      "weekday": "Saturday",
+      "englishDate": "April 7th 2029",
+      "hebrewDate": "22 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-08",
+      "weekday": "Sunday",
+      "englishDate": "April 8th 2029",
+      "hebrewDate": "23 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-09",
+      "weekday": "Monday",
+      "englishDate": "April 9th 2029",
+      "hebrewDate": "24 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-10",
+      "weekday": "Tuesday",
+      "englishDate": "April 10th 2029",
+      "hebrewDate": "25 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-11",
+      "weekday": "Wednesday",
+      "englishDate": "April 11th 2029",
+      "hebrewDate": "26 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-12",
+      "weekday": "Thursday",
+      "englishDate": "April 12th 2029",
+      "hebrewDate": "27 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-13",
+      "weekday": "Friday",
+      "englishDate": "April 13th 2029",
+      "hebrewDate": "28 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-14",
+      "weekday": "Saturday",
+      "englishDate": "April 14th 2029",
+      "hebrewDate": "29 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-15",
+      "weekday": "Sunday",
+      "englishDate": "April 15th 2029",
+      "hebrewDate": "30 Nisan 5789"
+    },
+    {
+      "isoDate": "2029-04-16",
+      "weekday": "Monday",
+      "englishDate": "April 16th 2029",
+      "hebrewDate": "1 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-17",
+      "weekday": "Tuesday",
+      "englishDate": "April 17th 2029",
+      "hebrewDate": "2 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-18",
+      "weekday": "Wednesday",
+      "englishDate": "April 18th 2029",
+      "hebrewDate": "3 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-19",
+      "weekday": "Thursday",
+      "englishDate": "April 19th 2029",
+      "hebrewDate": "4 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-20",
+      "weekday": "Friday",
+      "englishDate": "April 20th 2029",
+      "hebrewDate": "5 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-21",
+      "weekday": "Saturday",
+      "englishDate": "April 21st 2029",
+      "hebrewDate": "6 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-22",
+      "weekday": "Sunday",
+      "englishDate": "April 22nd 2029",
+      "hebrewDate": "7 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-23",
+      "weekday": "Monday",
+      "englishDate": "April 23rd 2029",
+      "hebrewDate": "8 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-24",
+      "weekday": "Tuesday",
+      "englishDate": "April 24th 2029",
+      "hebrewDate": "9 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-25",
+      "weekday": "Wednesday",
+      "englishDate": "April 25th 2029",
+      "hebrewDate": "10 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-26",
+      "weekday": "Thursday",
+      "englishDate": "April 26th 2029",
+      "hebrewDate": "11 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-27",
+      "weekday": "Friday",
+      "englishDate": "April 27th 2029",
+      "hebrewDate": "12 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-28",
+      "weekday": "Saturday",
+      "englishDate": "April 28th 2029",
+      "hebrewDate": "13 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-29",
+      "weekday": "Sunday",
+      "englishDate": "April 29th 2029",
+      "hebrewDate": "14 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-04-30",
+      "weekday": "Monday",
+      "englishDate": "April 30th 2029",
+      "hebrewDate": "15 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-01",
+      "weekday": "Tuesday",
+      "englishDate": "May 1st 2029",
+      "hebrewDate": "16 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-02",
+      "weekday": "Wednesday",
+      "englishDate": "May 2nd 2029",
+      "hebrewDate": "17 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-03",
+      "weekday": "Thursday",
+      "englishDate": "May 3rd 2029",
+      "hebrewDate": "18 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-04",
+      "weekday": "Friday",
+      "englishDate": "May 4th 2029",
+      "hebrewDate": "19 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-05",
+      "weekday": "Saturday",
+      "englishDate": "May 5th 2029",
+      "hebrewDate": "20 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-06",
+      "weekday": "Sunday",
+      "englishDate": "May 6th 2029",
+      "hebrewDate": "21 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-07",
+      "weekday": "Monday",
+      "englishDate": "May 7th 2029",
+      "hebrewDate": "22 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-08",
+      "weekday": "Tuesday",
+      "englishDate": "May 8th 2029",
+      "hebrewDate": "23 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-09",
+      "weekday": "Wednesday",
+      "englishDate": "May 9th 2029",
+      "hebrewDate": "24 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-10",
+      "weekday": "Thursday",
+      "englishDate": "May 10th 2029",
+      "hebrewDate": "25 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-11",
+      "weekday": "Friday",
+      "englishDate": "May 11th 2029",
+      "hebrewDate": "26 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-12",
+      "weekday": "Saturday",
+      "englishDate": "May 12th 2029",
+      "hebrewDate": "27 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-13",
+      "weekday": "Sunday",
+      "englishDate": "May 13th 2029",
+      "hebrewDate": "28 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-14",
+      "weekday": "Monday",
+      "englishDate": "May 14th 2029",
+      "hebrewDate": "29 Iyar 5789"
+    },
+    {
+      "isoDate": "2029-05-15",
+      "weekday": "Tuesday",
+      "englishDate": "May 15th 2029",
+      "hebrewDate": "1 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-16",
+      "weekday": "Wednesday",
+      "englishDate": "May 16th 2029",
+      "hebrewDate": "2 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-17",
+      "weekday": "Thursday",
+      "englishDate": "May 17th 2029",
+      "hebrewDate": "3 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-18",
+      "weekday": "Friday",
+      "englishDate": "May 18th 2029",
+      "hebrewDate": "4 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-19",
+      "weekday": "Saturday",
+      "englishDate": "May 19th 2029",
+      "hebrewDate": "5 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-20",
+      "weekday": "Sunday",
+      "englishDate": "May 20th 2029",
+      "hebrewDate": "6 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-21",
+      "weekday": "Monday",
+      "englishDate": "May 21st 2029",
+      "hebrewDate": "7 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-22",
+      "weekday": "Tuesday",
+      "englishDate": "May 22nd 2029",
+      "hebrewDate": "8 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-23",
+      "weekday": "Wednesday",
+      "englishDate": "May 23rd 2029",
+      "hebrewDate": "9 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-24",
+      "weekday": "Thursday",
+      "englishDate": "May 24th 2029",
+      "hebrewDate": "10 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-25",
+      "weekday": "Friday",
+      "englishDate": "May 25th 2029",
+      "hebrewDate": "11 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-26",
+      "weekday": "Saturday",
+      "englishDate": "May 26th 2029",
+      "hebrewDate": "12 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-27",
+      "weekday": "Sunday",
+      "englishDate": "May 27th 2029",
+      "hebrewDate": "13 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-28",
+      "weekday": "Monday",
+      "englishDate": "May 28th 2029",
+      "hebrewDate": "14 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-29",
+      "weekday": "Tuesday",
+      "englishDate": "May 29th 2029",
+      "hebrewDate": "15 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-30",
+      "weekday": "Wednesday",
+      "englishDate": "May 30th 2029",
+      "hebrewDate": "16 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-05-31",
+      "weekday": "Thursday",
+      "englishDate": "May 31st 2029",
+      "hebrewDate": "17 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-01",
+      "weekday": "Friday",
+      "englishDate": "June 1st 2029",
+      "hebrewDate": "18 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-02",
+      "weekday": "Saturday",
+      "englishDate": "June 2nd 2029",
+      "hebrewDate": "19 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-03",
+      "weekday": "Sunday",
+      "englishDate": "June 3rd 2029",
+      "hebrewDate": "20 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-04",
+      "weekday": "Monday",
+      "englishDate": "June 4th 2029",
+      "hebrewDate": "21 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-05",
+      "weekday": "Tuesday",
+      "englishDate": "June 5th 2029",
+      "hebrewDate": "22 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-06",
+      "weekday": "Wednesday",
+      "englishDate": "June 6th 2029",
+      "hebrewDate": "23 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-07",
+      "weekday": "Thursday",
+      "englishDate": "June 7th 2029",
+      "hebrewDate": "24 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-08",
+      "weekday": "Friday",
+      "englishDate": "June 8th 2029",
+      "hebrewDate": "25 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-09",
+      "weekday": "Saturday",
+      "englishDate": "June 9th 2029",
+      "hebrewDate": "26 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-10",
+      "weekday": "Sunday",
+      "englishDate": "June 10th 2029",
+      "hebrewDate": "27 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-11",
+      "weekday": "Monday",
+      "englishDate": "June 11th 2029",
+      "hebrewDate": "28 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-12",
+      "weekday": "Tuesday",
+      "englishDate": "June 12th 2029",
+      "hebrewDate": "29 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-13",
+      "weekday": "Wednesday",
+      "englishDate": "June 13th 2029",
+      "hebrewDate": "30 Sivan 5789"
+    },
+    {
+      "isoDate": "2029-06-14",
+      "weekday": "Thursday",
+      "englishDate": "June 14th 2029",
+      "hebrewDate": "1 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-15",
+      "weekday": "Friday",
+      "englishDate": "June 15th 2029",
+      "hebrewDate": "2 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-16",
+      "weekday": "Saturday",
+      "englishDate": "June 16th 2029",
+      "hebrewDate": "3 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-17",
+      "weekday": "Sunday",
+      "englishDate": "June 17th 2029",
+      "hebrewDate": "4 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-18",
+      "weekday": "Monday",
+      "englishDate": "June 18th 2029",
+      "hebrewDate": "5 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-19",
+      "weekday": "Tuesday",
+      "englishDate": "June 19th 2029",
+      "hebrewDate": "6 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-20",
+      "weekday": "Wednesday",
+      "englishDate": "June 20th 2029",
+      "hebrewDate": "7 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-21",
+      "weekday": "Thursday",
+      "englishDate": "June 21st 2029",
+      "hebrewDate": "8 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-22",
+      "weekday": "Friday",
+      "englishDate": "June 22nd 2029",
+      "hebrewDate": "9 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-23",
+      "weekday": "Saturday",
+      "englishDate": "June 23rd 2029",
+      "hebrewDate": "10 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-24",
+      "weekday": "Sunday",
+      "englishDate": "June 24th 2029",
+      "hebrewDate": "11 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-25",
+      "weekday": "Monday",
+      "englishDate": "June 25th 2029",
+      "hebrewDate": "12 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-26",
+      "weekday": "Tuesday",
+      "englishDate": "June 26th 2029",
+      "hebrewDate": "13 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-27",
+      "weekday": "Wednesday",
+      "englishDate": "June 27th 2029",
+      "hebrewDate": "14 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-28",
+      "weekday": "Thursday",
+      "englishDate": "June 28th 2029",
+      "hebrewDate": "15 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-29",
+      "weekday": "Friday",
+      "englishDate": "June 29th 2029",
+      "hebrewDate": "16 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-06-30",
+      "weekday": "Saturday",
+      "englishDate": "June 30th 2029",
+      "hebrewDate": "17 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-01",
+      "weekday": "Sunday",
+      "englishDate": "July 1st 2029",
+      "hebrewDate": "18 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-02",
+      "weekday": "Monday",
+      "englishDate": "July 2nd 2029",
+      "hebrewDate": "19 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-03",
+      "weekday": "Tuesday",
+      "englishDate": "July 3rd 2029",
+      "hebrewDate": "20 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-04",
+      "weekday": "Wednesday",
+      "englishDate": "July 4th 2029",
+      "hebrewDate": "21 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-05",
+      "weekday": "Thursday",
+      "englishDate": "July 5th 2029",
+      "hebrewDate": "22 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-06",
+      "weekday": "Friday",
+      "englishDate": "July 6th 2029",
+      "hebrewDate": "23 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-07",
+      "weekday": "Saturday",
+      "englishDate": "July 7th 2029",
+      "hebrewDate": "24 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-08",
+      "weekday": "Sunday",
+      "englishDate": "July 8th 2029",
+      "hebrewDate": "25 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-09",
+      "weekday": "Monday",
+      "englishDate": "July 9th 2029",
+      "hebrewDate": "26 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-10",
+      "weekday": "Tuesday",
+      "englishDate": "July 10th 2029",
+      "hebrewDate": "27 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-11",
+      "weekday": "Wednesday",
+      "englishDate": "July 11th 2029",
+      "hebrewDate": "28 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-12",
+      "weekday": "Thursday",
+      "englishDate": "July 12th 2029",
+      "hebrewDate": "29 Tamuz 5789"
+    },
+    {
+      "isoDate": "2029-07-13",
+      "weekday": "Friday",
+      "englishDate": "July 13th 2029",
+      "hebrewDate": "1 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-14",
+      "weekday": "Saturday",
+      "englishDate": "July 14th 2029",
+      "hebrewDate": "2 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-15",
+      "weekday": "Sunday",
+      "englishDate": "July 15th 2029",
+      "hebrewDate": "3 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-16",
+      "weekday": "Monday",
+      "englishDate": "July 16th 2029",
+      "hebrewDate": "4 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-17",
+      "weekday": "Tuesday",
+      "englishDate": "July 17th 2029",
+      "hebrewDate": "5 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-18",
+      "weekday": "Wednesday",
+      "englishDate": "July 18th 2029",
+      "hebrewDate": "6 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-19",
+      "weekday": "Thursday",
+      "englishDate": "July 19th 2029",
+      "hebrewDate": "7 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-20",
+      "weekday": "Friday",
+      "englishDate": "July 20th 2029",
+      "hebrewDate": "8 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-21",
+      "weekday": "Saturday",
+      "englishDate": "July 21st 2029",
+      "hebrewDate": "9 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-22",
+      "weekday": "Sunday",
+      "englishDate": "July 22nd 2029",
+      "hebrewDate": "10 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-23",
+      "weekday": "Monday",
+      "englishDate": "July 23rd 2029",
+      "hebrewDate": "11 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-24",
+      "weekday": "Tuesday",
+      "englishDate": "July 24th 2029",
+      "hebrewDate": "12 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-25",
+      "weekday": "Wednesday",
+      "englishDate": "July 25th 2029",
+      "hebrewDate": "13 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-26",
+      "weekday": "Thursday",
+      "englishDate": "July 26th 2029",
+      "hebrewDate": "14 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-27",
+      "weekday": "Friday",
+      "englishDate": "July 27th 2029",
+      "hebrewDate": "15 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-28",
+      "weekday": "Saturday",
+      "englishDate": "July 28th 2029",
+      "hebrewDate": "16 Av 5789"
+    },
+    {
+      "isoDate": "2029-07-29",
+      "weekday": "Sunday",
+      "englishDate": "July 29th 2029",
+      "hebrewDate": "17 Av 5789"
     }
   ]
 };

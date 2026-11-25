@@ -1,4 +1,4 @@
-const CACHE_NAME = "mishnah-yomis-pwa-v20261125a";
+const CACHE_NAME = "mishnah-yomis-pwa-v20261125b";
 const APP_SHELL = [
   "/",
   "/index.html",
@@ -7,9 +7,9 @@ const APP_SHELL = [
   "/supabase-sync.css",
   "/auth-gate.css",
   "/tracker-polish.css?v=20261125a",
-  "/data.js",
-  "/app.js?v=20261125a",
-  "/cloud-app.js?v=20261125a",
+  "/data.js?v=20261125b",
+  "/app.js?v=20261125b",
+  "/cloud-app.js?v=20261125b",
   "/manifest.webmanifest",
   "/icons/icon-192-v3.png",
   "/icons/icon-512-v3.png"
